@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26727">
+        <name>Poplar - Lutsen ski hill to golf course bridge above Hwy 61 (2.2 miles)</name>
+        <Placemark id="26729">
+            <name>Poplar - Lutsen ski hill to golf course bridge above Hwy 61 (2.2 miles)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26728">
+                <coordinates>-90.720769,47.665783,0.0 -90.720403,47.665208,0.0 -90.720267,47.664866,0.0 -90.719421,47.664501,0.0 -90.718914,47.664615,0.0 -90.718305,47.664776,0.0 -90.717798,47.66473,0.0 -90.717357,47.664365,0.0 -90.716645,47.663063,0.0 -90.716746,47.662629,0.0 -90.717084,47.662378,0.0 -90.71803,47.662057,0.0 -90.718402,47.661669,0.0 -90.718468,47.661052,0.0 -90.718163,47.660504,0.0 -90.71779,47.659978,0.0 -90.71816,47.658722,0.0 -90.718056,47.657168,0.0 -90.717953,47.655661,0.0 -90.718761,47.653718,0.0 -90.718625,47.65301,0.0 -90.718387,47.652668,0.0 -90.717439,47.652006,0.0 -90.71727,47.651526,0.0 -90.717641,47.651137,0.0 -90.718891,47.65052,0.0 -90.719195,47.650108,0.0 -90.719126,47.649651,0.0 -90.718686,47.649309,0.0 -90.718753,47.648487,0.0 -90.71838,47.648121,0.0 -90.717738,47.647985,0.0 -90.717466,47.647574,0.0 -90.717263,47.64698,0.0 -90.716856,47.646592,0.0 -90.716349,47.646158,0.0 -90.715536,47.645656,0.0 -90.714522,47.645337,0.0 -90.714014,47.644743,0.0 -90.713436,47.643145,0.0 -90.713334,47.642688,0.0 -90.713772,47.641728,0.0 -90.713636,47.641294,0.0 -90.713129,47.641203,0.0 -90.712115,47.641295,0.0 -90.711676,47.641136,0.0 -90.710525,47.640314,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26731">
+            <name>Fourth Bridge</name>
+            <Point id="26730">
+                <coordinates>-90.717705,47.651947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26733">
+            <name>Seventh Bridge</name>
+            <Point id="26732">
+                <coordinates>-90.710663,47.640255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26735">
+            <name>Alternate Put-in/First Bridge</name>
+            <Point id="26734">
+                <coordinates>-90.716797,47.662998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26737">
+            <name>Carry Down</name>
+            <Point id="26736">
+                <coordinates>-90.720802,47.665798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26739">
+            <name>Second Bridge</name>
+            <Point id="26738">
+                <coordinates>-90.717613,47.662086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26741">
+            <name>Third Bridge</name>
+            <Point id="26740">
+                <coordinates>-90.718025,47.660122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26743">
+            <name> Beach</name>
+            <Point id="26742">
+                <coordinates>-90.707794,47.636143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26745">
+            <name>Fifth Bridge</name>
+            <Point id="26744">
+                <coordinates>-90.718048,47.647606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26747">
+            <name>Lutsen Trail Bridge/Hwy.61</name>
+            <Point id="26746">
+                <coordinates>-90.708206,47.638981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26749">
+            <name>Gorge</name>
+            <Point id="26748">
+                <coordinates>-90.716499,47.645805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26751">
+            <name>Sixth Bridge/Bilek's Surprise</name>
+            <Point id="26750">
+                <coordinates>-90.7174,47.646801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26753">
+            <name>USGS Gauge site</name>
+            <Point id="26752">
+                <coordinates>-90.708702,47.639599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26755">
+            <name>Put in</name>
+            <Point id="26754">
+                <coordinates>-90.720901,47.665699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26757">
+            <name>Take out</name>
+            <Point id="26756">
+                <coordinates>-90.710602,47.640202,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

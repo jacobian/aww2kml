@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10233">
+        <name>Connecticut - First Connecticut Lake to Lake Francis </name>
+        <Placemark id="10235">
+            <name>Connecticut - First Connecticut Lake to Lake Francis </name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="10234">
+                <coordinates>-71.289686,45.087859,0.0 -71.289637,45.087786,0.0 -71.289752,45.087303,0.0 -71.290213,45.086953,0.0 -71.290309,45.086523,0.0 -71.290557,45.086179,0.0 -71.290959,45.086125,0.0 -71.291339,45.086329,0.0 -71.291925,45.087035,0.0 -71.29283,45.087239,0.0 -71.293247,45.08747,0.0 -71.293667,45.087516,0.0 -71.294905,45.086405,0.0 -71.295314,45.086054,0.0 -71.295296,45.08571,0.0 -71.295032,45.085445,0.0 -71.294911,45.085167,0.0 -71.294864,45.084888,0.0 -71.294736,45.08434,0.0 -71.294801,45.083905,0.0 -71.294905,45.08276,0.0 -71.295026,45.082336,0.0 -71.295113,45.081996,0.0 -71.295278,45.081793,0.0 -71.296143,45.081311,0.0 -71.296851,45.081111,0.0 -71.297484,45.080202,0.0 -71.297434,45.079459,0.0 -71.297709,45.079055,0.0 -71.298873,45.078377,0.0 -71.298972,45.077895,0.0 -71.299664,45.076652,0.0 -71.300335,45.075429,0.0 -71.30038,45.074859,0.0 -71.30078,45.074632,0.0 -71.301135,45.074722,0.0 -71.301845,45.074813,0.0 -71.302168,45.074471,0.0 -71.302204,45.072942,0.0 -71.302688,45.072695,0.0 -71.303011,45.072136,0.0 -71.303603,45.071888,0.0 -71.304132,45.071902,0.0 -71.304132,45.071902,0.0 -71.304154,45.071544,0.0 -71.303566,45.070817,0.0 -71.303044,45.070129,0.0 -71.302573,45.069564,0.0 -71.302045,45.069164,0.0 -71.301132,45.069635,0.0 -71.299948,45.069578,0.0 -71.299659,45.069075,0.0 -71.299427,45.06815,0.0 -71.299626,45.067383,0.0 -71.299446,45.066558,0.0 -71.299122,45.065961,0.0 -71.299013,45.065577,0.0 -71.298762,45.064455,0.0 -71.298717,45.063834,0.0 -71.298729,45.062324,0.0 -71.298673,45.062033,0.0 -71.298643,45.06168,0.0 -71.299019,45.060559,0.0 -71.299722,45.060105,0.0 -71.300452,45.059152,0.0 -71.302342,45.057944,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="10237">
+            <name>Skating Rink Rapid (III)</name>
+            <Point id="10236">
+                <coordinates>-71.299783,45.06634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10239">
+            <name>In Between Water Rapid (III)</name>
+            <Point id="10238">
+                <coordinates>-71.294805,45.084634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10241">
+            <name>The Step Pool Rapid (III+)</name>
+            <Point id="10240">
+                <coordinates>-71.299285,45.064721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10243">
+            <name>Lake Francis State Park take out</name>
+            <Point id="10242">
+                <coordinates>-71.299391,45.060764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10245">
+            <name>1st CT Lake Dam Put-In</name>
+            <Point id="10244">
+                <coordinates>-71.289788,45.088744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10247">
+            <name>Judge's &amp; Jury ledge (III)</name>
+            <Point id="10246">
+                <coordinates>-71.292316,45.087231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10249">
+            <name>Put in</name>
+            <Point id="10248">
+                <coordinates>-71.289686,45.087859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10251">
+            <name>Take out</name>
+            <Point id="10250">
+                <coordinates>-71.302342,45.057944,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

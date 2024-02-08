@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="28215">
+        <name>Prather Creek (PnH) - Chase County Lake Outflow</name>
+        <Placemark id="28217">
+            <name>Prather Creek (PnH) - Chase County Lake Outflow</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="28216">
+                <coordinates>-96.580796,38.369137,0.0 -96.580702,38.369216,0.0 -96.580594,38.369351,0.0 -96.580594,38.369351,0.0 -96.580332,38.36974,0.0 -96.58039,38.369969,0.0 -96.580506,38.370015,0.0 -96.580506,38.370221,0.0 -96.580361,38.370266,0.0 -96.579983,38.37022,0.0 -96.57975,38.37006,0.0 -96.579256,38.370083,0.0 -96.579227,38.370586,0.0 -96.579372,38.370952,0.0 -96.579372,38.371433,0.0 -96.578877,38.371776,0.0 -96.578839,38.371889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="28219">
+            <name>Chaw Falls (V)</name>
+            <Point id="28218">
+                <coordinates>-96.580444,38.369494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28221">
+            <name>Put in</name>
+            <Point id="28220">
+                <coordinates>-96.580796,38.369137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28223">
+            <name>Take out</name>
+            <Point id="28222">
+                <coordinates>-96.578839,38.371889,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

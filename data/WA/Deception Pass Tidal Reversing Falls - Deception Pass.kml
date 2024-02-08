@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11825">
+        <name>Deception Pass Tidal Reversing Falls - Deception Pass</name>
+        <Placemark id="11827">
+            <name>Deception Pass Tidal Reversing Falls - Deception Pass</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="11826">
+                <coordinates>-122.643702,48.405496,0.0 -122.64386,48.405536,0.0 -122.644409,48.405567,0.0 -122.645308,48.405265,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11829">
+            <name>Put in</name>
+            <Point id="11828">
+                <coordinates>-122.643702,48.405496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11831">
+            <name>Take out</name>
+            <Point id="11830">
+                <coordinates>-122.645308,48.405265,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

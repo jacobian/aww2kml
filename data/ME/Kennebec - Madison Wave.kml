@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26049">
+        <name>Kennebec - Madison Wave</name>
+        <Placemark id="26051">
+            <name>Kennebec - Madison Wave</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26050">
+                <coordinates>-69.888991,44.788459,0.0 -69.888784,44.78728,0.0 -69.888093,44.785312,0.0 -69.888318,44.783252,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26053">
+            <name>Put in</name>
+            <Point id="26052">
+                <coordinates>-69.888991,44.788459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26055">
+            <name>Take out</name>
+            <Point id="26054">
+                <coordinates>-69.888318,44.783252,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

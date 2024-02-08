@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18857">
+        <name>Root - B) Horlick Dam to Quarry Park (0.2 - 0.6 mile)</name>
+        <Placemark id="18859">
+            <name>Root - B) Horlick Dam to Quarry Park (0.2 - 0.6 mile)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="18858">
+                <coordinates>-87.823741,42.752527,0.0 -87.823774,42.752259,0.0 -87.824361,42.751525,0.0 -87.824361,42.751525,0.0 -87.824528,42.751316,0.0 -87.824528,42.751316,0.0 -87.824675,42.751133,0.0 -87.824868,42.750676,0.0 -87.824965,42.750014,0.0 -87.824997,42.749013,0.0 -87.824911,42.748714,0.0 -87.824535,42.747863,0.0 -87.82402,42.747091,0.0 -87.82402,42.747091,0.0 -87.823967,42.747012,0.0 -87.823634,42.74661,0.0 -87.822893,42.746043,0.0 -87.822894,42.746043,0.0 -87.822647,42.745854,0.0 -87.822336,42.745712,0.0 -87.821395,42.745359,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="18861">
+            <name>USGS Gauge: 190 sq.mi.</name>
+            <Point id="18860">
+                <coordinates>-87.824394,42.751484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18863">
+            <name>Fenceline (FL), Right Hip Pocket (RHP), Good Intentions (GI), Mid-Evil (ME) (II)</name>
+            <Point id="18862">
+                <coordinates>-87.822502,42.746101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18865">
+            <name>Quarry Bridge Pier (I)</name>
+            <Point id="18864">
+                <coordinates>-87.824699,42.748901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18867">
+            <name>Doldrums (I)</name>
+            <Point id="18866">
+                <coordinates>-87.824585,42.750019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18869">
+            <name>Horlick Dam (III+)</name>
+            <Point id="18868">
+                <coordinates>-87.823997,42.751999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18871">
+            <name>Lesser Evil (LE), Greater Evil (GE), Between the Evils (BTE), All Evil (AE) (III+)</name>
+            <Point id="18870">
+                <coordinates>-87.821701,42.745499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18873">
+            <name>Slab Wave (SW)</name>
+            <Point id="18872">
+                <coordinates>-87.8245,42.7506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18875">
+            <name>Upper Pipeline (UPL, UPR) (II)</name>
+            <Point id="18874">
+                <coordinates>-87.823997,42.747501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18877">
+            <name>Lazy Willow (LW) (II)</name>
+            <Point id="18876">
+                <coordinates>-87.823402,42.746899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18879">
+            <name>Lower Pipeline (LP) &amp; Tundra (II+)</name>
+            <Point id="18878">
+                <coordinates>-87.8237,42.747101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18881">
+            <name>LOW BRIDGES</name>
+            <Point id="18880">
+                <coordinates>-87.817299,42.742298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18883">
+            <name>Malted Milk (MM) / Horlicks Extra Lite (HEL) (II)</name>
+            <Point id="18882">
+                <coordinates>-87.823997,42.751999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18885">
+            <name>Diagonal Slice (DS) (II)</name>
+            <Point id="18884">
+                <coordinates>-87.8246,42.7505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18887">
+            <name>Hanging Willows (HW) (II)</name>
+            <Point id="18886">
+                <coordinates>-87.823097,42.746498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18889">
+            <name>Put in</name>
+            <Point id="18888">
+                <coordinates>-87.823741,42.752527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18891">
+            <name>Take out</name>
+            <Point id="18890">
+                <coordinates>-87.821395,42.745359,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

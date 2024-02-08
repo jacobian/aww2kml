@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20421">
+        <name>Milwaukee - B) Grafton Dells: Bridge Street to Lime Kiln Park Landing (PnP or 1.2 miles)</name>
+        <Placemark id="20423">
+            <name>Milwaukee - B) Grafton Dells: Bridge Street to Lime Kiln Park Landing (PnP or 1.2 miles)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="20422">
+                <coordinates>-87.948895,43.318223,0.0 -87.948303,43.317739,0.0 -87.948183,43.317259,0.0 -87.948368,43.316748,0.0 -87.94883,43.316318,0.0 -87.949001,43.316015,0.0 -87.949891,43.314195,0.0 -87.950055,43.312856,0.0 -87.950161,43.312769,0.0 -87.950452,43.31197,0.0 -87.950123,43.311322,0.0 -87.950191,43.31019,0.0 -87.950282,43.310164,0.0 -87.950322,43.310141,0.0 -87.950422,43.310086,0.0 -87.950553,43.309957,0.0 -87.950689,43.309882,0.0 -87.951339,43.309254,0.0 -87.952134,43.308828,0.0 -87.952499,43.307746,0.0 -87.952646,43.307488,0.0 -87.953018,43.306401,0.0 -87.953261,43.306001,0.0 -87.953342,43.305636,0.0 -87.953224,43.305065,0.0 -87.953732,43.304828,0.0 -87.95405,43.304174,0.0 -87.955161,43.304008,0.0 -87.956479,43.303577,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="20425">
+            <name>Bridge Street Dam</name>
+            <Point id="20424">
+                <coordinates>-87.949219,43.318871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20427">
+            <name>Falls Road Ledge (II+)</name>
+            <Point id="20426">
+                <coordinates>-87.950996,43.309601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20429">
+            <name>Lime Kiln Park Ledge/Wave (LKPWave)</name>
+            <Point id="20428">
+                <coordinates>-87.953893,43.304372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20431">
+            <name>Minor play wave. (I)</name>
+            <Point id="20430">
+                <coordinates>-87.949997,43.312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20433">
+            <name>1st Squirt Spot (I)</name>
+            <Point id="20432">
+                <coordinates>-87.947998,43.317001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20435">
+            <name>Grotto Wall</name>
+            <Point id="20434">
+                <coordinates>-87.948997,43.314999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20437">
+            <name>Tame play wave, and 2nd Squirt Spot (I)</name>
+            <Point id="20436">
+                <coordinates>-87.949997,43.311001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20439">
+            <name>FORMER site of Lime Kiln Park Dam (I)</name>
+            <Point id="20438">
+                <coordinates>-87.9533,43.305199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20441">
+            <name>Grafton Dells</name>
+            <Point id="20440">
+                <coordinates>-87.958351,43.301498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20443">
+            <name>Lime Kiln Park Canoe Landing</name>
+            <Point id="20442">
+                <coordinates>-87.957001,43.303001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20445">
+            <name>CTH.T/Lakefield Road; Drainage Area: ~472 sq.mi.</name>
+            <Point id="20444">
+                <coordinates>-87.944,43.294998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20447">
+            <name>Confluence w.Cedar Creek</name>
+            <Point id="20446">
+                <coordinates>-87.949997,43.290001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20449">
+            <name>CTH.C/Pioneer Road</name>
+            <Point id="20448">
+                <coordinates>-87.943001,43.279999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20451">
+            <name>Put-in; Drainage area: ~470 sq.mi.</name>
+            <Point id="20450">
+                <coordinates>-87.948997,43.318001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20453">
+            <name>Put in</name>
+            <Point id="20452">
+                <coordinates>-87.948895,43.318223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20455">
+            <name>Take out</name>
+            <Point id="20454">
+                <coordinates>-87.956479,43.303577,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

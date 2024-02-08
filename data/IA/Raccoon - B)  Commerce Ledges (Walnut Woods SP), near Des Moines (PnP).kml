@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26679">
+        <name>Raccoon - B)  Commerce Ledges (Walnut Woods SP), near Des Moines (PnP)</name>
+        <Placemark id="26681">
+            <name>Raccoon - B)  Commerce Ledges (Walnut Woods SP), near Des Moines (PnP)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26680">
+                <coordinates>-93.748006,41.537909,0.0 -93.748268,41.538091,0.0 -93.75036,41.536932,0.0 -93.752524,41.53627,0.0 -93.754915,41.536233,0.0 -93.758698,41.536114,0.0 -93.760003,41.536087,0.0 -93.761167,41.53596,0.0 -93.761369,41.536329,0.0 -93.761204,41.536457,0.0 -93.760091,41.536372,0.0 -93.760016,41.536312,0.0 -93.758367,41.536247,0.0 -93.758372,41.536343,0.0 -93.758401,41.536576,0.0 -93.755089,41.53683,0.0 -93.755062,41.536681,0.0 -93.750436,41.537052,0.0 -93.748768,41.53798,0.0 -93.748136,41.5382,0.0 -93.747868,41.537973,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26683">
+            <name>Take Out</name>
+            <Point id="26682">
+                <coordinates>-93.760002,41.536598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26685">
+            <name>Put In</name>
+            <Point id="26684">
+                <coordinates>-93.759399,41.536598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26687">
+            <name>Put in</name>
+            <Point id="26686">
+                <coordinates>-93.748006,41.537909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26689">
+            <name>Take out</name>
+            <Point id="26688">
+                <coordinates>-93.747868,41.537973,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

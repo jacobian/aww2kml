@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8617">
+        <name>Fox - C) Kaukauna/1000 Islands: Hwy.55/Main Ave. to CTH.ZZ (1.5 miles)</name>
+        <Placemark id="8619">
+            <name>Fox - C) Kaukauna/1000 Islands: Hwy.55/Main Ave. to CTH.ZZ (1.5 miles)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="8618">
+                <coordinates>-88.269466,44.280172,0.0 -88.267354,44.280072,0.0 -88.267487,44.279913,0.0 -88.266043,44.279954,0.0 -88.265751,44.279876,0.0 -88.26577,44.279767,0.0 -88.265572,44.279548,0.0 -88.263721,44.27958,0.0 -88.263358,44.280391,0.0 -88.262786,44.280286,0.0 -88.2611,44.28066,0.0 -88.260807,44.280628,0.0 -88.260877,44.280528,0.0 -88.2608,44.280076,0.0 -88.260921,44.279994,0.0 -88.260088,44.280094,0.0 -88.260285,44.280158,0.0 -88.260387,44.280094,0.0 -88.259534,44.279152,0.0 -88.259591,44.278801,0.0 -88.259998,44.278491,0.0 -88.261758,44.2779,0.0 -88.262884,44.278437,0.0 -88.263444,44.278856,0.0 -88.263132,44.278701,0.0 -88.263024,44.278752,0.0 -88.262852,44.278683,0.0 -88.262738,44.278861,0.0 -88.261942,44.278756,0.0 -88.261586,44.278551,0.0 -88.26193,44.278196,0.0 -88.262286,44.278251,0.0 -88.262248,44.278332,0.0 -88.261421,44.2778,0.0 -88.263675,44.276452,0.0 -88.263045,44.276174,0.0 -88.261085,44.276064,0.0 -88.260939,44.275987,0.0 -88.260843,44.276105,0.0 -88.259565,44.276105,0.0 -88.259131,44.276607,0.0 -88.259494,44.277245,0.0 -88.26034,44.277859,0.0 -88.260589,44.27761,0.0 -88.260289,44.277503,0.0 -88.260222,44.277892,0.0 -88.259372,44.278137,0.0 -88.258732,44.278111,0.0 -88.258688,44.278054,0.0 -88.257751,44.278391,0.0 -88.257526,44.278727,0.0 -88.257661,44.278888,0.0 -88.257501,44.279118,0.0 -88.256923,44.279033,0.0 -88.255668,44.278984,0.0 -88.254944,44.278776,0.0 -88.252778,44.27876,0.0 -88.251991,44.277494,0.0 -88.24963,44.274701,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="8621">
+            <name>*** SPECIAL NOTE ***</name>
+            <Point id="8620">
+                <coordinates>-88.269302,44.280102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8623">
+            <name>Dam &amp; Slab Waves</name>
+            <Point id="8622">
+                <coordinates>-88.27089,44.280614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8625">
+            <name>Entrance Gate ===================== PART I ==</name>
+            <Point id="8624">
+                <coordinates>-88.269302,44.280102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8627">
+            <name>Put-in</name>
+            <Point id="8626">
+                <coordinates>-88.269426,44.280182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8629">
+            <name>Ten Boat Wave (II)</name>
+            <Point id="8628">
+                <coordinates>-88.267641,44.280208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8631">
+            <name>The Transition =================== PART II-B ==</name>
+            <Point id="8630">
+                <coordinates>-88.259535,44.279153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8633">
+            <name>Railroad Bridge</name>
+            <Point id="8632">
+                <coordinates>-88.264247,44.279571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8635">
+            <name>Island ========================= PART II-A ==</name>
+            <Point id="8634">
+                <coordinates>-88.263725,44.27958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8637">
+            <name>(Left Channel) Goose Ledges (II)</name>
+            <Point id="8636">
+                <coordinates>-88.262689,44.280307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8639">
+            <name>(Right Channel) The Trolls (III)</name>
+            <Point id="8638">
+                <coordinates>-88.263121,44.278706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8641">
+            <name>(Right Channel) Uniform Gnarly Hydraulic (UGH!) (III+)</name>
+            <Point id="8640">
+                <coordinates>-88.262248,44.278332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8643">
+            <name>Lower Dam ====================== PART III == (III+)</name>
+            <Point id="8642">
+                <coordinates>-88.261421,44.2778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8645">
+            <name>(1st Channel) Spin Cycle (II+)</name>
+            <Point id="8644">
+                <coordinates>-88.260898,44.276037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8647">
+            <name>(2nd Channel) Infant Falls (III+)</name>
+            <Point id="8646">
+                <coordinates>-88.260562,44.277637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8649">
+            <name>(3rd Channel) Mystery Wave (III)</name>
+            <Point id="8648">
+                <coordinates>-88.258705,44.278076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8651">
+            <name>(4th Channel) Mill Wave (II+)</name>
+            <Point id="8650">
+                <coordinates>-88.25757,44.27902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8653">
+            <name>The Paddle Out</name>
+            <Point id="8652">
+                <coordinates>-88.255642,44.278977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8655">
+            <name>The Landing</name>
+            <Point id="8654">
+                <coordinates>-88.249562,44.274583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8657">
+            <name>(Left Channel) Elm Street Waves (II)</name>
+            <Point id="8656">
+                <coordinates>-88.261002,44.280998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8659">
+            <name>Island Street Wave (II+)</name>
+            <Point id="8658">
+                <coordinates>-88.2658,44.279701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8661">
+            <name>(Left Channel) Pancake Wave</name>
+            <Point id="8660">
+                <coordinates>-88.260002,44.279999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8663">
+            <name>Put in</name>
+            <Point id="8662">
+                <coordinates>-88.269466,44.280172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8665">
+            <name>Take out</name>
+            <Point id="8664">
+                <coordinates>-88.24963,44.274701,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

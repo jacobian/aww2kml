@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26847">
+        <name>Des Plaines - a) Wheeling, Dam #1 (Removed) (PnP)</name>
+        <Placemark id="26849">
+            <name>Des Plaines - a) Wheeling, Dam #1 (Removed) (PnP)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26848">
+                <coordinates>-87.896146,42.124364,0.0 -87.896197,42.124123,0.0 -87.895899,42.124092,0.0 -87.895706,42.124228,0.0 -87.895474,42.124114,0.0 -87.895414,42.123812,0.0 -87.895794,42.123857,0.0 -87.895842,42.124014,0.0 -87.896151,42.123991,0.0 -87.896253,42.124087,0.0 -87.89618,42.124352,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26851">
+            <name>Riverside: Dam (REMOVED) (I)</name>
+            <Point id="26850">
+                <coordinates>-87.822304,41.8209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26853">
+            <name>Mt.Prospect: Dam #2 (REMOVED)</name>
+            <Point id="26852">
+                <coordinates>-87.890297,42.081902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26855">
+            <name>Take Out</name>
+            <Point id="26854">
+                <coordinates>-87.895897,42.123901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26857">
+            <name>Put In</name>
+            <Point id="26856">
+                <coordinates>-87.895897,42.1241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26859">
+            <name>Wheeling: Dam#1 (REMOVED)</name>
+            <Point id="26858">
+                <coordinates>-87.895897,42.1241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26861">
+            <name>Put in</name>
+            <Point id="26860">
+                <coordinates>-87.896146,42.124364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26863">
+            <name>Take out</name>
+            <Point id="26862">
+                <coordinates>-87.89618,42.124352,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

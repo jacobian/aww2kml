@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26959">
+        <name>Fox (Illinois R. trib.) - D) Yorkville: Marge Cline Whitewater Course (PnP)</name>
+        <Placemark id="26961">
+            <name>Fox (Illinois R. trib.) - D) Yorkville: Marge Cline Whitewater Course (PnP)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26960">
+                <coordinates>-88.441163,41.642502,0.0 -88.441183,41.642716,0.0 -88.441582,41.642661,0.0 -88.441777,41.642813,0.0 -88.442445,41.642625,0.0 -88.443581,41.642694,0.0 -88.443953,41.642704,0.0 -88.444278,41.642771,0.0 -88.444641,41.642921,0.0 -88.445111,41.64286,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26963">
+            <name>Entrance Wave (II)</name>
+            <Point id="26962">
+                <coordinates>-88.442001,41.643002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26965">
+            <name>Take Out</name>
+            <Point id="26964">
+                <coordinates>-88.443001,41.641998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26967">
+            <name>Put In</name>
+            <Point id="26966">
+                <coordinates>-88.445,41.643002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26969">
+            <name>Put in</name>
+            <Point id="26968">
+                <coordinates>-88.441163,41.642502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26971">
+            <name>Take out</name>
+            <Point id="26970">
+                <coordinates>-88.445111,41.64286,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

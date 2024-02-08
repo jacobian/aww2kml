@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18257">
+        <name>Skookumchuck Rapids - Skookumchuck Narrows Provincial Park</name>
+        <Placemark id="18259">
+            <name>Skookumchuck Rapids - Skookumchuck Narrows Provincial Park</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="18258">
+                <coordinates>-123.929009,49.750032,0.0 -123.90758,49.748272,0.0 -123.90026,49.738805,0.0 -123.898751,49.738141,0.0 -123.897359,49.737501,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="18261">
+            <name>Skookumchuck Trail Head</name>
+            <Point id="18260">
+                <coordinates>-123.927874,49.746909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18263">
+            <name>Egmont Marina</name>
+            <Point id="18262">
+                <coordinates>-123.930207,49.749958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18265">
+            <name>Skookumchuck Rapids (IV)</name>
+            <Point id="18264">
+                <coordinates>-123.900598,49.739242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18267">
+            <name>Put in</name>
+            <Point id="18266">
+                <coordinates>-123.929009,49.750032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18269">
+            <name>Take out</name>
+            <Point id="18268">
+                <coordinates>-123.897359,49.737501,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

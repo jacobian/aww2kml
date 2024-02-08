@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10795">
+        <name>Catawba - Great Falls Long Channel</name>
+        <Placemark id="10797">
+            <name>Catawba - Great Falls Long Channel</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="10796">
+                <coordinates>-80.89705,34.601183,0.0 -80.895999,34.599265,0.0 -80.895611,34.598168,0.0 -80.895769,34.597146,0.0 -80.895881,34.5956,0.0 -80.895346,34.594527,0.0 -80.891115,34.595413,0.0 -80.890583,34.596112,0.0 -80.890874,34.595342,0.0 -80.889627,34.594431,0.0 -80.888567,34.593366,0.0 -80.887911,34.592418,0.0 -80.886857,34.591848,0.0 -80.885596,34.591049,0.0 -80.884459,34.589906,0.0 -80.884344,34.588849,0.0 -80.884465,34.587968,0.0 -80.884526,34.587434,0.0 -80.884528,34.586607,0.0 -80.884479,34.586309,0.0 -80.884575,34.585979,0.0 -80.884605,34.585671,0.0 -80.884722,34.585134,0.0 -80.884779,34.584715,0.0 -80.884627,34.584041,0.0 -80.883855,34.583726,0.0 -80.881964,34.583718,0.0 -80.880655,34.583242,0.0 -80.879742,34.582791,0.0 -80.879042,34.582139,0.0 -80.878768,34.581087,0.0 -80.878069,34.579158,0.0 -80.877947,34.577554,0.0 -80.877886,34.576527,0.0 -80.878099,34.575474,0.0 -80.87816,34.574171,0.0 -80.878373,34.573119,0.0 -80.878738,34.57164,0.0 -80.878708,34.570989,0.0 -80.878609,34.570414,0.0 -80.877428,34.569723,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="10799">
+            <name>#1 (III)</name>
+            <Point id="10798">
+                <coordinates>-80.889732,34.594507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10801">
+            <name>Stumpy Pond Take Out</name>
+            <Point id="10800">
+                <coordinates>-80.870371,34.551182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10803">
+            <name>#4 (II+)</name>
+            <Point id="10802">
+                <coordinates>-80.878268,34.573924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10805">
+            <name>Peace Valley (I)</name>
+            <Point id="10804">
+                <coordinates>-80.88471,34.585191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10807">
+            <name>#3 (III)</name>
+            <Point id="10806">
+                <coordinates>-80.878382,34.580022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10809">
+            <name>#2 (II)</name>
+            <Point id="10808">
+                <coordinates>-80.885533,34.590986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10811">
+            <name>Nitrolee Put In</name>
+            <Point id="10810">
+                <coordinates>-80.89502,34.601784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10813">
+            <name>Diversion Dam Paddling Channels (III+)</name>
+            <Point id="10812">
+                <coordinates>-80.891135,34.595409,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10815">
+            <name>Put in</name>
+            <Point id="10814">
+                <coordinates>-80.89705,34.601183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10817">
+            <name>Take out</name>
+            <Point id="10816">
+                <coordinates>-80.877428,34.569723,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

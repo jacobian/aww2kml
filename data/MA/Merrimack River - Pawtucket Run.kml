@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14329">
+        <name>Merrimack River - Pawtucket Run</name>
+        <Placemark id="14331">
+            <name>Merrimack River - Pawtucket Run</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="14330">
+                <coordinates>-71.332207,42.64919,0.0 -71.331401,42.649631,0.0 -71.330461,42.650234,0.0 -71.329741,42.650698,0.0 -71.329166,42.650999,0.0 -71.328711,42.651066,0.0 -71.327921,42.651062,0.0 -71.326996,42.651058,0.0 -71.325755,42.651139,0.0 -71.32518,42.651264,0.0 -71.324405,42.651774,0.0 -71.323575,42.652266,0.0 -71.323185,42.652667,0.0 -71.32258,42.653506,0.0 -71.321985,42.654587,0.0 -71.320885,42.65479,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="14333">
+            <name>Put in</name>
+            <Point id="14332">
+                <coordinates>-71.332207,42.64919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14335">
+            <name>Take out</name>
+            <Point id="14334">
+                <coordinates>-71.320885,42.65479,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

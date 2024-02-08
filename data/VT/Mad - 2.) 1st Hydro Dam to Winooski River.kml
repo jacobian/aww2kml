@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9681">
+        <name>Mad - 2.) 1st Hydro Dam to Winooski River</name>
+        <Placemark id="9683">
+            <name>Mad - 2.) 1st Hydro Dam to Winooski River</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="9682">
+                <coordinates>-72.709714,44.285554,0.0 -72.707743,44.285016,0.0 -72.706343,44.284765,0.0 -72.705611,44.284903,0.0 -72.70507,44.285155,0.0 -72.704466,44.285384,0.0 -72.703735,44.286047,0.0 -72.703386,44.286527,0.0 -72.702146,44.287534,0.0 -72.701702,44.28822,0.0 -72.701353,44.289477,0.0 -72.701291,44.290712,0.0 -72.701578,44.291534,0.0 -72.702153,44.292609,0.0 -72.702694,44.293111,0.0 -72.703045,44.293774,0.0 -72.703078,44.294551,0.0 -72.70292,44.294962,0.0 -72.701903,44.296472,0.0 -72.700949,44.297158,0.0 -72.700186,44.297478,0.0 -72.698372,44.297731,0.0 -72.697449,44.298052,0.0 -72.696463,44.298647,0.0 -72.696177,44.298738,0.0 -72.696177,44.298738,0.0 -72.696103,44.298696,0.0 -72.695683,44.29898,0.0 -72.695683,44.29898,0.0 -72.695918,44.299605,0.0 -72.695704,44.300732,0.0 -72.696216,44.302378,0.0 -72.696087,44.303779,0.0 -72.6963,44.304206,0.0 -72.695531,44.306917,0.0 -72.695416,44.30777,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="9685">
+            <name>Lower Put-in (II+)</name>
+            <Point id="9684">
+                <coordinates>-72.705868,44.284854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9687">
+            <name>Take-out</name>
+            <Point id="9686">
+                <coordinates>-72.695847,44.305803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9689">
+            <name>Route 100B Rapid (II+)</name>
+            <Point id="9688">
+                <coordinates>-72.703507,44.286361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9691">
+            <name>Put in</name>
+            <Point id="9690">
+                <coordinates>-72.709714,44.285554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9693">
+            <name>Take out</name>
+            <Point id="9692">
+                <coordinates>-72.695416,44.30777,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

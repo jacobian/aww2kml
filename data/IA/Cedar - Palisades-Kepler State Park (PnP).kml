@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5673">
+        <name>Cedar - Palisades-Kepler State Park (PnP)</name>
+        <Placemark id="5675">
+            <name>Cedar - Palisades-Kepler State Park (PnP)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="5674">
+                <coordinates>-91.506951,41.902241,0.0 -91.507696,41.90045,0.0 -91.504384,41.900252,0.0 -91.504365,41.90089,0.0 -91.506878,41.901331,0.0 -91.506783,41.901727,0.0 -91.505215,41.90213,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="5677">
+            <name>Take Out</name>
+            <Point id="5676">
+                <coordinates>-91.506302,41.900398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5679">
+            <name>Put In</name>
+            <Point id="5678">
+                <coordinates>-91.506599,41.900501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5681">
+            <name>Put in</name>
+            <Point id="5680">
+                <coordinates>-91.506951,41.902241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5683">
+            <name>Take out</name>
+            <Point id="5682">
+                <coordinates>-91.505215,41.90213,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

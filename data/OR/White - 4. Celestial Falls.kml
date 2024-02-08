@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26017">
+        <name>White - 4. Celestial Falls</name>
+        <Placemark id="26019">
+            <name>White - 4. Celestial Falls</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26018">
+                <coordinates>-121.098556,45.242805,0.0 -121.098319,45.242982,0.0 -121.098125,45.24306,0.0 -121.097422,45.243016,0.0 -121.097206,45.242976,0.0 -121.097068,45.24292,0.0 -121.096932,45.242791,0.0 -121.096833,45.2427,0.0 -121.096732,45.24268,0.0 -121.096414,45.242666,0.0 -121.096076,45.242621,0.0 -121.095811,45.242536,0.0 -121.095474,45.242314,0.0 -121.09534,45.241772,0.0 -121.095305,45.241719,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26021">
+            <name>Take Out</name>
+            <Point id="26020">
+                <coordinates>-121.095398,45.241657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26023">
+            <name>Put In</name>
+            <Point id="26022">
+                <coordinates>-121.098579,45.242836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26025">
+            <name>Put in</name>
+            <Point id="26024">
+                <coordinates>-121.098579,45.242836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26027">
+            <name>Take out</name>
+            <Point id="26026">
+                <coordinates>-121.095398,45.241657,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

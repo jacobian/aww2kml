@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="28849">
+        <name>Hillsborough - Rowlett Park, Tampa</name>
+        <Placemark id="28851">
+            <name>Hillsborough - Rowlett Park, Tampa</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="28850">
+                <coordinates>-82.428646,28.024578,0.0 -82.428682,28.02457,0.0 -82.428682,28.02457,0.0 -82.428907,28.024523,0.0 -82.429226,28.024433,0.0 -82.429226,28.024433,0.0 -82.429371,28.024392,0.0 -82.429371,28.024392,0.0 -82.429444,28.024371,0.0 -82.429905,28.024049,0.0 -82.429991,28.023999,0.0 -82.429991,28.023999,0.0 -82.430656,28.023604,0.0 -82.430771,28.023505,0.0 -82.430771,28.023505,0.0 -82.431117,28.023206,0.0 -82.431745,28.022869,0.0 -82.431745,28.022869,0.0 -82.431858,28.022809,0.0 -82.432461,28.022634,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="28853">
+            <name>Take Out</name>
+            <Point id="28852">
+                <coordinates>-82.428398,28.024799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28855">
+            <name>Put In</name>
+            <Point id="28854">
+                <coordinates>-82.428299,28.0247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28857">
+            <name>Put in</name>
+            <Point id="28856">
+                <coordinates>-82.428646,28.024578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28859">
+            <name>Take out</name>
+            <Point id="28858">
+                <coordinates>-82.432461,28.022634,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

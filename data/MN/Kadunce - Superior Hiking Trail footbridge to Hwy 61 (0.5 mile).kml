@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="28485">
+        <name>Kadunce - Superior Hiking Trail footbridge to Hwy 61 (0.5 mile)</name>
+        <Placemark id="28487">
+            <name>Kadunce - Superior Hiking Trail footbridge to Hwy 61 (0.5 mile)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="28486">
+                <coordinates>-90.15582,47.806037,0.0 -90.155994,47.805818,0.0 -90.156333,47.805544,0.0 -90.156502,47.804859,0.0 -90.156332,47.804128,0.0 -90.156332,47.803352,0.0 -90.156162,47.802552,0.0 -90.156263,47.801319,0.0 -90.1565,47.801136,0.0 -90.157042,47.800862,0.0 -90.157279,47.800039,0.0 -90.157278,47.798486,0.0 -90.156566,47.797002,0.0 -90.155887,47.79602,0.0 -90.155785,47.795083,0.0 -90.155105,47.79406,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="28489">
+            <name>Take Out</name>
+            <Point id="28488">
+                <coordinates>-90.155197,47.793999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28491">
+            <name>Put In</name>
+            <Point id="28490">
+                <coordinates>-90.155899,47.806099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28493">
+            <name>Put in</name>
+            <Point id="28492">
+                <coordinates>-90.155899,47.806099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28495">
+            <name>Take out</name>
+            <Point id="28494">
+                <coordinates>-90.155197,47.793999,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

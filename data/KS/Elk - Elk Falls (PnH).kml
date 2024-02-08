@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21581">
+        <name>Elk - Elk Falls (PnH)</name>
+        <Placemark id="21583">
+            <name>Elk - Elk Falls (PnH)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="21582">
+                <coordinates>-96.185,37.374365,0.0 -96.184638,37.37413,0.0 -96.18438,37.374054,0.0 -96.183811,37.374062,0.0 -96.183621,37.374113,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="21585">
+            <name>Put in</name>
+            <Point id="21584">
+                <coordinates>-96.185,37.374365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21587">
+            <name>Take out</name>
+            <Point id="21586">
+                <coordinates>-96.183621,37.374113,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

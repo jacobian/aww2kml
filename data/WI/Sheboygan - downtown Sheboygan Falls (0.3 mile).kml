@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="4599">
+        <name>Sheboygan - downtown Sheboygan Falls (0.3 mile)</name>
+        <Placemark id="4601">
+            <name>Sheboygan - downtown Sheboygan Falls (0.3 mile)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="4600">
+                <coordinates>-87.811911,43.731197,0.0 -87.811389,43.73075,0.0 -87.811043,43.730315,0.0 -87.809877,43.728942,0.0 -87.809721,43.727776,0.0 -87.809685,43.727697,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="4603">
+            <name>Monroe Street Ledges (III)</name>
+            <Point id="4602">
+                <coordinates>-87.810333,43.728835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4605">
+            <name>Wall Wave (II)</name>
+            <Point id="4604">
+                <coordinates>-87.81037,43.728366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4607">
+            <name>Take Out</name>
+            <Point id="4606">
+                <coordinates>-87.809898,43.7276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4609">
+            <name>Put In</name>
+            <Point id="4608">
+                <coordinates>-87.811996,43.731098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4611">
+            <name>Dam 2!</name>
+            <Point id="4610">
+                <coordinates>-87.782303,43.732101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4613">
+            <name>Dam 1!</name>
+            <Point id="4612">
+                <coordinates>-87.788498,43.728298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4615">
+            <name>Parking</name>
+            <Point id="4614">
+                <coordinates>-87.808403,43.724499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4617">
+            <name>Johnsonville Dam</name>
+            <Point id="4616">
+                <coordinates>-87.909798,43.798302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4619">
+            <name>Confluence w.Onion River</name>
+            <Point id="4618">
+                <coordinates>-87.804787,43.723488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4621">
+            <name>Lower Ledge (III)</name>
+            <Point id="4620">
+                <coordinates>-87.80979,43.727567,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4623">
+            <name>Put in</name>
+            <Point id="4622">
+                <coordinates>-87.811996,43.731098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="4625">
+            <name>Take out</name>
+            <Point id="4624">
+                <coordinates>-87.809898,43.7276,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7875">
+        <name>Mokelumne - 4. Ponderosa Way to Electra Picnic area</name>
+        <Placemark id="7877">
+            <name>Mokelumne - 4. Ponderosa Way to Electra Picnic area</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="7876">
+                <coordinates>-120.630096,38.340126,0.0 -120.631028,38.340454,0.0 -120.63114,38.340493,0.0 -120.63164,38.340062,0.0 -120.632375,38.339842,0.0 -120.633047,38.339855,0.0 -120.633356,38.339932,0.0 -120.633881,38.340063,0.0 -120.63414,38.340127,0.0 -120.635824,38.340558,0.0 -120.636805,38.340843,0.0 -120.63721,38.340925,0.0 -120.637612,38.341006,0.0 -120.63819,38.341018,0.0 -120.638696,38.340955,0.0 -120.639056,38.340785,0.0 -120.639613,38.340326,0.0 -120.639923,38.339965,0.0 -120.640249,38.339427,0.0 -120.640707,38.339113,0.0 -120.641631,38.338837,0.0 -120.642284,38.338612,0.0 -120.642839,38.338421,0.0 -120.643796,38.33769,0.0 -120.643922,38.337576,0.0 -120.644431,38.337115,0.0 -120.645124,38.336452,0.0 -120.645596,38.335726,0.0 -120.646179,38.335003,0.0 -120.646612,38.334614,0.0 -120.647119,38.334522,0.0 -120.647621,38.334576,0.0 -120.648329,38.334634,0.0 -120.649039,38.334604,0.0 -120.649415,38.334538,0.0 -120.65062,38.33421,0.0 -120.650849,38.334143,0.0 -120.651588,38.333929,0.0 -120.652279,38.333728,0.0 -120.653115,38.333274,0.0 -120.65415,38.332489,0.0 -120.654588,38.332157,0.0 -120.654936,38.331863,0.0 -120.655624,38.331281,0.0 -120.65651,38.330754,0.0 -120.657034,38.330691,0.0 -120.657572,38.330805,0.0 -120.658934,38.33142,0.0 -120.659602,38.331542,0.0 -120.659936,38.331602,0.0 -120.660765,38.331684,0.0 -120.661815,38.331787,0.0 -120.664188,38.331731,0.0 -120.66516,38.331677,0.0 -120.665518,38.331645,0.0 -120.66678,38.331533,0.0 -120.668567,38.331098,0.0 -120.669514,38.330661,0.0 -120.669832,38.330407,0.0 -120.670377,38.329972,0.0 -120.671079,38.329604,0.0 -120.672189,38.329332,0.0 -120.672839,38.329448,0.0 -120.673295,38.329765,0.0 -120.673471,38.330122,0.0 -120.673643,38.330581,0.0 -120.674044,38.330883,0.0 -120.67447,38.330965,0.0 -120.675179,38.330685,0.0 -120.67602,38.330069,0.0 -120.676298,38.32956,0.0 -120.676488,38.328888,0.0 -120.676741,38.32854,0.0 -120.676945,38.328412,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7879">
+            <name>Ponderosa Way</name>
+            <Point id="7878">
+                <coordinates>-120.630997,38.341,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7881">
+            <name>Electra Afterbay Dam</name>
+            <Point id="7880">
+                <coordinates>-120.676003,38.3307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7883">
+            <name>Rapid</name>
+            <Point id="7882">
+                <coordinates>-120.660004,38.332001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7885">
+            <name>Rapid 2 (III)</name>
+            <Point id="7884">
+                <coordinates>-120.639,38.341,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7887">
+            <name>Bridge Rapid (III)</name>
+            <Point id="7886">
+                <coordinates>-120.632004,38.34,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7889">
+            <name>Gauge below Electra Diversion</name>
+            <Point id="7888">
+                <coordinates>-120.550003,38.420502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7891">
+            <name>Middle Fork confluence</name>
+            <Point id="7890">
+                <coordinates>-120.610397,38.372211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7893">
+            <name>Electra Powerhouse</name>
+            <Point id="7892">
+                <coordinates>-120.668999,38.331001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7895">
+            <name>Take Out</name>
+            <Point id="7894">
+                <coordinates>-120.677,38.3285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7897">
+            <name>Rapid</name>
+            <Point id="7896">
+                <coordinates>-120.640999,38.339001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7899">
+            <name>Riffle</name>
+            <Point id="7898">
+                <coordinates>-120.654999,38.332001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7901">
+            <name>Rapid</name>
+            <Point id="7900">
+                <coordinates>-120.648003,38.334999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7903">
+            <name>Rapid</name>
+            <Point id="7902">
+                <coordinates>-120.643997,38.338001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7905">
+            <name>Put in</name>
+            <Point id="7904">
+                <coordinates>-120.63,38.3404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7907">
+            <name>Take out</name>
+            <Point id="7906">
+                <coordinates>-120.677,38.3285,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

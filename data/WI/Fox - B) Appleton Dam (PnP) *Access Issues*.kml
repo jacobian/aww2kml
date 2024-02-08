@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="27229">
+        <name>Fox - B) Appleton Dam (PnP) *Access Issues*</name>
+        <Placemark id="27231">
+            <name>Fox - B) Appleton Dam (PnP) *Access Issues*</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="27230">
+                <coordinates>-88.410939,44.254572,0.0 -88.409329,44.255528,0.0 -88.40929,44.255693,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="27233">
+            <name>Take Out</name>
+            <Point id="27232">
+                <coordinates>-88.409,44.256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27235">
+            <name>Put In</name>
+            <Point id="27234">
+                <coordinates>-88.411,44.253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27237">
+            <name>Breakwall</name>
+            <Point id="27236">
+                <coordinates>-88.411003,44.255001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27239">
+            <name>Put in</name>
+            <Point id="27238">
+                <coordinates>-88.410939,44.254572,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27241">
+            <name>Take out</name>
+            <Point id="27240">
+                <coordinates>-88.40929,44.255693,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

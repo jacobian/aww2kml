@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="19603">
+        <name>Vermillion (Hastings) - Falls to Old Mill in Hastings (0.5 mile)</name>
+        <Placemark id="19605">
+            <name>Vermillion (Hastings) - Falls to Old Mill in Hastings (0.5 mile)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="19604">
+                <coordinates>-92.850046,44.725284,0.0 -92.848717,44.725627,0.0 -92.847187,44.725881,0.0 -92.846428,44.725842,0.0 -92.845659,44.725758,0.0 -92.843962,44.725497,0.0 -92.843371,44.725601,0.0 -92.841989,44.725802,0.0 -92.841741,44.725835,0.0 -92.841437,44.725943,0.0 -92.841007,44.726229,0.0 -92.840996,44.726545,0.0 -92.841047,44.727131,0.0 -92.841119,44.727928,0.0 -92.841128,44.728191,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="19607">
+            <name>Take Out</name>
+            <Point id="19606">
+                <coordinates>-92.840897,44.728199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19609">
+            <name>Put In</name>
+            <Point id="19608">
+                <coordinates>-92.849998,44.725101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19611">
+            <name>Put in</name>
+            <Point id="19610">
+                <coordinates>-92.849998,44.725101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19613">
+            <name>Take out</name>
+            <Point id="19612">
+                <coordinates>-92.840897,44.728199,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,2516 @@
+type Query {
+  """ retrieve the states the system knows about """
+  states(
+    aw_only: Boolean
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): StatePaginator
+
+  """ retrieves a list of users """
+  users(
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): UserPaginator
+
+  """ retrieves user by ID """
+  user(uid: ID): User
+  state(id: ID): State
+
+  """ retrieve the metrics the system knows about """
+  metrics: [GaugeReadingMetric!]!
+
+  """  returns string passed as a test """
+  echoTest(test: String): String
+
+  " returns the API version that is currently installed\n\tthis should return a YMD of the installed versions.\n\tthis can indicate if fixes have been made.\n\tExpect [0-9]+\\.[0-9]*"
+  version: String
+
+  """ grabs a singular article """
+  article(id: ID): Article
+
+  """ search endpoint for articles """
+  articles(
+    id: ID
+    orderBy: [ArticlesOrderByOrderByClause!]
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): ArticlePaginator
+  news(
+    search: NewsSearch
+    orderBy: [NewsOrderByOrderByClause!]
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): ArticlePaginator
+
+  """ Query events as a search endpoint """
+  events(
+    id: ID
+    event_categories: [EventCategoryType]
+    reach_id: AWID
+    gauge_id: AWID
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): EventPaginator
+  nextEvents(event_categories: [EventCategoryType], reach_id: Int): [Event]
+
+  """ Queries the system's idea of the current logged in user """
+  me: User!
+
+  """ query a permission object, these are listed in @useSecurity in the schema or are CRUD operations on an object 
+  """
+  userPermission(domain: String!, permission: String!, info: ArbitraryJSON): PermissionReturn
+
+  """ retrieves photos """
+  photos(
+    id: ID
+    orderBy: [PhotosOrderByOrderByClause!]
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): PhotoPaginator
+
+  """ get posts by id,post_types,reach_id or all three, intended as a search endpoint 
+  """
+  posts(
+    id: ID
+    post_types: [PostType]
+    reach_id: AWID
+    gauge_id: AWID
+    orderBy: [PostsOrderByOrderByClause!]
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): PostPaginator
+
+  """ last warnings across all reaches with a last updated discriminator """
+  lastWarnings(
+    post_date: DateTimeISO8601
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): PostPaginator
+
+  """ last gauge observations across all reaches with a last updated discriminator 
+  """
+  lastObservations(
+    post_date: DateTimeISO8601
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): PostPaginator
+
+  """ search endpoint for accidents """
+  accidents(
+    id: ID
+    orderBy: [AccidentsOrderByOrderByClause!]
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): AccidentPaginator
+
+  """ query an accident by ID """
+  accident(id: ID): Accident
+
+  """
+  structures a reach query in a way that makes sense for a search endpoint for filtering by given fields
+  """
+  reaches(
+    """id you are searching for """
+    id: ID
+
+    """
+    states you are searching in (includes 'NONE', see states query for valid states, US states start with 'USA-')
+    """
+    states: [String]
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): ReachPaginator
+
+  """ single reach query """
+  reach(
+    """id you are searching for"""
+    id: ID
+
+    """revision you are searching for"""
+    revision: Int
+  ): Reach
+
+  """ retrieves all valid gauge sources """
+  gauge_sources: [GaugeSource]
+
+  """
+   structures a reach query in a way that might make sense for a mapping endpoint
+  this endpoint is a programatic query where the reaches query is focused on the model
+  both return a paginated set of reaches
+  """
+  reachmap(
+    """geobox for a query on a box"""
+    box: geobox
+
+    """sounds-like search e.g. 'pooter'"""
+    fuzzy_match: String
+
+    """exact match on name """
+    match: String
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): ReachPaginator
+
+  """ single gauge query """
+  gauge(
+    """id unique to AW"""
+    id: ID
+
+    """source like 'usgs', 'noaa', etc."""
+    source: String
+
+    """
+    source id is the id the source uses like USGS 1003030 would be 1003030 in this field
+    """
+    source_id: AWID
+  ): Gauge
+
+  """ gauge query structured for a search endpoint, paginates """
+  gauges(
+    id: ID
+
+    """source like 'usgs', 'noaa', etc. """
+    source: String
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): GaugePaginator
+
+  """ reaches depend on a reach id generated by the system rather than using a UUID 
+  """
+  nextReachID: ID
+
+  """Will grab all articles that have been associated with a reach"""
+  getRiverArticles(id: ID): ArticlesInSections
+
+  """Gets a deep representation of a river and its connection to gauges"""
+  getGaugeInformationForReachID(id: ID): GaugeInformationForReach
+
+  """gauge correlation header"""
+  gaugeCorrelation(id: ID): GaugeCorrelation
+
+  """gauge correlations by target or source id"""
+  gaugeCorrelations(targetid: Int, sourceid: Int): [GaugeCorrelation]
+  document(id: ID!): Document
+  documents(
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): DocumentPaginator
+  project(id: ID!): Project
+  projects(
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): ProjectPaginator
+
+  """
+   queries the linker.
+  linker source is one of the LinkerSourceTypes,
+  id is the ID specific to the linked source
+  
+  exclude is a list of resources you don't want returned in the response.
+  only is to include only one type of resource (should not conflict with exclude)
+  """
+  linker(source: LinkerSourceType!, id: AWID!, exclude: [LinkerSourceType], include: [LinkerSourceType]): [LinkedResource]
+  affiliate(id: ID!): Affiliate
+  affiliates(
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): AffiliatePaginator
+}
+
+"""A paginated list of State items."""
+type StatePaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of State items."""
+  data: [State!]!
+}
+
+"""Pagination information about the corresponding list of items."""
+type PaginatorInfo {
+  """Total count of available items in the page."""
+  count: Int!
+
+  """Current pagination page."""
+  currentPage: Int!
+
+  """Index of first item in the current page."""
+  firstItem: Int
+
+  """If collection has more pages."""
+  hasMorePages: Boolean!
+
+  """Index of last item in the current page."""
+  lastItem: Int
+
+  """Last page number of the collection."""
+  lastPage: Int!
+
+  """Number of items per page in the collection."""
+  perPage: Int!
+
+  """Total items available in the collection."""
+  total: Int!
+}
+
+""" political boundry as a state """
+type State {
+  """ this is the CCC-SSS country and state combo """
+  shortkey: String
+
+  """ name in english """
+  name: String
+  aw_region: AWRegion
+  gmi: String
+  fips: String
+  type: String
+  fips_country: String
+  num_rivers: Int
+  num_gauges: Int
+}
+
+"""AW Maintain several regions. These are the abbreviations for them"""
+enum AWRegion {
+  """"North East"""
+  NT
+
+  """MidAtlantic"""
+  MC
+
+  """South East"""
+  SE
+
+  """MidWest"""
+  MW
+
+  """North West"""
+  NW
+
+  """Lower Pacific"""
+  LP
+
+  """West"""
+  WT
+
+  """
+  International -- identifies territories we care about, but ignore if domestic AW only
+  """
+  IN
+}
+
+"""A paginated list of User items."""
+type UserPaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of User items."""
+  data: [User!]!
+}
+
+"""
+# Represents a User
+
+Users are represented reliably by the following pieces of data:
+  - uid - stable numeric id of the user
+  - name - public name of the user
+  - email - login used by the user.
+
+Other fields on this object are for query operations
+  - permissions give a rough hint at the groups the user is a assigned to
+  - *_notification give notifications that are due to the user
+  - mobile_profile is used to get/set mobile-specific data for a user (e.g. subscription ids etc).
+  - image will retrieve the user's avatar
+  - contact was used for public information the user chose to publish abou themselves (if any)
+"""
+type User {
+  """ Effective user ID """
+  uid: ID!
+
+  """ User's login name """
+  uname: String
+
+  """ User's name """
+  name: String
+
+  """ associated email """
+  email: String
+
+  """ profile picture """
+  image: ImageInfo
+
+  """ contact info, public and set by user """
+  contact: Contact @deprecated
+
+  """ JSON object representing the User's mobile profile """
+  mobile_profile: ArbitraryJSON
+  event_notification: [EventNotification]
+  gauge_notification: [GaugeNotification]
+  reach_notification: [ReachNotification]
+
+  """ permissions represent the groups and keys the user possesses """
+  permissions: [String]
+  created_at: DateTimeISO8601!
+  updated_at: DateTimeISO8601!
+}
+
+""" meta information on an image """
+type ImageInfo {
+  uri: ImageURI
+  url: ImageURI
+  mime_type: String
+  ext: String
+
+  """ filesize in bytes """
+  file_size: Int
+}
+
+""" urls to locate the three types of image """
+type ImageURI {
+  """ typically around 800x600 """
+  medium: String
+
+  """ unconstrained 1-2 MB per load """
+  big: String
+
+  """ typically 100x200 """
+  thumb: String
+}
+
+"""Represents a contact, a user that can't login"""
+type Contact {
+  id: AWID
+
+  """ associated email """
+  email: String
+
+  """ profile picture """
+  image: ImageInfo
+  city: String
+  address: String
+  state: String
+  zip: String
+  phone: String
+  name: String
+}
+
+""" A type that allows a longish integer and a semi-numberic [A-Z][a-z][0-9] id 
+"""
+scalar AWID
+
+""" A type that allows a JSON in the definition. We use this for mobile profile, but will formalize it  
+"""
+scalar ArbitraryJSON
+
+"""Useful to retrieve the list of events the user has subscribed to"""
+type EventNotification {
+  event_id: AWID
+  event: Event
+}
+
+type Event {
+  id: String
+  title: String
+  city: String
+  description: String
+  category: EventCategoryType
+  uid: Int
+  state: String
+  url: String
+  orgname: String
+  orgaddress: String
+  orgphone: String
+  orgfax: String
+  orgemail: String
+  site: String
+  reach_id: Int
+  expectpart: Int
+  expectspec: Int
+  issue: String
+  media: String
+  contact_id: Int
+  updated: DateTimeISO8601
+  html_description: String
+  gauge_id: Int
+  loc: Point
+  tz: String
+  dates(event_date: DateRange): [EventDate]
+  next_date: EventDate
+}
+
+enum EventCategoryType {
+  CAT_RELEASE
+  CAT_EVENT
+  CAT_OTHER
+  CAT_FESTIVAL
+  CAT_PREDICTED_FLOW_SOURCE
+}
+
+""" A ISO DateTimeISO8601 string with format `Y-m-d H:i:s` e.g. `2018-01-01T13:00:00Z`. 
+"""
+scalar DateTimeISO8601
+
+""" Point which looks like two numbers 33.1 226.1 """
+scalar Point
+
+input DateRange {
+  from: Date!
+  to: Date!
+}
+
+""" A ISO Date string with format `Y-m-d` e.g. `2018-01-01`. """
+scalar Date
+
+type EventDate {
+  event_id: String
+  event_date: DateTimeISO8601
+  detail_description: String
+
+  """
+  Batch ID represents one of a type -- like releases that are 600-800 cfs vs 800-1200 cfs, calendar displaying a
+  single event can color code based on batch_id
+  """
+  batch_id: Int
+  start_time: String
+  end_time: String
+  min: Int
+  max: Int
+  id: Int
+  metric_id: Int
+  uid: Int
+}
+
+"""Useful to retrieve a list of gauges the user has subscribed to."""
+type GaugeNotification {
+  gauge_id: AWID
+  gauge: Gauge
+}
+
+"""This describes a Gauge"""
+type Gauge {
+  """ID of the gauge, internal"""
+  id: ID
+
+  """#6-char state includes a CC-SSS country code then state code."""
+  state: String
+
+  """#gauge driver"""
+  source: String
+
+  """ #id within the gauge driver."""
+  source_id: String
+
+  """#name of the gauge"""
+  name: String
+
+  """USGS "HUC" the gauge is in """
+  huc: String
+
+  """gis wkb point where the gauge is"""
+  loc: String
+
+  """#tz database name (https://en.wikipedia.org/wiki/Tz_database) """
+  timezone: String
+
+  """see source (\App\Gauge), is this gauge enabled. """
+  enabled: Boolean
+
+  """last two updates in gauge update format."""
+  updates: [GaugeUpdate]
+}
+
+"""This describes a gauge update, a reading and when the reading was made"""
+type GaugeUpdate {
+  """ metric structure """
+  metric: GaugeReadingMetric
+
+  """#current update time"""
+  obs_time: DateTimeISO8601
+
+  """#current reading"""
+  obs_reading: Float
+
+  """#misc structured data about the update"""
+  obs_data: String
+
+  """#last update"""
+  lobs_time: DateTimeISO8601
+
+  """#actual reading"""
+  lobs_reading: Float
+  metric_id: Int
+  lobs_id: AWID
+  obs_id: AWID
+  write_sequence: AWID
+  updated: DateTimeISO8601
+  obs_ref: AWID
+  last_journal_date: DateTimeISO8601
+  gd_ref: String
+}
+
+""" the thing we are measuring the gauge in (e.g. ft) """
+type GaugeReadingMetric {
+  """id of the metric, used everywhere you see metric_id"""
+  id: ID
+
+  """quick way of refrencing the metric"""
+  shortkey: String
+
+  """abbreviation of unit for humans (e.g. ft) """
+  unit: String
+
+  """name if you need to describe it to a human (e.g. ft. stage)"""
+  name: String
+
+  """format for a string format routine (e.g. js str.Format or sprintf)"""
+  format: String
+  sortorder: Int
+}
+
+"""Useful to retrieve the list of reaches the user has subscribed to"""
+type ReachNotification {
+  reach_id: AWID
+}
+
+""" Represents an article in the system """
+type Article {
+  id: ID
+  title: String
+  author: String
+
+  """ short intro to the article"""
+  abstract: String
+  abstractimage: ImageInfo
+  icon: String
+
+  """ contents of the article """
+  contents: String
+  image: ImageInfo
+  contact: String
+  posted_date: DateTimeISO8601
+  short_name: String
+  uid: AWID
+  release_date: DateTimeISO8601
+}
+
+"""Order by clause for the `orderBy` argument on the query `articles`."""
+input ArticlesOrderByOrderByClause {
+  """The column that is used for ordering."""
+  field: ArticlesOrderByColumn!
+
+  """The direction that is used for ordering."""
+  order: SortOrder!
+}
+
+"""
+Allowed column names for the `orderBy` argument on the query `articles`.
+"""
+enum ArticlesOrderByColumn {
+  REVISION
+  POSTED_DATE
+}
+
+"""The available directions for ordering a list of records."""
+enum SortOrder {
+  """Sort records in ascending order."""
+  ASC
+
+  """Sort records in descending order."""
+  DESC
+}
+
+"""A paginated list of Article items."""
+type ArticlePaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of Article items."""
+  data: [Article!]!
+}
+
+input NewsSearch {
+  type: NewsSectionType!
+  min_expiration: DateTimeISO8601
+  value: String
+}
+
+enum NewsSectionType {
+  REGIONAL_NEWS
+  REACH_LINK
+  STATE_LINK
+  PROJECT_LINK
+  SUCCESS_LINKS
+  CONSERVATION_LINKS
+  EVENT_LINKS
+  SAFETY_LINKS
+  VOLUNTEER_LINKS
+  ACTION_ITEMS
+  FRONTPAGE_NEWS
+}
+
+"""Order by clause for the `orderBy` argument on the query `news`."""
+input NewsOrderByOrderByClause {
+  """The column that is used for ordering."""
+  field: NewsOrderByColumn!
+
+  """The direction that is used for ordering."""
+  order: SortOrder!
+}
+
+"""Allowed column names for the `orderBy` argument on the query `news`."""
+enum NewsOrderByColumn {
+  REVISION
+  POSTED_DATE
+}
+
+"""A paginated list of Event items."""
+type EventPaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of Event items."""
+  data: [Event!]!
+}
+
+type PermissionReturn {
+  domain: String!
+  permission: String!
+  result: PermissionResult!
+}
+
+enum PermissionResult {
+  """ only permission that indicates a call will not get shut down """
+  ALLOW
+
+  """ invalid permission request """
+  DENY_URL_ERROR
+
+  """ requires a login to continue """
+  DENY_LOGIN
+
+  """ silently declien to show UI element """
+  DENY_BLANK
+
+  """ no specific denial reason given """
+  DENY_DEFAULT
+}
+
+"""Order by clause for the `orderBy` argument on the query `photos`."""
+input PhotosOrderByOrderByClause {
+  """The column that is used for ordering."""
+  field: PhotoOrderBy!
+
+  """The direction that is used for ordering."""
+  order: SortOrder!
+}
+
+enum PhotoOrderBy {
+  DATE
+  REVISION
+  PHOTO_DATE
+  POST_DATE
+  POST_REVISION
+  CREATED_DATE
+}
+
+"""A paginated list of Photo items."""
+type PhotoPaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of Photo items."""
+  data: [Photo!]!
+}
+
+type Photo {
+  id: ID!
+
+  """ could be a video URL, most of the time filename of the last revision BUT DONT USE THIS AS FILENAME, use URI 
+  """
+  url: String
+
+  """ caption of photo """
+  caption: String
+
+  """ description of photo  """
+  description: String
+  geom: String
+
+  """ URL to Image calculated from below for images, use this """
+  image: ImageInfo
+
+  """ associated post """
+  post: Post
+
+  """ associated rapid, rapid may also be named below """
+  poi: POI
+
+  """ who took the picture (freetext)  """
+  author: String
+
+  """ who is this a picture of (freetext) """
+  subject: String
+
+  """ number assigned by the system, unique to this revision """
+  revision: Int
+
+  """ if the rapid isn't in the AW database, user can enter the name """
+  poi_name: String
+
+  """ id of POI """
+  poi_id: AWID
+
+  """ id of post """
+  post_id: AWID
+
+  """ date of the photo """
+  photo_date: DateTimeISO8601
+
+  """ date photo record created """
+  created_at: DateTimeISO8601
+
+  """ applies to the logged in user """
+  permissions: [PermissionReturn!]!
+}
+
+""" Post, see https://github.com/AmericanWhitewater/wh2o/wiki/Post-Types """
+type Post {
+  """ id of the post, for updates etc"""
+  id: ID
+
+  """ title of the post """
+  title: String
+
+  """ detail paragraph """
+  detail: String
+
+  """ user id of the user that made the change"""
+  uid: AWID
+
+  """ user info for the post """
+  user: User
+
+  """ date of the post """
+  post_date: DateTimeISO8601
+
+  """ Post to update """
+  post_type: PostType!
+
+  """ revision will be assigned on write, specifies which version of the id we are looking at, can be used to key to a change on a post id 
+  """
+  revision: Int
+
+  """ reach associated with this post """
+  reach: Reach
+
+  """ gauge associated with the post """
+  gauge: Gauge
+
+  """ reach id """
+  reach_id: AWID
+
+  """ gauge id """
+  gauge_id: AWID
+
+  """ how the observation was recorded """
+  metric: GaugeReadingMetric
+
+  """ metric id """
+  metric_id: Int
+
+  """ reading specified by the user or null for no observation recorded """
+  reading: Float
+
+  """ comments, this is not used now """
+  comments: [Comment!]!
+
+  """ photos associated with the post (see post types for how to used this ) 
+  """
+  photos: [Photo!]!
+
+  """ applies to the logged in user """
+  permissions: [PermissionReturn!]!
+
+  """ relative flow if used with reach_id - too high > 1.0, flowing 0-1, low <0, consider -0.5,.5,1.5 for too low,flowing,too high 
+  """
+  observation: Float
+}
+
+""" When a post is written it has a type that specifies how it should be prioritized, sorted and notified 
+"""
+enum PostType {
+  """ many photos with a narrative """
+  JOURNAL
+
+  """ single photo post """
+  PHOTO_POST
+
+  """ gauge reading possibly with a photo of the gauge """
+  GAUGE_OBSERVATION
+
+  """ checkin (unused, intended to be used to optionally track where users are boating 
+  """
+  CHECKIN
+
+  """ comment on a reach """
+  COMMENT
+
+  """ complaint about a reach, intended to kick up to admin """
+  COMPLAINT
+
+  """ warning aboiut a reach, has a high priority to sit at the top of the reach detail 
+  """
+  WARNING
+
+  """ comment about a reach, unused so far, comment that would be intended for other editors 
+  """
+  EDITOR_COMMENT
+}
+
+"""Represents a reach in the database"""
+type Reach {
+  """ ID of reach (see getNextReachID query) """
+  id: Int
+
+  """ Name of the river """
+  river: String
+
+  """ Name of the section """
+  section: String
+
+  """ Common name of the section """
+  altname: String
+
+  """ county name -- optional """
+  county: String
+
+  """ zip  -- optional """
+  zipcode: String
+
+  """ length in miles with fraction, mostly reported  """
+  length: Float
+
+  """ gradient in ft/mile, reported """
+  avggradient: Int
+
+  """ max gradient in ft/mile, reported """
+  maxgradient: Int
+
+  """ land agency name (if any) for adminstration of permits and land """
+  agency: String
+
+  """ paragraph explaining the gauges  """
+  gaugeinfo: String
+
+  """ multi paragraph explaining the section  """
+  description: String
+
+  """ banner photo ID  """
+  photo_id: AWID
+
+  """ permit id lookup """
+  permitid: Int
+
+  """ HUC code drainage, will be assigned with proper location """
+  huc: String
+
+  """ these are the calculated start and finish points of the reach, ploc and tloc are better 
+  """
+  plat: Float
+  plon: Float
+  prrn: String
+  tlat: Float
+  tlon: Float
+  trrn: String
+
+  """ last editor's ID """
+  skid: AWID
+
+  """ verfified (v) unverified (u) and "r" removed """
+  status: String
+
+  """ edited time/date """
+  edited: DateTimeISO8601
+
+  """ is this reach the current finalized reach (others represents prior or pending revisions)
+  """
+  is_final: Boolean
+
+  """ revision id """
+  revision: Int
+
+  """ class of the river I-VI"""
+  class: ReachClass
+
+  """ putin location """
+  ploc: Point
+
+  """ takeout location """
+  tloc: Point
+
+  """ was this revision ever a final version (e.g. could it have been active in the past ) 
+  """
+  was_final: Boolean
+
+  """ flag that was used indicate that the index image for the river should not be altered (e.g. use the raw/fullsize image) 
+  """
+  thumboverride: Boolean
+
+  """ description of how to run the shuttle """
+  shuttledetails: String
+
+  """ short 1-2 sentence description of the reach used on hover on the map """
+  abstract: String
+
+  """ when we had routing, this would indicate the zip to show as the start (e.g. zip of the local town) 
+  """
+  direction_default: Int
+
+  """ destination string when we had routing built into the app """
+  custom_destination: String
+
+  """ comment left by the SK indicating what changed """
+  revision_comment: String
+
+  """ URL for signing up for a permit """
+  permiturl: String
+
+  """ paragraph on how to permit """
+  permitinfo: String
+
+  """ when set to a non-zero indicates that the image should be used without scaling in the banner, may include a transform such as a zoom or crop in css transition tag format 
+  """
+  image_override: String
+
+  """ the actual linestring of the reach """
+  geom: LineString
+  readingsummary: ReadingSummary
+
+  """ all other reaches that came before, a list of prior versions of reach records 
+  """
+  revisions(
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): ReachPaginator
+  states: [State!]!
+  reachstates: [State!]!
+  posts(
+    post_type: [PostType!]
+    orderBy: [PostsOrderByOrderByClause!]
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): PostPaginator
+
+  """ list of rapids and other points of interest on the reach """
+  pois: [POI]
+
+  """ all photos attached to a reach (note that this will bypass posts, so the complete context neeeds to be gotten by querying the attached post) 
+  """
+  photos(
+    orderBy: [PhotosOrderByOrderByClause!]
+
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): PhotoPaginator
+
+  """ all the accidents that associated with this reach """
+  accidents(
+    """Limits number of fetched elements. Maximum allowed value: 2500."""
+    first: Int!
+
+    """The offset from which elements are returned."""
+    page: Int
+  ): AccidentPaginator
+
+  """ indicates who was responsible for this revision """
+  user: User
+
+  """ last warning post on thre reach """
+  last_warning: Post
+
+  """ last gauge observation on the reach """
+  last_observation: Post
+
+  """ actual banner photo object of the reach """
+  photo: Photo
+
+  """ indicates the SK that changd this """
+  sk: User
+
+  """ shows the permissions for the logged in user """
+  permissions: [PermissionReturn!]!
+
+  """ next event by category on the reach """
+  pending_events: [Event!]
+
+  """ all events associated with the reach """
+  events: [Event!]
+}
+
+"""
+RapidClass
+valid values: "I" , "I(II)" , "I(III)" , "I(IV)" , "I(V)" , "I(V+)" ,
+   "I-II" , "I-II(III)" , "I-II(IV)" , "I-II(V)" , "I-II(V+)" , "II" ,
+   "II(III)" , "II(IV)" , "II(V)" , "II(V+)" , "I-II+(III)" , "I-II+(IV)" , "I-II+(V)" , "I-II+(V+)" ,
+   "II+" , "II+(III)" , "II+(IV)" , "II+(V)" , "II+(V+)" , "I-III" , "I-III(IV)" ,
+   "I-III(V)" , "I-III(V+)" , "II-III" , "II-III(IV)" , "II-III(V)" , "II-III(V+)" , "III" ,
+   "I-III+" , "I-III+(IV)" , "I-III+(V)" , "I-III+(V+)" , "II-III+" , "II-III+(IV)" , "II-III+(V)" ,
+   "II-III+(V+)" , "III+" , "III+(IV)" , "III+(V)" , "III+(V+)" , "I-IV" , "I-IV(V)" ,
+   "I-IV(V+)" , "II-IV" , "II-IV(V)" , "II-IV(V+)" , "III-IV" , "III-IV(V)" , "III-IV(V+)" , "IV" ,
+   "IV(V)" , "IV(V+)" , "I-IV+" , "I-IV+(V)" , "I-IV+(V+)" , "II-IV+" , "II-IV+(V)" ,
+   "II-IV+(V+)" , "III-IV+" , "III-IV+(V)" , "III-IV+(V+)" , "IV+" , "I-V" , "I-V(V+)" , "II-V" ,
+   "II-V(V+)" , "III-V" , "III-V(V+)" , "IV-V" , "IV-V(V+)" , "V" ,
+   "II-V+" , "III-V+" , "IV-V+" ,    "V+"
+"""
+scalar ReachClass
+
+""" LineString looks like two numbers seperated by a space, and the tupels are seperated by comma so 10 30, 30 20, 10 -20.1 
+"""
+scalar LineString
+
+"""
+Reading summary summarizes the running state of a reach,
+it is a combination of a correlation and a physical gauge reading
+with a gauge range
+"""
+type ReadingSummary {
+  """ ID of the river summary """
+  id: ID
+
+  """ gauge reading -- e.g. 88 of 88 cfs """
+  gauge_reading: Float
+
+  """ misc river data, JSON format """
+  river_data: String
+
+  """ when correlation was written """
+  last_journal_update: String
+  gauge: Gauge
+  metric: GaugeReadingMetric
+
+  """number of seconds since we have seen an update """
+  updated: Float
+
+  """
+  actual reading recorded
+  - <0 too low
+  - 0-1 runnable
+  - >1 too high
+  """
+  reading: Float
+
+  """metric id for the gauge (e.g. 2=flow) """
+  gauge_metric: Int
+
+  """last reading recorded"""
+  last_gauge_reading: Float
+
+  """last date of update """
+  last_gauge_updated: Int
+
+  """ comment about the gauge """
+  gauge_comment: String
+  gauge_data: String
+
+  """ comment about the range (e.g. 'scrapy') """
+  range_comment: String
+
+  """ indicate if this is a perfect range """
+  gauge_perfect: Boolean
+
+  """ indicate approximation """
+  gauge_estimated: Boolean
+
+  """ indicate to emphasize this range """
+  gauge_important: Boolean
+
+  """ what is the class at this range """
+  adjusted_reach_class: String
+
+  """ order to consider this gauge in """
+  rank: Int
+
+  """ number of seconds to wait until we give up on this ranked gauge and display the next one down 
+  """
+  delay_update: Int
+  gauge_min: Float
+  gauge_max: Float
+  obs_id: AWID
+
+  """ the ID of the gauge we are tracking """
+  gauge_id: Int
+}
+
+"""A paginated list of Reach items."""
+type ReachPaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of Reach items."""
+  data: [Reach!]!
+}
+
+"""Order by clause for the `orderBy` argument on the query `posts`."""
+input PostsOrderByOrderByClause {
+  """The column that is used for ordering."""
+  field: PostOrderBy!
+
+  """The direction that is used for ordering."""
+  order: SortOrder!
+}
+
+enum PostOrderBy {
+  DATE
+  REVISION
+  POST_DATE
+}
+
+"""A paginated list of Post items."""
+type PostPaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of Post items."""
+  data: [Post!]!
+}
+
+"""
+POI is a Point-Of-Interest, usually and historically a rapid.
+We have the idea of expanding this to pretty much any point that might need to be in a guidebook (e.g. putin, waterfall)
+"""
+type POI {
+  """ id used for updates """
+  id: ID
+
+  """ name of the feature (e.g. rapid name "Pillow Rapid") """
+  name: String
+
+  """ photo of the feature """
+  photo: Photo
+
+  """ list of attributes that can be used to describe this point """
+  character: [POIAttributes]
+
+  """ distance in miles from the start of the river, used for sort """
+  distance: Float
+
+  """ difficulty of the rapid,  """
+  difficulty: POIClass
+
+  """ description of the rapid """
+  description: String
+
+  """ approximate flag for distance """
+  approximate: Boolean
+
+  """ location """
+  rloc: String
+
+  """ permissions for modifying by the current user """
+  permissions: [PermissionReturn!]!
+
+  """ what photo is it associated with """
+  photo_id: AWID
+
+  """ revision tracks the version of the rapid written """
+  revision: Int
+}
+
+enum POIAttributes {
+  putin
+  takeout
+  access
+  portage
+  hazard
+  waterfall
+  playspot
+  rapid
+  other
+}
+
+"""
+POIClass
+valid values: 'N/A','I','I+','II-','II','II+','III-','III','III+','IV-','IV','IV+','V-','V','V+','VI'
+"""
+scalar POIClass
+
+"""A paginated list of Accident items."""
+type AccidentPaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of Accident items."""
+  data: [Accident!]!
+}
+
+type Accident {
+  id: ID!
+  accident_date: DateTimeISO8601
+  victim_name: String
+  reach_id: AWID
+  country_id: String
+  state: String
+  river: String
+  section: String
+  location: String
+  water_level: String
+  relative_level: String
+  difficulty: String
+  age: Int
+  experience: String
+  privcomm: String
+  boat_type: String
+  group_info: String
+  numvictims: Int
+  other_victim_names: String
+  description: String
+  type: String
+  cause: Int
+  contact_name: String
+  contact_phone: String
+  contact_email: String
+  status: String
+  factors: [Factor!]
+  injuries: [Injury!]
+  causes: [Cause!]
+}
+
+type Factor {
+  factor: String
+}
+
+type Injury {
+  injury: String
+}
+
+type Cause {
+  cause: String
+}
+
+""" Comment type on a river """
+type Comment {
+  id: ID
+  comment: String
+  uid: [User!]
+  comment_date: DateTimeISO8601
+  post_id: AWID
+}
+
+"""Order by clause for the `orderBy` argument on the query `accidents`."""
+input AccidentsOrderByOrderByClause {
+  """The column that is used for ordering."""
+  field: AccidentsOrderByColumn!
+
+  """The direction that is used for ordering."""
+  order: SortOrder!
+}
+
+"""
+Allowed column names for the `orderBy` argument on the query `accidents`.
+"""
+enum AccidentsOrderByColumn {
+  ACCIDENT_DATE
+  REVISION
+}
+
+"""Describes a gauge source"""
+type GaugeSource {
+  """ specifies the source id """
+  source: String
+
+  """ describes the source """
+  title: String
+
+  """ references the URL of the source """
+  url: String
+
+  """ update type describes the update strategy """
+  update_type: GaugeUpdateType
+
+  """ update frequency in sconds """
+  update_frequency: Int
+
+  """ when updates are supposed to start """
+  update_start_time: Time
+
+  """ Used by the guage driver to store information about the gauge """
+  data: ArbitraryJSON
+
+  """ Last updated timestamp """
+  updated: DateTimeISO8601
+
+  """ Last populated, IOW when the gauge checked for new gauges on the source 
+  """
+  populated: DateTimeISO8601
+
+  """ Disclaimer specific to the gauge source """
+  disclaimer: String
+}
+
+"""Describes an update strategy"""
+enum GaugeUpdateType {
+  """ Readings are queried periodically """
+  READING
+
+  """ Source askes for all gauges updated since a given time """
+  HEADER
+
+  """ Source uses a different strategy """
+  MANUAL
+}
+
+""" A time string with format `H:i:s` e.g. `13:00:00`. """
+scalar Time
+
+""" geographic area for a reach """
+input geobox {
+  west: Float!
+  east: Float!
+  north: Float!
+  south: Float!
+}
+
+"""A paginated list of Gauge items."""
+type GaugePaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of Gauge items."""
+  data: [Gauge!]!
+}
+
+type ArticlesInSections {
+  sections: [ArticleSection]
+  articles: [Article]
+}
+
+type ArticleSection {
+  name: String
+  title: String
+  lookup: String
+  description: String
+  deleted: Boolean
+  total_articles: Int
+  articles: [ArticleSummary]
+}
+
+type ArticleSummary {
+  id: AWID
+  section: String
+  section_expiration: DateTimeISO8601
+}
+
+type GaugeInformationForReach {
+  """ intrepretation of the gauge, includes rc """
+  gauges: [GaugeInterpretation]
+
+  """ metrics list """
+  metrics: [GaugeReadingMetric]
+
+  """ the raw ranges used in the intrepretation of the gauge """
+  ranges: [GaugeReadingRange]
+}
+
+"""
+This is the code-calculated RC and details as provided by the gauge server - it as calculated in code
+"""
+type GaugeInterpretation {
+  """crux of the interpretation 0<= low, 0-1 running, >=1 high"""
+  rc: Float
+
+  """ gauge reading """
+  gauge_reading: Float
+
+  """ comment about the range (e.g. 'scrapy') """
+  range_comment: String
+
+  """ class of the river at this level """
+  class: String
+
+  """ excluded by definition """
+  excluded: Boolean
+
+  """ URL to the gauge that applies """
+  url: String
+
+  """calculated total range running min"""
+  rmin: Float
+
+  """calculated total range running max """
+  rmax: Float
+
+  """ the minimum of the range R0 = bottom runnable R9=top runnable R5,medium 
+  """
+  range_min: GaugeRange
+
+  """ the max of the range R0 = bottom runnable R9=top runnable R5,medium """
+  range_max: GaugeRange
+
+  """ target gauge ID -- for a correlation you'll trace a Correlation gauge 
+  """
+  targetid: Int
+
+  """ source gauge ID -- what is this definition based on, you'll trace a Correlation gauge 
+  """
+  sourceid: Int
+
+  """ min for this range -- use rmax for displaying a running max and min  """
+  min: Float
+
+  """ max for this range -- use rmax for displaying a running max and min """
+  max: Float
+
+  """ subtract or add on this amount in seconds when reporting time, acounts for downstream lag on a gauge 
+  """
+  time_adjustment: Float
+
+  """ dependency header ID, only useful for replacing in an update/tracking  
+  """
+  dhid: Int
+
+  """ dependency ID, only useful for replacing in an update/tracking  """
+  id: Int
+
+  """ dependency detail id, , only useful for replacing in an update/tracking  
+  """
+  did: Int
+
+  """ another way to express last update """
+  epoch: Float
+  gauge: Gauge
+  metric: GaugeReadingMetric
+
+  """date of update """
+  updated: Float
+
+  """actual reading recorded"""
+  reading: Float
+
+  """metric id for the gauge"""
+  gauge_metric: Int
+
+  """last reading recorded"""
+  last_gauge_reading: Float
+
+  """last date of update """
+  last_gauge_updated: Int
+
+  """ comment about the gauge """
+  gauge_comment: String
+  gauge_data: String
+
+  """ indicate if this is a perfect range """
+  gauge_perfect: Boolean
+
+  """ indicate approximation """
+  gauge_estimated: Boolean
+
+  """ indicate to emphasize this range """
+  gauge_important: Boolean
+
+  """ what is the class at this range """
+  adjusted_reach_class: String
+  gauge_min: Float
+  gauge_max: Float
+  obs_id: AWID
+
+  """ the ID of the gauge we are tracking """
+  gauge_id: Int
+
+  "\t\twhen reporting a reading, wait this long in seconds before assuming the primary gauge is down.\n\t\tthis is a bit like a rank. 0 is default, but if you have two 0 correlation headers you will get\n\t\ttwo gauges that will report the last-updated, that is fine for two sources for the same reading, but\n\t\tif you have a primary gauge, make it zero, and then a secondary that you want to report if the\n\t\tprimary gauge hasn't reported in 4 hours, set this to 4*60*60. If you have a third gauge that you want\n\t\tto report only after a day then use 24*60*60. The reported value will be the most recent one, so this\n\t\tonly affects ranking."
+  delay_update: Int!
+}
+
+enum GaugeRange {
+  """ no water what so ever"""
+  L0
+  L1
+  L2
+  L3
+  L4
+  L5
+  L6
+  L7
+  L8
+
+  """ Low, close to runnable but a boat couldn't get down"""
+  L9
+
+  """ Low scrapey"""
+  R0
+  R1
+  R2
+  R3
+  R4
+
+  """ Nice medium """
+  R5
+  R6
+  R7
+  R8
+
+  """ hardest, highest possible to run """
+  R9
+
+  """ Not possible to boat,but close to boatable range """
+  H0
+  H1
+  H2
+  H3
+  H4
+  H5
+  H6
+  H7
+  H8
+
+  """floodier than flood"""
+  H9
+}
+
+"""
+these are the ranges defined for the river, it is possible to calculate an RC from the information here
+"""
+type GaugeReadingRange {
+  """ the minimum of the range R0 = bottom runnable R9=top runnable R5,medium 
+  """
+  range_min: GaugeRange
+
+  """ the max of the range R0 = bottom runnable R9=top runnable R5,medium """
+  range_max: GaugeRange
+
+  """ target gauge ID -- for a correlation you'll trace a Correlation gauge 
+  """
+  targetid: Int
+
+  """ source gauge ID -- what is this definition based on, you'll trace a Correlation gauge 
+  """
+  sourceid: Int
+
+  """ min for this range """
+  min: Float
+
+  """ max for this range """
+  max: Float
+
+  """ subtract or add on this amount in seconds when reporting time, acounts for downstream lag on a gauge 
+  """
+  time_adjustment: Float
+
+  """ dependency header ID, only useful for replacing in an update/tracking  
+  """
+  dhid: Int
+
+  """ dependency ID, only useful for replacing in an update/tracking  """
+  id: Int
+
+  """ dependency detail id, , only useful for replacing in an update/tracking  
+  """
+  did: Int
+
+  """ another way to express last update, unix epoch """
+  epoch: Float
+  gauge: Gauge
+  metric: GaugeReadingMetric
+
+  """date of update """
+  updated: Float
+
+  """actual reading recorded"""
+  reading: Float
+
+  """metric id for the gauge"""
+  gauge_metric: Int
+
+  """last reading recorded"""
+  last_gauge_reading: Float
+
+  """last date of update """
+  last_gauge_updated: Int
+
+  """ comment about the gauge """
+  gauge_comment: String
+  gauge_data: String
+
+  """ comment about the range (e.g. 'scrapy') """
+  range_comment: String
+
+  """ indicate if this is a perfect range """
+  gauge_perfect: Boolean
+
+  """ indicate approximation """
+  gauge_estimated: Boolean
+
+  """ indicate to emphasize this range """
+  gauge_important: Boolean
+
+  """ what is the class at this range """
+  adjusted_reach_class: String
+  gauge_min: Float
+  gauge_max: Float
+  obs_id: AWID
+
+  """ the ID of the gauge we are tracking """
+  gauge_id: Int
+}
+
+type GaugeCorrelation {
+  """ the gauge id that gets the update """
+  source: Gauge
+
+  """ the gauge id affected by the update """
+  target: Gauge
+
+  """ when reporting time move the clock up (positive) or down (negative) in seconds. 
+  """
+  time_adjustment: Int!
+
+  """ metric to watch """
+  metric: GaugeReadingMetric
+
+  """ is the value estimated? indicated in the UI usually with a ~ so like ~7ft. 
+  """
+  estimated: Boolean!
+
+  """ id of correlation """
+  id: ID!
+
+  """ UID that made the correlation """
+  user: User
+
+  """ exclude from the gauge summary, but shows in detail """
+  excluded: Boolean!
+
+  "\t\twhen reporting a reading, wait this long in seconds before assuming the primary gauge is down.\n\t\tthis is a bit like a rank. 0 is default, but if you have two 0 correlation headers you will get\n\t\ttwo gauges that will report the last-updated, that is fine for two sources for the same reading, but\n\t\tif you have a primary gauge, make it zero, and then a secondary that you want to report if the\n\t\tprimary gauge hasn't reported in 4 hours, set this to 4*60*60. If you have a third gauge that you want\n\t\tto report only after a day then use 24*60*60. The reported value will be the most recent one, so this\n\t\tonly affects ranking."
+  delay_update: Int!
+  ranges: [GaugeCorrelationRange]
+  permissions: [PermissionReturn!]!
+}
+
+type GaugeCorrelationRange {
+  """ ID of this header """
+  id: ID!
+
+  """ min value in range """
+  min: Float
+
+  """ max value in range """
+  max: Float
+
+  """ user writing this """
+  user: User
+
+  """ perfect range, marked on ranges where the river is perfect, UI displays thumbs-up 
+  """
+  perfect: Boolean
+
+  """ important comment on this range, marked for ranges where emphasizing the comment is important 
+  """
+  important: Boolean
+
+  """
+  min range, on a simple gauge R0
+  gauge range representing the bottom of this range, example is if a river has a perfect middle range, so
+  0-200 is OK, 200-300 is perfect, 300-900 is fine, create three correlation ranges like so:
+  R0-R3 0-200, R3-R6 200-300 perfect, R6-R9 300-900 important "has killed people"
+  """
+  range_min: GaugeRange!
+
+  """ range_max, on a simple gauge R9 """
+  range_max: GaugeRange!
+
+  """ if the reach class changes, display this as difficulty for the range."""
+  adjusted_reach_class: String
+
+  """ range comment, to display as info on the range """
+  range_comment: String
+  permissions: [PermissionReturn!]!
+}
+
+type Document {
+  short_name: String
+  id: ID
+  abstract: String
+  document: String
+  document_size: Int
+  description: String
+  uri: String
+  user: User
+  keywords: String
+  edit_date: DateTimeISO8601
+  recipient: Contact
+  author: Contact
+  title: String
+}
+
+"""A paginated list of Document items."""
+type DocumentPaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of Document items."""
+  data: [Document!]!
+}
+
+type Project {
+  id: ID
+  name: String
+  description: String
+  user: User
+  short_name: String
+  edit_date: DateTimeISO8601
+}
+
+"""A paginated list of Project items."""
+type ProjectPaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of Project items."""
+  data: [Project!]!
+}
+
+enum LinkerSourceType {
+  USER
+
+  """general message shown to a member"""
+  MEMBER_GENERNAL_MESSAGE
+
+  """general message shown to a non-member"""
+  NONMEMBER_GENERAL_MESSAGE
+
+  """message or a resource shown to a member"""
+  MEMBER_MESSAGE
+
+  """message for a nonmember"""
+  NONMEMBER_MESSAGE
+
+  """
+  message shown to a non-member with emphasis on a particular volunteer drive
+  """
+  BLACKOUT_MESSAGE
+  RIVER
+  GAUGE
+  EVENT
+  WIKI
+  PROJECT
+  ARTICLE
+  CLUB
+  REGION
+  DOCUMENT
+  LISTING_GROUP
+}
+
+"""
+this is the wrapper for a linked resource so as to group them in a common structure
+"""
+type LinkedResource {
+  type: LinkerSourceType
+  data: [LinkedData]
+}
+
+union LinkedData = Article | User | Gauge | Reach | Project | Document | Event | Affiliate
+
+"""These are clubs that are associated with AW"""
+type Affiliate {
+  name: String
+  url: String
+  email: String
+  members: Int
+  contact: String
+  abstract: String
+  description: String
+  volunteer: User
+  city: String
+
+  """2-Letter State Code"""
+  state: String
+  expiration: DateTimeISO8601
+}
+
+"""A paginated list of Affiliate items."""
+type AffiliatePaginator {
+  """Pagination information about the list of items."""
+  paginatorInfo: PaginatorInfo!
+
+  """A list of Affiliate items."""
+  data: [Affiliate!]!
+}
+
+type Mutation {
+  """ returns string passed as a test  """
+  echoTest(test: String): String
+
+  """ write an article """
+  articleUpdate(id: ID!, article: ArticleInput!): Article
+  articleDelete(id: ID!): Article
+
+  """ updates a user record, at this point to attach mobile information (see UserInput) 
+  """
+  userUpdate(id: ID, User: UserInput): User!
+
+  """ add a user id (ID) to a listing, listings will allow users to sign up to certain groups, this will fail if the non-admin to a non-public group 
+  """
+  directoryContactUpdate(id: ID, listing: ContactListingInput): ContactListing
+
+  """ remove a user id from a listing and area (e.g. "sk","123" to remove stream team privs) 
+  """
+  directoryContactDelete(id: ID, listing: String!, area: String!): ContactListing
+
+  """ create/update a post to the backend, users can only edit their own post unless post is attached to a reach, then reach editors can update it  
+  """
+  postUpdate(
+    """ if no id is specified the ID will be generated, otherwise update/create id specified 
+    """
+    id: ID
+
+    """ fields for the post """
+    post: PostInput!
+  ): Post
+  postDelete(id: ID!): Post
+
+  """
+  send a photo record up to record,
+  file is sent with photoFileUpdate with appropriate section and section_id
+  users can replace their own photos, website users can upload photos
+  """
+  photoUpdate(
+    """ if id is specified, replace the photo, if none specified create"""
+    id: ID
+
+    """ photo """
+    photo: PhotoInput!
+  ): Photo
+
+  """
+  Associate a photo with a section and section ID,
+  On create - section and section id tell the photo where to go, one step can allow upload to a reach gallery, rapid, reach banner or existing post.
+  When the id is specified this will update the photo, when not specified it will create a new id to associate with the uploaded file.
+  All photos are owned by a post.
+  On replace set section and section id to the existing photos's post with section type being a post.
+  Users can replace thier own files, website users can upload photos, but a check with photo security is probably the safest way to know who can upload.
+  """
+  photoFileUpdate(
+    """ UUID of existing or new photo file, if not specified then it will create a new photo 
+    """
+    id: ID
+
+    """ where are we attaching this photo, could be a gallery, rapid, river header, or a post, if 
+    """
+    fileinput: PhotoFileInput!
+
+    """ optional information to place with the upload, defaults set if not speicifed 
+    """
+    photo: PhotoInput
+  ): Photo
+
+  """Removes a photo from the database that would otherwise exist."""
+  photoDelete(id: ID!): Photo
+
+  """ updates or creates a rapid with a UUID given """
+  poiUpdate(
+    """ when specified id will identify the POI to update, when omitted it will create a POI 
+    """
+    id: ID
+
+    """ POI, if omitted the field will default to existing """
+    poi: POIInput!
+  ): POI
+
+  """
+   updates or creates a reach with a ID (from nextReachID) given
+  states is an array of two-letter state strings (see states query including foreign states we support)
+  gis is space separated lat/lon with comma-separated toubles as points.
+  """
+  reachUpdate(
+    """ ID is numeric (nextReachID query), when omitted this will create a reach  
+    """
+    id: ID
+
+    """ reach input has fields to update, when omitted they will default in create, or not update in update 
+    """
+    reach: ReachInput!
+  ): Reach
+
+  """ removes a POI """
+  poiDelete(
+    """ id to update """
+    id: ID!
+  ): POI
+
+  """ remove/delist a reach """
+  reachDelete(
+    """id to remove """
+    id: ID!
+  ): Reach
+
+  """ updates the revision comment for a committed reach """
+  reachRevisionUpdate(
+    """ reach id"""
+    id: ID
+
+    """ revision to update"""
+    revision: Int
+
+    """ comment is the comment to change the comment to"""
+    comment: String
+  ): Reach
+
+  """ Makes a former version of a reach edit the actively displayed reach """
+  reachRollback(
+    """ reach id"""
+    id: ID
+
+    """ revision to roll back to (or make current)"""
+    revision: Int
+  ): Reach
+
+  """ updates or creates a rapid with a UUID given """
+  gaugeCorrelationUpdate(id: ID, correlation: GaugeCorrelationInput): GaugeCorrelation
+  gaugeCorrelationDelete(id: ID!): GaugeCorrelation
+
+  """ updates or creates a rapid with a UUID given """
+  gaugeCorrelationRangeUpdate(id: ID, range: GaugeCorrelationRangeInput): GaugeCorrelationRange
+  gaugeCorrelationRangeDelete(id: ID!): GaugeCorrelationRange
+  login(input: LoginInput): AuthPayload!
+  refreshToken(input: RefreshTokenInput): RefreshTokenPayload!
+  logout: LogoutResponse!
+  forgotPassword(input: ForgotPasswordInput!): ForgotPasswordResponse!
+  updateForgottenPassword(input: NewPasswordWithCodeInput): ForgotPasswordResponse!
+  register(input: RegisterInput): AuthPayload!
+}
+
+""" Represents an incoming article in the system """
+input ArticleInput {
+  title: String
+  author: String
+
+  """ short intro to the article"""
+  abstract: String
+  icon: String
+
+  """ contents of the article """
+  contents: String
+  contact: String
+  posted_date: DateTimeISO8601
+  short_name: String
+  uid: AWID
+  release_date: DateTimeISO8601
+}
+
+"""
+Attaches an arbitrary JSON object to a user
+Will be expanded to include other relevant writable fields
+"""
+input UserInput {
+  mobile_profile: ArbitraryJSON
+}
+
+""" Main reason you will use this is to add a user to the "sk" or "steward" groups for a river
+"""
+input ContactListingInput {
+  """ listing to update (steward, sk are examples for river) """
+  listing: String!
+
+  """ area is reach_id or whatever area """
+  area: String!
+
+  """ title if any """
+  title: String
+
+  """ don't notify user on updates """
+  mailing_exempt: Boolean
+
+  """ can this user remove and add other users """
+  manager: Boolean
+
+  """ can this user be displayed in this group """
+  can_display: Boolean
+
+  """ sort order for display """
+  sort_id: Int
+}
+
+type ContactListing {
+  listing: String!
+  area: String!
+  title: String
+  mailing_exempt: Boolean
+  manager: Boolean
+  can_display: Boolean
+  sort_id: Int
+}
+
+""" defines how a post is written """
+input PostInput {
+  """ short caption of what is going on """
+  title: String
+
+  """ paragraph description """
+  detail: String
+
+  """ post types see https://github.com/AmericanWhitewater/wh2o/wiki/Post-Types
+  """
+  post_type: PostType!
+
+  """ date of the post """
+  post_date: DateTimeISO8601!
+
+  """ reach we are attaching the post to"""
+  reach_id: AWID
+
+  """ gauge we attaching thie post to """
+  gauge_id: AWID
+
+  """ who is making the post """
+  user_id: AWID
+
+  """ how is flow estimated, stage? relative can be simply """
+  metric_id: Int
+
+  """ actual numerical reading """
+  reading: Float
+
+  """ relative flow if used with reach_id - too high > 1.0, flowing 0-1, low <0, consider -0.5,.5,1.5 for too low,flowing,too high 
+  """
+  observation: Float
+}
+
+"""
+Supports the information from a file upload.
+The proper order for photo upload, if complicated,
+is to get an ID from PhotoInput, quick uploads can be supported with the postPhoto 
+"""
+input PhotoInput {
+  """ caption of photo """
+  caption: String
+
+  """ description of photo  """
+  description: String
+
+  """ post to attach to  """
+  post_id: AWID
+
+  """ person or thing in the photo  """
+  subject: String
+
+  """ author of he photo  """
+  author: String
+
+  """ rapid name if free text  """
+  poi_name: String
+
+  """ rapid selected, if null use rapid_name  """
+  poi_id: AWID
+  photo_date: DateTimeISO8601
+}
+
+""" simplifies photo update by trying to specifiy area of the upload with the file.
+"""
+input PhotoFileInput {
+  """ multipart upload (see apollo docs)  """
+  file: Upload
+
+  """ section to post to (applies to a new photo)  """
+  section: PhotoSectionsType
+
+  """ UUID of new or existing "section" """
+  section_id: AWID
+}
+
+"""
+Can be used as an argument to upload files using https://github.com/jayccdenseric/graphql-multipart-request-spec
+"""
+scalar Upload
+
+""" When a photo is uploaded it is attached to one of the following things 
+"""
+enum PhotoSectionsType {
+  """ Rougly a post, section_id refers to a POST ID """
+  POST
+
+  """ attach to a rapid, section_id is a rapid ID """
+  RAPID
+
+  """ attach as the header image of a reach, section ID refers to the reach id
+  """
+  REACH
+
+  """ attach to a reach as a new photo upload, section ID refers to a reach_id 
+  """
+  GALLERY
+}
+
+"""POI Input - used for create/update."""
+input POIInput {
+  """ name of the fature """
+  name: String
+
+  """ feature type attributes """
+  character: [POIAttributes]
+
+  """ distance from putin """
+  distance: Float
+
+  """ difficulty -- I,II,III,IV,V,VI -- """
+  difficulty: POIClass
+
+  """ description of the POI """
+  description: String
+
+  """ sets if it is a guess as to the location """
+  approximate: Boolean
+
+  """ point (format like "-43.2 100") the location is at, null if no location 
+  """
+  rloc: Point
+
+  """ what reach is it associated with """
+  reach_id: AWID
+
+  """ what photo is it associated with """
+  photo_id: AWID
+}
+
+""" see above reach fields """
+input ReachInput {
+  """ Name of the river """
+  river: String
+
+  """ Name of the section """
+  section: String
+
+  """ Common name of the section """
+  altname: String
+
+  """ county name -- optional """
+  county: String
+
+  """ zip  -- optional """
+  zipcode: String
+
+  """ length in miles with fraction, mostly reported  """
+  length: Float
+
+  """ gradient in ft/mile, reported """
+  avggradient: Int
+
+  """ max gradient in ft/mile, reported """
+  maxgradient: Int
+
+  """ land agency name (if any) for adminstration of permits and land """
+  agency: String
+
+  """ paragraph explaining the gauges  """
+  gaugeinfo: String
+
+  """ multi paragraph explaining the section  """
+  description: String
+
+  """ banner photo ID  """
+  photo_id: AWID
+
+  """ permit id -- from the permit database """
+  permitid: Int
+
+  """ HUC code drainage, will be assigned with proper location """
+  huc: String
+  plat: Float
+  plon: Float
+  prrn: String
+  tlat: Float
+  tlon: Float
+  trrn: String
+
+  """ last editor's ID """
+  skid: AWID
+
+  """ verfified (v) unverified (u) and "r" removed """
+  status: String
+
+  """ edited time/date """
+  edited: DateTimeISO8601
+  class: ReachClass
+  ploc: Point
+  tloc: Point
+  thumboverride: Boolean
+  shuttledetails: String
+
+  """ short 1-2 sentence description of the reach used on hover on the map """
+  abstract: String
+
+  """ when we had routing, this would indicate the zip to show as the start (e.g. zip of the local town) 
+  """
+  direction_default: Int
+
+  """ destination string when we had routing built into the app """
+  custom_destination: String
+
+  """ comment left by the SK indicating what changed """
+  revision_comment: String
+
+  """ URL for signing up for a permit """
+  permiturl: String
+
+  """ paragraph on how to permit """
+  permitinfo: String
+
+  """ when set to a non-zero indicates that the image should be used without scaling in the banner, may include a transform such as a zoom or crop in css transition tag format 
+  """
+  image_override: String
+
+  """ this is the geometry for the reach """
+  geom: LineString
+
+  """ keys related to states, specify like ['VA','WA'] """
+  states: [String]
+}
+
+"""
+By itself, if you add this to target a river gauge,
+you will get a link between the source id and the river. In that case it should show a listing.
+If you add ranges then you will get interpretations of the gauge.
+"""
+input GaugeCorrelationInput {
+  """ the gauge id that gets the update """
+  source_id: Int!
+
+  """ the gauge id affected by the update """
+  target_id: Int!
+
+  """ when reporting time move the clock up (positive) or down (negative) in seconds. 
+  """
+  time_adjustment: Int!
+
+  """ metric to watch """
+  metric_id: Int!
+
+  """ is the value estimated? indicated in the UI usually with a ~ so like ~7ft. 
+  """
+  estimated: Boolean!
+
+  """ UID that made the correlation """
+  uid: Int!
+
+  """ exclude from the gauge summary, but shows in detail """
+  excluded: Boolean!
+
+  "\t\twhen reporting a reading, wait this long in seconds before assuming the primary gauge is down.\n\t\tthis is a bit like a rank. 0 is default, but if you have two 0 correlation headers you will get\n\t\ttwo gauges that will report the last-updated, that is fine for two sources for the same reading, but\n\t\tif you have a primary gauge, make it zero, and then a secondary that you want to report if the\n\t\tprimary gauge hasn't reported in 4 hours, set this to 4*60*60. If you have a third gauge that you want\n\t\tto report only after a day then use 24*60*60. The reported value will be the most recent one, so this\n\t\tonly affects ranking."
+  delay_update: Int!
+}
+
+"""Adds a range to interpret running or not running to a correlation"""
+input GaugeCorrelationRangeInput {
+  """ min value in range """
+  min: Float
+
+  """ max value in range """
+  max: Float
+
+  """ user writing this """
+  uid: Int!
+
+  """ perfect range, marked on ranges where the river is perfect, UI displays thumbs-up 
+  """
+  perfect: Boolean
+
+  """ important comment on this range, marked for ranges where emphasizing the comment is important 
+  """
+  important: Boolean
+
+  """
+  min range, on a simple gauge R0
+  gauge range representing the bottom of this range, example is if a river has a perfect middle range, so
+  0-200 is OK, 200-300 is perfect, 300-900 is fine, create three correlation ranges like so:
+  R0-R3 0-200, R3-R6 200-300 perfect, R6-R9 300-900 important "has killed people"
+  """
+  range_min: GaugeRange!
+
+  """ range_max, on a simple gauge R9 """
+  range_max: GaugeRange!
+
+  """ if the reach class changes, display this as difficulty for the range."""
+  adjusted_reach_class: String
+
+  """ range comment, to display as info on the range """
+  range_comment: String
+
+  """ ID of the header """
+  correlation_id: Int!
+}
+
+input LoginInput {
+  username: String!
+  password: String!
+}
+
+type AuthPayload {
+  access_token: String!
+  refresh_token: String!
+  expires_in: Int!
+  token_type: String!
+  user: User!
+}
+
+input RefreshTokenInput {
+  refresh_token: String
+}
+
+type RefreshTokenPayload {
+  access_token: String!
+  refresh_token: String!
+  expires_in: Int!
+  token_type: String!
+}
+
+type LogoutResponse {
+  status: String!
+  message: String
+}
+
+input ForgotPasswordInput {
+  email: String!
+}
+
+type ForgotPasswordResponse {
+  status: String!
+  message: String
+}
+
+input NewPasswordWithCodeInput {
+  email: String!
+  token: String!
+  password: String!
+  password_confirmation: String!
+}
+
+input RegisterInput {
+  name: String!
+  email: String!
+  password: String!
+  password_confirmation: String!
+}
+
+"""Used to query regions"""
+type Region {
+  id: ID
+  name: String
+}
+
+"""Pagination information about the corresponding list of items."""
+type PageInfo {
+  """When paginating forwards, are there more items?"""
+  hasNextPage: Boolean!
+
+  """When paginating backwards, are there more items?"""
+  hasPreviousPage: Boolean!
+
+  """When paginating backwards, the cursor to continue."""
+  startCursor: String
+
+  """When paginating forwards, the cursor to continue."""
+  endCursor: String
+
+  """Total number of node in connection."""
+  total: Int
+
+  """Count of nodes in current request."""
+  count: Int
+
+  """Current page of request."""
+  currentPage: Int
+
+  """Last page in connection."""
+  lastPage: Int
+}
+
+"""Allows ordering a list of records."""
+input OrderByClause {
+  """The column that is used for ordering."""
+  field: String!
+
+  """The direction that is used for ordering."""
+  order: SortOrder!
+}
+
+"""
+Specify if you want to include or exclude trashed results from a query.
+"""
+enum Trashed {
+  """Only return trashed results."""
+  ONLY
+
+  """Return both trashed and non-trashed results."""
+  WITH
+
+  """Only return non-trashed results."""
+  WITHOUT
+}

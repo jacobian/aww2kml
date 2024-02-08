@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11951">
+        <name>Mongaup - Rio Powerhouse to Delaware River</name>
+        <Placemark id="11953">
+            <name>Mongaup - Rio Powerhouse to Delaware River</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="11952">
+                <coordinates>-74.758458,41.461693,0.0 -74.758487,41.461526,0.0 -74.758642,41.461402,0.0 -74.758716,41.461362,0.0 -74.758768,41.461206,0.0 -74.759238,41.461137,0.0 -74.759529,41.461024,0.0 -74.759897,41.460692,0.0 -74.759807,41.460169,0.0 -74.759944,41.45941,0.0 -74.759813,41.458751,0.0 -74.759461,41.45751,0.0 -74.759271,41.45665,0.0 -74.7588,41.455565,0.0 -74.758714,41.454649,0.0 -74.758805,41.454292,0.0 -74.759394,41.453587,0.0 -74.760031,41.452384,0.0 -74.760659,41.451316,0.0 -74.761647,41.449855,0.0 -74.761862,41.448561,0.0 -74.76192,41.447653,0.0 -74.761938,41.445277,0.0 -74.761691,41.444593,0.0 -74.761342,41.444242,0.0 -74.760359,41.444055,0.0 -74.759628,41.443874,0.0 -74.759145,41.443129,0.0 -74.758781,41.442673,0.0 -74.75851,41.442447,0.0 -74.75827,41.442156,0.0 -74.758171,41.441936,0.0 -74.75758,41.440785,0.0 -74.757182,41.439503,0.0 -74.75721,41.439262,0.0 -74.757056,41.439076,0.0 -74.756691,41.438559,0.0 -74.756247,41.43738,0.0 -74.756018,41.435218,0.0 -74.755711,41.434366,0.0 -74.755455,41.43408,0.0 -74.754969,41.433629,0.0 -74.754359,41.433417,0.0 -74.75388,41.433437,0.0 -74.752794,41.433615,0.0 -74.752317,41.43354,0.0 -74.751488,41.432949,0.0 -74.751212,41.43248,0.0 -74.751162,41.431785,0.0 -74.751348,41.430923,0.0 -74.751965,41.430279,0.0 -74.754319,41.429416,0.0 -74.754798,41.429109,0.0 -74.755699,41.428179,0.0 -74.756175,41.427694,0.0 -74.756116,41.427054,0.0 -74.755323,41.425669,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11955">
+            <name>Cliffs (II)</name>
+            <Point id="11954">
+                <coordinates>-74.758499,41.4617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11957">
+            <name>Upper section</name>
+            <Point id="11956">
+                <coordinates>-74.753606,41.475148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11959">
+            <name>Put In</name>
+            <Point id="11958">
+                <coordinates>-74.758499,41.4617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11961">
+            <name>Just go Left (II)</name>
+            <Point id="11960">
+                <coordinates>-74.758997,41.456018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11963">
+            <name>Bridge Rapid (II)</name>
+            <Point id="11962">
+                <coordinates>-74.755824,41.426546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11965">
+            <name>Takeout on the Delaware (Downstream) (None)</name>
+            <Point id="11964">
+                <coordinates>-74.754204,41.4258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11967">
+            <name>Canoe Lunch Spot (I)</name>
+            <Point id="11966">
+                <coordinates>-74.755824,41.426546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11969">
+            <name>Beach Takeout (None)</name>
+            <Point id="11968">
+                <coordinates>-74.7537,41.4258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11971">
+            <name>Boof Rock Lunch Spot (II+)</name>
+            <Point id="11970">
+                <coordinates>-74.759452,41.443626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11973">
+            <name>Makeout Takeout (Upper)</name>
+            <Point id="11972">
+                <coordinates>-74.756362,41.427281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11975">
+            <name>Takeout on the Delaware (Upstream)</name>
+            <Point id="11974">
+                <coordinates>-74.756662,41.424377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11977">
+            <name>Powerhouse wave (II)</name>
+            <Point id="11976">
+                <coordinates>-74.758499,41.4617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11979">
+            <name>Lower Rapid (II+)</name>
+            <Point id="11978">
+                <coordinates>-74.754452,41.433414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11981">
+            <name>Put in</name>
+            <Point id="11980">
+                <coordinates>-74.758499,41.4617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11983">
+            <name>Take out</name>
+            <Point id="11982">
+                <coordinates>-74.756897,41.4244,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

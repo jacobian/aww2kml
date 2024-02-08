@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26449">
+        <name>Sturgeon (Baraga) - C) Sturgeon Canyon: Hwy.41 to Upper Falls  (0.75 miles)</name>
+        <Placemark id="26451">
+            <name>Sturgeon (Baraga) - C) Sturgeon Canyon: Hwy.41 to Upper Falls  (0.75 miles)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26450">
+                <coordinates>-88.470424,46.62528,0.0 -88.471029,46.625117,0.0 -88.471535,46.624826,0.0 -88.471909,46.624566,0.0 -88.472344,46.62446,0.0 -88.473004,46.62446,0.0 -88.473961,46.624638,0.0 -88.474319,46.624471,0.0 -88.474528,46.624026,0.0 -88.474918,46.623704,0.0 -88.475931,46.623115,0.0 -88.476167,46.622922,0.0 -88.476178,46.622677,0.0 -88.476475,46.622518,0.0 -88.476739,46.622439,0.0 -88.477119,46.622461,0.0 -88.477234,46.622337,0.0 -88.477273,46.622095,0.0 -88.477713,46.621929,0.0 -88.478351,46.62197,0.0 -88.478775,46.621694,0.0 -88.479154,46.6214,0.0 -88.479409,46.621171,0.0 -88.479734,46.621069,0.0 -88.480036,46.620823,0.0 -88.480576,46.620766,0.0 -88.481241,46.620902,0.0 -88.48172,46.620997,0.0 -88.482242,46.621129,0.0 -88.482468,46.621103,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26453">
+            <name>Warm-up Waves (II+)</name>
+            <Point id="26452">
+                <coordinates>-88.474152,46.624435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26455">
+            <name>Heart of the Canyon (III+)</name>
+            <Point id="26454">
+                <coordinates>-88.477287,46.622131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26457">
+            <name>Upper Falls (III+)</name>
+            <Point id="26456">
+                <coordinates>-88.481667,46.62101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26459">
+            <name>Canyon Falls (IV)</name>
+            <Point id="26458">
+                <coordinates>-88.476379,46.622559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26461">
+            <name>Unnamed Falls (IV)</name>
+            <Point id="26460">
+                <coordinates>-88.480003,46.6208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26463">
+            <name>Put In</name>
+            <Point id="26462">
+                <coordinates>-88.470398,46.625401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26465">
+            <name>Put in</name>
+            <Point id="26464">
+                <coordinates>-88.470424,46.62528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26467">
+            <name>Take out</name>
+            <Point id="26466">
+                <coordinates>-88.482468,46.621103,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

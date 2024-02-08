@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18661">
+        <name>Elk Creek - Granite Creek to Sulphur Springs</name>
+        <Placemark id="18663">
+            <name>Elk Creek - Granite Creek to Sulphur Springs</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="18662">
+                <coordinates>-123.31899,41.659014,0.0 -123.319334,41.659471,0.0 -123.319644,41.660031,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="18665">
+            <name>Put in</name>
+            <Point id="18664">
+                <coordinates>-123.31899,41.659014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18667">
+            <name>Take out</name>
+            <Point id="18666">
+                <coordinates>-123.319644,41.660031,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

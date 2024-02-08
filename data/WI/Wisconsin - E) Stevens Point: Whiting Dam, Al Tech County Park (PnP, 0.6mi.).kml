@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="22811">
+        <name>Wisconsin - E) Stevens Point: Whiting Dam, Al Tech County Park (PnP, 0.6mi.)</name>
+        <Placemark id="22813">
+            <name>Wisconsin - E) Stevens Point: Whiting Dam, Al Tech County Park (PnP, 0.6mi.)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="22812">
+                <coordinates>-89.578523,44.487872,0.0 -89.578189,44.487243,0.0 -89.578158,44.486665,0.0 -89.577591,44.486274,0.0 -89.57521,44.485956,0.0 -89.574329,44.485053,0.0 -89.573832,44.484395,0.0 -89.573873,44.483549,0.0 -89.574335,44.482753,0.0 -89.574568,44.481785,0.0 -89.574638,44.481329,0.0 -89.57475,44.480975,0.0 -89.573889,44.480397,0.0 -89.573808,44.479247,0.0 -89.573443,44.478532,0.0 -89.572572,44.477635,0.0 -89.571751,44.477361,0.0 -89.570708,44.477411,0.0 -89.569917,44.478055,0.0 -89.569927,44.480043,0.0 -89.570545,44.480303,0.0 -89.571386,44.480411,0.0 -89.571467,44.479724,0.0 -89.571234,44.479204,0.0 -89.570525,44.478929,0.0 -89.568843,44.479826,0.0 -89.567618,44.480064,0.0 -89.566615,44.479876,0.0 -89.565662,44.480418,0.0 -89.564264,44.480621,0.0 -89.56241,44.480852,0.0 -89.560283,44.481192,0.0 -89.557831,44.480903,0.0 -89.556489,44.480398,0.0 -89.555253,44.47909,0.0 -89.554655,44.478215,0.0 -89.554219,44.476928,0.0 -89.554432,44.475894,0.0 -89.554736,44.475193,0.0 -89.556468,44.473552,0.0 -89.55544,44.471543,0.0 -89.554384,44.46993,0.0 -89.553404,44.468596,0.0 -89.553227,44.467573,0.0 -89.553592,44.465859,0.0 -89.554272,44.46459,0.0 -89.55567,44.463115,0.0 -89.557568,44.462261,0.0 -89.559888,44.461755,0.0 -89.563166,44.461866,0.0 -89.565466,44.46282,0.0 -89.567934,44.463834,0.0 -89.570193,44.466278,0.0 -89.571103,44.467159,0.0 -89.572025,44.467318,0.0 -89.57247,44.470239,0.0 -89.573289,44.475256,0.0 -89.574069,44.475704,0.0 -89.575366,44.478523,0.0 -89.57491,44.480995,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="22815">
+            <name>Put In</name>
+            <Point id="22814">
+                <coordinates>-89.5785,44.4879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22817">
+            <name>Dam Bypass</name>
+            <Point id="22816">
+                <coordinates>-89.574684,44.481487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22819">
+            <name>Island Waves</name>
+            <Point id="22818">
+                <coordinates>-89.574838,44.485565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22821">
+            <name>Take Out</name>
+            <Point id="22820">
+                <coordinates>-89.574913,44.480986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22823">
+            <name>Low Head Dam</name>
+            <Point id="22822">
+                <coordinates>-89.574017,44.48151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22825">
+            <name>BLM managed island: 1.6 ac</name>
+            <Point id="22824">
+                <coordinates>-89.55538,44.470626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22827">
+            <name>BLM managed island: 6.4 ac</name>
+            <Point id="22826">
+                <coordinates>-89.568041,44.465405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22829">
+            <name>Put in</name>
+            <Point id="22828">
+                <coordinates>-89.578523,44.487872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22831">
+            <name>Take out</name>
+            <Point id="22830">
+                <coordinates>-89.57491,44.480995,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

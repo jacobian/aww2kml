@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="27217">
+        <name>Fox - D) De Pere Dam (PnP) *Access Issues*</name>
+        <Placemark id="27219">
+            <name>Fox - D) De Pere Dam (PnP) *Access Issues*</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="27218">
+                <coordinates>-88.065066,44.45256,0.0 -88.065768,44.451687,0.0 -88.066031,44.451015,0.0 -88.064074,44.450081,0.0 -88.063415,44.449022,0.0 -88.064204,44.448819,0.0 -88.066241,44.450947,0.0 -88.065606,44.452364,0.0 -88.065112,44.452587,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="27221">
+            <name>Take Out</name>
+            <Point id="27220">
+                <coordinates>-88.065002,44.451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27223">
+            <name>Put In</name>
+            <Point id="27222">
+                <coordinates>-88.061996,44.449001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27225">
+            <name>Put in</name>
+            <Point id="27224">
+                <coordinates>-88.065066,44.45256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27227">
+            <name>Take out</name>
+            <Point id="27226">
+                <coordinates>-88.065112,44.452587,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

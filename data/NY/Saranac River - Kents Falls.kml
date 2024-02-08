@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21671">
+        <name>Saranac River - Kents Falls</name>
+        <Placemark id="21673">
+            <name>Saranac River - Kents Falls</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="21672">
+                <coordinates>-73.603689,44.702238,0.0 -73.602244,44.703393,0.0 -73.601608,44.703999,0.0 -73.601443,44.704087,0.0 -73.60096,44.704303,0.0 -73.599783,44.704795,0.0 -73.599324,44.705131,0.0 -73.598763,44.705422,0.0 -73.597959,44.70551,0.0 -73.5963,44.705523,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="21675">
+            <name>Put in</name>
+            <Point id="21674">
+                <coordinates>-73.603689,44.702238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21677">
+            <name>Take out</name>
+            <Point id="21676">
+                <coordinates>-73.5963,44.705523,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

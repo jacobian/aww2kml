@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13845">
+        <name>Winnipesaukee - 2. Cross Mill bridge road to Franklin (Lower Winni)</name>
+        <Placemark id="13847">
+            <name>Winnipesaukee - 2. Cross Mill bridge road to Franklin (Lower Winni)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="13846">
+                <coordinates>-71.622094,43.443481,0.0 -71.622944,43.443252,0.0 -71.623972,43.443381,0.0 -71.625475,43.443797,0.0 -71.626107,43.443855,0.0 -71.626839,43.442649,0.0 -71.627708,43.442922,0.0 -71.628479,43.443223,0.0 -71.629567,43.443481,0.0 -71.630496,43.444285,0.0 -71.631405,43.444515,0.0 -71.632828,43.444744,0.0 -71.633698,43.444931,0.0 -71.63441,43.445318,0.0 -71.635042,43.445232,0.0 -71.636327,43.44463,0.0 -71.637039,43.444543,0.0 -71.637671,43.444486,0.0 -71.638759,43.444945,0.0 -71.640498,43.444859,0.0 -71.641447,43.445204,0.0 -71.643701,43.446007,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="13849">
+            <name>Iron Ring (II+)</name>
+            <Point id="13848">
+                <coordinates>-71.630699,43.444302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13851">
+            <name>Sulphite (III)</name>
+            <Point id="13850">
+                <coordinates>-71.636299,43.4445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13853">
+            <name>2nd Dam (II)</name>
+            <Point id="13852">
+                <coordinates>-71.624001,43.443298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13855">
+            <name>Snowmobile (III)</name>
+            <Point id="13854">
+                <coordinates>-71.625603,43.443699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13857">
+            <name>Zippy's Final Plunge (Zippy's) (IV)</name>
+            <Point id="13856">
+                <coordinates>-71.639702,43.444801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13859">
+            <name>Railroad (III+)</name>
+            <Point id="13858">
+                <coordinates>-71.634102,43.444901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13861">
+            <name>Coliseum (aka Three Chimneys, Z-turn, Arches) (III+)</name>
+            <Point id="13860">
+                <coordinates>-71.6325,43.444599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13863">
+            <name>Put in</name>
+            <Point id="13862">
+                <coordinates>-71.622094,43.443481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13865">
+            <name>Take out</name>
+            <Point id="13864">
+                <coordinates>-71.643701,43.446007,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "aww2kml"
+version = "0.1.0"
+description = "Convert data from americanwhitewater.org into KML"
+authors = ["Jacob Kaplan-Moss <jacob@jacobian.org>"]
+license = "BSD"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+simplekml = "^1.3.6"
+gql = {extras = ["aiohttp", "httpx"], version = "^3.5.0"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

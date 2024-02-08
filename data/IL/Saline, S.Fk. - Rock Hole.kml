@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7429">
+        <name>Saline, S.Fk. - Rock Hole</name>
+        <Placemark id="7431">
+            <name>Saline, S.Fk. - Rock Hole</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="7430">
+                <coordinates>-88.641524,37.639635,0.0 -88.642043,37.639373,0.0 -88.642222,37.639055,0.0 -88.642645,37.638807,0.0 -88.64329,37.638406,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="7433">
+            <name>Put in</name>
+            <Point id="7432">
+                <coordinates>-88.641524,37.639635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7435">
+            <name>Take out</name>
+            <Point id="7434">
+                <coordinates>-88.64329,37.638406,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

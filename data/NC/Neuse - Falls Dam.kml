@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21635">
+        <name>Neuse - Falls Dam</name>
+        <Placemark id="21637">
+            <name>Neuse - Falls Dam</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="21636">
+                <coordinates>-78.580856,35.940605,0.0 -78.579515,35.940889,0.0 -78.579153,35.940985,0.0 -78.579089,35.941051,0.0 -78.57834,35.941089,0.0 -78.57806,35.941074,0.0 -78.5778,35.941004,0.0 -78.57733,35.940887,0.0 -78.576371,35.940692,0.0 -78.575869,35.940558,0.0 -78.575562,35.939939,0.0 -78.574936,35.939504,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="21639">
+            <name>Put In</name>
+            <Point id="21638">
+                <coordinates>-78.580856,35.940605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21641">
+            <name>Take Out</name>
+            <Point id="21640">
+                <coordinates>-78.574936,35.939504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21643">
+            <name>Put in</name>
+            <Point id="21642">
+                <coordinates>-78.580856,35.940605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21645">
+            <name>Take out</name>
+            <Point id="21644">
+                <coordinates>-78.574936,35.939504,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20491">
+        <name>Villa Mann Creek - W.Whitaker Ave. to Wilson Park Creek (0.57 mi.)</name>
+        <Placemark id="20493">
+            <name>Villa Mann Creek - W.Whitaker Ave. to Wilson Park Creek (0.57 mi.)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="20492">
+                <coordinates>-87.943761,42.965153,0.0 -87.943525,42.965456,0.0 -87.943373,42.965588,0.0 -87.943167,42.965752,0.0 -87.942872,42.965971,0.0 -87.942239,42.966422,0.0 -87.941906,42.966771,0.0 -87.941883,42.9687,0.0 -87.94166,42.968935,0.0 -87.940937,42.969462,0.0 -87.940699,42.969566,0.0 -87.940452,42.969645,0.0 -87.94018,42.969661,0.0 -87.938481,42.969655,0.0 -87.938244,42.969693,0.0 -87.938068,42.969772,0.0 -87.937947,42.969867,0.0 -87.937752,42.970156,0.0 -87.937927,42.970302,0.0 -87.938152,42.970546,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="20495">
+            <name>Take-out Parking</name>
+            <Point id="20494">
+                <coordinates>-87.932923,42.970349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20497">
+            <name>Put-in</name>
+            <Point id="20496">
+                <coordinates>-87.943761,42.965153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20499">
+            <name>First Slide</name>
+            <Point id="20498">
+                <coordinates>-87.941902,42.967854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20501">
+            <name>Wilson Slide (II)</name>
+            <Point id="20500">
+                <coordinates>-87.937824,42.970049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20503">
+            <name>Take-out: Pedestrian Bridge</name>
+            <Point id="20502">
+                <coordinates>-87.938147,42.970541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20505">
+            <name>Rec Center Jump (II)</name>
+            <Point id="20504">
+                <coordinates>-87.940944,42.969457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20507">
+            <name>Plainfield Jump (II)</name>
+            <Point id="20506">
+                <coordinates>-87.941883,42.968701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20509">
+            <name>20th Street Jump (II)</name>
+            <Point id="20508">
+                <coordinates>-87.93916,42.969657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20511">
+            <name>Put in</name>
+            <Point id="20510">
+                <coordinates>-87.943761,42.965153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20513">
+            <name>Take out</name>
+            <Point id="20512">
+                <coordinates>-87.938152,42.970546,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="15097">
+        <name>Menomonee - A) *2023.03.15 CLOSED DUE TO WOOD* MenFalls: Main Street to Arthur Ave (0.4 mile)</name>
+        <Placemark id="15099">
+            <name>Menomonee - A) *2023.03.15 CLOSED DUE TO WOOD* MenFalls: Main Street to Arthur Ave (0.4 mile)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="15098">
+                <coordinates>-88.114403,43.179328,0.0 -88.114192,43.179097,0.0 -88.114064,43.178894,0.0 -88.113978,43.1788,0.0 -88.11372,43.17846,0.0 -88.11372,43.17846,0.0 -88.11313,43.177681,0.0 -88.112347,43.177134,0.0 -88.112133,43.176836,0.0 -88.112004,43.176265,0.0 -88.111821,43.176062,0.0 -88.111667,43.175995,0.0 -88.111667,43.175995,0.0 -88.111188,43.175788,0.0 -88.109289,43.17535,0.0 -88.109208,43.175294,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="15101">
+            <name>Lower Dells (II)</name>
+            <Point id="15100">
+                <coordinates>-88.113297,43.177799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15103">
+            <name>Pilgrim Road</name>
+            <Point id="15102">
+                <coordinates>-88.103587,43.173053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15105">
+            <name>Confluence (I)</name>
+            <Point id="15104">
+                <coordinates>-88.111099,43.1758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15107">
+            <name>Take-out: Arthur Avenue</name>
+            <Point id="15106">
+                <coordinates>-88.108971,43.175167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15109">
+            <name>Upper Dells (II+)</name>
+            <Point id="15108">
+                <coordinates>-88.113762,43.178707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15111">
+            <name>First Pitch (II)</name>
+            <Point id="15110">
+                <coordinates>-88.114098,43.178902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15113">
+            <name>Bridge Wave (II+)</name>
+            <Point id="15112">
+                <coordinates>-88.114433,43.179352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15115">
+            <name>Heart of the Dells (II+)</name>
+            <Point id="15114">
+                <coordinates>-88.113701,43.178299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15117">
+            <name>Kil'n Ledge (III)</name>
+            <Point id="15116">
+                <coordinates>-88.112701,43.177299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15119">
+            <name>Undercut (Overhanging) Wall</name>
+            <Point id="15118">
+                <coordinates>-88.112198,43.176899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15121">
+            <name>Sweeping Left-hand Bend (II)</name>
+            <Point id="15120">
+                <coordinates>-88.112,43.175999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15123">
+            <name>Put in</name>
+            <Point id="15122">
+                <coordinates>-88.114403,43.179328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15125">
+            <name>Take out</name>
+            <Point id="15124">
+                <coordinates>-88.109208,43.175294,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6869">
+        <name>Honey Creek - * 2023.12.09 SEE WOOD UPDATES! *  Honey Creek Pkwy. to Menomonee R. (1.76+2.14 miles)</name>
+        <Placemark id="6871">
+            <name>Honey Creek - * 2023.12.09 SEE WOOD UPDATES! *  Honey Creek Pkwy. to Menomonee R. (1.76+2.14 miles)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="6870">
+                <coordinates>-88.016832,43.029748,0.0 -88.016381,43.029844,0.0 -88.015725,43.030141,0.0 -88.015257,43.030552,0.0 -88.015132,43.030758,0.0 -88.015069,43.030964,0.0 -88.015069,43.031307,0.0 -88.015192,43.031947,0.0 -88.01516,43.032496,0.0 -88.015003,43.033457,0.0 -88.014627,43.034097,0.0 -88.014284,43.034325,0.0 -88.013193,43.034301,0.0 -88.011696,43.034505,0.0 -88.011415,43.034619,0.0 -88.011196,43.034917,0.0 -88.011227,43.035466,0.0 -88.011382,43.035672,0.0 -88.011787,43.035969,0.0 -88.012815,43.036222,0.0 -88.013064,43.036542,0.0 -88.013032,43.037228,0.0 -88.012875,43.037663,0.0 -88.012874,43.038097,0.0 -88.012749,43.038257,0.0 -88.012718,43.03844,0.0 -88.012624,43.038852,0.0 -88.01259,43.039858,0.0 -88.012653,43.03995,0.0 -88.012682,43.040681,0.0 -88.012558,43.040819,0.0 -88.012524,43.042008,0.0 -88.012056,43.042282,0.0 -88.011464,43.04219,0.0 -88.010747,43.042189,0.0 -88.010434,43.042395,0.0 -88.00931,43.043628,0.0 -88.008779,43.044017,0.0 -88.008404,43.044245,0.0 -88.006845,43.044198,0.0 -88.006565,43.04406,0.0 -88.006409,43.043877,0.0 -88.005412,43.043807,0.0 -88.0051,43.043899,0.0 -88.004631,43.044127,0.0 -88.003509,43.044103,0.0 -88.003166,43.044171,0.0 -88.002822,43.044331,0.0 -88.00251,43.044651,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="6873">
+            <name>Second Pourover (WLJ: Wisconsin Lutheran Jump) (II+)</name>
+            <Point id="6872">
+                <coordinates>-88.01461,43.033952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6875">
+            <name>Third Pourover (BRJ: Bluemound Road Jump) (II+)</name>
+            <Point id="6874">
+                <coordinates>-88.011125,43.035205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6877">
+            <name>Fourth Pourover (HCPJ: Honey Creek Parkway Jump) (II+)</name>
+            <Point id="6876">
+                <coordinates>-88.012812,43.036149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6879">
+            <name>W.Wisconsin Avenue Bridge</name>
+            <Point id="6878">
+                <coordinates>-88.01241,43.03863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6881">
+            <name>Utility Transect Wave (UTW) and Rock Garden #2</name>
+            <Point id="6880">
+                <coordinates>-88.00606,43.04373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6883">
+            <name>Minor Pourover</name>
+            <Point id="6882">
+                <coordinates>-88.017073,43.029503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6885">
+            <name>Confluence</name>
+            <Point id="6884">
+                <coordinates>-88.002296,43.044601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6887">
+            <name>Put-in</name>
+            <Point id="6886">
+                <coordinates>-88.0168,43.0296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6889">
+            <name>Final Flush (II+)</name>
+            <Point id="6888">
+                <coordinates>-88.00268,43.04423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6891">
+            <name>First Pourover (AFJ: Athletic Fields Jump) (II+)</name>
+            <Point id="6890">
+                <coordinates>-88.015118,43.032753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6893">
+            <name>End of Cement Ditch (II+)</name>
+            <Point id="6892">
+                <coordinates>-88.012525,43.041987,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6895">
+            <name>Parkway Bridge Wave (PBW)</name>
+            <Point id="6894">
+                <coordinates>-88.01145,43.04219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6897">
+            <name>Fifth Pourover (PAJ: Portland Avenue Jump) (II+)</name>
+            <Point id="6896">
+                <coordinates>-88.010005,43.042866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6899">
+            <name>Rock Garden #1 (deadfall area!)</name>
+            <Point id="6898">
+                <coordinates>-88.008868,43.043952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6901">
+            <name>USGS Gauge: 10.3 square mile drainage</name>
+            <Point id="6900">
+                <coordinates>-88.00502,43.043938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6903">
+            <name>Put in</name>
+            <Point id="6902">
+                <coordinates>-88.0168,43.0296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6905">
+            <name>Take out</name>
+            <Point id="6904">
+                <coordinates>-88.002296,43.044601,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

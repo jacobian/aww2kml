@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5647">
+        <name>Maquoketa River - Manchester Whitewater Park</name>
+        <Placemark id="5649">
+            <name>Maquoketa River - Manchester Whitewater Park</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="5648">
+                <coordinates>-91.458888,42.482622,0.0 -91.458769,42.482542,0.0 -91.458715,42.482482,0.0 -91.458644,42.482389,0.0 -91.458587,42.48229,0.0 -91.458553,42.482223,0.0 -91.45852,42.482155,0.0 -91.458495,42.482086,0.0 -91.458449,42.481948,0.0 -91.458426,42.481842,0.0 -91.45838,42.481594,0.0 -91.45837,42.481452,0.0 -91.458346,42.48131,0.0 -91.458334,42.481251,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="5651">
+            <name>#2 (I)</name>
+            <Point id="5650">
+                <coordinates>-91.458649,42.482396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5653">
+            <name>#1 (I)</name>
+            <Point id="5652">
+                <coordinates>-91.45875,42.48252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5655">
+            <name>#3 (I)</name>
+            <Point id="5654">
+                <coordinates>-91.458649,42.482396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5657">
+            <name>#4 (I)</name>
+            <Point id="5656">
+                <coordinates>-91.458509,42.482126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5659">
+            <name>High Stakes Wave (II)</name>
+            <Point id="5658">
+                <coordinates>-91.458485,42.482056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5661">
+            <name>#5 (II)</name>
+            <Point id="5660">
+                <coordinates>-91.458462,42.481986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5663">
+            <name>#6 (II)</name>
+            <Point id="5662">
+                <coordinates>-91.458426,42.481843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5665">
+            <name>Take Out</name>
+            <Point id="5664">
+                <coordinates>-91.458099,42.4813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5667">
+            <name>Put In</name>
+            <Point id="5666">
+                <coordinates>-91.458702,42.482899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5669">
+            <name>Put in</name>
+            <Point id="5668">
+                <coordinates>-91.458702,42.482899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5671">
+            <name>Take out</name>
+            <Point id="5670">
+                <coordinates>-91.458099,42.4813,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

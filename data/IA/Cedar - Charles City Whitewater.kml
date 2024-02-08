@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9423">
+        <name>Cedar - Charles City Whitewater</name>
+        <Placemark id="9425">
+            <name>Cedar - Charles City Whitewater</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="9424">
+                <coordinates>-92.680459,43.066274,0.0 -92.677683,43.064885,0.0 -92.677641,43.064866,0.0 -92.677564,43.064821,0.0 -92.677521,43.064804,0.0 -92.677473,43.064796,0.0 -92.677229,43.064771,0.0 -92.677136,43.064747,0.0 -92.677003,43.0647,0.0 -92.676806,43.064593,0.0 -92.67673,43.064547,0.0 -92.676698,43.06452,0.0 -92.676646,43.064459,0.0 -92.676578,43.064364,0.0 -92.676558,43.064331,0.0 -92.676415,43.064265,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="9427">
+            <name>Exit Exam</name>
+            <Point id="9426">
+                <coordinates>-92.680132,43.06611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9429">
+            <name>Take Out</name>
+            <Point id="9428">
+                <coordinates>-92.676399,43.064301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9431">
+            <name>Put In</name>
+            <Point id="9430">
+                <coordinates>-92.680496,43.0662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9433">
+            <name>DD Wave (Dam Drop)</name>
+            <Point id="9432">
+                <coordinates>-92.680296,43.066192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9435">
+            <name>Tew Shanez</name>
+            <Point id="9434">
+                <coordinates>-92.680296,43.066192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9437">
+            <name>Put in</name>
+            <Point id="9436">
+                <coordinates>-92.680496,43.0662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9439">
+            <name>Take out</name>
+            <Point id="9438">
+                <coordinates>-92.676399,43.064301,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

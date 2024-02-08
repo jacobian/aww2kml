@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="19577">
+        <name>Cannon - A) Northfield: Ames (Malt-o-Meal) Dam (*Proposed* restructuring with possible play features)</name>
+        <Placemark id="19579">
+            <name>Cannon - A) Northfield: Ames (Malt-o-Meal) Dam (*Proposed* restructuring with possible play features)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="19578">
+                <coordinates>-93.161566,44.456263,0.0 -93.16142,44.456499,0.0 -93.161272,44.456735,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="19581">
+            <name>Take Out</name>
+            <Point id="19580">
+                <coordinates>-93.1609,44.4565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19583">
+            <name>Put In</name>
+            <Point id="19582">
+                <coordinates>-93.1613,44.4561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19585">
+            <name>Put in</name>
+            <Point id="19584">
+                <coordinates>-93.1613,44.4561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19587">
+            <name>Take out</name>
+            <Point id="19586">
+                <coordinates>-93.1609,44.4565,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

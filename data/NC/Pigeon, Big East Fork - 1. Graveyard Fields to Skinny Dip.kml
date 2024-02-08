@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16961">
+        <name>Pigeon, Big East Fork - 1. Graveyard Fields to Skinny Dip</name>
+        <Placemark id="16963">
+            <name>Pigeon, Big East Fork - 1. Graveyard Fields to Skinny Dip</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="16962">
+                <coordinates>-82.843394,35.321651,0.0 -82.84318,35.321682,0.0 -82.843008,35.321752,0.0 -82.842343,35.322663,0.0 -82.842193,35.32303,0.0 -82.842,35.323345,0.0 -82.841903,35.323555,0.0 -82.841806,35.323608,0.0 -82.841431,35.323582,0.0 -82.841216,35.323608,0.0 -82.840562,35.323564,0.0 -82.840412,35.323503,0.0 -82.839961,35.323118,0.0 -82.839746,35.322978,0.0 -82.839071,35.322645,0.0 -82.838556,35.32233,0.0 -82.838352,35.322164,0.0 -82.837976,35.321971,0.0 -82.837536,35.321787,0.0 -82.837528,35.321784,0.0 -82.837528,35.321784,0.0 -82.837268,35.3217,0.0 -82.836957,35.321647,0.0 -82.836571,35.32163,0.0 -82.83612,35.32177,0.0 -82.834886,35.32219,0.0 -82.83449,35.322292,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="16965">
+            <name>Take Out</name>
+            <Point id="16964">
+                <coordinates>-82.818,35.3655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16967">
+            <name>Put In</name>
+            <Point id="16966">
+                <coordinates>-82.8434,35.3217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16969">
+            <name>Put in</name>
+            <Point id="16968">
+                <coordinates>-82.843394,35.321651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16971">
+            <name>Take out</name>
+            <Point id="16970">
+                <coordinates>-82.83449,35.322292,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

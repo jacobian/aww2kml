@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26083">
+        <name>Lake Michigan - Various (Indiana) locations</name>
+        <Placemark id="26085">
+            <name>Lake Michigan - Various (Indiana) locations</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26084">
+                <coordinates>-87.523975,41.712452,0.0 -87.488678,41.682287,0.0 -87.465288,41.675458,0.0 -87.448916,41.683875,0.0 -87.4234,41.689432,0.0 -87.417659,41.689591,0.0 -87.405326,41.679428,0.0 -87.407452,41.669105,0.0 -87.419147,41.659415,0.0 -87.434457,41.653696,0.0 -87.420636,41.640826,0.0 -87.41128,41.642891,0.0 -87.367052,41.629701,0.0 -87.324313,41.625092,0.0 -87.292206,41.623344,0.0 -87.286252,41.620324,0.0 -87.239686,41.623026,0.0 -87.179724,41.631291,0.0 -87.174195,41.633675,0.0 -87.145277,41.645116,0.0 -87.130393,41.648929,0.0 -87.119549,41.646864,0.0 -87.065541,41.661639,0.0 -87.015359,41.680063,0.0 -86.923503,41.713404,0.0 -86.910107,41.724832,0.0 -86.900538,41.730386,0.0 -86.824629,41.760529,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26087">
+            <name>Michigan City</name>
+            <Point id="26086">
+                <coordinates>-86.904404,41.7281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26089">
+            <name>&quot;Shooters&quot;/Whiting Park / Whihala Beach County Park</name>
+            <Point id="26088">
+                <coordinates>-87.491898,41.684601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26091">
+            <name>Put In</name>
+            <Point id="26090">
+                <coordinates>-87.5173,41.7018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26093">
+            <name>Take Out</name>
+            <Point id="26092">
+                <coordinates>-86.8251,41.7601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26095">
+            <name>West Beach / Ogden Dunes</name>
+            <Point id="26094">
+                <coordinates>-87.208313,41.626095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26097">
+            <name>Beverly Shores</name>
+            <Point id="26096">
+                <coordinates>-87.009918,41.681118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26099">
+            <name>Indiana Dunes</name>
+            <Point id="26098">
+                <coordinates>-87.064804,41.662876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26101">
+            <name>Put in</name>
+            <Point id="26100">
+                <coordinates>-87.523975,41.712452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26103">
+            <name>Take out</name>
+            <Point id="26102">
+                <coordinates>-86.824629,41.760529,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

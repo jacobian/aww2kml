@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="29077">
+        <name>Pound - Flannagan Dam (Route 739) to Bartlick (Route 611)</name>
+        <Placemark id="29079">
+            <name>Pound - Flannagan Dam (Route 739) to Bartlick (Route 611)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="29078">
+                <coordinates>-82.345414,37.234784,0.0 -82.345358,37.235699,0.0 -82.345015,37.236362,0.0 -82.344413,37.236889,0.0 -82.343611,37.237255,0.0 -82.341836,37.237644,0.0 -82.340691,37.237987,0.0 -82.3386,37.238994,0.0 -82.337713,37.239085,0.0 -82.335766,37.238489,0.0 -82.334964,37.238489,0.0 -82.332759,37.239175,0.0 -82.330812,37.239953,0.0 -82.329236,37.240388,0.0 -82.327204,37.240318,0.0 -82.327204,37.240318,0.0 -82.323424,37.240454,0.0 -82.321935,37.240729,0.0 -82.321935,37.240729,0.0 -82.321334,37.240751,0.0 -82.320732,37.240934,0.0 -82.320446,37.241232,0.0 -82.320302,37.241644,0.0 -82.320388,37.242033,0.0 -82.320617,37.242308,0.0 -82.320789,37.242376,0.0 -82.320789,37.242376,0.0 -82.320989,37.243246,0.0 -82.320989,37.243246,0.0 -82.321017,37.243407,0.0 -82.322706,37.244804,0.0 -82.32345,37.24517,0.0 -82.323589,37.245271,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="29081">
+            <name>Put In</name>
+            <Point id="29080">
+                <coordinates>-82.340195,37.230751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29083">
+            <name>Take Out</name>
+            <Point id="29082">
+                <coordinates>-82.323883,37.24501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29085">
+            <name>Put in</name>
+            <Point id="29084">
+                <coordinates>-82.345414,37.234784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29087">
+            <name>Take out</name>
+            <Point id="29086">
+                <coordinates>-82.323589,37.245271,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

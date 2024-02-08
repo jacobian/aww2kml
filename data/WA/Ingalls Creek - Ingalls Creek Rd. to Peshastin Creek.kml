@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="22705">
+        <name>Ingalls Creek - Ingalls Creek Rd. to Peshastin Creek</name>
+        <Placemark id="22707">
+            <name>Ingalls Creek - Ingalls Creek Rd. to Peshastin Creek</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="22706">
+                <coordinates>-120.672911,47.462867,0.0 -120.672433,47.463048,0.0 -120.671604,47.463233,0.0 -120.670638,47.46347,0.0 -120.670292,47.463611,0.0 -120.669463,47.463986,0.0 -120.669118,47.464123,0.0 -120.668496,47.464218,0.0 -120.667461,47.463797,0.0 -120.666286,47.463701,0.0 -120.665942,47.463563,0.0 -120.665182,47.463467,0.0 -120.664629,47.463235,0.0 -120.664008,47.462953,0.0 -120.663594,47.462859,0.0 -120.66311,47.462813,0.0 -120.662489,47.462998,0.0 -120.661867,47.463094,0.0 -120.661384,47.463327,0.0 -120.661023,47.463491,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="22709">
+            <name>Ingall's Creek Trailhead, Put In</name>
+            <Point id="22708">
+                <coordinates>-120.672867,47.462749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22711">
+            <name>Pehsastin Creek Confluence, Take Out</name>
+            <Point id="22710">
+                <coordinates>-120.660927,47.46328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22713">
+            <name>Put in</name>
+            <Point id="22712">
+                <coordinates>-120.672867,47.462749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="22715">
+            <name>Take out</name>
+            <Point id="22714">
+                <coordinates>-120.660927,47.46328,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

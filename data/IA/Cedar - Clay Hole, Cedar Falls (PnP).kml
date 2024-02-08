@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5623">
+        <name>Cedar - Clay Hole, Cedar Falls (PnP)</name>
+        <Placemark id="5625">
+            <name>Cedar - Clay Hole, Cedar Falls (PnP)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="5624">
+                <coordinates>-92.441829,42.538416,0.0 -92.442173,42.538267,0.0 -92.443341,42.53761,0.0 -92.4427,42.537374,0.0 -92.441574,42.538228,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="5627">
+            <name>Take Out</name>
+            <Point id="5626">
+                <coordinates>-92.4422,42.538246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5629">
+            <name>Put In</name>
+            <Point id="5628">
+                <coordinates>-92.442398,42.538319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5631">
+            <name>Put in</name>
+            <Point id="5630">
+                <coordinates>-92.441829,42.538416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5633">
+            <name>Take out</name>
+            <Point id="5632">
+                <coordinates>-92.441574,42.538228,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26993">
+        <name>Cascade Creek - Cascade Falls (PnH)</name>
+        <Placemark id="26995">
+            <name>Cascade Creek - Cascade Falls (PnH)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26994">
+                <coordinates>-89.446393,46.651835,0.0 -89.44637,46.651723,0.0 -89.44631,46.651559,0.0 -89.446096,46.651477,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26997">
+            <name>Take Out</name>
+            <Point id="26996">
+                <coordinates>-89.4455,46.6514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26999">
+            <name>Put In</name>
+            <Point id="26998">
+                <coordinates>-89.4462,46.652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27001">
+            <name>Put in</name>
+            <Point id="27000">
+                <coordinates>-89.446393,46.651835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27003">
+            <name>Take out</name>
+            <Point id="27002">
+                <coordinates>-89.446096,46.651477,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

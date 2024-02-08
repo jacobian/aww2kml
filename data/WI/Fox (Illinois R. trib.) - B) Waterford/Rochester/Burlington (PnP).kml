@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20457">
+        <name>Fox (Illinois R. trib.) - B) Waterford/Rochester/Burlington (PnP)</name>
+        <Placemark id="20459">
+            <name>Fox (Illinois R. trib.) - B) Waterford/Rochester/Burlington (PnP)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="20458">
+                <coordinates>-88.221961,42.737653,0.0 -88.223132,42.737165,0.0 -88.224071,42.737165,0.0 -88.224458,42.737064,0.0 -88.224725,42.736346,0.0 -88.224504,42.73615,0.0 -88.22484,42.735645,0.0 -88.225087,42.735552,0.0 -88.225269,42.735439,0.0 -88.225455,42.735528,0.0 -88.225729,42.735354,0.0 -88.225904,42.735368,0.0 -88.226253,42.735397,0.0 -88.226173,42.735579,0.0 -88.226121,42.735564,0.0 -88.226154,42.735439,0.0 -88.226034,42.735433,0.0 -88.226021,42.735564,0.0 -88.226073,42.735557,0.0 -88.226093,42.735341,0.0 -88.225844,42.735327,0.0 -88.225468,42.73526,0.0 -88.22481,42.735637,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="20461">
+            <name>Calumet Street Channels/Burlington Shoals (I)</name>
+            <Point id="20460">
+                <coordinates>-88.265396,42.668843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20463">
+            <name>Waterford Rock Dam (Left Channel)</name>
+            <Point id="20462">
+                <coordinates>-88.210602,42.766701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20465">
+            <name>Rochester Dam (Case Eagle Park)</name>
+            <Point id="20464">
+                <coordinates>-88.22603,42.735724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20467">
+            <name>Waterford Dam (Main, Right Channel)</name>
+            <Point id="20466">
+                <coordinates>-88.212892,42.76503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20469">
+            <name>Take Out</name>
+            <Point id="20468">
+                <coordinates>-88.225869,42.73536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20471">
+            <name>Put In</name>
+            <Point id="20470">
+                <coordinates>-88.224826,42.735693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20473">
+            <name>Put in</name>
+            <Point id="20472">
+                <coordinates>-88.221961,42.737653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20475">
+            <name>Take out</name>
+            <Point id="20474">
+                <coordinates>-88.22481,42.735637,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

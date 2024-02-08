@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="27081">
+        <name>Siskiwit - Siskiwit Falls (PnH, 0.25 mile)</name>
+        <Placemark id="27083">
+            <name>Siskiwit - Siskiwit Falls (PnH, 0.25 mile)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="27082">
+                <coordinates>-91.091987,46.854057,0.0 -91.091398,46.854463,0.0 -91.091628,46.854754,0.0 -91.092284,46.855159,0.0 -91.092948,46.85542,0.0 -91.093071,46.85551,0.0 -91.093018,46.855625,0.0 -91.093178,46.855843,0.0 -91.09393,46.855813,0.0 -91.094267,46.855934,0.0 -91.094461,46.856146,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="27085">
+            <name>Beartrap Ck.Gauge</name>
+            <Point id="27084">
+                <coordinates>-90.761002,46.609001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27087">
+            <name>Historic gauge site</name>
+            <Point id="27086">
+                <coordinates>-91.091553,46.854645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27089">
+            <name>Whittlesey Ck.Gauge</name>
+            <Point id="27088">
+                <coordinates>-90.962997,46.594002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27091">
+            <name>N.Fish Ck.Gauge</name>
+            <Point id="27090">
+                <coordinates>-91.061996,46.549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27093">
+            <name>Take Out</name>
+            <Point id="27092">
+                <coordinates>-91.094002,46.855999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27095">
+            <name>Put In</name>
+            <Point id="27094">
+                <coordinates>-91.092003,46.854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27097">
+            <name>Put in</name>
+            <Point id="27096">
+                <coordinates>-91.091987,46.854057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27099">
+            <name>Take out</name>
+            <Point id="27098">
+                <coordinates>-91.094461,46.856146,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

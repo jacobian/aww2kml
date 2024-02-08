@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8339">
+        <name>Kinnickinnic (Milwaukee trib) - S.31st Street to S.Chase Ave. (2.7-4.0 miles) *Access&amp;Quality Issues*</name>
+        <Placemark id="8341">
+            <name>Kinnickinnic (Milwaukee trib) - S.31st Street to S.Chase Ave. (2.7-4.0 miles) *Access&amp;Quality Issues*</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="8340">
+                <coordinates>-87.952932,42.990002,0.0 -87.952977,42.990468,0.0 -87.952603,42.990742,0.0 -87.952261,42.991154,0.0 -87.95167,42.991566,0.0 -87.951109,42.991818,0.0 -87.950019,42.991796,0.0 -87.949053,42.991637,0.0 -87.94709,42.991638,0.0 -87.945376,42.991342,0.0 -87.944535,42.991434,0.0 -87.943974,42.991617,0.0 -87.943632,42.991823,0.0 -87.943196,42.992373,0.0 -87.942667,42.992693,0.0 -87.942013,42.992899,0.0 -87.941327,42.992854,0.0 -87.940579,42.992717,0.0 -87.9398,42.99242,0.0 -87.939114,42.992032,0.0 -87.938179,42.991438,0.0 -87.937369,42.991164,0.0 -87.936714,42.991027,0.0 -87.935904,42.991073,0.0 -87.93525,42.991279,0.0 -87.934721,42.991669,0.0 -87.93441,42.992057,0.0 -87.934317,42.992309,0.0 -87.93438,42.992995,0.0 -87.934442,42.993224,0.0 -87.934536,42.99327,0.0 -87.934598,42.993475,0.0 -87.935846,42.99519,0.0 -87.936159,42.996288,0.0 -87.936128,42.996699,0.0 -87.93591,42.997065,0.0 -87.935755,42.997226,0.0 -87.935412,42.99734,0.0 -87.934851,42.997318,0.0 -87.934228,42.997158,0.0 -87.932264,42.996953,0.0 -87.929896,42.996954,0.0 -87.92759,42.997139,0.0 -87.925939,42.997299,0.0 -87.924318,42.997255,0.0 -87.922043,42.997118,0.0 -87.920454,42.996822,0.0 -87.919425,42.996479,0.0 -87.919083,42.99625,0.0 -87.91821,42.995473,0.0 -87.917805,42.995313,0.0 -87.916154,42.995314,0.0 -87.915344,42.99552,0.0 -87.914035,42.996001,0.0 -87.913349,42.996367,0.0 -87.913324,42.996388,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="8343">
+            <name>Corrugated Iron Wall Jump (~5.5') (III)</name>
+            <Point id="8342">
+                <coordinates>-87.966144,42.999535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8345">
+            <name>Confluence: Wilson Creek; total 17.4 sq.mi.</name>
+            <Point id="8344">
+                <coordinates>-87.952421,42.990488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8347">
+            <name>20th Street (Alt.Access)</name>
+            <Point id="8346">
+                <coordinates>-87.938071,42.990854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8349">
+            <name>11th Street Jump (6-8&quot; stop blocks) (II)</name>
+            <Point id="8348">
+                <coordinates>-87.926535,42.997227,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8351">
+            <name>8th Street Jump (Offset slide/ledge) (IV)</name>
+            <Point id="8350">
+                <coordinates>-87.921294,42.996784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8353">
+            <name>Exit cement ditch!</name>
+            <Point id="8352">
+                <coordinates>-87.919152,42.996256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8355">
+            <name>43rd Street Jump (Roller/Dam): 2.5 sq.mi. (II)</name>
+            <Point id="8354">
+                <coordinates>-87.96764,42.997163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8357">
+            <name>Entrance to ~295' box culvert</name>
+            <Point id="8356">
+                <coordinates>-87.986847,42.995465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8359">
+            <name>Quad-culvert -- ~1/8th Mile!</name>
+            <Point id="8358">
+                <coordinates>-87.96384,42.998736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8361">
+            <name>Exit from LONG underground</name>
+            <Point id="8360">
+                <coordinates>-87.986946,42.989389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8363">
+            <name>Side-stream cascade (park pond outflow)</name>
+            <Point id="8362">
+                <coordinates>-87.961173,42.99561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8365">
+            <name>Parking</name>
+            <Point id="8364">
+                <coordinates>-87.967486,42.99754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8367">
+            <name>Exit Quad-culvert</name>
+            <Point id="8366">
+                <coordinates>-87.961622,42.997884,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8369">
+            <name>Exit from ~295' box culvert</name>
+            <Point id="8368">
+                <coordinates>-87.986899,42.996305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8371">
+            <name>(Theoretical) Put-in</name>
+            <Point id="8370">
+                <coordinates>-87.953369,42.990367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8373">
+            <name>Pulaski Park &quot;Remediation&quot;</name>
+            <Point id="8372">
+                <coordinates>-87.93471,42.99734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8375">
+            <name>16th Street Jump (~3') (III)</name>
+            <Point id="8374">
+                <coordinates>-87.934164,42.992917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8377">
+            <name>Put in</name>
+            <Point id="8376">
+                <coordinates>-87.953279,42.989969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8379">
+            <name>Take out</name>
+            <Point id="8378">
+                <coordinates>-87.913002,42.995998,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

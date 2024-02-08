@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16513">
+        <name>Wisconsin - D) Wausau Slalom Course (0.35 mile modified natural channel)</name>
+        <Placemark id="16515">
+            <name>Wisconsin - D) Wausau Slalom Course (0.35 mile modified natural channel)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="16514">
+                <coordinates>-89.631667,44.961218,0.0 -89.632332,44.96005,0.0 -89.632176,44.959344,0.0 -89.632682,44.958645,0.0 -89.633033,44.958164,0.0 -89.633195,44.957663,0.0 -89.633316,44.957128,0.0 -89.633623,44.956616,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="16517">
+            <name>Dam Drop (III)</name>
+            <Point id="16516">
+                <coordinates>-89.631765,44.960827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16519">
+            <name>Take Out</name>
+            <Point id="16518">
+                <coordinates>-89.633488,44.955889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16521">
+            <name>South Footbridge to Barker's Island</name>
+            <Point id="16520">
+                <coordinates>-89.633489,44.961627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16523">
+            <name>Put In</name>
+            <Point id="16522">
+                <coordinates>-89.631548,44.961219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16525">
+            <name>(Unnamed?) (II)</name>
+            <Point id="16524">
+                <coordinates>-89.632732,44.958578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16527">
+            <name>Diagonal Ledge</name>
+            <Point id="16526">
+                <coordinates>-89.632535,44.958825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16529">
+            <name>North Footbridge to Barker's Island</name>
+            <Point id="16528">
+                <coordinates>-89.631601,44.963776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16531">
+            <name>Footbridge to Isle of Ferns</name>
+            <Point id="16530">
+                <coordinates>-89.629332,44.952791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16533">
+            <name>Big Drop (III)</name>
+            <Point id="16532">
+                <coordinates>-89.632899,44.958275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16535">
+            <name>#4 (II)</name>
+            <Point id="16534">
+                <coordinates>-89.633275,44.957329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16537">
+            <name>Railroad Drop (II+)</name>
+            <Point id="16536">
+                <coordinates>-89.632301,44.960032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16539">
+            <name>Washington Street Wave (II)</name>
+            <Point id="16538">
+                <coordinates>-89.63224,44.959485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16541">
+            <name>First Wave/Hole (II)</name>
+            <Point id="16540">
+                <coordinates>-89.632052,44.960454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16543">
+            <name>Little Drop (II+)</name>
+            <Point id="16542">
+                <coordinates>-89.632985,44.958014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16545">
+            <name>#2 (II)</name>
+            <Point id="16544">
+                <coordinates>-89.633516,44.95691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16547">
+            <name>#1</name>
+            <Point id="16546">
+                <coordinates>-89.633607,44.956736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16549">
+            <name>#3 (II)</name>
+            <Point id="16548">
+                <coordinates>-89.633409,44.957124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16551">
+            <name>Put in</name>
+            <Point id="16550">
+                <coordinates>-89.631667,44.961218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16553">
+            <name>Take out</name>
+            <Point id="16552">
+                <coordinates>-89.633623,44.956616,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21589">
+        <name>Dead - Tourist Park Falls: CR 550 Bridge (0.3 miles)</name>
+        <Placemark id="21591">
+            <name>Dead - Tourist Park Falls: CR 550 Bridge (0.3 miles)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="21590">
+                <coordinates>-87.410603,46.570834,0.0 -87.409921,46.571004,0.0 -87.409843,46.571463,0.0 -87.410127,46.571751,0.0 -87.410056,46.572328,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="21593">
+            <name>Take Out</name>
+            <Point id="21592">
+                <coordinates>-87.410004,46.571999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21595">
+            <name>Put In</name>
+            <Point id="21594">
+                <coordinates>-87.4095,46.570999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21597">
+            <name>Put in</name>
+            <Point id="21596">
+                <coordinates>-87.410603,46.570834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21599">
+            <name>Take out</name>
+            <Point id="21598">
+                <coordinates>-87.410056,46.572328,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

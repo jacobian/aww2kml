@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20005">
+        <name>Genesse - Lower Falls to Seth Green Island</name>
+        <Placemark id="20007">
+            <name>Genesse - Lower Falls to Seth Green Island</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="20006">
+                <coordinates>-77.628251,43.180408,0.0 -77.628633,43.181073,0.0 -77.627435,43.18611,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="20009">
+            <name>Lower Falls Put-in</name>
+            <Point id="20008">
+                <coordinates>-77.628474,43.180472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20011">
+            <name>Take Out: Look for the obvious access road on river right after the rapid.  (II)</name>
+            <Point id="20010">
+                <coordinates>-77.626582,43.185907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20013">
+            <name>Put in</name>
+            <Point id="20012">
+                <coordinates>-77.628251,43.180408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20015">
+            <name>Take out</name>
+            <Point id="20014">
+                <coordinates>-77.627435,43.18611,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

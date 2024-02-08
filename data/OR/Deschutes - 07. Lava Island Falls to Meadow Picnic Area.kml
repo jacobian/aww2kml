@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18467">
+        <name>Deschutes - 07. Lava Island Falls to Meadow Picnic Area</name>
+        <Placemark id="18469">
+            <name>Deschutes - 07. Lava Island Falls to Meadow Picnic Area</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="18468">
+                <coordinates>-121.398687,43.986686,0.0 -121.398114,43.986748,0.0 -121.397689,43.986714,0.0 -121.396781,43.986929,0.0 -121.396297,43.986932,0.0 -121.396077,43.98697,0.0 -121.395925,43.987156,0.0 -121.396036,43.987595,0.0 -121.396089,43.987935,0.0 -121.396012,43.98857,0.0 -121.395637,43.989358,0.0 -121.395045,43.989804,0.0 -121.394724,43.989968,0.0 -121.394364,43.990078,0.0 -121.393505,43.990288,0.0 -121.392016,43.990863,0.0 -121.391609,43.990947,0.0 -121.391036,43.991323,0.0 -121.390159,43.991875,0.0 -121.388025,43.993432,0.0 -121.387561,43.993708,0.0 -121.386956,43.993947,0.0 -121.386072,43.994511,0.0 -121.385657,43.995003,0.0 -121.384575,43.997019,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="18471">
+            <name>Lava 1 (V)</name>
+            <Point id="18470">
+                <coordinates>-121.397689,43.986714,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18473">
+            <name>Meadow Day Use Area Take Out</name>
+            <Point id="18472">
+                <coordinates>-121.385002,43.997002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18475">
+            <name>Lava Island Day Use Area Put In</name>
+            <Point id="18474">
+                <coordinates>-121.398913,43.986902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18477">
+            <name>Lava 2 (V)</name>
+            <Point id="18476">
+                <coordinates>-121.388992,43.992727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18479">
+            <name>Put in</name>
+            <Point id="18478">
+                <coordinates>-121.398687,43.986686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18481">
+            <name>Take out</name>
+            <Point id="18480">
+                <coordinates>-121.384575,43.997019,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

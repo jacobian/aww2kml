@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21857">
+        <name>Thompson - Nicoamen River (Frog) to Fraser River</name>
+        <Placemark id="21859">
+            <name>Thompson - Nicoamen River (Frog) to Fraser River</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="21858">
+                <coordinates>-121.402578,50.268802,0.0 -121.404446,50.265913,0.0 -121.407432,50.264216,0.0 -121.411023,50.263696,0.0 -121.415733,50.263652,0.0 -121.422916,50.261419,0.0 -121.43187,50.259484,0.0 -121.433643,50.258516,0.0 -121.437653,50.256833,0.0 -121.443813,50.256063,0.0 -121.451158,50.256781,0.0 -121.457571,50.25881,0.0 -121.464824,50.25929,0.0 -121.471517,50.258815,0.0 -121.474519,50.258286,0.0 -121.476588,50.256685,0.0 -121.478005,50.254487,0.0 -121.478116,50.25217,0.0 -121.482105,50.250294,0.0 -121.48971,50.249405,0.0 -121.495348,50.250654,0.0 -121.500607,50.252632,0.0 -121.508718,50.257164,0.0 -121.511123,50.257682,0.0 -121.51424,50.25684,0.0 -121.517261,50.257882,0.0 -121.523875,50.262399,0.0 -121.527401,50.263527,0.0 -121.532591,50.26268,0.0 -121.536137,50.263958,0.0 -121.540635,50.264142,0.0 -121.542649,50.263356,0.0 -121.544193,50.261967,0.0 -121.545031,50.259626,0.0 -121.547281,50.256782,0.0 -121.553298,50.252232,0.0 -121.562538,50.2523,0.0 -121.566968,50.2513,0.0 -121.570446,50.248962,0.0 -121.574184,50.246667,0.0 -121.576841,50.240517,0.0 -121.58102,50.236556,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="21861">
+            <name>Put In</name>
+            <Point id="21860">
+                <coordinates>-121.402578,50.268802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21863">
+            <name>Cutting Board (IV)</name>
+            <Point id="21862">
+                <coordinates>-121.429165,50.260069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21865">
+            <name>The Frog (III+)</name>
+            <Point id="21864">
+                <coordinates>-121.405916,50.265078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21867">
+            <name>Lytton Take-Out</name>
+            <Point id="21866">
+                <coordinates>-121.58102,50.236556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21869">
+            <name>Put in</name>
+            <Point id="21868">
+                <coordinates>-121.402578,50.268802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21871">
+            <name>Take out</name>
+            <Point id="21870">
+                <coordinates>-121.58102,50.236556,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26431">
+        <name>Planter Creek - A) Hwy.28 to Wertanen Rd (0.15-0.96 miles)</name>
+        <Placemark id="26433">
+            <name>Planter Creek - A) Hwy.28 to Wertanen Rd (0.15-0.96 miles)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26432">
+                <coordinates>-89.928864,46.48941,0.0 -89.927972,46.490415,0.0 -89.927146,46.491078,0.0 -89.92609,46.492632,0.0 -89.92586,46.493203,0.0 -89.92606,46.494072,0.0 -89.926098,46.497247,0.0 -89.927092,46.498366,0.0 -89.927752,46.498821,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26435">
+            <name>Cashew Falls (IV)</name>
+            <Point id="26434">
+                <coordinates>-89.929001,46.489101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26437">
+            <name>Take Out</name>
+            <Point id="26436">
+                <coordinates>-89.927696,46.498901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26439">
+            <name>Put In</name>
+            <Point id="26438">
+                <coordinates>-89.930901,46.488098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26441">
+            <name>Wertanen Road, 1st Encounter</name>
+            <Point id="26440">
+                <coordinates>-89.927597,46.490601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26443">
+            <name>Wertanen Road, 2nd Encounter</name>
+            <Point id="26442">
+                <coordinates>-89.927628,46.498604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26445">
+            <name>Put in</name>
+            <Point id="26444">
+                <coordinates>-89.930901,46.488098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26447">
+            <name>Take out</name>
+            <Point id="26446">
+                <coordinates>-89.927696,46.498901,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

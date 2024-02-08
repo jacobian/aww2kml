@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17161">
+        <name>Truckee - 4.5. Truckee River Whitewater Park at Wingfield (Reno)</name>
+        <Placemark id="17163">
+            <name>Truckee - 4.5. Truckee River Whitewater Park at Wingfield (Reno)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="17162">
+                <coordinates>-119.818934,39.523642,0.0 -119.817989,39.524158,0.0 -119.81778,39.524412,0.0 -119.817457,39.524485,0.0 -119.817215,39.524444,0.0 -119.816925,39.524724,0.0 -119.81665,39.524584,0.0 -119.815706,39.524531,0.0 -119.815244,39.524531,0.0 -119.815012,39.524441,0.0 -119.814575,39.524479,0.0 -119.814062,39.524529,0.0 -119.81387,39.524444,0.0 -119.81382,39.524567,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="17165">
+            <name>Take Out</name>
+            <Point id="17164">
+                <coordinates>-119.813904,39.524601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17167">
+            <name>Put In</name>
+            <Point id="17166">
+                <coordinates>-119.818802,39.523399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17169">
+            <name>Put in</name>
+            <Point id="17168">
+                <coordinates>-119.818802,39.523399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17171">
+            <name>Take out</name>
+            <Point id="17170">
+                <coordinates>-119.813904,39.524601,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

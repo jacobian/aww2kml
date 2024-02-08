@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10647">
+        <name>Deer Meadow Brook - Park and Huck</name>
+        <Placemark id="10649">
+            <name>Deer Meadow Brook - Park and Huck</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="10648">
+                <coordinates>-69.586625,44.039696,0.0 -69.586689,44.039421,0.0 -69.586582,44.039106,0.0 -69.586718,44.038796,0.0 -69.586769,44.038606,0.0 -69.586883,44.038445,0.0 -69.58719,44.038233,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="10651">
+            <name>Put in</name>
+            <Point id="10650">
+                <coordinates>-69.586625,44.039696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10653">
+            <name>Take out</name>
+            <Point id="10652">
+                <coordinates>-69.58719,44.038233,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

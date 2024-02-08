@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25937">
+        <name>Carrabassett River - Redington Road to Airport</name>
+        <Placemark id="25939">
+            <name>Carrabassett River - Redington Road to Airport</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="25938">
+                <coordinates>-70.256128,45.092259,0.0 -70.254255,45.0926,0.0 -70.253126,45.092599,0.0 -70.251319,45.092323,0.0 -70.24951,45.092407,0.0 -70.247155,45.092912,0.0 -70.246284,45.093027,0.0 -70.243701,45.092847,0.0 -70.243217,45.092985,0.0 -70.241509,45.094038,0.0 -70.240702,45.094245,0.0 -70.239702,45.09436,0.0 -70.239056,45.094224,0.0 -70.238281,45.093905,0.0 -70.237538,45.093768,0.0 -70.234149,45.093657,0.0 -70.233342,45.093475,0.0 -70.232502,45.093133,0.0 -70.231952,45.092676,0.0 -70.230724,45.091854,0.0 -70.229723,45.091558,0.0 -70.228141,45.091171,0.0 -70.225688,45.090899,0.0 -70.225042,45.090945,0.0 -70.220428,45.091521,0.0 -70.220428,45.091521,0.0 -70.220073,45.091475,0.0 -70.219872,45.091343,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="25941">
+            <name>Redington Road Put-in </name>
+            <Point id="25940">
+                <coordinates>-70.256128,45.092259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25943">
+            <name>Airport/Narrow Guage Trail bridge</name>
+            <Point id="25942">
+                <coordinates>-70.221302,45.090055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25945">
+            <name>first ledge (IV)</name>
+            <Point id="25944">
+                <coordinates>-70.248785,45.092562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25947">
+            <name>Baileys</name>
+            <Point id="25946">
+                <coordinates>-70.239852,45.094343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25949">
+            <name>First Rapid after portage (IV)</name>
+            <Point id="25948">
+                <coordinates>-70.237698,45.094174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25951">
+            <name>First Rapid after portage (IV)</name>
+            <Point id="25950">
+                <coordinates>-70.237698,45.094174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25953">
+            <name>Whale's Tail (IV)</name>
+            <Point id="25952">
+                <coordinates>-70.235997,45.094191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25955">
+            <name>Staircase/Island Rapid</name>
+            <Point id="25954">
+                <coordinates>-70.227763,45.090985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25957">
+            <name>Put in</name>
+            <Point id="25956">
+                <coordinates>-70.256128,45.092259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25959">
+            <name>Take out</name>
+            <Point id="25958">
+                <coordinates>-70.219872,45.091343,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10401">
+        <name>Winooski River - Winooski Falls</name>
+        <Placemark id="10403">
+            <name>Winooski River - Winooski Falls</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="10402">
+                <coordinates>-73.182693,44.488289,0.0 -73.182613,44.488798,0.0 -73.183595,44.48897,0.0 -73.183562,44.48911,0.0 -73.183579,44.489112,0.0 -73.183595,44.489112,0.0 -73.183595,44.489112,0.0 -73.184513,44.48912,0.0 -73.185253,44.489151,0.0 -73.187099,44.489434,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="10405">
+            <name>Put In</name>
+            <Point id="10404">
+                <coordinates>-73.182693,44.488289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10407">
+            <name>Take Out</name>
+            <Point id="10406">
+                <coordinates>-73.187099,44.489434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10409">
+            <name>Put in</name>
+            <Point id="10408">
+                <coordinates>-73.182693,44.488289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10411">
+            <name>Take out</name>
+            <Point id="10410">
+                <coordinates>-73.187099,44.489434,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

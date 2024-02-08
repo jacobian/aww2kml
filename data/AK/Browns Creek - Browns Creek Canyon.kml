@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20721">
+        <name>Browns Creek - Browns Creek Canyon</name>
+        <Placemark id="20723">
+            <name>Browns Creek - Browns Creek Canyon</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="20722">
+                <coordinates>-145.926935,60.992627,0.0 -145.927442,60.993004,0.0 -145.927544,60.993807,0.0 -145.928625,60.994118,0.0 -145.929043,60.994767,0.0 -145.930496,60.995013,0.0 -145.93151,60.995685,0.0 -145.931747,60.997897,0.0 -145.934856,61.00286,0.0 -145.933572,61.003253,0.0 -145.932659,61.003859,0.0 -145.93026,61.003597,0.0 -145.92884,61.004335,0.0 -145.928908,61.005449,0.0 -145.927792,61.005825,0.0 -145.927556,61.006612,0.0 -145.920569,61.01906,0.0 -145.919169,61.02211,0.0 -145.91532,61.026475,0.0 -145.913658,61.028466,0.0 -145.91357,61.029314,0.0 -145.912433,61.029737,0.0 -145.912433,61.030585,0.0 -145.912433,61.031602,0.0 -145.911208,61.032652,0.0 -145.910334,61.033585,0.0 -145.909872,61.034946,0.0 -145.910484,61.036174,0.0 -145.911271,61.038504,0.0 -145.913021,61.039817,0.0 -145.914945,61.040114,0.0 -145.915558,61.041088,0.0 -145.916782,61.041384,0.0 -145.91792,61.042612,0.0 -145.918444,61.043922,0.0 -145.923693,61.045955,0.0 -145.928067,61.047056,0.0 -145.931566,61.048538,0.0 -145.932266,61.048962,0.0 -145.933578,61.050528,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="20725">
+            <name>Take Out</name>
+            <Point id="20724">
+                <coordinates>-145.932693,61.046799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20727">
+            <name>Put In</name>
+            <Point id="20726">
+                <coordinates>-145.914001,60.954201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20729">
+            <name>Put in</name>
+            <Point id="20728">
+                <coordinates>-145.926935,60.992627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20731">
+            <name>Take out</name>
+            <Point id="20730">
+                <coordinates>-145.933578,61.050528,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

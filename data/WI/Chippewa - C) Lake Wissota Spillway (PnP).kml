@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6947">
+        <name>Chippewa - C) Lake Wissota Spillway (PnP)</name>
+        <Placemark id="6949">
+            <name>Chippewa - C) Lake Wissota Spillway (PnP)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="6948">
+                <coordinates>-91.34144,44.944108,0.0 -91.342526,44.943786,0.0 -91.344194,44.943034,0.0 -91.344613,44.94239,0.0 -91.34439,44.941738,0.0 -91.34569,44.940718,0.0 -91.34755,44.940752,0.0 -91.351138,44.942564,0.0 -91.352972,44.943233,0.0 -91.354461,44.944184,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="6951">
+            <name>&quot;NOCC&quot; (Narrow Overflow Connecting Channel)</name>
+            <Point id="6950">
+                <coordinates>-91.3426,44.941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6953">
+            <name>&quot;ROC&quot; (Rejoined Overflow Channel)</name>
+            <Point id="6952">
+                <coordinates>-91.345,44.9414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6955">
+            <name>&quot;FOC&quot; (First Overflow Channel)</name>
+            <Point id="6954">
+                <coordinates>-91.3433,44.9434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6957">
+            <name>Take Out</name>
+            <Point id="6956">
+                <coordinates>-91.3544,44.9442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6959">
+            <name>Put In</name>
+            <Point id="6958">
+                <coordinates>-91.3405,44.9442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6961">
+            <name>Main Channel</name>
+            <Point id="6960">
+                <coordinates>-91.347,44.9405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6963">
+            <name>&quot;SOC&quot; (Second Overflow Channel)</name>
+            <Point id="6962">
+                <coordinates>-91.3414,44.9425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6965">
+            <name>Put in</name>
+            <Point id="6964">
+                <coordinates>-91.34144,44.944108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6967">
+            <name>Take out</name>
+            <Point id="6966">
+                <coordinates>-91.354461,44.944184,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

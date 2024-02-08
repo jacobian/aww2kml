@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10313">
+        <name>Popple, Little - CTH.N (Homestead) to end of gradient (0.5 mile)</name>
+        <Placemark id="10315">
+            <name>Popple, Little - CTH.N (Homestead) to end of gradient (0.5 mile)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="10314">
+                <coordinates>-88.194771,45.792603,0.0 -88.195838,45.793348,0.0 -88.196001,45.793714,0.0 -88.196002,45.794148,0.0 -88.195774,45.79456,0.0 -88.195415,45.794834,0.0 -88.194794,45.795269,0.0 -88.194664,45.795521,0.0 -88.194632,45.795978,0.0 -88.195188,45.796366,0.0 -88.195188,45.796663,0.0 -88.194862,45.797281,0.0 -88.194732,45.797784,0.0 -88.194668,45.798607,0.0 -88.194493,45.798791,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="10317">
+            <name>Take Out</name>
+            <Point id="10316">
+                <coordinates>-88.194504,45.798801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10319">
+            <name>Put In</name>
+            <Point id="10318">
+                <coordinates>-88.194702,45.792702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10321">
+            <name>USGS sampling site</name>
+            <Point id="10320">
+                <coordinates>-88.194702,45.792702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10323">
+            <name>Put in</name>
+            <Point id="10322">
+                <coordinates>-88.194702,45.792702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10325">
+            <name>Take out</name>
+            <Point id="10324">
+                <coordinates>-88.194504,45.798801,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

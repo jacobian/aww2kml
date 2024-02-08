@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8603">
+        <name>Huron (Washtenaw) - B) Ann Arbor &quot;Argo Cascades&quot; (PnP)</name>
+        <Placemark id="8605">
+            <name>Huron (Washtenaw) - B) Ann Arbor &quot;Argo Cascades&quot; (PnP)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="8604">
+                <coordinates>-83.745179,42.291032,0.0 -83.745235,42.290717,0.0 -83.745102,42.290545,0.0 -83.745103,42.290545,0.0 -83.744917,42.290302,0.0 -83.744917,42.290302,0.0 -83.74482,42.290175,0.0 -83.742782,42.289985,0.0 -83.741344,42.289342,0.0 -83.741098,42.289107,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="8607">
+            <name>Put In</name>
+            <Point id="8606">
+                <coordinates>-83.745,42.291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8609">
+            <name>Snow White / Bridge Drop (II)</name>
+            <Point id="8608">
+                <coordinates>-83.741144,42.289151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8611">
+            <name>Take Out</name>
+            <Point id="8610">
+                <coordinates>-83.741,42.289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8613">
+            <name>Put in</name>
+            <Point id="8612">
+                <coordinates>-83.745179,42.291032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8615">
+            <name>Take out</name>
+            <Point id="8614">
+                <coordinates>-83.741098,42.289107,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

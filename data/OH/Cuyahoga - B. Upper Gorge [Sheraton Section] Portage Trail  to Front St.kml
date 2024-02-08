@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="29275">
+        <name>Cuyahoga - B. Upper Gorge [Sheraton Section] Portage Trail  to Front St</name>
+        <Placemark id="29277">
+            <name>Cuyahoga - B. Upper Gorge [Sheraton Section] Portage Trail  to Front St</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="29276">
+                <coordinates>-81.481895,41.135984,0.0 -81.482053,41.133692,0.0 -81.482409,41.132035,0.0 -81.482579,41.130785,0.0 -81.482947,41.129562,0.0 -81.483832,41.128373,0.0 -81.484611,41.127315,0.0 -81.485105,41.126235,0.0 -81.486533,41.124815,0.0 -81.487317,41.124189,0.0 -81.487954,41.123582,0.0 -81.487872,41.122254,0.0 -81.489121,41.120915,0.0 -81.491695,41.119118,0.0 -81.492845,41.118491,0.0 -81.493369,41.117868,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="29279">
+            <name>Put In</name>
+            <Point id="29278">
+                <coordinates>-81.482002,41.136002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29281">
+            <name>Rookie Drop (III+)</name>
+            <Point id="29280">
+                <coordinates>-81.482399,41.132301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29283">
+            <name>Second Drop (IV)</name>
+            <Point id="29282">
+                <coordinates>-81.482498,41.131699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29285">
+            <name>Weeping Cliff Rapid (III)</name>
+            <Point id="29284">
+                <coordinates>-81.483051,41.12941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29287">
+            <name>Anchor Rock (II)</name>
+            <Point id="29286">
+                <coordinates>-81.483305,41.129075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29289">
+            <name>Warm Ups (II)</name>
+            <Point id="29288">
+                <coordinates>-81.481952,41.135154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29291">
+            <name>Dam Pool  (I)</name>
+            <Point id="29290">
+                <coordinates>-81.482173,41.133113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29293">
+            <name>The Jumble (IV+)</name>
+            <Point id="29292">
+                <coordinates>-81.482478,41.13153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29295">
+            <name>Take Out</name>
+            <Point id="29294">
+                <coordinates>-81.492996,41.118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29297">
+            <name>Put in</name>
+            <Point id="29296">
+                <coordinates>-81.481895,41.135984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29299">
+            <name>Take out</name>
+            <Point id="29298">
+                <coordinates>-81.493369,41.117868,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

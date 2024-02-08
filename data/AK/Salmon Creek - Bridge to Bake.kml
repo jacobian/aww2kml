@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20795">
+        <name>Salmon Creek - Bridge to Bake</name>
+        <Placemark id="20797">
+            <name>Salmon Creek - Bridge to Bake</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="20796">
+                <coordinates>-134.424051,58.337921,0.0 -134.424307,58.337876,0.0 -134.427628,58.338083,0.0 -134.432411,58.337706,0.0 -134.43366,58.337292,0.0 -134.434088,58.336068,0.0 -134.436502,58.336068,0.0 -134.437683,58.3357,0.0 -134.438744,58.334891,0.0 -134.439457,58.333869,0.0 -134.441717,58.333375,0.0 -134.442812,58.333761,0.0 -134.443,58.334111,0.0 -134.44413,58.334615,0.0 -134.445773,58.334597,0.0 -134.446972,58.333995,0.0 -134.447656,58.333437,0.0 -134.448945,58.332988,0.0 -134.450486,58.332862,0.0 -134.451239,58.333033,0.0 -134.451256,58.333455,0.0 -134.452403,58.333635,0.0 -134.45307,58.333599,0.0 -134.456665,58.33262,0.0 -134.459027,58.332835,0.0 -134.465052,58.332925,0.0 -134.465446,58.33262,0.0 -134.466097,58.332422,0.0 -134.467226,58.332341,0.0 -134.468596,58.332,0.0 -134.469674,58.331883,0.0 -134.470496,58.331703,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="20799">
+            <name>Take Out</name>
+            <Point id="20798">
+                <coordinates>-134.467335,58.332314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20801">
+            <name>Put In</name>
+            <Point id="20800">
+                <coordinates>-134.424051,58.337921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20803">
+            <name>Put in</name>
+            <Point id="20802">
+                <coordinates>-134.424051,58.337921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20805">
+            <name>Take out</name>
+            <Point id="20804">
+                <coordinates>-134.470496,58.331703,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13057">
+        <name>Goose Eye Brook - Bull Branch Rd - Hike up</name>
+        <Placemark id="13059">
+            <name>Goose Eye Brook - Bull Branch Rd - Hike up</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="13058">
+                <coordinates>-70.944023,44.516336,0.0 -70.943907,44.516268,0.0 -70.941766,44.515766,0.0 -70.940744,44.515858,0.0 -70.939977,44.516133,0.0 -70.938924,44.51698,0.0 -70.937806,44.517598,0.0 -70.936497,44.518078,0.0 -70.935826,44.518033,0.0 -70.931514,44.517154,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="13061">
+            <name>Take Out</name>
+            <Point id="13060">
+                <coordinates>-69.2283,45.3966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13063">
+            <name>Put In</name>
+            <Point id="13062">
+                <coordinates>-70.9318,44.5172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13065">
+            <name>Put in</name>
+            <Point id="13064">
+                <coordinates>-70.944023,44.516336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13067">
+            <name>Take out</name>
+            <Point id="13066">
+                <coordinates>-70.931514,44.517154,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

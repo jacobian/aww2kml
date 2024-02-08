@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10527">
+        <name>Catawba - Great Falls Short Channel</name>
+        <Placemark id="10529">
+            <name>Catawba - Great Falls Short Channel</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="10528">
+                <coordinates>-80.885558,34.578231,0.0 -80.885385,34.57796,0.0 -80.885352,34.577587,0.0 -80.885313,34.577531,0.0 -80.885313,34.577531,0.0 -80.885313,34.577531,0.0 -80.885343,34.577532,0.0 -80.88535,34.577442,0.0 -80.88535,34.577442,0.0 -80.885253,34.577407,0.0 -80.885156,34.577283,0.0 -80.885156,34.577283,0.0 -80.885231,34.577115,0.0 -80.885231,34.577115,0.0 -80.885017,34.576974,0.0 -80.88492,34.576824,0.0 -80.884888,34.576567,0.0 -80.88462,34.576461,0.0 -80.884491,34.576364,0.0 -80.884523,34.576179,0.0 -80.884523,34.576179,0.0 -80.884545,34.576046,0.0 -80.884212,34.57556,0.0 -80.884212,34.57556,0.0 -80.884062,34.575366,0.0 -80.884062,34.575366,0.0 -80.883912,34.575189,0.0 -80.883912,34.575189,0.0 -80.883783,34.57503,0.0 -80.883536,34.574659,0.0 -80.882946,34.573864,0.0 -80.882946,34.573864,0.0 -80.882957,34.573679,0.0 -80.882936,34.573431,0.0 -80.882936,34.573431,0.0 -80.882989,34.573378,0.0 -80.882989,34.573378,0.0 -80.882978,34.573087,0.0 -80.882807,34.572725,0.0 -80.882646,34.572451,0.0 -80.882549,34.572327,0.0 -80.882281,34.572124,0.0 -80.882013,34.571656,0.0 -80.881906,34.571391,0.0 -80.881906,34.571391,0.0 -80.881873,34.571258,0.0 -80.881873,34.571258,0.0 -80.881627,34.571099,0.0 -80.88153,34.571214,0.0 -80.881627,34.571099,0.0 -80.88153,34.571214,0.0 -80.881401,34.57094,0.0 -80.881401,34.57094,0.0 -80.880919,34.570684,0.0 -80.880919,34.570684,0.0 -80.88079,34.570525,0.0 -80.88079,34.570525,0.0 -80.88094,34.570348,0.0 -80.880959,34.570311,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="10531">
+            <name>Broken Bowl Rock (III)</name>
+            <Point id="10530">
+                <coordinates>-80.884859,34.576752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10533">
+            <name>Turtleback Rapid  (III)</name>
+            <Point id="10532">
+                <coordinates>-80.884913,34.57716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10535">
+            <name>Reservoir Take Out (None)</name>
+            <Point id="10534">
+                <coordinates>-80.87031,34.551161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10537">
+            <name>Great Waves Rapid  (III)</name>
+            <Point id="10536">
+                <coordinates>-80.88449,34.576025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10539">
+            <name>Barracks Ledge (III)</name>
+            <Point id="10538">
+                <coordinates>-80.881914,34.573449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10541">
+            <name>Canal Street Put In (None)</name>
+            <Point id="10540">
+                <coordinates>-80.887921,34.57741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10543">
+            <name>Put in</name>
+            <Point id="10542">
+                <coordinates>-80.885558,34.578231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10545">
+            <name>Take out</name>
+            <Point id="10544">
+                <coordinates>-80.880959,34.570311,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

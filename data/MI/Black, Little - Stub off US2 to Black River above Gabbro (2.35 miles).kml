@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20313">
+        <name>Black, Little - Stub off US2 to Black River above Gabbro (2.35 miles)</name>
+        <Placemark id="20315">
+            <name>Black, Little - Stub off US2 to Black River above Gabbro (2.35 miles)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="20314">
+                <coordinates>-89.981192,46.481987,0.0 -89.982528,46.481896,0.0 -89.983654,46.482283,0.0 -89.985571,46.482007,0.0 -89.986531,46.482052,0.0 -89.987391,46.482234,0.0 -89.987788,46.482393,0.0 -89.988219,46.482713,0.0 -89.988452,46.483558,0.0 -89.988684,46.483786,0.0 -89.98895,46.484448,0.0 -89.989282,46.48495,0.0 -89.990044,46.485452,0.0 -89.990607,46.485954,0.0 -89.990773,46.486022,0.0 -89.992559,46.48602,0.0 -89.993054,46.485746,0.0 -89.993616,46.485653,0.0 -89.994873,46.485835,0.0 -89.995106,46.486177,0.0 -89.995734,46.486245,0.0 -89.996198,46.486519,0.0 -89.996397,46.48677,0.0 -89.996864,46.488185,0.0 -89.997062,46.488254,0.0 -89.996864,46.48846,0.0 -89.995312,46.489261,0.0 -89.995147,46.48949,0.0 -89.995247,46.489832,0.0 -89.995976,46.490425,0.0 -89.995978,46.490859,0.0 -89.995384,46.491614,0.0 -89.995452,46.492048,0.0 -89.995584,46.492139,0.0 -89.995685,46.492527,0.0 -89.995487,46.492893,0.0 -89.994894,46.493419,0.0 -89.994433,46.494333,0.0 -89.99384,46.494951,0.0 -89.993017,46.496254,0.0 -89.992655,46.497214,0.0 -89.992757,46.498059,0.0 -89.99266,46.498996,0.0 -89.992264,46.49959,0.0 -89.992364,46.499951,0.0 -89.992366,46.499947,0.0 -89.992369,46.499948,0.0 -89.992366,46.499951,0.0 -89.9923,46.500085,0.0 -89.992366,46.500154,0.0 -89.992533,46.500724,0.0 -89.992444,46.501238,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="20317">
+            <name>Take Out</name>
+            <Point id="20316">
+                <coordinates>-89.9928,46.5013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20319">
+            <name>Put In</name>
+            <Point id="20318">
+                <coordinates>-89.9812,46.4821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20321">
+            <name>Neepikon Falls</name>
+            <Point id="20320">
+                <coordinates>-89.99472,46.493809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20323">
+            <name>USGS Sampling Site</name>
+            <Point id="20322">
+                <coordinates>-89.9757,46.479698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20325">
+            <name>Baker Blackjack Road</name>
+            <Point id="20324">
+                <coordinates>-89.989578,46.485168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20327">
+            <name>Put in</name>
+            <Point id="20326">
+                <coordinates>-89.9812,46.4821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20329">
+            <name>Take out</name>
+            <Point id="20328">
+                <coordinates>-89.9928,46.5013,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

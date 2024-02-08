@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8211">
+        <name>Menomonee - C) MenTosa: Hart Park Lane to 4202 W.Bluemound Road (2.55 miles)</name>
+        <Placemark id="8213">
+            <name>Menomonee - C) MenTosa: Hart Park Lane to 4202 W.Bluemound Road (2.55 miles)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="8212">
+                <coordinates>-88.011461,43.049838,0.0 -88.011303,43.049878,0.0 -88.010616,43.049902,0.0 -88.009307,43.049714,0.0 -88.008868,43.049627,0.0 -88.007966,43.048867,0.0 -88.007344,43.048389,0.0 -88.006968,43.0482,0.0 -88.006121,43.04802,0.0 -88.006003,43.047975,0.0 -88.005841,43.047828,0.0 -88.005794,43.047893,0.0 -88.005756,43.047879,0.0 -88.005477,43.047542,0.0 -88.00522,43.04635,0.0 -88.004791,43.045597,0.0 -88.004383,43.045299,0.0 -88.003728,43.045064,0.0 -88.002795,43.044837,0.0 -88.002484,43.04479,0.0 -88.002484,43.04479,0.0 -88.001733,43.044994,0.0 -88.001325,43.045221,0.0 -88.000553,43.045519,0.0 -88.000091,43.045495,0.0 -88.000091,43.045495,0.0 -87.999512,43.045519,0.0 -87.999008,43.045448,0.0 -87.997978,43.045135,0.0 -87.996916,43.044468,0.0 -87.996898,43.044457,0.0 -87.996898,43.044457,0.0 -87.995607,43.043621,0.0 -87.994298,43.042963,0.0 -87.993364,43.042712,0.0 -87.992452,43.042782,0.0 -87.99168,43.042782,0.0 -87.990489,43.042508,0.0 -87.989309,43.04239,0.0 -87.988654,43.042414,0.0 -87.987249,43.042304,0.0 -87.986816,43.04233,0.0 -87.986816,43.04233,0.0 -87.982571,43.042586,0.0 -87.978516,43.042986,0.0 -87.977867,43.043046,0.0 -87.977867,43.043046,0.0 -87.977829,43.043049,0.0 -87.976863,43.042978,0.0 -87.975276,43.0425,0.0 -87.974181,43.041904,0.0 -87.973366,43.041747,0.0 -87.973001,43.0417,0.0 -87.972625,43.041818,0.0 -87.97225,43.042202,0.0 -87.972089,43.04232,0.0 -87.971499,43.042414,0.0 -87.969031,43.042022,0.0 -87.968538,43.041818,0.0 -87.968162,43.041567,0.0 -87.967916,43.041222,0.0 -87.967755,43.040885,0.0 -87.967347,43.040399,0.0 -87.966918,43.040038,0.0 -87.966253,43.039646,0.0 -87.966014,43.039448,0.0 -87.966014,43.039448,0.0 -87.965574,43.039084,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="8215">
+            <name>Pedestrian Bridge (Tosa Plaza)</name>
+            <Point id="8214">
+                <coordinates>-88.008003,43.049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8217">
+            <name>Hank Aaron State Trail / Selig Drive</name>
+            <Point id="8216">
+                <coordinates>-87.967003,43.029999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8219">
+            <name>Railroad Trestle Chicane (RTC) (II+)</name>
+            <Point id="8218">
+                <coordinates>-87.968002,43.040001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8221">
+            <name>W.Monarch Place: Drainage area: ~133 sq.mi.</name>
+            <Point id="8220">
+                <coordinates>-87.968002,43.041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8223">
+            <name>Railroad Rips (RRR) (II)</name>
+            <Point id="8222">
+                <coordinates>-87.972,43.042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8225">
+            <name>ARF/UAW (Another Rubble Field/Up Against the Wall) (II)</name>
+            <Point id="8224">
+                <coordinates>-87.978996,43.042999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8227">
+            <name>Doyne Park Waves (DPW) (II)</name>
+            <Point id="8226">
+                <coordinates>-87.980003,43.042999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8229">
+            <name>Jacobus Bridge Pier (JBP) (II+)</name>
+            <Point id="8228">
+                <coordinates>-87.992996,43.042999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8231">
+            <name>Third (Railroad) Crossing Wave (TCW) (II)</name>
+            <Point id="8230">
+                <coordinates>-87.968002,43.034,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8233">
+            <name>Bikeway Bridge (Hart Park) (I)</name>
+            <Point id="8232">
+                <coordinates>-88.003998,43.044998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8235">
+            <name>Confluence with Honey Creek (10.3 sq.mi.) (I)</name>
+            <Point id="8234">
+                <coordinates>-88.001999,43.044998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8237">
+            <name>USGS Gauge: 123 sq.mi.</name>
+            <Point id="8236">
+                <coordinates>-88.00006,43.045569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8239">
+            <name>Cleft-Rock</name>
+            <Point id="8238">
+                <coordinates>-87.987999,43.042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8241">
+            <name>Trenton Waves (II)</name>
+            <Point id="8240">
+                <coordinates>-87.986,43.042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8243">
+            <name>Bluemound Road ***RECOMMENDED TAKE-OUT! ***</name>
+            <Point id="8242">
+                <coordinates>-87.966982,43.038581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8245">
+            <name>Remediation Rips (II)</name>
+            <Point id="8244">
+                <coordinates>-87.971001,43.042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8247">
+            <name>Little Ender Spot (LES)</name>
+            <Point id="8246">
+                <coordinates>-87.980871,43.042754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8249">
+            <name>Hawley-Wood Hole (HWH) (II+)</name>
+            <Point id="8248">
+                <coordinates>-87.983002,43.042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8251">
+            <name>Parkway Access</name>
+            <Point id="8250">
+                <coordinates>-87.996002,43.043999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8253">
+            <name>Alternate Put-in: Red Store Lot</name>
+            <Point id="8252">
+                <coordinates>-88.011002,43.049999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8255">
+            <name>**Put-in: Hart Park**</name>
+            <Point id="8254">
+                <coordinates>-88.007004,43.049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8257">
+            <name>Hart Park Rips (HPR) (II)</name>
+            <Point id="8256">
+                <coordinates>-88.005841,43.047828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8259">
+            <name>Put in</name>
+            <Point id="8258">
+                <coordinates>-88.011461,43.049838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8261">
+            <name>Take out</name>
+            <Point id="8260">
+                <coordinates>-87.965574,43.039084,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="27055">
+        <name>Willow - C) Little Falls Dam to Trout Brook Road (1.85 miles) ** State Park Fee **</name>
+        <Placemark id="27057">
+            <name>Willow - C) Little Falls Dam to Trout Brook Road (1.85 miles) ** State Park Fee **</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="27056">
+                <coordinates>-92.706622,45.016246,0.0 -92.70663,45.016218,0.0 -92.706694,45.016104,0.0 -92.706758,45.015806,0.0 -92.706661,45.015738,0.0 -92.706532,45.015166,0.0 -92.706435,45.015029,0.0 -92.706466,45.014183,0.0 -92.707012,45.012971,0.0 -92.707398,45.012331,0.0 -92.707688,45.012102,0.0 -92.708107,45.011964,0.0 -92.709041,45.011964,0.0 -92.71017,45.012306,0.0 -92.710557,45.012328,0.0 -92.711201,45.012168,0.0 -92.711491,45.012007,0.0 -92.711845,45.011367,0.0 -92.712135,45.011115,0.0 -92.712554,45.011046,0.0 -92.714197,45.011022,0.0 -92.717228,45.011454,0.0 -92.717679,45.011477,0.0 -92.717872,45.011408,0.0 -92.718226,45.010996,0.0 -92.718226,45.010607,0.0 -92.718226,45.010607,0.0 -92.717936,45.010608,0.0 -92.717516,45.010471,0.0 -92.717323,45.010265,0.0 -92.717256,45.009008,0.0 -92.717256,45.009008,0.0 -92.717287,45.00839,0.0 -92.717287,45.00839,0.0 -92.716965,45.008368,0.0 -92.716029,45.007637,0.0 -92.715771,45.00734,0.0 -92.715222,45.006906,0.0 -92.714674,45.0067,0.0 -92.714545,45.006563,0.0 -92.714544,45.00622,0.0 -92.714866,45.005991,0.0 -92.715768,45.005693,0.0 -92.716187,45.005396,0.0 -92.716669,45.004824,0.0 -92.717281,45.004366,0.0 -92.717699,45.003954,0.0 -92.717988,45.003405,0.0 -92.718375,45.003062,0.0 -92.720275,45.00226,0.0 -92.72055,45.002219,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="27059">
+            <name>Minor ledge/rapids</name>
+            <Point id="27058">
+                <coordinates>-92.695999,45.015999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27061">
+            <name>Little Falls (dam site)</name>
+            <Point id="27060">
+                <coordinates>-92.706001,45.016998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27063">
+            <name>Take Out</name>
+            <Point id="27062">
+                <coordinates>-92.721,45.002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27065">
+            <name>USGS gauge (292 sq.mi.)</name>
+            <Point id="27064">
+                <coordinates>-92.708,45.012001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27067">
+            <name>Put In</name>
+            <Point id="27066">
+                <coordinates>-92.675,45.02,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27069">
+            <name>End of Island</name>
+            <Point id="27068">
+                <coordinates>-92.724998,45,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27071">
+            <name>Footbridge</name>
+            <Point id="27070">
+                <coordinates>-92.711998,45.011002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27073">
+            <name>Head of Island</name>
+            <Point id="27072">
+                <coordinates>-92.717003,45.008999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27075">
+            <name>End gradient / begin backwaters</name>
+            <Point id="27074">
+                <coordinates>-92.732002,44.995998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27077">
+            <name>Put in</name>
+            <Point id="27076">
+                <coordinates>-92.706622,45.016246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27079">
+            <name>Take out</name>
+            <Point id="27078">
+                <coordinates>-92.72055,45.002219,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

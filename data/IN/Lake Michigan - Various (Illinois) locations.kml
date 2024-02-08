@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26825">
+        <name>Lake Michigan - Various (Illinois) locations</name>
+        <Placemark id="26827">
+            <name>Lake Michigan - Various (Illinois) locations</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26826">
+                <coordinates>-87.802255,42.491462,0.0 -87.792471,42.486076,0.0 -87.800252,42.419774,0.0 -87.802881,42.366311,0.0 -87.824274,42.339834,0.0 -87.827919,42.315934,0.0 -87.823482,42.264285,0.0 -87.806684,42.225241,0.0 -87.769128,42.168963,0.0 -87.730267,42.117348,0.0 -87.679716,42.079093,0.0 -87.667514,42.058507,0.0 -87.655629,42.006928,0.0 -87.631067,41.966244,0.0 -87.631384,41.960352,0.0 -87.636296,41.948803,0.0 -87.620133,41.914551,0.0 -87.597901,41.892673,0.0 -87.604398,41.866598,0.0 -87.602338,41.839226,0.0 -87.586809,41.810058,0.0 -87.573497,41.796251,0.0 -87.559552,41.768364,0.0 -87.540726,41.758544,0.0 -87.530742,41.748613,0.0 -87.523453,41.726249,0.0 -87.525037,41.709216,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26829">
+            <name>Waukegan - North Beach Park</name>
+            <Point id="26828">
+                <coordinates>-87.816704,42.363602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26831">
+            <name>Montrose</name>
+            <Point id="26830">
+                <coordinates>-87.635597,41.966499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26833">
+            <name>Tower Road</name>
+            <Point id="26832">
+                <coordinates>-87.731598,42.115501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26835">
+            <name>Illinois Beach State Park</name>
+            <Point id="26834">
+                <coordinates>-87.805,42.430199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26837">
+            <name>Take Out</name>
+            <Point id="26836">
+                <coordinates>-87.5243,41.7076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26839">
+            <name>59th St.Harbour/Promontory Point</name>
+            <Point id="26838">
+                <coordinates>-87.578514,41.791073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26841">
+            <name>Put In</name>
+            <Point id="26840">
+                <coordinates>-87.8042,42.491,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26843">
+            <name>Put in</name>
+            <Point id="26842">
+                <coordinates>-87.802255,42.491462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26845">
+            <name>Take out</name>
+            <Point id="26844">
+                <coordinates>-87.525037,41.709216,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

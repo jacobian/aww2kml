@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11985">
+        <name>St. Joseph (L.Michigan trib) - East Race Whitewater Course (0.35 mile)</name>
+        <Placemark id="11987">
+            <name>St. Joseph (L.Michigan trib) - East Race Whitewater Course (0.35 mile)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="11986">
+                <coordinates>-86.244872,41.675748,0.0 -86.24499,41.676077,0.0 -86.245016,41.67628,0.0 -86.245122,41.676243,0.0 -86.244911,41.676255,0.0 -86.245066,41.67644,0.0 -86.24512,41.676942,0.0 -86.245094,41.677237,0.0 -86.245178,41.677401,0.0 -86.245173,41.677582,0.0 -86.245175,41.678061,0.0 -86.245326,41.67837,0.0 -86.245363,41.678643,0.0 -86.245384,41.678772,0.0 -86.245463,41.678789,0.0 -86.245455,41.678743,0.0 -86.24539,41.678811,0.0 -86.245465,41.67902,0.0 -86.245648,41.679393,0.0 -86.246048,41.679847,0.0 -86.24634,41.680332,0.0 -86.246711,41.680795,0.0 -86.246871,41.681012,0.0 -86.246925,41.681124,0.0 -86.246798,41.681182,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="11989">
+            <name>Put In</name>
+            <Point id="11988">
+                <coordinates>-86.244885,41.675785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11991">
+            <name>Take Out</name>
+            <Point id="11990">
+                <coordinates>-86.246798,41.681182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11993">
+            <name>Drainage: ~3,587 sq.mi.</name>
+            <Point id="11992">
+                <coordinates>-86.244811,41.67547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11995">
+            <name>Trestle</name>
+            <Point id="11994">
+                <coordinates>-86.245768,41.679529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11997">
+            <name>Scissors Gates</name>
+            <Point id="11996">
+                <coordinates>-86.245001,41.676166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11999">
+            <name>Play Wave</name>
+            <Point id="11998">
+                <coordinates>-86.245399,41.678837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12001">
+            <name>Biggest Drop / V-Wave</name>
+            <Point id="12000">
+                <coordinates>-86.245174,41.677394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12003">
+            <name>Exit Wave</name>
+            <Point id="12002">
+                <coordinates>-86.246792,41.680905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12005">
+            <name>Put in</name>
+            <Point id="12004">
+                <coordinates>-86.244872,41.675748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="12007">
+            <name>Take out</name>
+            <Point id="12006">
+                <coordinates>-86.246798,41.681182,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

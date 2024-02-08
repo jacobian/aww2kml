@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20949">
+        <name>Wolf - F) Sec.4: Otter Slide to Big Smokey Falls (5.96 miles) ** Access Fee **</name>
+        <Placemark id="20951">
+            <name>Wolf - F) Sec.4: Otter Slide to Big Smokey Falls (5.96 miles) ** Access Fee **</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="20950">
+                <coordinates>-88.627995,45.060688,0.0 -88.628004,45.060605,0.0 -88.629725,45.059564,0.0 -88.630135,45.059082,0.0 -88.631091,45.058503,0.0 -88.632169,45.058436,0.0 -88.634641,45.057058,0.0 -88.636129,45.056508,0.0 -88.639432,45.05568,0.0 -88.641043,45.055642,0.0 -88.641602,45.05542,0.0 -88.645492,45.05576,0.0 -88.650118,45.055887,0.0 -88.651163,45.055544,0.0 -88.652126,45.055227,0.0 -88.65308,45.054914,0.0 -88.655341,45.053867,0.0 -88.65637,45.05339,0.0 -88.656343,45.052821,0.0 -88.657368,45.051615,0.0 -88.657417,45.051163,0.0 -88.657505,45.05036,0.0 -88.658474,45.049656,0.0 -88.658748,45.048788,0.0 -88.659335,45.048315,0.0 -88.659274,45.047397,0.0 -88.659268,45.047302,0.0 -88.65864,45.04651,0.0 -88.658682,45.046134,0.0 -88.659883,45.044938,0.0 -88.659639,45.042274,0.0 -88.660581,45.041821,0.0 -88.662396,45.041542,0.0 -88.663188,45.040828,0.0 -88.663197,45.040773,0.0 -88.663736,45.03745,0.0 -88.663422,45.037055,0.0 -88.663573,45.035675,0.0 -88.663833,45.034932,0.0 -88.664652,45.033967,0.0 -88.664789,45.032712,0.0 -88.664203,45.031545,0.0 -88.662908,45.030338,0.0 -88.66284,45.029325,0.0 -88.663604,45.028862,0.0 -88.664327,45.028775,0.0 -88.66587,45.027724,0.0 -88.667302,45.027676,0.0 -88.668066,45.027213,0.0 -88.667971,45.026451,0.0 -88.666086,45.025152,0.0 -88.66598,45.02508,0.0 -88.665107,45.024906,0.0 -88.665029,45.024841,0.0 -88.664453,45.024365,0.0 -88.662339,45.024123,0.0 -88.661507,45.023573,0.0 -88.659038,45.023312,0.0 -88.656992,45.022442,0.0 -88.656092,45.022519,0.0 -88.653623,45.022258,0.0 -88.651101,45.020858,0.0 -88.649383,45.020259,0.0 -88.648429,45.019197,0.0 -88.648076,45.017537,0.0 -88.647299,45.016485,0.0 -88.647245,45.015346,0.0 -88.646755,45.014941,0.0 -88.645868,45.014892,0.0 -88.643453,45.015769,0.0 -88.64239,45.015711,0.0 -88.640902,45.01626,0.0 -88.637861,45.016345,0.0 -88.636914,45.016976,0.0 -88.635936,45.017628,0.0 -88.635213,45.017714,0.0 -88.635044,45.017692,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="20953">
+            <name>Trip Rapids (II)</name>
+            <Point id="20952">
+                <coordinates>-88.651199,45.055401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20955">
+            <name>Lunch Rock (III)</name>
+            <Point id="20954">
+                <coordinates>-88.663002,45.041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20957">
+            <name>Ledge (II)</name>
+            <Point id="20956">
+                <coordinates>-88.668098,45.027302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20959">
+            <name>Upper Dells (III+)</name>
+            <Point id="20958">
+                <coordinates>-88.664001,45.028999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20961">
+            <name>Lower Dells (III+)</name>
+            <Point id="20960">
+                <coordinates>-88.666,45.025002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20963">
+            <name>Upper Ducknest (III)</name>
+            <Point id="20962">
+                <coordinates>-88.658997,45.047001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20965">
+            <name>Sullivan Falls (III+)</name>
+            <Point id="20964">
+                <coordinates>-88.657097,45.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20967">
+            <name>Otter Slide (Drainage ~501 sq.mi.)</name>
+            <Point id="20966">
+                <coordinates>-88.627998,45.060001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20969">
+            <name>Lower Ducknest (III)</name>
+            <Point id="20968">
+                <coordinates>-88.658997,45.046001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20971">
+            <name>Evergreen Rapids (II+)</name>
+            <Point id="20970">
+                <coordinates>-88.658997,45.053001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20973">
+            <name>Big Smokey Falls (IV)</name>
+            <Point id="20972">
+                <coordinates>-88.637604,45.016399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20975">
+            <name>Take Out</name>
+            <Point id="20974">
+                <coordinates>-88.635002,45.018002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20977">
+            <name>Put in</name>
+            <Point id="20976">
+                <coordinates>-88.627197,45.0606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="20979">
+            <name>Take out</name>
+            <Point id="20978">
+                <coordinates>-88.635002,45.018002,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

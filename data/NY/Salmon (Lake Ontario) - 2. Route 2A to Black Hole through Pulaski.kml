@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25777">
+        <name>Salmon (Lake Ontario) - 2. Route 2A to Black Hole through Pulaski</name>
+        <Placemark id="25779">
+            <name>Salmon (Lake Ontario) - 2. Route 2A to Black Hole through Pulaski</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="25778">
+                <coordinates>-76.093183,43.549725,0.0 -76.095519,43.549981,0.0 -76.099034,43.548018,0.0 -76.099034,43.548018,0.0 -76.102092,43.548808,0.0 -76.103067,43.549726,0.0 -76.103267,43.552065,0.0 -76.103757,43.553422,0.0 -76.105402,43.555085,0.0 -76.105732,43.555777,0.0 -76.104621,43.558941,0.0 -76.104889,43.559238,0.0 -76.106081,43.559421,0.0 -76.108171,43.558971,0.0 -76.111721,43.559002,0.0 -76.112249,43.559369,0.0 -76.112899,43.559427,0.0 -76.112899,43.559427,0.0 -76.114749,43.559594,0.0 -76.116477,43.560371,0.0 -76.117963,43.561368,0.0 -76.120883,43.562328,0.0 -76.121518,43.563194,0.0 -76.121074,43.565306,0.0 -76.121074,43.565306,0.0 -76.122013,43.566347,0.0 -76.122013,43.566347,0.0 -76.12402,43.566783,0.0 -76.124629,43.567132,0.0 -76.124629,43.567132,0.0 -76.126827,43.566314,0.0 -76.127312,43.565876,0.0 -76.128133,43.563693,0.0 -76.128959,43.563306,0.0 -76.130661,43.563567,0.0 -76.13127,43.563916,0.0 -76.132209,43.564957,0.0 -76.13337,43.567058,0.0 -76.134516,43.568003,0.0 -76.136219,43.568263,0.0 -76.137611,43.567677,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="25781">
+            <name>Titanic (II+)</name>
+            <Point id="25780">
+                <coordinates>-76.132797,43.564499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25783">
+            <name>Firemen's Field (II)</name>
+            <Point id="25782">
+                <coordinates>-76.121803,43.565399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25785">
+            <name>Put in</name>
+            <Point id="25784">
+                <coordinates>-76.093183,43.549725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25787">
+            <name>Take out</name>
+            <Point id="25786">
+                <coordinates>-76.137611,43.567677,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

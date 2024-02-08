@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17067">
+        <name>West Canada Creek - Prospect Gorge</name>
+        <Placemark id="17069">
+            <name>West Canada Creek - Prospect Gorge</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="17068">
+                <coordinates>-75.143509,43.304821,0.0 -75.144183,43.305033,0.0 -75.145881,43.305233,0.0 -75.14735,43.305222,0.0 -75.147702,43.305122,0.0 -75.147774,43.304692,0.0 -75.147605,43.304414,0.0 -75.147238,43.304314,0.0 -75.146825,43.304158,0.0 -75.147039,43.303668,0.0 -75.147009,43.3032,0.0 -75.146901,43.302632,0.0 -75.147024,43.302131,0.0 -75.146764,43.301518,0.0 -75.146289,43.301006,0.0 -75.145983,43.300538,0.0 -75.145723,43.299792,0.0 -75.145693,43.298133,0.0 -75.146351,43.297309,0.0 -75.147024,43.296317,0.0 -75.147269,43.295683,0.0 -75.147253,43.295014,0.0 -75.147376,43.294179,0.0 -75.147652,43.29343,0.0 -75.147866,43.292495,0.0 -75.147897,43.291626,0.0 -75.147851,43.290657,0.0 -75.147958,43.289721,0.0 -75.148264,43.288941,0.0 -75.14906,43.288641,0.0 -75.150208,43.288106,0.0 -75.150896,43.287894,0.0 -75.151417,43.287627,0.0 -75.152121,43.28687,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="17071">
+            <name>Prospect Falls</name>
+            <Point id="17070">
+                <coordinates>-75.147787,43.304776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17073">
+            <name>crux gorge</name>
+            <Point id="17072">
+                <coordinates>-75.147333,43.294613,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17075">
+            <name>Put in</name>
+            <Point id="17074">
+                <coordinates>-75.143509,43.304821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17077">
+            <name>Take out</name>
+            <Point id="17076">
+                <coordinates>-75.152121,43.28687,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

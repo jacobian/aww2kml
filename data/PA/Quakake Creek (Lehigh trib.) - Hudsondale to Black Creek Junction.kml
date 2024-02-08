@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5685">
+        <name>Quakake Creek (Lehigh trib.) - Hudsondale to Black Creek Junction</name>
+        <Placemark id="5687">
+            <name>Quakake Creek (Lehigh trib.) - Hudsondale to Black Creek Junction</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="5686">
+                <coordinates>-75.855453,40.921666,0.0 -75.855187,40.921213,0.0 -75.855157,40.920412,0.0 -75.855157,40.920412,0.0 -75.854132,40.920068,0.0 -75.853589,40.920183,0.0 -75.853197,40.920389,0.0 -75.852834,40.921212,0.0 -75.852412,40.921487,0.0 -75.849607,40.922104,0.0 -75.848249,40.922699,0.0 -75.843241,40.924414,0.0 -75.841883,40.925237,0.0 -75.835878,40.927912,0.0 -75.833464,40.929078,0.0 -75.831835,40.929581,0.0 -75.827792,40.930609,0.0 -75.824985,40.931546,0.0 -75.823748,40.931729,0.0 -75.822391,40.931728,0.0 -75.822391,40.931728,0.0 -75.822257,40.931621,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="5689">
+            <name>Take-out - Black Creek Junction, Weatherly, PA</name>
+            <Point id="5688">
+                <coordinates>-75.822257,40.931621,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5691">
+            <name>Put-in - Hudsondale, PA</name>
+            <Point id="5690">
+                <coordinates>-75.855453,40.921666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5693">
+            <name>Put in</name>
+            <Point id="5692">
+                <coordinates>-75.855453,40.921666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5695">
+            <name>Take out</name>
+            <Point id="5694">
+                <coordinates>-75.822257,40.931621,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18295">
+        <name>Southridge Ditch - S.76th to Root River Parkway (0.45 mile) **Access Issues**</name>
+        <Placemark id="18297">
+            <name>Southridge Ditch - S.76th to Root River Parkway (0.45 mile) **Access Issues**</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="18296">
+                <coordinates>-88.008784,42.950384,0.0 -88.010681,42.950384,0.0 -88.011061,42.950335,0.0 -88.01159,42.950173,0.0 -88.012276,42.950002,0.0 -88.013168,42.949905,0.0 -88.013876,42.949789,0.0 -88.014581,42.949478,0.0 -88.015016,42.949218,0.0 -88.015345,42.948912,0.0 -88.015582,42.948361,0.0 -88.015742,42.947712,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="18299">
+            <name>Take-out</name>
+            <Point id="18298">
+                <coordinates>-88.01575,42.9477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18301">
+            <name>First Jump</name>
+            <Point id="18300">
+                <coordinates>-88.009599,42.95038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18303">
+            <name>Second Jump</name>
+            <Point id="18302">
+                <coordinates>-88.010393,42.950384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18305">
+            <name>Put In</name>
+            <Point id="18304">
+                <coordinates>-88.0087,42.9504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18307">
+            <name>Alt.Put-in: 78th &amp; Abbott Ave</name>
+            <Point id="18306">
+                <coordinates>-88.011237,42.950486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18309">
+            <name>Third Jump</name>
+            <Point id="18308">
+                <coordinates>-88.011956,42.950081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18311">
+            <name>Fourth Jump</name>
+            <Point id="18310">
+                <coordinates>-88.01409,42.949695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18313">
+            <name>Fifth Jump</name>
+            <Point id="18312">
+                <coordinates>-88.015117,42.949124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18315">
+            <name>Sixth Jump</name>
+            <Point id="18314">
+                <coordinates>-88.01546,42.948645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18317">
+            <name>Final Jump</name>
+            <Point id="18316">
+                <coordinates>-88.015671,42.947999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18319">
+            <name>Put in</name>
+            <Point id="18318">
+                <coordinates>-88.008784,42.950384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18321">
+            <name>Take out</name>
+            <Point id="18320">
+                <coordinates>-88.015742,42.947712,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

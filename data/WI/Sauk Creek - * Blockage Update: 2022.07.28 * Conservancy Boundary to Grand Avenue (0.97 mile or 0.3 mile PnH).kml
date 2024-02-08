@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14119">
+        <name>Sauk Creek - * Blockage Update: 2022.07.28 * Conservancy Boundary to Grand Avenue (0.97 mile or 0.3 mile PnH)</name>
+        <Placemark id="14121">
+            <name>Sauk Creek - * Blockage Update: 2022.07.28 * Conservancy Boundary to Grand Avenue (0.97 mile or 0.3 mile PnH)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="14120">
+                <coordinates>-87.88462,43.397904,0.0 -87.884601,43.397635,0.0 -87.88477,43.396971,0.0 -87.884747,43.396467,0.0 -87.884547,43.396175,0.0 -87.884076,43.395903,0.0 -87.882961,43.395362,0.0 -87.882267,43.395099,0.0 -87.881515,43.394328,0.0 -87.881183,43.39395,0.0 -87.880821,43.393187,0.0 -87.880848,43.39226,0.0 -87.880597,43.391492,0.0 -87.880304,43.390721,0.0 -87.880149,43.39025,0.0 -87.880119,43.389636,0.0 -87.880115,43.389272,0.0 -87.879552,43.388563,0.0 -87.879066,43.388268,0.0 -87.87829,43.388209,0.0 -87.877318,43.388456,0.0 -87.876886,43.388521,0.0 -87.876599,43.388444,0.0 -87.876213,43.387908,0.0 -87.875522,43.387244,0.0 -87.874759,43.386585,0.0 -87.874415,43.386381,0.0 -87.873675,43.386378,0.0 -87.87288,43.38649,0.0 -87.872387,43.386504,0.0 -87.871492,43.386594,0.0 -87.870905,43.386549,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="14123">
+            <name>Pre-Footbridge Ledges (III)</name>
+            <Point id="14122">
+                <coordinates>-87.88221,43.395042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14125">
+            <name>Post-Footbridge Slides (II+)</name>
+            <Point id="14124">
+                <coordinates>-87.881989,43.39489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14127">
+            <name>Alternate Take-out</name>
+            <Point id="14126">
+                <coordinates>-87.880569,43.391544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14129">
+            <name>Defunct Bridge Pier</name>
+            <Point id="14128">
+                <coordinates>-87.873734,43.386402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14131">
+            <name>Sauk Creek Conservancy Footbridge</name>
+            <Point id="14130">
+                <coordinates>-87.882276,43.394598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14133">
+            <name>Krueger Falls (III)</name>
+            <Point id="14132">
+                <coordinates>-87.883003,43.395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14135">
+            <name>Warm-up Waves (II)</name>
+            <Point id="14134">
+                <coordinates>-87.884468,43.396645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14137">
+            <name>Three  Bar Bridge</name>
+            <Point id="14136">
+                <coordinates>-87.883254,43.395511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14139">
+            <name>Grand Avenue Bridge (USGS site: drainage area 32.6 sq.mi.)</name>
+            <Point id="14138">
+                <coordinates>-87.875908,43.387547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14141">
+            <name>Athletic Fields Bridge (AFB)</name>
+            <Point id="14140">
+                <coordinates>-87.879979,43.389192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14143">
+            <name>A Left And A Right</name>
+            <Point id="14142">
+                <coordinates>-87.876034,43.387946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14145">
+            <name>Mineral Springs Creek Confluence</name>
+            <Point id="14144">
+                <coordinates>-87.869944,43.386356,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14147">
+            <name>Weir</name>
+            <Point id="14146">
+                <coordinates>-87.869186,43.386383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14149">
+            <name>Put-in</name>
+            <Point id="14148">
+                <coordinates>-87.881644,43.400622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14151">
+            <name>Rotary Park (Alternative Take-out)</name>
+            <Point id="14150">
+                <coordinates>-87.870905,43.386549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14153">
+            <name>Wisconsin Street Bridge / Take-out</name>
+            <Point id="14152">
+                <coordinates>-87.871024,43.386558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14155">
+            <name>Put in</name>
+            <Point id="14154">
+                <coordinates>-87.88462,43.397904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14157">
+            <name>Take out</name>
+            <Point id="14156">
+                <coordinates>-87.870905,43.386549,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26935">
+        <name>Sangamon - Petersburg: &quot;Dead Carp Drop&quot; (PnP)</name>
+        <Placemark id="26937">
+            <name>Sangamon - Petersburg: &quot;Dead Carp Drop&quot; (PnP)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="26936">
+                <coordinates>-89.842843,40.011315,0.0 -89.844047,40.011212,0.0 -89.843521,40.010958,0.0 -89.844479,40.010649,0.0 -89.841511,40.010159,0.0 -89.840075,40.01109,0.0 -89.840364,40.011301,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="26939">
+            <name>Take Out</name>
+            <Point id="26938">
+                <coordinates>-89.843719,40.011421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26941">
+            <name>Put In</name>
+            <Point id="26940">
+                <coordinates>-89.844078,40.011337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26943">
+            <name>Put in</name>
+            <Point id="26942">
+                <coordinates>-89.842843,40.011315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="26945">
+            <name>Take out</name>
+            <Point id="26944">
+                <coordinates>-89.840364,40.011301,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="27193">
+        <name>Lake Superior -  Various 'South Shore' (Wisconsin) locations </name>
+        <Placemark id="27195">
+            <name>Lake Superior -  Various 'South Shore' (Wisconsin) locations </name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="27194">
+                <coordinates>-92.013596,46.705864,0.0 -91.944119,46.680578,0.0 -91.867349,46.693084,0.0 -91.575114,46.75973,0.0 -91.288406,46.835467,0.0 -91.19037,46.887705,0.0 -90.96887,46.944457,0.0 -90.868147,46.96257,0.0 -90.834725,46.960773,0.0 -90.788242,46.9345,0.0 -90.747123,46.893106,0.0 -90.64293,46.859651,0.0 -90.616192,46.877377,0.0 -90.556235,46.852587,0.0 -90.420031,46.565762,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="27197">
+            <name>Take Out</name>
+            <Point id="27196">
+                <coordinates>-90.4369,46.5621,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27199">
+            <name>Put In</name>
+            <Point id="27198">
+                <coordinates>-92.0135,46.7059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27201">
+            <name>Put in</name>
+            <Point id="27200">
+                <coordinates>-92.013596,46.705864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27203">
+            <name>Take out</name>
+            <Point id="27202">
+                <coordinates>-90.420031,46.565762,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

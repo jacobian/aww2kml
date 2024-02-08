@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17663">
+        <name>Nantahala - 1. Cascades: FS Road 327 to 1310 Bridge </name>
+        <Placemark id="17665">
+            <name>Nantahala - 1. Cascades: FS Road 327 to 1310 Bridge </name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="17664">
+                <coordinates>-83.644478,35.240297,0.0 -83.644404,35.240418,0.0 -83.64407,35.240715,0.0 -83.6434,35.24099,0.0 -83.641113,35.241563,0.0 -83.640611,35.241952,0.0 -83.640388,35.242204,0.0 -83.640276,35.242593,0.0 -83.640388,35.243463,0.0 -83.640723,35.244195,0.0 -83.640807,35.245065,0.0 -83.640082,35.24637,0.0 -83.63972,35.24756,0.0 -83.639581,35.248636,0.0 -83.639944,35.249642,0.0 -83.640447,35.2501,0.0 -83.640447,35.2501,0.0 -83.64134,35.2501,0.0 -83.64173,35.249871,0.0 -83.642344,35.249093,0.0 -83.642762,35.2482,0.0 -83.643124,35.247879,0.0 -83.643347,35.247788,0.0 -83.64611,35.247672,0.0 -83.647309,35.247489,0.0 -83.649681,35.247351,0.0 -83.651717,35.246755,0.0 -83.65208,35.246709,0.0 -83.652777,35.246732,0.0 -83.653734,35.247099,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="17667">
+            <name>Take Out</name>
+            <Point id="17666">
+                <coordinates>-83.653734,35.247099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17669">
+            <name>Who's Got A Name? (III)</name>
+            <Point id="17668">
+                <coordinates>-83.640011,35.246569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17671">
+            <name>Cocktail Rock (III)</name>
+            <Point id="17670">
+                <coordinates>-83.642619,35.241212,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17673">
+            <name>Horns of God (IV+)</name>
+            <Point id="17672">
+                <coordinates>-83.643793,35.247769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17675">
+            <name>V Slot (IV)</name>
+            <Point id="17674">
+                <coordinates>-83.639622,35.248226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17677">
+            <name>Junkyard (IV+)</name>
+            <Point id="17676">
+                <coordinates>-83.648111,35.247442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17679">
+            <name>Put In</name>
+            <Point id="17678">
+                <coordinates>-83.641754,35.249985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17681">
+            <name>Short / Traditional Put-In</name>
+            <Point id="17680">
+                <coordinates>-83.642651,35.248413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17683">
+            <name>Top of Big Kahuna (V)</name>
+            <Point id="17682">
+                <coordinates>-83.646821,35.247563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17685">
+            <name>Chinese Feet (V)</name>
+            <Point id="17684">
+                <coordinates>-83.649616,35.247355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17687">
+            <name>Bottom of Big Kahuna. (V)</name>
+            <Point id="17686">
+                <coordinates>-83.647525,35.247476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17689">
+            <name>Put in</name>
+            <Point id="17688">
+                <coordinates>-83.644478,35.240297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17691">
+            <name>Take out</name>
+            <Point id="17690">
+                <coordinates>-83.653734,35.247099,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

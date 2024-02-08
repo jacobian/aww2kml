@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5705">
+        <name>Elkhorn, N.Fk. - North Fork Whitewater Park, Norfolk</name>
+        <Placemark id="5707">
+            <name>Elkhorn, N.Fk. - North Fork Whitewater Park, Norfolk</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="5706">
+                <coordinates>-97.406871,42.034693,0.0 -97.405568,42.034421,0.0 -97.404972,42.034164,0.0 -97.404433,42.033985,0.0 -97.404282,42.03378,0.0 -97.404314,42.032923,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="5709">
+            <name>Put in</name>
+            <Point id="5708">
+                <coordinates>-97.406871,42.034693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5711">
+            <name>Take out</name>
+            <Point id="5710">
+                <coordinates>-97.404314,42.032923,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
