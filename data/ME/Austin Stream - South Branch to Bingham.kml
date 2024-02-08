@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="26057">
+    <Document id="43697">
+        <Style id="43702">
+            <IconStyle id="43703">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="43704">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="43707">
+            <IconStyle id="43708">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="43709">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Austin Stream - South Branch to Bingham</name>
-        <Placemark id="26059">
-            <name>Austin Stream - South Branch to Bingham</name>
+        <Placemark id="43699">
+            <name>Austin Stream - South Branch to Bingham (III-V(V+))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="26058">
+            <LineString id="43698">
                 <coordinates>-69.812443,45.132258,0.0 -69.812503,45.132193,0.0 -69.81269,45.132074,0.0 -69.813095,45.131937,0.0 -69.813541,45.131953,0.0 -69.813968,45.131766,0.0 -69.814522,45.13177,0.0 -69.815161,45.131662,0.0 -69.816146,45.131387,0.0 -69.816703,45.131345,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="26061">
+        <Placemark id="43701">
             <name>Take Out</name>
-            <Point id="26060">
+            <styleUrl>#43702</styleUrl>
+            <Point id="43700">
                 <coordinates>-69.8167,45.1313,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26063">
+        <Placemark id="43706">
             <name>Put In</name>
-            <Point id="26062">
+            <styleUrl>#43707</styleUrl>
+            <Point id="43705">
                 <coordinates>-69.8126,45.1324,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="26065">
-            <name>Put in</name>
-            <Point id="26064">
-                <coordinates>-69.8126,45.1324,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="26067">
-            <name>Take out</name>
-            <Point id="26066">
-                <coordinates>-69.8167,45.1313,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

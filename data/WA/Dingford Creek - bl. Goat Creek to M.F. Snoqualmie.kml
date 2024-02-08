@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="16841">
+    <Document id="28585">
+        <Style id="28590">
+            <IconStyle id="28591">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28592">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="28595">
+            <IconStyle id="28596">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28597">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Dingford Creek - bl. Goat Creek to M.F. Snoqualmie</name>
-        <Placemark id="16843">
-            <name>Dingford Creek - bl. Goat Creek to M.F. Snoqualmie</name>
+        <Placemark id="28587">
+            <name>Dingford Creek - bl. Goat Creek to M.F. Snoqualmie (V+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="16842">
+            <LineString id="28586">
                 <coordinates>-121.431131,47.522378,0.0 -121.431379,47.522525,0.0 -121.431379,47.522565,0.0 -121.431834,47.522873,0.0 -121.432118,47.522872,0.0 -121.43263,47.522718,0.0 -121.432971,47.522565,0.0 -121.433311,47.522412,0.0 -121.433425,47.522373,0.0 -121.433823,47.52218,0.0 -121.434335,47.522025,0.0 -121.434449,47.522027,0.0 -121.435244,47.521601,0.0 -121.435244,47.521525,0.0 -121.435869,47.521178,0.0 -121.436267,47.521026,0.0 -121.436608,47.521103,0.0 -121.437688,47.521023,0.0 -121.438086,47.520871,0.0 -121.4382,47.520791,0.0 -121.438484,47.520714,0.0 -121.439165,47.520332,0.0 -121.439223,47.520333,0.0 -121.439393,47.520254,0.0 -121.43962,47.52014,0.0 -121.439734,47.520138,0.0 -121.439734,47.520025,0.0 -121.440473,47.519639,0.0 -121.440871,47.5196,0.0 -121.440984,47.519601,0.0 -121.441041,47.519561,0.0 -121.441211,47.519564,0.0 -121.441439,47.519445,0.0 -121.44161,47.519407,0.0 -121.441893,47.519407,0.0 -121.44195,47.519367,0.0 -121.442064,47.519332,0.0 -121.442575,47.519254,0.0 -121.442803,47.51914,0.0 -121.443315,47.518985,0.0 -121.443428,47.518946,0.0 -121.44377,47.518906,0.0 -121.444678,47.518752,0.0 -121.445303,47.518522,0.0 -121.445815,47.518407,0.0 -121.445985,47.518369,0.0 -121.446327,47.518328,0.0 -121.446497,47.518254,0.0 -121.447065,47.517866,0.0 -121.447065,47.51779,0.0 -121.447236,47.517792,0.0 -121.447293,47.517752,0.0 -121.44769,47.517636,0.0 -121.448429,47.517484,0.0 -121.448714,47.517484,0.0 -121.44877,47.517444,0.0 -121.449111,47.517403,0.0 -121.449622,47.517289,0.0 -121.45002,47.517173,0.0 -121.450248,47.517176,0.0 -121.450646,47.517019,0.0 -121.451043,47.516944,0.0 -121.451498,47.516752,0.0 -121.451896,47.516636,0.0 -121.452123,47.516517,0.0 -121.45218,47.516518,0.0 -121.452577,47.516402,0.0 -121.453203,47.516095,0.0 -121.453714,47.515905,0.0 -121.454063,47.515785,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="16845">
+        <Placemark id="28589">
             <name>Take Out</name>
-            <Point id="16844">
+            <styleUrl>#28590</styleUrl>
+            <Point id="28588">
                 <coordinates>-121.454,47.5156,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="16847">
+        <Placemark id="28594">
             <name>Put In</name>
-            <Point id="16846">
+            <styleUrl>#28595</styleUrl>
+            <Point id="28593">
                 <coordinates>-121.431,47.5226,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="16849">
-            <name>Put in</name>
-            <Point id="16848">
-                <coordinates>-121.431,47.5226,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="16851">
-            <name>Take out</name>
-            <Point id="16850">
-                <coordinates>-121.454,47.5156,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

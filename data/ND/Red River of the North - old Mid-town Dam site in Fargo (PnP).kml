@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="102524">
+        <Style id="102529">
+            <IconStyle id="102530">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102531">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="102534">
+            <IconStyle id="102535">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102536">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Red River of the North - old Mid-town Dam site in Fargo (PnP)</name>
+        <Placemark id="102526">
+            <name>Red River of the North - old Mid-town Dam site in Fargo (PnP) (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="102525">
+                <coordinates>-96.782007,46.870914,0.0 -96.78199,46.871015,0.0 -96.781949,46.871157,0.0 -96.781949,46.871158,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="102528">
+            <name>Take Out</name>
+            <styleUrl>#102529</styleUrl>
+            <Point id="102527">
+                <coordinates>-96.782303,46.8713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102533">
+            <name>Put In</name>
+            <styleUrl>#102534</styleUrl>
+            <Point id="102532">
+                <coordinates>-96.782501,46.870998,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

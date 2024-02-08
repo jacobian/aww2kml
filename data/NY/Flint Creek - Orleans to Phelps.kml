@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="104480">
+        <Style id="104485">
+            <IconStyle id="104486">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104487">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104490">
+            <IconStyle id="104491">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104492">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104495">
+            <IconStyle id="104496">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104497">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104500">
+            <IconStyle id="104501">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104502">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104505">
+            <IconStyle id="104506">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104507">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104510">
+            <IconStyle id="104511">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104512">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104515">
+            <IconStyle id="104516">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104517">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104520">
+            <IconStyle id="104521">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104522">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104525">
+            <IconStyle id="104526">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104527">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104530">
+            <IconStyle id="104531">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104532">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104535">
+            <IconStyle id="104536">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104537">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104540">
+            <IconStyle id="104541">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104542">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104545">
+            <IconStyle id="104546">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104547">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104550">
+            <IconStyle id="104551">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104552">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104555">
+            <IconStyle id="104556">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104557">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Flint Creek - Orleans to Phelps</name>
+        <Placemark id="104482">
+            <name>Flint Creek - Orleans to Phelps (II-III+(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="104481">
+                <coordinates>-77.113496,42.91955,0.0 -77.116547,42.919767,0.0 -77.118321,42.920064,0.0 -77.121059,42.920178,0.0 -77.122148,42.920521,0.0 -77.123703,42.921321,0.0 -77.124699,42.922122,0.0 -77.126255,42.924065,0.0 -77.128464,42.927106,0.0 -77.128838,42.928089,0.0 -77.128931,42.928158,0.0 -77.129087,42.928821,0.0 -77.129149,42.928866,0.0 -77.129772,42.931084,0.0 -77.130115,42.932959,0.0 -77.130364,42.933576,0.0 -77.130488,42.933713,0.0 -77.130769,42.93536,0.0 -77.130956,42.935726,0.0 -77.131391,42.936114,0.0 -77.133259,42.936914,0.0 -77.133539,42.936914,0.0 -77.133601,42.937669,0.0 -77.133975,42.938263,0.0 -77.134037,42.938743,0.0 -77.133633,42.939223,0.0 -77.13357,42.939452,0.0 -77.133727,42.941235,0.0 -77.134318,42.941853,0.0 -77.13435,42.942744,0.0 -77.134661,42.94327,0.0 -77.134661,42.944276,0.0 -77.134537,42.944551,0.0 -77.134257,42.944779,0.0 -77.13323,42.944917,0.0 -77.132078,42.944848,0.0 -77.129619,42.944986,0.0 -77.129402,42.945123,0.0 -77.129339,42.945557,0.0 -77.1299,42.946723,0.0 -77.130647,42.948027,0.0 -77.130678,42.94837,0.0 -77.130461,42.948621,0.0 -77.130523,42.949193,0.0 -77.130616,42.94933,0.0 -77.130616,42.949856,0.0 -77.130866,42.950199,0.0 -77.130959,42.95077,0.0 -77.131115,42.951068,0.0 -77.131177,42.951571,0.0 -77.131644,42.951799,0.0 -77.132173,42.951845,0.0 -77.132609,42.952439,0.0 -77.132983,42.952599,0.0 -77.133948,42.952851,0.0 -77.13429,42.953377,0.0 -77.134322,42.953605,0.0 -77.133139,42.953651,0.0 -77.13289,42.953811,0.0 -77.132485,42.954452,0.0 -77.13261,42.954612,0.0 -77.13345,42.954909,0.0 -77.134104,42.955526,0.0 -77.134042,42.956075,0.0 -77.13426,42.956166,0.0 -77.13426,42.956486,0.0 -77.133794,42.957469,0.0 -77.133918,42.957698,0.0 -77.13423,42.957812,0.0 -77.135226,42.957904,0.0 -77.135475,42.958064,0.0 -77.135537,42.958429,0.0 -77.13616,42.958978,0.0 -77.136627,42.959138,0.0 -77.136845,42.959389,0.0 -77.137405,42.959595,0.0 -77.137748,42.959938,0.0 -77.137624,42.960555,0.0 -77.137437,42.961013,0.0 -77.136659,42.962133,0.0 -77.136286,42.962522,0.0 -77.134698,42.963368,0.0 -77.134449,42.963848,0.0 -77.134387,42.965358,0.0 -77.134139,42.965655,0.0 -77.13336,42.966044,0.0 -77.132645,42.96721,0.0 -77.130808,42.96801,0.0 -77.13006,42.968536,0.0 -77.129563,42.969222,0.0 -77.129033,42.97032,0.0 -77.129158,42.970983,0.0 -77.129563,42.971372,0.0 -77.132241,42.971988,0.0 -77.136756,42.973405,0.0 -77.137037,42.973565,0.0 -77.137691,42.974365,0.0 -77.138532,42.97496,0.0 -77.13847,42.975051,0.0 -77.138844,42.975417,0.0 -77.139217,42.97624,0.0 -77.139218,42.976332,0.0 -77.138097,42.976583,0.0 -77.136384,42.976698,0.0 -77.135823,42.976858,0.0 -77.135388,42.977155,0.0 -77.133613,42.978733,0.0 -77.133333,42.979122,0.0 -77.13324,42.980677,0.0 -77.133053,42.981111,0.0 -77.132711,42.981363,0.0 -77.132057,42.981683,0.0 -77.131278,42.98166,0.0 -77.130219,42.981386,0.0 -77.129659,42.981523,0.0 -77.129223,42.981775,0.0 -77.12888,42.982141,0.0 -77.12695,42.983513,0.0 -77.126265,42.983833,0.0 -77.125424,42.984016,0.0 -77.124708,42.984039,0.0 -77.12287,42.983948,0.0 -77.122341,42.983673,0.0 -77.121655,42.98349,0.0 -77.120877,42.983536,0.0 -77.12041,42.983742,0.0 -77.119631,42.983948,0.0 -77.118946,42.983994,0.0 -77.114804,42.983582,0.0 -77.113433,42.983285,0.0 -77.111689,42.982759,0.0 -77.109229,42.983033,0.0 -77.108108,42.983513,0.0 -77.1068,42.984199,0.0 -77.103218,42.985456,0.0 -77.102626,42.985548,0.0 -77.102003,42.985525,0.0 -77.101692,42.985433,0.0 -77.101194,42.985502,0.0 -77.099854,42.985799,0.0 -77.096958,42.985661,0.0 -77.095369,42.985935,0.0 -77.093563,42.985912,0.0 -77.092909,42.986049,0.0 -77.091351,42.986758,0.0 -77.089389,42.986597,0.0 -77.089265,42.986689,0.0 -77.08833,42.986849,0.0 -77.087925,42.986711,0.0 -77.085341,42.98463,0.0 -77.085279,42.984447,0.0 -77.08503,42.983967,0.0 -77.084594,42.983258,0.0 -77.083972,42.982823,0.0 -77.082166,42.982777,0.0 -77.081636,42.98264,0.0 -77.080951,42.981954,0.0 -77.080671,42.981268,0.0 -77.079769,42.980627,0.0 -77.078494,42.9777,0.0 -77.077,42.976579,0.0 -77.076346,42.976304,0.0 -77.075162,42.976098,0.0 -77.072889,42.976395,0.0 -77.072329,42.976234,0.0 -77.0718,42.975983,0.0 -77.06987,42.974541,0.0 -77.06906,42.974175,0.0 -77.066819,42.973466,0.0 -77.064951,42.972527,0.0 -77.063862,42.971704,0.0 -77.062587,42.970354,0.0 -77.061342,42.969187,0.0 -77.060596,42.968341,0.0 -77.060534,42.968158,0.0 -77.060316,42.968021,0.0 -77.059694,42.967152,0.0 -77.05957,42.966557,0.0 -77.059228,42.966054,0.0 -77.058512,42.96555,0.0 -77.057672,42.964498,0.0 -77.057144,42.964086,0.0 -77.055605,42.963455,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="104484">
+            <name>Old Mill Falls (IV)</name>
+            <styleUrl>#104485</styleUrl>
+            <Point id="104483">
+                <coordinates>-77.060097,42.958099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104489">
+            <name>Double Drop (III)</name>
+            <styleUrl>#104490</styleUrl>
+            <Point id="104488">
+                <coordinates>-77.092697,42.953999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104494">
+            <name>Single Drop (III)</name>
+            <styleUrl>#104495</styleUrl>
+            <Point id="104493">
+                <coordinates>-77.112,42.921299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104499">
+            <name>Toxic Hole (III)</name>
+            <styleUrl>#104500</styleUrl>
+            <Point id="104498">
+                <coordinates>-77.080597,42.9608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104504">
+            <name>Trippple Drop (III)</name>
+            <styleUrl>#104505</styleUrl>
+            <Point id="104503">
+                <coordinates>-77.093102,42.956402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104509">
+            <name>Wheat Rd. Putin</name>
+            <styleUrl>#104510</styleUrl>
+            <Point id="104508">
+                <coordinates>-77.100403,42.938599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104514">
+            <name>The Last Stretch... (III)</name>
+            <styleUrl>#104515</styleUrl>
+            <Point id="104513">
+                <coordinates>-77.058502,42.959301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104519">
+            <name>Old Mill Falls (at low water) (IV)</name>
+            <styleUrl>#104520</styleUrl>
+            <Point id="104518">
+                <coordinates>-77.060097,42.958099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104524">
+            <name>Shroo Hole (II)</name>
+            <styleUrl>#104525</styleUrl>
+            <Point id="104523">
+                <coordinates>-77.107201,42.9324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104529">
+            <name>Old Mill Falls (at higher water) (IV)</name>
+            <styleUrl>#104530</styleUrl>
+            <Point id="104528">
+                <coordinates>-77.0601,42.9581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104534">
+            <name>Takeout</name>
+            <styleUrl>#104535</styleUrl>
+            <Point id="104533">
+                <coordinates>-77.0569,42.9603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104539">
+            <name>Orleans Putin</name>
+            <styleUrl>#104540</styleUrl>
+            <Point id="104538">
+                <coordinates>-77.113503,42.919498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104544">
+            <name>Third Bridge</name>
+            <styleUrl>#104545</styleUrl>
+            <Point id="104543">
+                <coordinates>-77.089333,42.960201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104549">
+            <name>The Tubes (III+)</name>
+            <styleUrl>#104550</styleUrl>
+            <Point id="104548">
+                <coordinates>-77.065697,42.957699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104554">
+            <name>Concrete Factory (III)</name>
+            <styleUrl>#104555</styleUrl>
+            <Point id="104553">
+                <coordinates>-77.0746,42.960201,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

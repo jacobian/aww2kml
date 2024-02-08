@@ -1,35 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="8103">
+    <Document id="13608">
+        <Style id="13613">
+            <IconStyle id="13614">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="13615">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="13618">
+            <IconStyle id="13619">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="13620">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Weber - 09. Ogden Whitewater Park</name>
-        <Placemark id="8105">
-            <name>Weber - 09. Ogden Whitewater Park</name>
+        <Placemark id="13610">
+            <name>Weber - 09. Ogden Whitewater Park (II-III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="8104">
+            <LineString id="13609">
                 <coordinates>-111.988683,41.222972,0.0 -111.988502,41.223289,0.0 -111.988343,41.223653,0.0 -111.988321,41.223702,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="8107">
+        <Placemark id="13612">
             <name>Put In</name>
-            <Point id="8106">
+            <styleUrl>#13613</styleUrl>
+            <Point id="13611">
                 <coordinates>-111.989,41.223,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8109">
+        <Placemark id="13617">
             <name>Take Out</name>
-            <Point id="8108">
-                <coordinates>-111.989,41.224,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8111">
-            <name>Put in</name>
-            <Point id="8110">
-                <coordinates>-111.989,41.223,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8113">
-            <name>Take out</name>
-            <Point id="8112">
+            <styleUrl>#13618</styleUrl>
+            <Point id="13616">
                 <coordinates>-111.989,41.224,0.0</coordinates>
             </Point>
         </Placemark>

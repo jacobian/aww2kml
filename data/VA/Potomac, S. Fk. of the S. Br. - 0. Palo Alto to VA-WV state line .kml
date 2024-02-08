@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="100249">
+        <Style id="100254">
+            <IconStyle id="100255">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100256">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100259">
+            <IconStyle id="100260">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100261">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Potomac, S. Fk. of the S. Br. - 0. Palo Alto to VA/WV state line </name>
+        <Placemark id="100251">
+            <name>Potomac, S. Fk. of the S. Br. - 0. Palo Alto to VA/WV state line  (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="100250">
+                <coordinates>-79.370773,38.42316,0.0 -79.370358,38.423444,0.0 -79.370018,38.423648,0.0 -79.369883,38.423751,0.0 -79.369719,38.423919,0.0 -79.369569,38.424076,0.0 -79.369411,38.424271,0.0 -79.369245,38.424505,0.0 -79.369165,38.424631,0.0 -79.369033,38.424947,0.0 -79.368999,38.425183,0.0 -79.368943,38.425836,0.0 -79.368883,38.426193,0.0 -79.368846,38.426417,0.0 -79.368818,38.426735,0.0 -79.368818,38.4268,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="100253">
+            <name>Take Out</name>
+            <styleUrl>#100254</styleUrl>
+            <Point id="100252">
+                <coordinates>-79.3688,38.4268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100258">
+            <name>Put In</name>
+            <styleUrl>#100259</styleUrl>
+            <Point id="100257">
+                <coordinates>-79.3708,38.4232,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

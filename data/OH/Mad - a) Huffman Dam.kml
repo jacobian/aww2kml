@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56626">
+        <Style id="56631">
+            <IconStyle id="56632">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56633">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56636">
+            <IconStyle id="56637">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56638">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Mad - a) Huffman Dam</name>
+        <Placemark id="56628">
+            <name>Mad - a) Huffman Dam (II+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="56627">
+                <coordinates>-84.090372,39.797383,0.0 -84.090553,39.797287,0.0 -84.090662,39.797255,0.0 -84.090752,39.797217,0.0 -84.090949,39.797129,0.0 -84.091188,39.79705,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="56630">
+            <name>Take Out</name>
+            <styleUrl>#56631</styleUrl>
+            <Point id="56629">
+                <coordinates>-84.091904,39.798302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56635">
+            <name>Put In</name>
+            <styleUrl>#56636</styleUrl>
+            <Point id="56634">
+                <coordinates>-84.091904,39.798199,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

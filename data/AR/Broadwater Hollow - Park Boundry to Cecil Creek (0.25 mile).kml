@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="113860">
+        <Style id="113865">
+            <IconStyle id="113866">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="113867">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="113870">
+            <IconStyle id="113871">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="113872">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Broadwater Hollow - Park Boundry to Cecil Creek (0.25 mile)</name>
+        <Placemark id="113862">
+            <name>Broadwater Hollow - Park Boundry to Cecil Creek (0.25 mile) (III-IV(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="113861">
+                <coordinates>-93.268229,36.105675,0.0 -93.26792,36.10564,0.0 -93.267744,36.105568,0.0 -93.267473,36.105442,0.0 -93.267216,36.105414,0.0 -93.267013,36.105414,0.0 -93.266918,36.105332,0.0 -93.266945,36.105128,0.0 -93.267026,36.104958,0.0 -93.266939,36.104661,0.0 -93.266871,36.104485,0.0 -93.26679,36.104326,0.0 -93.266553,36.103974,0.0 -93.266546,36.103507,0.0 -93.266533,36.103309,0.0 -93.266391,36.103095,0.0 -93.266235,36.103018,0.0 -93.266032,36.10294,0.0 -93.265775,36.102704,0.0 -93.265762,36.102209,0.0 -93.265619,36.10199,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="113864">
+            <name>Take Out</name>
+            <styleUrl>#113865</styleUrl>
+            <Point id="113863">
+                <coordinates>-93.265686,36.101887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113869">
+            <name>Put In</name>
+            <styleUrl>#113870</styleUrl>
+            <Point id="113868">
+                <coordinates>-93.268227,36.105694,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

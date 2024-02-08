@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="50033">
+        <Style id="50038">
+            <IconStyle id="50039">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50040">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50043">
+            <IconStyle id="50044">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50045">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Madawaska - Middle Madawaska</name>
+        <Placemark id="50035">
+            <name>Madawaska - Middle Madawaska (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="50034">
+                <coordinates>-77.771044,45.412717,0.0 -77.769956,45.412821,0.0 -77.76872,45.413376,0.0 -77.767632,45.413723,0.0 -77.766,45.413654,0.0 -77.764467,45.413758,0.0 -77.761648,45.413723,0.0 -77.760115,45.413793,0.0 -77.757643,45.413446,0.0 -77.755517,45.412856,0.0 -77.754577,45.412231,0.0 -77.754033,45.411502,0.0 -77.753242,45.409731,0.0 -77.752698,45.409349,0.0 -77.751561,45.408725,0.0 -77.749434,45.408204,0.0 -77.747358,45.408239,0.0 -77.746566,45.407891,0.0 -77.746616,45.40678,0.0 -77.74627,45.406399,0.0 -77.745132,45.406051,0.0 -77.743402,45.405739,0.0 -77.742759,45.4056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="50037">
+            <name>Put-in</name>
+            <styleUrl>#50038</styleUrl>
+            <Point id="50036">
+                <coordinates>-77.771087,45.412741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50042">
+            <name>Take-Out</name>
+            <styleUrl>#50043</styleUrl>
+            <Point id="50041">
+                <coordinates>-77.742904,45.405196,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="98893">
+        <Style id="98898">
+            <IconStyle id="98899">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98900">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98903">
+            <IconStyle id="98904">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98905">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98908">
+            <IconStyle id="98909">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98910">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Flute Reed - Cty 69 to Lake Superior (0.6-1.0 mile)</name>
+        <Placemark id="98895">
+            <name>Flute Reed - Cty 69 to Lake Superior (0.6-1.0 mile) (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="98894">
+                <coordinates>-89.965399,47.846401,0.0 -89.964729,47.845663,0.0 -89.964049,47.84523,0.0 -89.963167,47.844911,0.0 -89.962895,47.844569,0.0 -89.962791,47.843587,0.0 -89.962994,47.842993,0.0 -89.963197,47.842787,0.0 -89.963977,47.842398,0.0 -89.965534,47.840433,0.0 -89.965706,47.84017,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="98897">
+            <name>Take Out</name>
+            <styleUrl>#98898</styleUrl>
+            <Point id="98896">
+                <coordinates>-89.9656,47.8401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98902">
+            <name>Put In</name>
+            <styleUrl>#98903</styleUrl>
+            <Point id="98901">
+                <coordinates>-89.9654,47.8464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98907">
+            <name>Upper possible put-in</name>
+            <styleUrl>#98908</styleUrl>
+            <Point id="98906">
+                <coordinates>-89.972099,47.8466,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

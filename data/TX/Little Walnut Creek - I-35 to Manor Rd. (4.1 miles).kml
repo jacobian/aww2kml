@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="52570">
+        <Style id="52575">
+            <IconStyle id="52576">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52577">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52580">
+            <IconStyle id="52581">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52582">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52585">
+            <IconStyle id="52586">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52587">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52590">
+            <IconStyle id="52591">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52592">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52595">
+            <IconStyle id="52596">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52597">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52600">
+            <IconStyle id="52601">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52602">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52605">
+            <IconStyle id="52606">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52607">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52610">
+            <IconStyle id="52611">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52612">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52615">
+            <IconStyle id="52616">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52617">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52620">
+            <IconStyle id="52621">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52622">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52625">
+            <IconStyle id="52626">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52627">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52630">
+            <IconStyle id="52631">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52632">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52635">
+            <IconStyle id="52636">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52637">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52640">
+            <IconStyle id="52641">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52642">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Little Walnut Creek - I-35 to Manor Rd. (4.1 miles)</name>
+        <Placemark id="52572">
+            <name>Little Walnut Creek - I-35 to Manor Rd. (4.1 miles) (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="52571">
+                <coordinates>-97.69287,30.349421,0.0 -97.692832,30.349393,0.0 -97.692648,30.349333,0.0 -97.69256,30.349327,0.0 -97.692464,30.349344,0.0 -97.692261,30.349437,0.0 -97.692198,30.349443,0.0 -97.692147,30.349437,0.0 -97.692071,30.34941,0.0 -97.692014,30.349415,0.0 -97.691982,30.349432,0.0 -97.6919,30.349448,0.0 -97.691621,30.349443,0.0 -97.691101,30.349492,0.0 -97.690759,30.349542,0.0 -97.690498,30.349569,0.0 -97.690276,30.349575,0.0 -97.690105,30.349558,0.0 -97.689934,30.349492,0.0 -97.689541,30.349294,0.0 -97.688184,30.348717,0.0 -97.68755,30.348398,0.0 -97.68708,30.348194,0.0 -97.686738,30.348062,0.0 -97.68663,30.348034,0.0 -97.686434,30.348007,0.0 -97.68625,30.348007,0.0 -97.686059,30.348023,0.0 -97.68592,30.348056,0.0 -97.685793,30.3481,0.0 -97.685679,30.348155,0.0 -97.685413,30.348309,0.0 -97.685222,30.348392,0.0 -97.68514,30.348397,0.0 -97.685013,30.348381,0.0 -97.684842,30.348331,0.0 -97.684582,30.348205,0.0 -97.68443,30.348001,0.0 -97.684303,30.347809,0.0 -97.684271,30.34771,0.0 -97.684075,30.347396,0.0 -97.683764,30.347072,0.0 -97.683314,30.346747,0.0 -97.682692,30.346406,0.0 -97.682388,30.346302,0.0 -97.682191,30.346269,0.0 -97.68157,30.346241,0.0 -97.681272,30.346175,0.0 -97.680961,30.346071,0.0 -97.680739,30.345966,0.0 -97.680593,30.345818,0.0 -97.680473,30.345565,0.0 -97.680365,30.345433,0.0 -97.680213,30.345185,0.0 -97.680124,30.345015,0.0 -97.679959,30.344784,0.0 -97.679832,30.344586,0.0 -97.679655,30.344261,0.0 -97.679611,30.344101,0.0 -97.679617,30.343958,0.0 -97.67968,30.343673,0.0 -97.679763,30.34353,0.0 -97.679769,30.343485,0.0 -97.679731,30.34331,0.0 -97.679674,30.343166,0.0 -97.679617,30.343078,0.0 -97.679522,30.342996,0.0 -97.679129,30.342864,0.0 -97.679078,30.342798,0.0 -97.679065,30.342732,0.0 -97.679072,30.342655,0.0 -97.679135,30.342484,0.0 -97.679243,30.342033,0.0 -97.679192,30.34178,0.0 -97.679199,30.341681,0.0 -97.679192,30.341571,0.0 -97.679161,30.341516,0.0 -97.679097,30.34145,0.0 -97.678958,30.341329,0.0 -97.678774,30.34101,0.0 -97.678565,30.340713,0.0 -97.678419,30.340317,0.0 -97.678229,30.339454,0.0 -97.678134,30.339195,0.0 -97.67814,30.338997,0.0 -97.678197,30.338552,0.0 -97.678216,30.338354,0.0 -97.678273,30.338106,0.0 -97.678254,30.337947,0.0 -97.678102,30.33765,0.0 -97.67788,30.337314,0.0 -97.677614,30.33683,0.0 -97.677443,30.336412,0.0 -97.677101,30.335862,0.0 -97.677006,30.335692,0.0 -97.676841,30.335356,0.0 -97.676796,30.335169,0.0 -97.676777,30.335021,0.0 -97.676784,30.334894,0.0 -97.676796,30.334845,0.0 -97.676828,30.334806,0.0 -97.676898,30.334768,0.0 -97.67698,30.334702,0.0 -97.677018,30.334614,0.0 -97.677329,30.334295,0.0 -97.677494,30.334025,0.0 -97.677551,30.333904,0.0 -97.677557,30.333673,0.0 -97.677114,30.332925,0.0 -97.677069,30.332711,0.0 -97.677101,30.332628,0.0 -97.677139,30.332557,0.0 -97.677241,30.33248,0.0 -97.677336,30.332386,0.0 -97.677532,30.332254,0.0 -97.677659,30.332177,0.0 -97.677767,30.332144,0.0 -97.677837,30.332133,0.0 -97.677944,30.332078,0.0 -97.678471,30.331583,0.0 -97.678674,30.331292,0.0 -97.678718,30.331061,0.0 -97.678712,30.330824,0.0 -97.678686,30.330709,0.0 -97.678661,30.330511,0.0 -97.678693,30.329906,0.0 -97.678763,30.329598,0.0 -97.678909,30.329042,0.0 -97.678947,30.328795,0.0 -97.678921,30.328696,0.0 -97.67894,30.328459,0.0 -97.678896,30.328228,0.0 -97.678604,30.327678,0.0 -97.67842,30.327238,0.0 -97.678376,30.327079,0.0 -97.678364,30.326963,0.0 -97.678414,30.326672,0.0 -97.678528,30.326397,0.0 -97.678731,30.326188,0.0 -97.678941,30.32605,0.0 -97.679105,30.326006,0.0 -97.679651,30.326017,0.0 -97.679987,30.325808,0.0 -97.680133,30.325671,0.0 -97.680266,30.325368,0.0 -97.680266,30.325308,0.0 -97.680247,30.325209,0.0 -97.680171,30.32495,0.0 -97.679999,30.324642,0.0 -97.679714,30.324367,0.0 -97.679733,30.324351,0.0 -97.678548,30.323289,0.0 -97.678313,30.322915,0.0 -97.677578,30.322123,0.0 -97.676703,30.321089,0.0 -97.676012,30.320247,0.0 -97.675816,30.319956,0.0 -97.675632,30.319576,0.0 -97.675493,30.3194,0.0 -97.675347,30.319329,0.0 -97.674985,30.319191,0.0 -97.674662,30.319103,0.0 -97.674554,30.319092,0.0 -97.674428,30.319037,0.0 -97.674345,30.318982,0.0 -97.674174,30.318773,0.0 -97.674022,30.318641,0.0 -97.673946,30.318454,0.0 -97.673876,30.31835,0.0 -97.673705,30.318212,0.0 -97.673451,30.318053,0.0 -97.673096,30.317888,0.0 -97.672577,30.317772,0.0 -97.672329,30.317706,0.0 -97.672184,30.317634,0.0 -97.672006,30.317436,0.0 -97.671968,30.317354,0.0 -97.671943,30.31726,0.0 -97.671936,30.317167,0.0 -97.671943,30.316947,0.0 -97.672013,30.316782,0.0 -97.672323,30.31648,0.0 -97.673122,30.316051,0.0 -97.674263,30.315594,0.0 -97.674625,30.315358,0.0 -97.674866,30.315187,0.0 -97.674973,30.315083,0.0 -97.675094,30.314945,0.0 -97.675259,30.314692,0.0 -97.67529,30.314571,0.0 -97.67529,30.3145,0.0 -97.675195,30.314357,0.0 -97.674942,30.314148,0.0 -97.674644,30.313928,0.0 -97.674245,30.313598,0.0 -97.674073,30.31351,0.0 -97.673687,30.313449,0.0 -97.673414,30.313427,0.0 -97.672926,30.313334,0.0 -97.672723,30.313251,0.0 -97.672375,30.313053,0.0 -97.671779,30.312475,0.0 -97.671418,30.311892,0.0 -97.671316,30.311749,0.0 -97.671145,30.31159,0.0 -97.670074,30.310996,0.0 -97.670017,30.310979,0.0 -97.669732,30.310968,0.0 -97.669592,30.31093,0.0 -97.669294,30.310781,0.0 -97.669015,30.310572,0.0 -97.668426,30.310049,0.0 -97.668134,30.309752,0.0 -97.668048,30.309604,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="52574">
+            <name>I-35 Bridges</name>
+            <styleUrl>#52575</styleUrl>
+            <Point id="52573">
+                <coordinates>-97.692948,30.349378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52579">
+            <name>River-Wide Sewer Pipe</name>
+            <styleUrl>#52580</styleUrl>
+            <Point id="52578">
+                <coordinates>-97.678317,30.322897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52584">
+            <name>North Acres Rapid (IV)</name>
+            <styleUrl>#52585</styleUrl>
+            <Point id="52583">
+                <coordinates>-97.685964,30.347968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52589">
+            <name>Manor Rd. Bridge</name>
+            <styleUrl>#52590</styleUrl>
+            <Point id="52588">
+                <coordinates>-97.668059,30.309522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52594">
+            <name>Cameron Rd. Bridge</name>
+            <styleUrl>#52595</styleUrl>
+            <Point id="52593">
+                <coordinates>-97.679385,30.342843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52599">
+            <name>Dottie Jordan Neighborhood Park</name>
+            <styleUrl>#52600</styleUrl>
+            <Point id="52598">
+                <coordinates>-97.673914,30.313411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52604">
+            <name>North Acres Neighborhood Park</name>
+            <styleUrl>#52605</styleUrl>
+            <Point id="52603">
+                <coordinates>-97.686234,30.34795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52609">
+            <name>Loyola Lane Bridge</name>
+            <styleUrl>#52610</styleUrl>
+            <Point id="52608">
+                <coordinates>-97.674431,30.315438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52614">
+            <name>Centre Creek Drive Bridge</name>
+            <styleUrl>#52615</styleUrl>
+            <Point id="52613">
+                <coordinates>-97.677405,30.336267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52619">
+            <name>1st Crossing of U.S. 183</name>
+            <styleUrl>#52620</styleUrl>
+            <Point id="52618">
+                <coordinates>-97.678802,30.32944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52624">
+            <name>U.S. 290 Bridges</name>
+            <styleUrl>#52625</styleUrl>
+            <Point id="52623">
+                <coordinates>-97.679073,30.32369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52629">
+            <name>Confluence with Unknown Feeder Creek</name>
+            <styleUrl>#52630</styleUrl>
+            <Point id="52628">
+                <coordinates>-97.680059,30.32586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52634">
+            <name>Those Aren't Pillows! (III+)</name>
+            <styleUrl>#52635</styleUrl>
+            <Point id="52633">
+                <coordinates>-97.678679,30.330667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52639">
+            <name>The Slide (III)</name>
+            <styleUrl>#52640</styleUrl>
+            <Point id="52638">
+                <coordinates>-97.678286,30.339731,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="53605">
+        <Style id="53610">
+            <IconStyle id="53611">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53612">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53615">
+            <IconStyle id="53616">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53617">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53620">
+            <IconStyle id="53621">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53622">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53625">
+            <IconStyle id="53626">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53627">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53630">
+            <IconStyle id="53631">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53632">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53635">
+            <IconStyle id="53636">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53637">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53640">
+            <IconStyle id="53641">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53642">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53645">
+            <IconStyle id="53646">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53647">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Moose - 2. Lower: Rock Island to Fowlersville</name>
+        <Placemark id="53607">
+            <name>Moose - 2. Lower: Rock Island to Fowlersville (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="53606">
+                <coordinates>-75.161963,43.608655,0.0 -75.162106,43.608674,0.0 -75.162835,43.609172,0.0 -75.164969,43.609613,0.0 -75.164969,43.609613,0.0 -75.164969,43.609613,0.0 -75.164969,43.609613,0.0 -75.165839,43.609793,0.0 -75.167341,43.611844,0.0 -75.168371,43.611999,0.0 -75.171075,43.611409,0.0 -75.172877,43.610663,0.0 -75.174594,43.609141,0.0 -75.176311,43.608271,0.0 -75.176458,43.608258,0.0 -75.176458,43.608258,0.0 -75.179958,43.60796,0.0 -75.183434,43.606064,0.0 -75.185323,43.605722,0.0 -75.186739,43.605691,0.0 -75.189314,43.604821,0.0 -75.191202,43.605132,0.0 -75.194807,43.604417,0.0 -75.19691,43.60451,0.0 -75.198069,43.605443,0.0 -75.199056,43.605722,0.0 -75.199957,43.606593,0.0 -75.199957,43.606593,0.0 -75.200515,43.606748,0.0 -75.201674,43.606406,0.0 -75.206736,43.602848,0.0 -75.209412,43.603176,0.0 -75.212282,43.601151,0.0 -75.214339,43.601443,0.0 -75.216066,43.600692,0.0 -75.220002,43.600544,0.0 -75.222702,43.59941,0.0 -75.223179,43.597863,0.0 -75.22516,43.596649,0.0 -75.227847,43.596063,0.0 -75.229692,43.596851,0.0 -75.230942,43.597953,0.0 -75.232058,43.599321,0.0 -75.233259,43.600035,0.0 -75.234246,43.600968,0.0 -75.234375,43.60162,0.0 -75.23416,43.603019,0.0 -75.234375,43.60392,0.0 -75.234718,43.605163,0.0 -75.236435,43.60709,0.0 -75.237808,43.607835,0.0 -75.239182,43.608053,0.0 -75.243044,43.606499,0.0 -75.243902,43.606624,0.0 -75.245404,43.608146,0.0 -75.247421,43.608581,0.0 -75.247421,43.608581,0.0 -75.248022,43.609451,0.0 -75.246949,43.613025,0.0 -75.247207,43.613304,0.0 -75.246477,43.615635,0.0 -75.246305,43.616784,0.0 -75.246305,43.616784,0.0 -75.246692,43.617219,0.0 -75.246863,43.618524,0.0 -75.24785,43.61986,0.0 -75.250039,43.620947,0.0 -75.252314,43.623371,0.0 -75.253344,43.623557,0.0 -75.253361,43.623546,0.0 -75.253332,43.623521,0.0 -75.253977,43.62313,0.0 -75.254577,43.622322,0.0 -75.257109,43.621056,0.0 -75.258944,43.621475,0.0 -75.259985,43.621002,0.0 -75.260532,43.619806,0.0 -75.262152,43.619161,0.0 -75.263246,43.619083,0.0 -75.263246,43.619083,0.0 -75.265038,43.61847,0.0 -75.267334,43.618578,0.0 -75.268686,43.619953,0.0 -75.269244,43.620209,0.0 -75.269244,43.620209,0.0 -75.269941,43.620536,0.0 -75.273426,43.623503,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="53609">
+            <name>Froth Hole (III+)</name>
+            <styleUrl>#53610</styleUrl>
+            <Point id="53608">
+                <coordinates>-75.210197,43.6026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53614">
+            <name>Mixmaster (IV)</name>
+            <styleUrl>#53615</styleUrl>
+            <Point id="53613">
+                <coordinates>-75.252899,43.623699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53619">
+            <name>Elevator Shaft (III+)</name>
+            <styleUrl>#53620</styleUrl>
+            <Point id="53618">
+                <coordinates>-75.258797,43.6217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53624">
+            <name>Iron Bridge (None)</name>
+            <styleUrl>#53625</styleUrl>
+            <Point id="53623">
+                <coordinates>-75.156403,43.6078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53629">
+            <name>Tannery (III+)</name>
+            <styleUrl>#53630</styleUrl>
+            <Point id="53628">
+                <coordinates>-75.161797,43.608799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53634">
+            <name>Rooster Tail (III+)</name>
+            <styleUrl>#53635</styleUrl>
+            <Point id="53633">
+                <coordinates>-75.176102,43.609001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53639">
+            <name>Rock Island Putin (None)</name>
+            <styleUrl>#53640</styleUrl>
+            <Point id="53638">
+                <coordinates>-75.158096,43.6007,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53644">
+            <name>Fowlerville Road (None)</name>
+            <styleUrl>#53645</styleUrl>
+            <Point id="53643">
+                <coordinates>-75.273903,43.6231,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="76947">
+        <Style id="76952">
+            <IconStyle id="76953">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76954">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="76957">
+            <IconStyle id="76958">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76959">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="76962">
+            <IconStyle id="76963">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76964">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="76967">
+            <IconStyle id="76968">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76969">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="76972">
+            <IconStyle id="76973">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76974">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="76977">
+            <IconStyle id="76978">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76979">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Snake - 8 - Sheep Gulch to Palisades Reservoir</name>
+        <Placemark id="76949">
+            <name>Snake - 8 - Sheep Gulch to Palisades Reservoir (II-III+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="76948">
+                <coordinates>-110.954734,43.185432,0.0 -110.954833,43.185359,0.0 -110.955634,43.18509,0.0 -110.95628,43.184707,0.0 -110.956495,43.18455,0.0 -110.956557,43.184415,0.0 -110.956619,43.183919,0.0 -110.957481,43.183244,0.0 -110.957481,43.183154,0.0 -110.957666,43.182974,0.0 -110.957666,43.182839,0.0 -110.95785,43.182704,0.0 -110.958158,43.182299,0.0 -110.960005,43.180949,0.0 -110.96059,43.180701,0.0 -110.960897,43.180611,0.0 -110.962097,43.180184,0.0 -110.964435,43.180185,0.0 -110.96462,43.18032,0.0 -110.96505,43.18032,0.0 -110.966588,43.181356,0.0 -110.96708,43.181581,0.0 -110.968064,43.181627,0.0 -110.968741,43.181402,0.0 -110.970588,43.180051,0.0 -110.970834,43.179961,0.0 -110.971326,43.179962,0.0 -110.971511,43.179872,0.0 -110.972618,43.179647,0.0 -110.973357,43.179377,0.0 -110.974403,43.179332,0.0 -110.975264,43.179107,0.0 -110.97551,43.179107,0.0 -110.976126,43.178927,0.0 -110.977141,43.178499,0.0 -110.977541,43.178387,0.0 -110.978156,43.178072,0.0 -110.978525,43.178027,0.0 -110.97871,43.177892,0.0 -110.979325,43.177667,0.0 -110.98074,43.177397,0.0 -110.981171,43.177172,0.0 -110.981417,43.177127,0.0 -110.981602,43.176992,0.0 -110.982279,43.176632,0.0 -110.982894,43.176182,0.0 -110.983386,43.176047,0.0 -110.985601,43.175912,0.0 -110.985847,43.176092,0.0 -110.986462,43.176137,0.0 -110.987262,43.176362,0.0 -110.991015,43.176362,0.0 -110.991691,43.176678,0.0 -110.99243,43.176633,0.0 -110.992799,43.176723,0.0 -110.99366,43.176453,0.0 -110.993783,43.176363,0.0 -110.995998,43.176363,0.0 -110.996244,43.176408,0.0 -110.996552,43.176183,0.0 -110.996859,43.176183,0.0 -110.997105,43.176048,0.0 -110.997413,43.176048,0.0 -110.999505,43.175597,0.0 -110.999874,43.175462,0.0 -111.000767,43.174972,0.0 -111.00171,43.174741,0.0 -111.004298,43.173709,0.0 -111.008602,43.171772,0.0 -111.011292,43.170098,0.0 -111.013018,43.168884,0.0 -111.013592,43.168609,0.0 -111.014392,43.168352,0.0 -111.016116,43.167816,0.0 -111.017565,43.167394,0.0 -111.018499,43.167113,0.0 -111.021837,43.166309,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="76951">
+            <name>Palisades reservoir takeout</name>
+            <styleUrl>#76952</styleUrl>
+            <Point id="76950">
+                <coordinates>-111.022003,43.167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76956">
+            <name>Sheep Gulch</name>
+            <styleUrl>#76957</styleUrl>
+            <Point id="76955">
+                <coordinates>-110.954727,43.185848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76961">
+            <name>BFG wave (III+)</name>
+            <styleUrl>#76962</styleUrl>
+            <Point id="76960">
+                <coordinates>-110.981003,43.176998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76966">
+            <name>narrows choke (III)</name>
+            <styleUrl>#76967</styleUrl>
+            <Point id="76965">
+                <coordinates>-110.991997,43.176601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76971">
+            <name>Palisades Narrows rapid (III+)</name>
+            <styleUrl>#76972</styleUrl>
+            <Point id="76970">
+                <coordinates>-110.966003,43.180599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76976">
+            <name>surf wave (III)</name>
+            <styleUrl>#76977</styleUrl>
+            <Point id="76975">
+                <coordinates>-110.956001,43.185001,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

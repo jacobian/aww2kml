@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="59557">
+        <Style id="59562">
+            <IconStyle id="59563">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59564">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59567">
+            <IconStyle id="59568">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59569">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59572">
+            <IconStyle id="59573">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59574">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59577">
+            <IconStyle id="59578">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59579">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Pemebonwon, N.Br. - Smalley Falls to Long Slide Falls (1.4 miles)</name>
+        <Placemark id="59559">
+            <name>Pemebonwon, N.Br. - Smalley Falls to Long Slide Falls (1.4 miles) (IV-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="59558">
+                <coordinates>-87.94676,45.695075,0.0 -87.946271,45.694961,0.0 -87.945944,45.694847,0.0 -87.94539,45.694733,0.0 -87.944378,45.694368,0.0 -87.943856,45.694185,0.0 -87.942224,45.693866,0.0 -87.940723,45.693433,0.0 -87.93994,45.69325,0.0 -87.938896,45.693114,0.0 -87.93795,45.692931,0.0 -87.937558,45.69284,0.0 -87.937004,45.692543,0.0 -87.937003,45.692246,0.0 -87.937133,45.691812,0.0 -87.937035,45.6914,0.0 -87.937197,45.690989,0.0 -87.93736,45.690783,0.0 -87.938436,45.690599,0.0 -87.938795,45.690508,0.0 -87.938795,45.690119,0.0 -87.936673,45.688886,0.0 -87.936118,45.688429,0.0 -87.935922,45.6882,0.0 -87.935857,45.687995,0.0 -87.93566,45.687629,0.0 -87.935465,45.687492,0.0 -87.935464,45.687058,0.0 -87.935692,45.686875,0.0 -87.936475,45.6866,0.0 -87.937029,45.686325,0.0 -87.937452,45.685845,0.0 -87.937908,45.685342,0.0 -87.938104,45.68509,0.0 -87.938005,45.684839,0.0 -87.936766,45.684839,0.0 -87.936146,45.684588,0.0 -87.935852,45.684383,0.0 -87.93582,45.684246,0.0 -87.935689,45.684154,0.0 -87.935624,45.68404,0.0 -87.93533,45.683812,0.0 -87.934677,45.68356,0.0 -87.934104,45.68346,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="59561">
+            <name>Take Out</name>
+            <styleUrl>#59562</styleUrl>
+            <Point id="59560">
+                <coordinates>-87.934097,45.683498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59566">
+            <name>Put In</name>
+            <styleUrl>#59567</styleUrl>
+            <Point id="59565">
+                <coordinates>-87.9468,45.695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59571">
+            <name>Long Slide Falls (V)</name>
+            <styleUrl>#59572</styleUrl>
+            <Point id="59570">
+                <coordinates>-87.933151,45.683472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59576">
+            <name>Smalley Falls (IV+)</name>
+            <styleUrl>#59577</styleUrl>
+            <Point id="59575">
+                <coordinates>-87.946144,45.695126,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

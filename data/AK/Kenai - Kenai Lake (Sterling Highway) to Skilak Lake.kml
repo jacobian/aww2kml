@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="7219">
+    <Document id="12186">
+        <Style id="12191">
+            <IconStyle id="12192">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="12193">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="12196">
+            <IconStyle id="12197">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="12198">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Kenai - Kenai Lake (Sterling Highway) to Skilak Lake</name>
-        <Placemark id="7221">
-            <name>Kenai - Kenai Lake (Sterling Highway) to Skilak Lake</name>
+        <Placemark id="12188">
+            <name>Kenai - Kenai Lake (Sterling Highway) to Skilak Lake (I-II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="7220">
+            <LineString id="12187">
                 <coordinates>-149.811654,60.49277,0.0 -149.817822,60.493401,0.0 -149.82982,60.491442,0.0 -149.844113,60.487838,0.0 -149.848847,60.488669,0.0 -149.854263,60.485842,0.0 -149.858245,60.488298,0.0 -149.866954,60.487679,0.0 -149.871939,60.489605,0.0 -149.874307,60.489764,0.0 -149.8761,60.48858,0.0 -149.876064,60.487132,0.0 -149.882305,60.484534,0.0 -149.888546,60.485541,0.0 -149.89077,60.485541,0.0 -149.891595,60.484676,0.0 -149.898445,60.48381,0.0 -149.904722,60.485011,0.0 -149.909385,60.485612,0.0 -149.921759,60.48236,0.0 -149.929865,60.481742,0.0 -149.933825,60.483777,0.0 -149.933538,60.486392,0.0 -149.937125,60.486551,0.0 -149.947096,60.486127,0.0 -149.950467,60.484943,0.0 -149.948853,60.482399,0.0 -149.946468,60.480871,0.0 -149.948988,60.479576,0.0 -149.964164,60.485237,0.0 -149.972255,60.486902,0.0 -149.97786,60.487539,0.0 -149.988518,60.485296,0.0 -150.000141,60.486648,0.0 -150.005487,60.48455,0.0 -150.012302,60.484578,0.0 -150.019117,60.487822,0.0 -150.026291,60.483856,0.0 -150.036549,60.48258,0.0 -150.046753,60.484822,0.0 -150.052537,60.480447,0.0 -150.059087,60.480469,0.0 -150.066218,60.481991,0.0 -150.071201,60.484731,0.0 -150.081188,60.482496,0.0 -150.099417,60.483764,0.0 -150.114467,60.481332,0.0 -150.122315,60.479409,0.0 -150.123998,60.475628,0.0 -150.128946,60.471387,0.0 -150.13194,60.466587,0.0 -150.143139,60.467069,0.0 -150.144791,60.465462,0.0 -150.142497,60.463394,0.0 -150.142141,60.461539,0.0 -150.147199,60.460929,0.0 -150.152257,60.461663,0.0 -150.159735,60.460814,0.0 -150.163654,60.458427,0.0 -150.170402,60.449309,0.0 -150.16888,60.446262,0.0 -150.18729,60.441642,0.0 -150.193393,60.441411,0.0 -150.193955,60.435569,0.0 -150.205723,60.436282,0.0 -150.217491,60.43774,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="7223">
+        <Placemark id="12190">
             <name>Take Out</name>
-            <Point id="7222">
+            <styleUrl>#12191</styleUrl>
+            <Point id="12189">
                 <coordinates>-150.115005,60.482498,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="7225">
+        <Placemark id="12195">
             <name>Put In</name>
-            <Point id="7224">
+            <styleUrl>#12196</styleUrl>
+            <Point id="12194">
                 <coordinates>-149.796112,60.492222,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="7227">
-            <name>Put in</name>
-            <Point id="7226">
-                <coordinates>-149.811654,60.49277,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="7229">
-            <name>Take out</name>
-            <Point id="7228">
-                <coordinates>-150.217491,60.43774,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

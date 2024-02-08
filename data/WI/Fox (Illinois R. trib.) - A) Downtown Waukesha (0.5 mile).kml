@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="59756">
+        <Style id="59761">
+            <IconStyle id="59762">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59763">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59766">
+            <IconStyle id="59767">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59768">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59771">
+            <IconStyle id="59772">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59773">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59776">
+            <IconStyle id="59777">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59778">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59781">
+            <IconStyle id="59782">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59783">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59786">
+            <IconStyle id="59787">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59788">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Fox (Illinois R. trib.) - A) Downtown Waukesha (0.5 mile)</name>
+        <Placemark id="59758">
+            <name>Fox (Illinois R. trib.) - A) Downtown Waukesha (0.5 mile) (I)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="59757">
+                <coordinates>-88.229217,43.013348,0.0 -88.229411,43.013206,0.0 -88.230163,43.012927,0.0 -88.230767,43.012774,0.0 -88.231212,43.012738,0.0 -88.231796,43.012598,0.0 -88.232705,43.012243,0.0 -88.233439,43.011893,0.0 -88.23401,43.011547,0.0 -88.234711,43.011193,0.0 -88.235678,43.010797,0.0 -88.236336,43.010431,0.0 -88.236736,43.010182,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="59760">
+            <name>USGS Gauge</name>
+            <styleUrl>#59761</styleUrl>
+            <Point id="59759">
+                <coordinates>-88.243927,43.004948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59765">
+            <name>Take Out</name>
+            <styleUrl>#59766</styleUrl>
+            <Point id="59764">
+                <coordinates>-88.236786,43.010262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59770">
+            <name>Dam</name>
+            <styleUrl>#59771</styleUrl>
+            <Point id="59769">
+                <coordinates>-88.229401,43.013599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59775">
+            <name>Put In</name>
+            <styleUrl>#59776</styleUrl>
+            <Point id="59774">
+                <coordinates>-88.229401,43.013599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59780">
+            <name>Bank Tunnel</name>
+            <styleUrl>#59781</styleUrl>
+            <Point id="59779">
+                <coordinates>-88.232866,43.01219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59785">
+            <name>Love Bridge</name>
+            <styleUrl>#59786</styleUrl>
+            <Point id="59784">
+                <coordinates>-88.23202,43.012535,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

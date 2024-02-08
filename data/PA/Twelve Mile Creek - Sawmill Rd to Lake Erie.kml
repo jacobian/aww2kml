@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="87482">
+        <Style id="87487">
+            <IconStyle id="87488">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87489">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87492">
+            <IconStyle id="87493">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87494">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Twelve Mile Creek - Sawmill Rd to Lake Erie</name>
+        <Placemark id="87484">
+            <name>Twelve Mile Creek - Sawmill Rd to Lake Erie (IV-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="87483">
+                <coordinates>-79.910133,42.196967,0.0 -79.910363,42.197885,0.0 -79.909933,42.20063,0.0 -79.909995,42.201865,0.0 -79.910119,42.202186,0.0 -79.910396,42.202529,0.0 -79.911319,42.203009,0.0 -79.91255,42.204266,0.0 -79.913813,42.206691,0.0 -79.914521,42.2074,0.0 -79.914798,42.207788,0.0 -79.914614,42.208429,0.0 -79.915045,42.209435,0.0 -79.91483,42.210442,0.0 -79.914871,42.211009,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="87486">
+            <name>Take Out</name>
+            <styleUrl>#87487</styleUrl>
+            <Point id="87485">
+                <coordinates>-79.915,42.211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87491">
+            <name>Put in</name>
+            <styleUrl>#87492</styleUrl>
+            <Point id="87490">
+                <coordinates>-79.91,42.197,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

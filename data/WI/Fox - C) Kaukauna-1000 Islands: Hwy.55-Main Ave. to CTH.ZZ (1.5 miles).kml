@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14501">
+        <Style id="14506">
+            <IconStyle id="14507">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14508">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14511">
+            <IconStyle id="14512">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14513">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14516">
+            <IconStyle id="14517">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14518">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14521">
+            <IconStyle id="14522">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14523">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14526">
+            <IconStyle id="14527">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14528">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14531">
+            <IconStyle id="14532">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14533">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14536">
+            <IconStyle id="14537">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14538">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14541">
+            <IconStyle id="14542">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14543">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14546">
+            <IconStyle id="14547">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14548">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14551">
+            <IconStyle id="14552">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14553">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14556">
+            <IconStyle id="14557">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14558">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14561">
+            <IconStyle id="14562">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14563">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14566">
+            <IconStyle id="14567">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14568">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14571">
+            <IconStyle id="14572">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14573">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14576">
+            <IconStyle id="14577">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14578">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14581">
+            <IconStyle id="14582">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14583">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14586">
+            <IconStyle id="14587">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14588">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14591">
+            <IconStyle id="14592">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14593">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14596">
+            <IconStyle id="14597">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14598">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14601">
+            <IconStyle id="14602">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14603">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14606">
+            <IconStyle id="14607">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14608">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Fox - C) Kaukauna/1000 Islands: Hwy.55/Main Ave. to CTH.ZZ (1.5 miles)</name>
+        <Placemark id="14503">
+            <name>Fox - C) Kaukauna/1000 Islands: Hwy.55/Main Ave. to CTH.ZZ (1.5 miles) (II-III(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="14502">
+                <coordinates>-88.269466,44.280172,0.0 -88.267354,44.280072,0.0 -88.267487,44.279913,0.0 -88.266043,44.279954,0.0 -88.265751,44.279876,0.0 -88.26577,44.279767,0.0 -88.265572,44.279548,0.0 -88.263721,44.27958,0.0 -88.263358,44.280391,0.0 -88.262786,44.280286,0.0 -88.2611,44.28066,0.0 -88.260807,44.280628,0.0 -88.260877,44.280528,0.0 -88.2608,44.280076,0.0 -88.260921,44.279994,0.0 -88.260088,44.280094,0.0 -88.260285,44.280158,0.0 -88.260387,44.280094,0.0 -88.259534,44.279152,0.0 -88.259591,44.278801,0.0 -88.259998,44.278491,0.0 -88.261758,44.2779,0.0 -88.262884,44.278437,0.0 -88.263444,44.278856,0.0 -88.263132,44.278701,0.0 -88.263024,44.278752,0.0 -88.262852,44.278683,0.0 -88.262738,44.278861,0.0 -88.261942,44.278756,0.0 -88.261586,44.278551,0.0 -88.26193,44.278196,0.0 -88.262286,44.278251,0.0 -88.262248,44.278332,0.0 -88.261421,44.2778,0.0 -88.263675,44.276452,0.0 -88.263045,44.276174,0.0 -88.261085,44.276064,0.0 -88.260939,44.275987,0.0 -88.260843,44.276105,0.0 -88.259565,44.276105,0.0 -88.259131,44.276607,0.0 -88.259494,44.277245,0.0 -88.26034,44.277859,0.0 -88.260589,44.27761,0.0 -88.260289,44.277503,0.0 -88.260222,44.277892,0.0 -88.259372,44.278137,0.0 -88.258732,44.278111,0.0 -88.258688,44.278054,0.0 -88.257751,44.278391,0.0 -88.257526,44.278727,0.0 -88.257661,44.278888,0.0 -88.257501,44.279118,0.0 -88.256923,44.279033,0.0 -88.255668,44.278984,0.0 -88.254944,44.278776,0.0 -88.252778,44.27876,0.0 -88.251991,44.277494,0.0 -88.24963,44.274701,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="14505">
+            <name>*** SPECIAL NOTE ***</name>
+            <styleUrl>#14506</styleUrl>
+            <Point id="14504">
+                <coordinates>-88.269302,44.280102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14510">
+            <name>Dam &amp; Slab Waves</name>
+            <styleUrl>#14511</styleUrl>
+            <Point id="14509">
+                <coordinates>-88.27089,44.280614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14515">
+            <name>Entrance Gate ===================== PART I ==</name>
+            <styleUrl>#14516</styleUrl>
+            <Point id="14514">
+                <coordinates>-88.269302,44.280102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14520">
+            <name>Put-in</name>
+            <styleUrl>#14521</styleUrl>
+            <Point id="14519">
+                <coordinates>-88.269426,44.280182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14525">
+            <name>Ten Boat Wave (II)</name>
+            <styleUrl>#14526</styleUrl>
+            <Point id="14524">
+                <coordinates>-88.267641,44.280208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14530">
+            <name>The Transition =================== PART II-B ==</name>
+            <styleUrl>#14531</styleUrl>
+            <Point id="14529">
+                <coordinates>-88.259535,44.279153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14535">
+            <name>Railroad Bridge</name>
+            <styleUrl>#14536</styleUrl>
+            <Point id="14534">
+                <coordinates>-88.264247,44.279571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14540">
+            <name>Island ========================= PART II-A ==</name>
+            <styleUrl>#14541</styleUrl>
+            <Point id="14539">
+                <coordinates>-88.263725,44.27958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14545">
+            <name>(Left Channel) Goose Ledges (II)</name>
+            <styleUrl>#14546</styleUrl>
+            <Point id="14544">
+                <coordinates>-88.262689,44.280307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14550">
+            <name>(Right Channel) The Trolls (III)</name>
+            <styleUrl>#14551</styleUrl>
+            <Point id="14549">
+                <coordinates>-88.263121,44.278706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14555">
+            <name>(Right Channel) Uniform Gnarly Hydraulic (UGH!) (III+)</name>
+            <styleUrl>#14556</styleUrl>
+            <Point id="14554">
+                <coordinates>-88.262248,44.278332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14560">
+            <name>Lower Dam ====================== PART III == (III+)</name>
+            <styleUrl>#14561</styleUrl>
+            <Point id="14559">
+                <coordinates>-88.261421,44.2778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14565">
+            <name>(1st Channel) Spin Cycle (II+)</name>
+            <styleUrl>#14566</styleUrl>
+            <Point id="14564">
+                <coordinates>-88.260898,44.276037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14570">
+            <name>(2nd Channel) Infant Falls (III+)</name>
+            <styleUrl>#14571</styleUrl>
+            <Point id="14569">
+                <coordinates>-88.260562,44.277637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14575">
+            <name>(3rd Channel) Mystery Wave (III)</name>
+            <styleUrl>#14576</styleUrl>
+            <Point id="14574">
+                <coordinates>-88.258705,44.278076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14580">
+            <name>(4th Channel) Mill Wave (II+)</name>
+            <styleUrl>#14581</styleUrl>
+            <Point id="14579">
+                <coordinates>-88.25757,44.27902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14585">
+            <name>The Paddle Out</name>
+            <styleUrl>#14586</styleUrl>
+            <Point id="14584">
+                <coordinates>-88.255642,44.278977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14590">
+            <name>The Landing</name>
+            <styleUrl>#14591</styleUrl>
+            <Point id="14589">
+                <coordinates>-88.249562,44.274583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14595">
+            <name>(Left Channel) Elm Street Waves (II)</name>
+            <styleUrl>#14596</styleUrl>
+            <Point id="14594">
+                <coordinates>-88.261002,44.280998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14600">
+            <name>Island Street Wave (II+)</name>
+            <styleUrl>#14601</styleUrl>
+            <Point id="14599">
+                <coordinates>-88.2658,44.279701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14605">
+            <name>(Left Channel) Pancake Wave</name>
+            <styleUrl>#14606</styleUrl>
+            <Point id="14604">
+                <coordinates>-88.260002,44.279999,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

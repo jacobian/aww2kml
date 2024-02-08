@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="65802">
+        <Style id="65807">
+            <IconStyle id="65808">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65809">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65812">
+            <IconStyle id="65813">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65814">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Kelly Creek - Hwy 78 to Winnataska Drive</name>
+        <Placemark id="65804">
+            <name>Kelly Creek - Hwy 78 to Winnataska Drive (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="65803">
+                <coordinates>-86.459037,33.578436,0.0 -86.458751,33.578272,0.0 -86.457313,33.578299,0.0 -86.457148,33.578277,0.0 -86.456833,33.578123,0.0 -86.455986,33.577579,0.0 -86.455913,33.577497,0.0 -86.455861,33.577343,0.0 -86.455926,33.577167,0.0 -86.45613,33.577002,0.0 -86.456491,33.576815,0.0 -86.456806,33.576386,0.0 -86.45699,33.576034,0.0 -86.457017,33.575792,0.0 -86.456964,33.575253,0.0 -86.456773,33.57477,0.0 -86.456313,33.574214,0.0 -86.456149,33.57406,0.0 -86.456011,33.573978,0.0 -86.455913,33.573939,0.0 -86.455617,33.573874,0.0 -86.454454,33.573736,0.0 -86.453889,33.573533,0.0 -86.453495,33.573357,0.0 -86.4532,33.573192,0.0 -86.452806,33.572934,0.0 -86.452385,33.572714,0.0 -86.451827,33.572318,0.0 -86.45136,33.571867,0.0 -86.450703,33.57151,0.0 -86.449823,33.570938,0.0 -86.448996,33.570361,0.0 -86.448864,33.570306,0.0 -86.448713,33.570311,0.0 -86.448378,33.570367,0.0 -86.448148,33.57035,0.0 -86.447912,33.570312,0.0 -86.447728,33.570246,0.0 -86.447518,33.570075,0.0 -86.447143,33.569685,0.0 -86.446828,33.569404,0.0 -86.446441,33.56908,0.0 -86.446165,33.568888,0.0 -86.445931,33.568667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="65806">
+            <name>Take Out</name>
+            <styleUrl>#65807</styleUrl>
+            <Point id="65805">
+                <coordinates>-86.4459,33.5687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65811">
+            <name>Put In</name>
+            <styleUrl>#65812</styleUrl>
+            <Point id="65810">
+                <coordinates>-86.459,33.5785,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

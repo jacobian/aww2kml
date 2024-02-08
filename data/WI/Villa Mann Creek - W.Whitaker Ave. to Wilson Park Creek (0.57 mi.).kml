@@ -1,72 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="20491">
+    <Document id="34500">
+        <Style id="34505">
+            <IconStyle id="34506">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34507">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34510">
+            <IconStyle id="34511">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34512">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34515">
+            <IconStyle id="34516">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34517">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34520">
+            <IconStyle id="34521">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34522">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34525">
+            <IconStyle id="34526">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34527">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34530">
+            <IconStyle id="34531">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34532">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34535">
+            <IconStyle id="34536">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34537">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34540">
+            <IconStyle id="34541">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34542">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Villa Mann Creek - W.Whitaker Ave. to Wilson Park Creek (0.57 mi.)</name>
-        <Placemark id="20493">
-            <name>Villa Mann Creek - W.Whitaker Ave. to Wilson Park Creek (0.57 mi.)</name>
+        <Placemark id="34502">
+            <name>Villa Mann Creek - W.Whitaker Ave. to Wilson Park Creek (0.57 mi.) (II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="20492">
+            <LineString id="34501">
                 <coordinates>-87.943761,42.965153,0.0 -87.943525,42.965456,0.0 -87.943373,42.965588,0.0 -87.943167,42.965752,0.0 -87.942872,42.965971,0.0 -87.942239,42.966422,0.0 -87.941906,42.966771,0.0 -87.941883,42.9687,0.0 -87.94166,42.968935,0.0 -87.940937,42.969462,0.0 -87.940699,42.969566,0.0 -87.940452,42.969645,0.0 -87.94018,42.969661,0.0 -87.938481,42.969655,0.0 -87.938244,42.969693,0.0 -87.938068,42.969772,0.0 -87.937947,42.969867,0.0 -87.937752,42.970156,0.0 -87.937927,42.970302,0.0 -87.938152,42.970546,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="20495">
+        <Placemark id="34504">
             <name>Take-out Parking</name>
-            <Point id="20494">
+            <styleUrl>#34505</styleUrl>
+            <Point id="34503">
                 <coordinates>-87.932923,42.970349,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20497">
+        <Placemark id="34509">
             <name>Put-in</name>
-            <Point id="20496">
+            <styleUrl>#34510</styleUrl>
+            <Point id="34508">
                 <coordinates>-87.943761,42.965153,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20499">
+        <Placemark id="34514">
             <name>First Slide</name>
-            <Point id="20498">
+            <styleUrl>#34515</styleUrl>
+            <Point id="34513">
                 <coordinates>-87.941902,42.967854,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20501">
+        <Placemark id="34519">
             <name>Wilson Slide (II)</name>
-            <Point id="20500">
+            <styleUrl>#34520</styleUrl>
+            <Point id="34518">
                 <coordinates>-87.937824,42.970049,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20503">
+        <Placemark id="34524">
             <name>Take-out: Pedestrian Bridge</name>
-            <Point id="20502">
+            <styleUrl>#34525</styleUrl>
+            <Point id="34523">
                 <coordinates>-87.938147,42.970541,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20505">
+        <Placemark id="34529">
             <name>Rec Center Jump (II)</name>
-            <Point id="20504">
+            <styleUrl>#34530</styleUrl>
+            <Point id="34528">
                 <coordinates>-87.940944,42.969457,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20507">
+        <Placemark id="34534">
             <name>Plainfield Jump (II)</name>
-            <Point id="20506">
+            <styleUrl>#34535</styleUrl>
+            <Point id="34533">
                 <coordinates>-87.941883,42.968701,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20509">
+        <Placemark id="34539">
             <name>20th Street Jump (II)</name>
-            <Point id="20508">
+            <styleUrl>#34540</styleUrl>
+            <Point id="34538">
                 <coordinates>-87.93916,42.969657,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="20511">
-            <name>Put in</name>
-            <Point id="20510">
-                <coordinates>-87.943761,42.965153,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="20513">
-            <name>Take out</name>
-            <Point id="20512">
-                <coordinates>-87.938152,42.970546,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

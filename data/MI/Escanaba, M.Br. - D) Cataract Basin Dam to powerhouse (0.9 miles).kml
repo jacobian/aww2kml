@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="72096">
+        <Style id="72101">
+            <IconStyle id="72102">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72103">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72106">
+            <IconStyle id="72107">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72108">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Escanaba, M.Br. - D) Cataract Basin Dam to powerhouse (0.9 miles)</name>
+        <Placemark id="72098">
+            <name>Escanaba, M.Br. - D) Cataract Basin Dam to powerhouse (0.9 miles) (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="72097">
+                <coordinates>-87.512416,46.315734,0.0 -87.511157,46.315911,0.0 -87.510662,46.316116,0.0 -87.509902,46.316733,0.0 -87.509505,46.317007,0.0 -87.509504,46.317647,0.0 -87.5098,46.31799,0.0 -87.510459,46.318242,0.0 -87.51069,46.318379,0.0 -87.510689,46.318928,0.0 -87.510326,46.31911,0.0 -87.510028,46.319202,0.0 -87.508907,46.319063,0.0 -87.507687,46.318651,0.0 -87.506565,46.318695,0.0 -87.505839,46.318809,0.0 -87.505146,46.319105,0.0 -87.50475,46.319036,0.0 -87.50419,46.31883,0.0 -87.503037,46.318074,0.0 -87.501744,46.317539,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="72100">
+            <name>Take Out</name>
+            <styleUrl>#72101</styleUrl>
+            <Point id="72099">
+                <coordinates>-87.501801,46.317402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72105">
+            <name>Put In</name>
+            <styleUrl>#72106</styleUrl>
+            <Point id="72104">
+                <coordinates>-87.512398,46.315601,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

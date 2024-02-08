@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="72649">
+        <Style id="72654">
+            <IconStyle id="72655">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72656">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72659">
+            <IconStyle id="72660">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72661">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72664">
+            <IconStyle id="72665">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72666">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72669">
+            <IconStyle id="72670">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72671">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72674">
+            <IconStyle id="72675">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72676">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72679">
+            <IconStyle id="72680">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72681">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72684">
+            <IconStyle id="72685">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72686">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72689">
+            <IconStyle id="72690">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72691">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Knife - Cty 102 to Lake Superior (5.5 miles)</name>
+        <Placemark id="72651">
+            <name>Knife - Cty 102 to Lake Superior (5.5 miles) (II-III(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="72650">
+                <coordinates>-91.783694,46.983947,0.0 -91.783936,46.983939,0.0 -91.784469,46.984236,0.0 -91.785204,46.984305,0.0 -91.785739,46.984077,0.0 -91.785873,46.983712,0.0 -91.785039,46.98298,0.0 -91.785007,46.982637,0.0 -91.785441,46.98234,0.0 -91.786577,46.982204,0.0 -91.787579,46.982182,0.0 -91.788013,46.981976,0.0 -91.787947,46.981633,0.0 -91.78758,46.981359,0.0 -91.786546,46.980855,0.0 -91.786179,46.980581,0.0 -91.785979,46.980169,0.0 -91.78608,46.979941,0.0 -91.786648,46.979758,0.0 -91.788184,46.979668,0.0 -91.788518,46.979577,0.0 -91.789453,46.979829,0.0 -91.790154,46.980104,0.0 -91.791055,46.980196,0.0 -91.79139,46.979922,0.0 -91.791792,46.979123,0.0 -91.79246,46.978597,0.0 -91.792695,46.978118,0.0 -91.793497,46.977501,0.0 -91.794133,46.976542,0.0 -91.794067,46.976313,0.0 -91.7936,46.976039,0.0 -91.793434,46.975261,0.0 -91.793101,46.97501,0.0 -91.791899,46.97462,0.0 -91.791733,46.974392,0.0 -91.792235,46.973821,0.0 -91.792837,46.973227,0.0 -91.793104,46.97277,0.0 -91.792972,46.972404,0.0 -91.792438,46.972107,0.0 -91.791002,46.972106,0.0 -91.790335,46.971854,0.0 -91.790035,46.971328,0.0 -91.79057,46.970643,0.0 -91.791306,46.97014,0.0 -91.791641,46.969524,0.0 -91.79301,46.969182,0.0 -91.794146,46.968566,0.0 -91.794613,46.968909,0.0 -91.795113,46.969686,0.0 -91.795546,46.969938,0.0 -91.796381,46.970167,0.0 -91.797349,46.970008,0.0 -91.798051,46.969505,0.0 -91.798419,46.969026,0.0 -91.798753,46.969026,0.0 -91.79892,46.9693,0.0 -91.799153,46.969643,0.0 -91.799453,46.969621,0.0 -91.800022,46.969141,0.0 -91.800657,46.968365,0.0 -91.800958,46.967885,0.0 -91.801627,46.967085,0.0 -91.802464,46.96544,0.0 -91.803133,46.964664,0.0 -91.803434,46.964413,0.0 -91.803535,46.96391,0.0 -91.803302,46.963613,0.0 -91.8014,46.962834,0.0 -91.800967,46.962377,0.0 -91.800734,46.961714,0.0 -91.801202,46.960846,0.0 -91.802072,46.959955,0.0 -91.802606,46.959795,0.0 -91.803374,46.959933,0.0 -91.804242,46.959865,0.0 -91.805043,46.959386,0.0 -91.805345,46.958906,0.0 -91.805212,46.958563,0.0 -91.804545,46.958014,0.0 -91.803578,46.957008,0.0 -91.803446,46.956071,0.0 -91.803113,46.955476,0.0 -91.803314,46.954974,0.0 -91.803949,46.954745,0.0 -91.804883,46.954952,0.0 -91.80575,46.955387,0.0 -91.806117,46.955364,0.0 -91.806719,46.954633,0.0 -91.806886,46.954313,0.0 -91.80682,46.953947,0.0 -91.80622,46.953353,0.0 -91.806321,46.953101,0.0 -91.807289,46.952874,0.0 -91.807657,46.95228,0.0 -91.807758,46.951685,0.0 -91.807525,46.951137,0.0 -91.806558,46.950725,0.0 -91.806491,46.950473,0.0 -91.807161,46.94908,0.0 -91.807062,46.948234,0.0 -91.807196,46.947617,0.0 -91.80753,46.947297,0.0 -91.807765,46.946132,0.0 -91.808734,46.94547,0.0 -91.808934,46.945287,0.0 -91.809002,46.945013,0.0 -91.808835,46.944418,0.0 -91.808035,46.944029,0.0 -91.807101,46.943709,0.0 -91.805934,46.942999,0.0 -91.805467,46.943251,0.0 -91.804932,46.943433,0.0 -91.804165,46.943341,0.0 -91.803931,46.943364,0.0 -91.803363,46.943843,0.0 -91.802729,46.944163,0.0 -91.802161,46.944345,0.0 -91.801827,46.944505,0.0 -91.799958,46.944938,0.0 -91.798655,46.945806,0.0 -91.796851,46.946742,0.0 -91.796551,46.946924,0.0 -91.795983,46.947129,0.0 -91.795116,46.946946,0.0 -91.794048,46.946534,0.0 -91.793581,46.946533,0.0 -91.791845,46.947035,0.0 -91.79071,46.947034,0.0 -91.789409,46.94685,0.0 -91.788875,46.946896,0.0 -91.788174,46.947032,0.0 -91.787039,46.94694,0.0 -91.784836,46.947486,0.0 -91.784134,46.947943,0.0 -91.783499,46.948514,0.0 -91.782731,46.948765,0.0 -91.780027,46.949174,0.0 -91.779457,46.949248,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="72653">
+            <name>Unnamed Tributary</name>
+            <styleUrl>#72654</styleUrl>
+            <Point id="72652">
+                <coordinates>-91.807198,46.9543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72658">
+            <name>Little Knife Confluence/Hwy.61</name>
+            <styleUrl>#72659</styleUrl>
+            <Point id="72657">
+                <coordinates>-91.783699,46.9841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72663">
+            <name>Rocky Jumble</name>
+            <styleUrl>#72664</styleUrl>
+            <Point id="72662">
+                <coordinates>-91.803642,46.95599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72668">
+            <name>Private Residence</name>
+            <styleUrl>#72669</styleUrl>
+            <Point id="72667">
+                <coordinates>-91.79245,46.969257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72673">
+            <name>Put In</name>
+            <styleUrl>#72674</styleUrl>
+            <Point id="72672">
+                <coordinates>-91.783699,46.9841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72678">
+            <name>Early going / Stanley Creek Confluence</name>
+            <styleUrl>#72679</styleUrl>
+            <Point id="72677">
+                <coordinates>-91.791168,46.980263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72683">
+            <name>Rock/Chute</name>
+            <styleUrl>#72684</styleUrl>
+            <Point id="72682">
+                <coordinates>-91.80468,46.954651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72688">
+            <name>Bedrock outcropping</name>
+            <styleUrl>#72689</styleUrl>
+            <Point id="72687">
+                <coordinates>-91.804199,46.959801,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

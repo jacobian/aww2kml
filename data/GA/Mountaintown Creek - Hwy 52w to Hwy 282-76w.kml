@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="52052">
+        <Style id="52057">
+            <IconStyle id="52058">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52059">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52062">
+            <IconStyle id="52063">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52064">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52067">
+            <IconStyle id="52068">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52069">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Mountaintown Creek - Hwy 52w to Hwy 282/76w</name>
+        <Placemark id="52054">
+            <name>Mountaintown Creek - Hwy 52w to Hwy 282/76w (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="52053">
+                <coordinates>-84.555899,34.750388,0.0 -84.556771,34.744815,0.0 -84.556811,34.742033,0.0 -84.551776,34.74072,0.0 -84.554865,34.739501,0.0 -84.556011,34.738143,0.0 -84.557621,34.73682,0.0 -84.559185,34.73727,0.0 -84.560327,34.740706,0.0 -84.561638,34.739594,0.0 -84.56166,34.73883,0.0 -84.560487,34.738344,0.0 -84.560667,34.737579,0.0 -84.561995,34.73173,0.0 -84.562448,34.728944,0.0 -84.562225,34.726019,0.0 -84.561387,34.723605,0.0 -84.560081,34.721947,0.0 -84.557592,34.721052,0.0 -84.557541,34.720049,0.0 -84.558758,34.718977,0.0 -84.556933,34.717696,0.0 -84.557135,34.716138,0.0 -84.552808,34.716597,0.0 -84.548566,34.718169,0.0 -84.545553,34.712299,0.0 -84.546342,34.710041,0.0 -84.539991,34.706775,0.0 -84.539393,34.704795,0.0 -84.539555,34.703232,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="52056">
+            <name>Put In</name>
+            <styleUrl>#52057</styleUrl>
+            <Point id="52055">
+                <coordinates>-84.555899,34.750388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52061">
+            <name>Take Out</name>
+            <styleUrl>#52062</styleUrl>
+            <Point id="52060">
+                <coordinates>-84.539555,34.703232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52066">
+            <name>Leonora's Ledges (II)</name>
+            <styleUrl>#52067</styleUrl>
+            <Point id="52065">
+                <coordinates>-84.558075,34.719578,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

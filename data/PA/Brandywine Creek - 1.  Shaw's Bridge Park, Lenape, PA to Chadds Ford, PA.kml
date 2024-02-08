@@ -1,35 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="29201">
+    <Document id="48810">
+        <Style id="48815">
+            <IconStyle id="48816">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48817">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48820">
+            <IconStyle id="48821">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48822">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48825">
+            <IconStyle id="48826">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48827">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48830">
+            <IconStyle id="48831">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48832">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Brandywine Creek - 1.  Shaw's Bridge Park, Lenape, PA to Chadds Ford, PA</name>
-        <Placemark id="29203">
-            <name>Brandywine Creek - 1.  Shaw's Bridge Park, Lenape, PA to Chadds Ford, PA</name>
+        <Placemark id="48812">
+            <name>Brandywine Creek - 1.  Shaw's Bridge Park, Lenape, PA to Chadds Ford, PA (I)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="29202">
+            <LineString id="48811">
                 <coordinates>-75.649278,39.922815,0.0 -75.649208,39.922752,0.0 -75.648137,39.92218,0.0 -75.645134,39.919938,0.0 -75.642162,39.918886,0.0 -75.640319,39.917971,0.0 -75.638803,39.917376,0.0 -75.637941,39.917285,0.0 -75.637822,39.917102,0.0 -75.637822,39.917102,0.0 -75.637762,39.916873,0.0 -75.636781,39.916049,0.0 -75.636781,39.91534,0.0 -75.636514,39.91518,0.0 -75.635711,39.915066,0.0 -75.635325,39.914928,0.0 -75.634404,39.914791,0.0 -75.633155,39.914928,0.0 -75.633155,39.914928,0.0 -75.632856,39.914813,0.0 -75.631169,39.914294,0.0 -75.628868,39.913687,0.0 -75.627705,39.91332,0.0 -75.627705,39.91332,0.0 -75.626923,39.913073,0.0 -75.626923,39.913073,0.0 -75.626241,39.912388,0.0 -75.626768,39.910557,0.0 -75.626544,39.908985,0.0 -75.626165,39.908539,0.0 -75.625836,39.907334,0.0 -75.623921,39.904589,0.0 -75.623914,39.903437,0.0 -75.623662,39.90314,0.0 -75.623975,39.900081,0.0 -75.623892,39.899326,0.0 -75.623892,39.899326,0.0 -75.623882,39.898801,0.0 -75.623864,39.898576,0.0 -75.623615,39.898018,0.0 -75.622731,39.896977,0.0 -75.622731,39.896977,0.0 -75.622064,39.896356,0.0 -75.619749,39.895591,0.0 -75.618921,39.894943,0.0 -75.618437,39.894863,0.0 -75.616782,39.893898,0.0 -75.616782,39.893898,0.0 -75.616428,39.893588,0.0 -75.616206,39.893217,0.0 -75.616211,39.89305,0.0 -75.616311,39.89285,0.0 -75.617345,39.891511,0.0 -75.617345,39.891511,0.0 -75.617193,39.890961,0.0 -75.616818,39.890504,0.0 -75.61486,39.88967,0.0 -75.611675,39.887227,0.0 -75.610518,39.886845,0.0 -75.610518,39.886845,0.0 -75.609952,39.886356,0.0 -75.609536,39.885852,0.0 -75.609536,39.885852,0.0 -75.609046,39.88462,0.0 -75.608414,39.883877,0.0 -75.606078,39.882596,0.0 -75.603182,39.880329,0.0 -75.602551,39.879585,0.0 -75.602313,39.878651,0.0 -75.601808,39.878056,0.0 -75.601107,39.877557,0.0 -75.599367,39.877142,0.0 -75.599367,39.877142,0.0 -75.598736,39.876399,0.0 -75.598534,39.875342,0.0 -75.59702,39.873558,0.0 -75.596585,39.872719,0.0 -75.596589,39.872598,0.0 -75.596589,39.872598,0.0 -75.596333,39.871971,0.0 -75.59602,39.87149,0.0 -75.595555,39.871015,0.0 -75.595071,39.870794,0.0 -75.594601,39.870605,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="29205">
+        <Placemark id="48814">
             <name>Put-in</name>
-            <Point id="29204">
+            <styleUrl>#48815</styleUrl>
+            <Point id="48813">
                 <coordinates>-75.649278,39.922815,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="29207">
+        <Placemark id="48819">
             <name>Take-out</name>
-            <Point id="29206">
+            <styleUrl>#48820</styleUrl>
+            <Point id="48818">
                 <coordinates>-75.594623,39.870597,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="29209">
+        <Placemark id="48824">
             <name>Put in</name>
-            <Point id="29208">
+            <styleUrl>#48825</styleUrl>
+            <Point id="48823">
                 <coordinates>-75.649278,39.922815,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="29211">
+        <Placemark id="48829">
             <name>Take out</name>
-            <Point id="29210">
+            <styleUrl>#48830</styleUrl>
+            <Point id="48828">
                 <coordinates>-75.594601,39.870605,0.0</coordinates>
             </Point>
         </Placemark>

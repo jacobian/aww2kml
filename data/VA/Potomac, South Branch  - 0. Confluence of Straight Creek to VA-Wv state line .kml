@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="114481">
+        <Style id="114486">
+            <IconStyle id="114487">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114488">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114491">
+            <IconStyle id="114492">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114493">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Potomac, South Branch  - 0. Confluence of Straight Creek to VA/Wv state line </name>
+        <Placemark id="114483">
+            <name>Potomac, South Branch  - 0. Confluence of Straight Creek to VA/Wv state line  (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="114482">
+                <coordinates>-79.508704,38.482237,0.0 -79.508712,38.482251,0.0 -79.508647,38.482344,0.0 -79.507767,38.482684,0.0 -79.507061,38.482989,0.0 -79.506451,38.483426,0.0 -79.505922,38.484034,0.0 -79.505409,38.4845,0.0 -79.504673,38.484908,0.0 -79.504131,38.485116,0.0 -79.503416,38.485211,0.0 -79.5025,38.485249,0.0 -79.501765,38.485305,0.0 -79.501193,38.485572,0.0 -79.500549,38.48596,0.0 -79.499995,38.486409,0.0 -79.499773,38.486615,0.0 -79.499365,38.487115,0.0 -79.498536,38.488329,0.0 -79.49827,38.489007,0.0 -79.498092,38.490202,0.0 -79.497849,38.490798,0.0 -79.497478,38.491474,0.0 -79.497035,38.49193,0.0 -79.496557,38.492294,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="114485">
+            <name>Take Out</name>
+            <styleUrl>#114486</styleUrl>
+            <Point id="114484">
+                <coordinates>-79.497398,38.493401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114490">
+            <name>Put In</name>
+            <styleUrl>#114491</styleUrl>
+            <Point id="114489">
+                <coordinates>-79.508743,38.482216,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

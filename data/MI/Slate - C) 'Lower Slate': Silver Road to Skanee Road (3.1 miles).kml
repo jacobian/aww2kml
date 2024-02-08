@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="71239">
+        <Style id="71244">
+            <IconStyle id="71245">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71246">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="71249">
+            <IconStyle id="71250">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71251">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="71254">
+            <IconStyle id="71255">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71256">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="71259">
+            <IconStyle id="71260">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71261">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="71264">
+            <IconStyle id="71265">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71266">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="71269">
+            <IconStyle id="71270">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71271">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="71274">
+            <IconStyle id="71275">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71276">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Slate - C) 'Lower Slate': Silver Road to Skanee Road (3.1 miles)</name>
+        <Placemark id="71241">
+            <name>Slate - C) 'Lower Slate': Silver Road to Skanee Road (3.1 miles) (III-IV(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="71240">
+                <coordinates>-88.230598,46.8092,0.0 -88.230512,46.809514,0.0 -88.230646,46.809833,0.0 -88.231346,46.810358,0.0 -88.231412,46.810473,0.0 -88.23138,46.811044,0.0 -88.231148,46.811456,0.0 -88.230817,46.812462,0.0 -88.230651,46.812827,0.0 -88.230485,46.813079,0.0 -88.22992,46.813514,0.0 -88.229888,46.813834,0.0 -88.230321,46.814085,0.0 -88.230854,46.81429,0.0 -88.231187,46.814587,0.0 -88.231388,46.814952,0.0 -88.232288,46.815523,0.0 -88.233089,46.816322,0.0 -88.23309,46.816962,0.0 -88.233257,46.817236,0.0 -88.23379,46.81751,0.0 -88.234556,46.817806,0.0 -88.235256,46.818194,0.0 -88.235456,46.818422,0.0 -88.235592,46.819428,0.0 -88.235992,46.819816,0.0 -88.236459,46.82025,0.0 -88.236693,46.820729,0.0 -88.23686,46.820981,0.0 -88.237493,46.821392,0.0 -88.238826,46.821642,0.0 -88.239392,46.821892,0.0 -88.240226,46.822326,0.0 -88.240559,46.822463,0.0 -88.240959,46.822736,0.0 -88.241126,46.822919,0.0 -88.241131,46.822942,0.0 -88.24126,46.823513,0.0 -88.241761,46.824016,0.0 -88.242728,46.824769,0.0 -88.24426,46.825064,0.0 -88.24506,46.825178,0.0 -88.245859,46.825428,0.0 -88.246993,46.826204,0.0 -88.247693,46.826523,0.0 -88.24806,46.82682,0.0 -88.248094,46.827071,0.0 -88.248227,46.827094,0.0 -88.248194,46.827208,0.0 -88.248528,46.827574,0.0 -88.248496,46.8281,0.0 -88.248098,46.828808,0.0 -88.248099,46.829174,0.0 -88.248333,46.829539,0.0 -88.250133,46.830337,0.0 -88.253278,46.831398,0.0 -88.253843,46.831695,0.0 -88.256039,46.832452,0.0 -88.257271,46.832476,0.0 -88.257753,46.832631,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="71243">
+            <name>Ecstasy Falls (IV)</name>
+            <styleUrl>#71244</styleUrl>
+            <Point id="71242">
+                <coordinates>-88.248802,46.828201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71248">
+            <name>Slate Falls (IV)</name>
+            <styleUrl>#71249</styleUrl>
+            <Point id="71247">
+                <coordinates>-88.251801,46.830898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71253">
+            <name>Take Out</name>
+            <styleUrl>#71254</styleUrl>
+            <Point id="71252">
+                <coordinates>-88.257698,46.832802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71258">
+            <name>Put In</name>
+            <styleUrl>#71259</styleUrl>
+            <Point id="71257">
+                <coordinates>-88.230598,46.8092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71263">
+            <name>Kukucks Falls (IV)</name>
+            <styleUrl>#71264</styleUrl>
+            <Point id="71262">
+                <coordinates>-88.246368,46.826199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71268">
+            <name>USGS site</name>
+            <styleUrl>#71269</styleUrl>
+            <Point id="71267">
+                <coordinates>-88.258598,46.833302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71273">
+            <name>Slide Falls (II+)</name>
+            <styleUrl>#71274</styleUrl>
+            <Point id="71272">
+                <coordinates>-88.247902,46.827499,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

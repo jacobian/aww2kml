@@ -1,42 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="27489">
+    <Document id="46090">
+        <Style id="46095">
+            <IconStyle id="46096">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46097">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="46100">
+            <IconStyle id="46101">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46102">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="46105">
+            <IconStyle id="46106">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46107">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Eagle - Phoenix to Eagle River Falls (2.3 miles)</name>
-        <Placemark id="27491">
-            <name>Eagle - Phoenix to Eagle River Falls (2.3 miles)</name>
+        <Placemark id="46092">
+            <name>Eagle - Phoenix to Eagle River Falls (2.3 miles) (III-IV(V))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="27490">
+            <LineString id="46091">
                 <coordinates>-88.278513,47.389828,0.0 -88.27854,47.389955,0.0 -88.27854,47.389955,0.0 -88.278569,47.390084,0.0 -88.278494,47.390375,0.0 -88.278333,47.390563,0.0 -88.278324,47.390589,0.0 -88.278324,47.390589,0.0 -88.278161,47.391043,0.0 -88.277689,47.391522,0.0 -88.277314,47.392365,0.0 -88.276809,47.392684,0.0 -88.27637,47.393323,0.0 -88.27637,47.39458,0.0 -88.276745,47.395175,0.0 -88.277314,47.395698,0.0 -88.278054,47.395953,0.0 -88.279535,47.396112,0.0 -88.2802,47.396294,0.0 -88.283,47.396897,0.0 -88.283869,47.39726,0.0 -88.285146,47.398059,0.0 -88.285469,47.398316,0.0 -88.285469,47.398316,0.0 -88.285511,47.398349,0.0 -88.286734,47.399344,0.0 -88.286734,47.399504,0.0 -88.287399,47.400303,0.0 -88.28757,47.400666,0.0 -88.287667,47.400688,0.0 -88.287667,47.400688,0.0 -88.287764,47.401177,0.0 -88.287764,47.401177,0.0 -88.287764,47.401177,0.0 -88.287871,47.401719,0.0 -88.288171,47.402358,0.0 -88.288472,47.402699,0.0 -88.288879,47.402997,0.0 -88.289351,47.40291,0.0 -88.289856,47.402677,0.0 -88.290768,47.402496,0.0 -88.291605,47.402794,0.0 -88.292409,47.403229,0.0 -88.293182,47.403781,0.0 -88.293386,47.404028,0.0 -88.294426,47.404878,0.0 -88.29507,47.405611,0.0 -88.295091,47.405661,0.0 -88.295091,47.405661,0.0 -88.295263,47.406068,0.0 -88.295338,47.406366,0.0 -88.295606,47.407252,0.0 -88.295669,47.407317,0.0 -88.298637,47.409517,0.0 -88.298664,47.410454,0.0 -88.298557,47.410548,0.0 -88.298224,47.410686,0.0 -88.297108,47.410817,0.0 -88.296508,47.411028,0.0 -88.296239,47.411325,0.0 -88.296239,47.411381,0.0 -88.296239,47.411381,0.0 -88.296239,47.411667,0.0 -88.296307,47.411743,0.0 -88.296307,47.411743,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="27493">
+        <Placemark id="46094">
             <name>Take Out</name>
-            <Point id="27492">
+            <styleUrl>#46095</styleUrl>
+            <Point id="46093">
                 <coordinates>-88.296997,47.4119,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27495">
+        <Placemark id="46099">
             <name>Put In</name>
-            <Point id="27494">
+            <styleUrl>#46100</styleUrl>
+            <Point id="46098">
                 <coordinates>-88.278503,47.3894,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27497">
+        <Placemark id="46104">
             <name>USGS sampling site</name>
-            <Point id="27496">
+            <styleUrl>#46105</styleUrl>
+            <Point id="46103">
                 <coordinates>-88.298203,47.413799,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27499">
-            <name>Put in</name>
-            <Point id="27498">
-                <coordinates>-88.278513,47.389828,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27501">
-            <name>Take out</name>
-            <Point id="27500">
-                <coordinates>-88.296307,47.411743,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

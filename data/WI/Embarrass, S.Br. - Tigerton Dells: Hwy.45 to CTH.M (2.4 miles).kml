@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="52779">
+        <Style id="52784">
+            <IconStyle id="52785">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52786">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52789">
+            <IconStyle id="52790">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52791">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52794">
+            <IconStyle id="52795">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52796">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52799">
+            <IconStyle id="52800">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52801">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52804">
+            <IconStyle id="52805">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52806">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52809">
+            <IconStyle id="52810">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52811">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52814">
+            <IconStyle id="52815">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52816">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52819">
+            <IconStyle id="52820">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52821">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52824">
+            <IconStyle id="52825">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52826">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Embarrass, S.Br. - Tigerton Dells: Hwy.45 to CTH.M (2.4 miles)</name>
+        <Placemark id="52781">
+            <name>Embarrass, S.Br. - Tigerton Dells: Hwy.45 to CTH.M (2.4 miles) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="52780">
+                <coordinates>-89.056802,44.741592,0.0 -89.056463,44.741567,0.0 -89.056045,44.74175,0.0 -89.055659,44.742024,0.0 -89.055564,44.742166,0.0 -89.055557,44.742164,0.0 -89.055396,44.742408,0.0 -89.055427,44.743391,0.0 -89.055331,44.743619,0.0 -89.055042,44.743825,0.0 -89.054945,44.744213,0.0 -89.054817,44.744328,0.0 -89.054336,44.744419,0.0 -89.054079,44.744259,0.0 -89.053726,44.744213,0.0 -89.053117,44.744418,0.0 -89.052636,44.744464,0.0 -89.051802,44.74428,0.0 -89.051385,44.74428,0.0 -89.051096,44.744371,0.0 -89.051096,44.744851,0.0 -89.051288,44.745217,0.0 -89.051255,44.745514,0.0 -89.051127,44.745629,0.0 -89.050293,44.745834,0.0 -89.04917,44.745925,0.0 -89.048144,44.745787,0.0 -89.047374,44.745558,0.0 -89.04638,44.745192,0.0 -89.045258,44.744939,0.0 -89.044328,44.744939,0.0 -89.044071,44.744733,0.0 -89.043655,44.74455,0.0 -89.042821,44.744595,0.0 -89.04266,44.744664,0.0 -89.042307,44.744869,0.0 -89.042018,44.745143,0.0 -89.041472,44.745463,0.0 -89.04051,44.745554,0.0 -89.040189,44.745508,0.0 -89.039837,44.745165,0.0 -89.039517,44.744776,0.0 -89.039004,44.74441,0.0 -89.038619,44.744318,0.0 -89.036663,44.744271,0.0 -89.036086,44.744179,0.0 -89.035861,44.744019,0.0 -89.035765,44.74379,0.0 -89.035894,44.743608,0.0 -89.035894,44.743333,0.0 -89.035478,44.743104,0.0 -89.03535,44.742921,0.0 -89.035446,44.742693,0.0 -89.036473,44.742214,0.0 -89.036698,44.741825,0.0 -89.036794,44.74178,0.0 -89.036955,44.741437,0.0 -89.03686,44.741094,0.0 -89.036635,44.740842,0.0 -89.03609,44.74059,0.0 -89.035834,44.740567,0.0 -89.03532,44.740818,0.0 -89.034454,44.740909,0.0 -89.03407,44.740818,0.0 -89.033717,44.740634,0.0 -89.03298,44.740223,0.0 -89.032146,44.740039,0.0 -89.031826,44.740016,0.0 -89.031665,44.740107,0.0 -89.0316,44.740542,0.0 -89.030509,44.740929,0.0 -89.030092,44.740998,0.0 -89.030093,44.740838,0.0 -89.029836,44.74054,0.0 -89.029773,44.740266,0.0 -89.029581,44.739877,0.0 -89.029421,44.739214,0.0 -89.029134,44.738345,0.0 -89.02907,44.738254,0.0 -89.029038,44.738094,0.0 -89.028942,44.738025,0.0 -89.02891,44.737842,0.0 -89.028558,44.737385,0.0 -89.028558,44.737293,0.0 -89.027562,44.735951,0.0 -89.027562,44.735951,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="52783">
+            <name>Upper (or Middle) and Lower Dells (II+)</name>
+            <styleUrl>#52784</styleUrl>
+            <Point id="52782">
+                <coordinates>-89.029633,44.740833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52788">
+            <name>Dells Entrance (III)</name>
+            <styleUrl>#52789</styleUrl>
+            <Point id="52787">
+                <coordinates>-89.030403,44.740898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52793">
+            <name>After D (II)</name>
+            <styleUrl>#52794</styleUrl>
+            <Point id="52792">
+                <coordinates>-89.033302,44.740601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52798">
+            <name>Diamond-D Ranch Rapids (II+)</name>
+            <styleUrl>#52799</styleUrl>
+            <Point id="52797">
+                <coordinates>-89.036484,44.741962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52803">
+            <name>Second Access Rapid (II)</name>
+            <styleUrl>#52804</styleUrl>
+            <Point id="52802">
+                <coordinates>-89.043701,44.744701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52808">
+            <name>First Access Rapid (II)</name>
+            <styleUrl>#52809</styleUrl>
+            <Point id="52807">
+                <coordinates>-89.050797,44.7444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52813">
+            <name>Bridge/Portage</name>
+            <styleUrl>#52814</styleUrl>
+            <Point id="52812">
+                <coordinates>-89.035492,44.744156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52818">
+            <name>Take Out</name>
+            <styleUrl>#52819</styleUrl>
+            <Point id="52817">
+                <coordinates>-89.027496,44.736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52823">
+            <name>Put In</name>
+            <styleUrl>#52824</styleUrl>
+            <Point id="52822">
+                <coordinates>-89.057503,44.741699,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

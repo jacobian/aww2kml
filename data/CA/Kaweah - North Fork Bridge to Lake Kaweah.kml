@@ -1,72 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="19319">
+    <Document id="32640">
+        <Style id="32645">
+            <IconStyle id="32646">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32647">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32650">
+            <IconStyle id="32651">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32652">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32655">
+            <IconStyle id="32656">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32657">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32660">
+            <IconStyle id="32661">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32662">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32665">
+            <IconStyle id="32666">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32667">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32670">
+            <IconStyle id="32671">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32672">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32675">
+            <IconStyle id="32676">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32677">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32680">
+            <IconStyle id="32681">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32682">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Kaweah - North Fork Bridge to Lake Kaweah</name>
-        <Placemark id="19321">
-            <name>Kaweah - North Fork Bridge to Lake Kaweah</name>
+        <Placemark id="32642">
+            <name>Kaweah - North Fork Bridge to Lake Kaweah (III-IV)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="19320">
+            <LineString id="32641">
                 <coordinates>-118.905997,36.438313,0.0 -118.906081,36.43815,0.0 -118.906542,36.437537,0.0 -118.906746,36.437131,0.0 -118.907926,36.435724,0.0 -118.908269,36.43544,0.0 -118.908269,36.43544,0.0 -118.90828,36.435146,0.0 -118.908473,36.434887,0.0 -118.908849,36.434283,0.0 -118.909128,36.434033,0.0 -118.9096,36.433756,0.0 -118.910329,36.433437,0.0 -118.910662,36.433403,0.0 -118.910909,36.433428,0.0 -118.914299,36.433946,0.0 -118.914599,36.434059,0.0 -118.915104,36.434179,0.0 -118.915801,36.43449,0.0 -118.916016,36.434542,0.0 -118.916649,36.434689,0.0 -118.917024,36.434835,0.0 -118.91785,36.434974,0.0 -118.918451,36.434965,0.0 -118.918612,36.435043,0.0 -118.918612,36.435043,0.0 -118.919406,36.434887,0.0 -118.91976,36.434645,0.0 -118.919867,36.434447,0.0 -118.919889,36.433843,0.0 -118.919889,36.433843,0.0 -118.919792,36.433532,0.0 -118.919599,36.433092,0.0 -118.919588,36.432997,0.0 -118.919588,36.432997,0.0 -118.919545,36.432626,0.0 -118.919245,36.431832,0.0 -118.919116,36.431115,0.0 -118.91917,36.430994,0.0 -118.918805,36.429673,0.0 -118.918483,36.429371,0.0 -118.917689,36.428016,0.0 -118.917689,36.428016,0.0 -118.917625,36.427619,0.0 -118.917207,36.427006,0.0 -118.917035,36.426505,0.0 -118.917046,36.425953,0.0 -118.91711,36.425245,0.0 -118.917249,36.424848,0.0 -118.917389,36.424649,0.0 -118.917571,36.424528,0.0 -118.917915,36.424382,0.0 -118.918601,36.424295,0.0 -118.919138,36.42414,0.0 -118.920372,36.423441,0.0 -118.921241,36.423061,0.0 -118.921241,36.423061,0.0 -118.922131,36.422854,0.0 -118.922818,36.422759,0.0 -118.923419,36.422716,0.0 -118.924223,36.422793,0.0 -118.924835,36.422888,0.0 -118.925028,36.422811,0.0 -118.925318,36.422638,0.0 -118.925714,36.422267,0.0 -118.926026,36.421887,0.0 -118.926111,36.421291,0.0 -118.92609,36.420022,0.0 -118.925951,36.419426,0.0 -118.925951,36.419426,0.0 -118.926026,36.419323,0.0 -118.926401,36.418442,0.0 -118.926723,36.417976,0.0 -118.926927,36.417423,0.0 -118.92712,36.417164,0.0 -118.927088,36.417061,0.0 -118.927453,36.415999,0.0 -118.927549,36.415869,0.0 -118.928096,36.415688,0.0 -118.928289,36.415541,0.0 -118.928837,36.415429,0.0 -118.928837,36.415429,0.0 -118.929684,36.415265,0.0 -118.930382,36.415273,0.0 -118.930832,36.415524,0.0 -118.931122,36.415869,0.0 -118.931358,36.416042,0.0 -118.931905,36.416301,0.0 -118.932259,36.416379,0.0 -118.932688,36.416594,0.0 -118.932828,36.416569,0.0 -118.933128,36.416655,0.0 -118.933836,36.416992,0.0 -118.935703,36.417069,0.0 -118.935703,36.417069,0.0 -118.937345,36.416681,0.0 -118.937345,36.416681,0.0 -118.937355,36.416569,0.0 -118.937334,36.416474,0.0 -118.937312,36.4158,0.0 -118.93728,36.415697,0.0 -118.937484,36.415438,0.0 -118.937377,36.414056,0.0 -118.937505,36.413883,0.0 -118.937505,36.413883,0.0 -118.937666,36.413486,0.0 -118.938289,36.412666,0.0 -118.938482,36.412554,0.0 -118.938793,36.412493,0.0 -118.93889,36.412364,0.0 -118.939683,36.412208,0.0 -118.939834,36.412252,0.0 -118.940445,36.412139,0.0 -118.940821,36.412321,0.0 -118.941185,36.412286,0.0 -118.941433,36.412237,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="19323">
+        <Placemark id="32644">
             <name>Terminus Reservoir Take-out</name>
-            <Point id="19322">
+            <styleUrl>#32645</styleUrl>
+            <Point id="32643">
                 <coordinates>-118.940686,36.41068,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19325">
+        <Placemark id="32649">
             <name>Upper Holiday Hole (Washing Machine) (IV)</name>
-            <Point id="19324">
+            <styleUrl>#32650</styleUrl>
+            <Point id="32648">
                 <coordinates>-118.927656,36.415826,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19327">
+        <Placemark id="32654">
             <name>Lower Holiday (IV)</name>
-            <Point id="19326">
+            <styleUrl>#32655</styleUrl>
+            <Point id="32653">
                 <coordinates>-118.937455,36.415182,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19329">
+        <Placemark id="32659">
             <name>Tuber's Religion (III)</name>
-            <Point id="19328">
+            <styleUrl>#32660</styleUrl>
+            <Point id="32658">
                 <coordinates>-118.910283,36.434222,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19331">
+        <Placemark id="32664">
             <name>North Fork Drive Bridge Put-in</name>
-            <Point id="19330">
+            <styleUrl>#32665</styleUrl>
+            <Point id="32663">
                 <coordinates>-118.905997,36.438313,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19333">
+        <Placemark id="32669">
             <name>Golf Course (III)</name>
-            <Point id="19332">
+            <styleUrl>#32670</styleUrl>
+            <Point id="32668">
                 <coordinates>-118.917193,36.435854,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19335">
+        <Placemark id="32674">
             <name>Tunnel of Love (III)</name>
-            <Point id="19334">
+            <styleUrl>#32675</styleUrl>
+            <Point id="32673">
                 <coordinates>-118.91896,36.424191,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19337">
+        <Placemark id="32679">
             <name>Dead Cow (III)</name>
-            <Point id="19336">
+            <styleUrl>#32680</styleUrl>
+            <Point id="32678">
                 <coordinates>-118.920721,36.423288,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19339">
-            <name>Put in</name>
-            <Point id="19338">
-                <coordinates>-118.905997,36.438313,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19341">
-            <name>Take out</name>
-            <Point id="19340">
-                <coordinates>-118.941433,36.412237,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

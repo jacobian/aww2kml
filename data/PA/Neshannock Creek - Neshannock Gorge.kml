@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="119069">
+        <Style id="119074">
+            <IconStyle id="119075">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="119076">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="119079">
+            <IconStyle id="119080">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="119081">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Neshannock Creek - Neshannock Gorge</name>
+        <Placemark id="119071">
+            <name>Neshannock Creek - Neshannock Gorge (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="119070">
+                <coordinates>-80.287733,41.091705,0.0 -80.287971,41.091666,0.0 -80.289227,41.091356,0.0 -80.289808,41.091114,0.0 -80.290925,41.090989,0.0 -80.290982,41.090983,0.0 -80.292532,41.0908,0.0 -80.293326,41.09055,0.0 -80.293731,41.090218,0.0 -80.293794,41.089852,0.0 -80.293572,41.089672,0.0 -80.292699,41.089541,0.0 -80.291892,41.089573,0.0 -80.291718,41.08958,0.0 -80.291056,41.089647,0.0 -80.290428,41.089768,0.0 -80.290204,41.089785,0.0 -80.289878,41.08981,0.0 -80.289424,41.089776,0.0 -80.289046,41.089228,0.0 -80.289013,41.08915,0.0 -80.288741,41.088507,0.0 -80.288785,41.088366,0.0 -80.288955,41.088088,0.0 -80.290188,41.087081,0.0 -80.290676,41.086812,0.0 -80.291975,41.086297,0.0 -80.293021,41.085901,0.0 -80.293147,41.08575,0.0 -80.293049,41.085544,0.0 -80.292792,41.08526,0.0 -80.29276,41.084898,0.0 -80.292892,41.084157,0.0 -80.293106,41.083792,0.0 -80.293541,41.083428,0.0 -80.293909,41.082702,0.0 -80.294539,41.082282,0.0 -80.294872,41.082136,0.0 -80.295701,41.081878,0.0 -80.296493,41.081592,0.0 -80.296937,41.081447,0.0 -80.298139,41.081186,0.0 -80.299205,41.080876,0.0 -80.300041,41.080626,0.0 -80.30149,41.080362,0.0 -80.303156,41.080328,0.0 -80.303993,41.080502,0.0 -80.304934,41.080857,0.0 -80.305706,41.081585,0.0 -80.306443,41.082314,0.0 -80.306581,41.08244,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="119073">
+            <name>Take Out</name>
+            <styleUrl>#119074</styleUrl>
+            <Point id="119072">
+                <coordinates>-80.3068,41.0822,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119078">
+            <name>Put In</name>
+            <styleUrl>#119079</styleUrl>
+            <Point id="119077">
+                <coordinates>-80.2877,41.0915,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

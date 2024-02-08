@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56325">
+        <Style id="56330">
+            <IconStyle id="56331">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56332">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56335">
+            <IconStyle id="56336">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56337">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Spirit - Spirit Falls (0.2 mile)</name>
+        <Placemark id="56327">
+            <name>Spirit - Spirit Falls (0.2 mile) (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="56326">
+                <coordinates>-89.977987,45.451923,0.0 -89.977093,45.452073,0.0 -89.976766,45.452171,0.0 -89.976537,45.452311,0.0 -89.97599,45.452915,0.0 -89.975569,45.453172,0.0 -89.974936,45.453725,0.0 -89.974936,45.453829,0.0 -89.975195,45.454174,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="56329">
+            <name>Take Out</name>
+            <styleUrl>#56330</styleUrl>
+            <Point id="56328">
+                <coordinates>-89.976,45.454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56334">
+            <name>Put In</name>
+            <styleUrl>#56335</styleUrl>
+            <Point id="56333">
+                <coordinates>-89.978,45.452,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

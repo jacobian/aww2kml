@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="101097">
+        <Style id="101102">
+            <IconStyle id="101103">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101104">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="101107">
+            <IconStyle id="101108">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101109">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Hay's Creek - (Park-n-Huck)</name>
+        <Placemark id="101099">
+            <name>Hay's Creek - (Park-n-Huck) (II-III(V+))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="101098">
+                <coordinates>-79.347486,37.731433,0.0 -79.347645,37.731394,0.0 -79.348094,37.731081,0.0 -79.348412,37.730925,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="101101">
+            <name>Take Out</name>
+            <styleUrl>#101102</styleUrl>
+            <Point id="101100">
+                <coordinates>-79.348,37.74,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101106">
+            <name>Put In</name>
+            <styleUrl>#101107</styleUrl>
+            <Point id="101105">
+                <coordinates>-79.3484,37.7309,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

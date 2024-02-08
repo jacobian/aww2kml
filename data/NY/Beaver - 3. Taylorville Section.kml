@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="53557">
+        <Style id="53562">
+            <IconStyle id="53563">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53564">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53567">
+            <IconStyle id="53568">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53569">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Beaver - 3. Taylorville Section</name>
+        <Placemark id="53559">
+            <name>Beaver - 3. Taylorville Section (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="53558">
+                <coordinates>-75.311072,43.926646,0.0 -75.311177,43.926334,0.0 -75.31127,43.926169,0.0 -75.31135,43.926085,0.0 -75.311678,43.925663,0.0 -75.311842,43.925388,0.0 -75.312802,43.925395,0.0 -75.313631,43.925652,0.0 -75.314,43.925503,0.0 -75.314239,43.925271,0.0 -75.314441,43.925333,0.0 -75.314704,43.925567,0.0 -75.315212,43.925749,0.0 -75.315969,43.925414,0.0 -75.316517,43.925659,0.0 -75.317067,43.925685,0.0 -75.317636,43.925779,0.0 -75.318446,43.926034,0.0 -75.318643,43.926064,0.0 -75.318643,43.926064,0.0 -75.319047,43.926127,0.0 -75.319877,43.925741,0.0 -75.320007,43.925697,0.0 -75.320296,43.925673,0.0 -75.320903,43.925676,0.0 -75.321547,43.925578,0.0 -75.321547,43.925578,0.0 -75.321708,43.925586,0.0 -75.322019,43.925655,0.0 -75.322266,43.925756,0.0 -75.322545,43.925862,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="53561">
+            <name>Take Out</name>
+            <styleUrl>#53562</styleUrl>
+            <Point id="53560">
+                <coordinates>-75.322197,43.926102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53566">
+            <name>Put in</name>
+            <styleUrl>#53567</styleUrl>
+            <Point id="53565">
+                <coordinates>-75.311072,43.926646,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

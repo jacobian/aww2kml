@@ -1,35 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="6833">
+    <Document id="11543">
+        <Style id="11548">
+            <IconStyle id="11549">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11550">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11553">
+            <IconStyle id="11554">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11555">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Great Miami - Dayton Playpark</name>
-        <Placemark id="6835">
-            <name>Great Miami - Dayton Playpark</name>
+        <Placemark id="11545">
+            <name>Great Miami - Dayton Playpark (II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="6834">
+            <LineString id="11544">
                 <coordinates>-84.190736,39.765081,0.0 -84.191473,39.764882,0.0 -84.191805,39.764833,0.0 -84.19246,39.764767,0.0 -84.193071,39.764758,0.0 -84.193305,39.764758,0.0 -84.193305,39.764763,0.0 -84.193343,39.764765,0.0 -84.193626,39.764763,0.0 -84.193908,39.764755,0.0 -84.194097,39.764754,0.0 -84.194944,39.764787,0.0 -84.195793,39.764808,0.0 -84.197502,39.764841,0.0 -84.197727,39.764833,0.0 -84.198425,39.764742,0.0 -84.198875,39.764651,0.0 -84.199219,39.76461,0.0 -84.199476,39.764569,0.0 -84.199831,39.764449,0.0 -84.199831,39.764449,0.0 -84.200163,39.764338,0.0 -84.200613,39.76414,0.0 -84.200839,39.764016,0.0 -84.201075,39.763859,0.0 -84.201075,39.763859,0.0 -84.20159,39.763587,0.0 -84.201603,39.763578,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="6837">
+        <Placemark id="11547">
             <name>Put In</name>
-            <Point id="6836">
+            <styleUrl>#11548</styleUrl>
+            <Point id="11546">
                 <coordinates>-84.190736,39.765081,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6839">
+        <Placemark id="11552">
             <name>Take Out</name>
-            <Point id="6838">
-                <coordinates>-84.201603,39.763578,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="6841">
-            <name>Put in</name>
-            <Point id="6840">
-                <coordinates>-84.190736,39.765081,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="6843">
-            <name>Take out</name>
-            <Point id="6842">
+            <styleUrl>#11553</styleUrl>
+            <Point id="11551">
                 <coordinates>-84.201603,39.763578,0.0</coordinates>
             </Point>
         </Placemark>

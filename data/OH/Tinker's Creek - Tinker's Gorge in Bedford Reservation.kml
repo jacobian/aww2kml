@@ -1,108 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="8803">
+    <Document id="14853">
+        <Style id="14858">
+            <IconStyle id="14859">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14860">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14863">
+            <IconStyle id="14864">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14865">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14868">
+            <IconStyle id="14869">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14870">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14873">
+            <IconStyle id="14874">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14875">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14878">
+            <IconStyle id="14879">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14880">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14883">
+            <IconStyle id="14884">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14885">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14888">
+            <IconStyle id="14889">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14890">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14893">
+            <IconStyle id="14894">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14895">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14898">
+            <IconStyle id="14899">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14900">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14903">
+            <IconStyle id="14904">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14905">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14908">
+            <IconStyle id="14909">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14910">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14913">
+            <IconStyle id="14914">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14915">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14918">
+            <IconStyle id="14919">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14920">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14923">
+            <IconStyle id="14924">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14925">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Tinker's Creek - Tinker's Gorge in Bedford Reservation</name>
-        <Placemark id="8805">
-            <name>Tinker's Creek - Tinker's Gorge in Bedford Reservation</name>
+        <Placemark id="14855">
+            <name>Tinker's Creek - Tinker's Gorge in Bedford Reservation (III-V(V+))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="8804">
+            <LineString id="14854">
                 <coordinates>-81.524188,41.385173,0.0 -81.524531,41.385143,0.0 -81.525075,41.384911,0.0 -81.525721,41.384663,0.0 -81.526248,41.384547,0.0 -81.527487,41.384474,0.0 -81.528113,41.384349,0.0 -81.528678,41.384589,0.0 -81.529644,41.385209,0.0 -81.529796,41.385526,0.0 -81.530144,41.385842,0.0 -81.530683,41.386207,0.0 -81.531344,41.386379,0.0 -81.531909,41.386347,0.0 -81.532284,41.386034,0.0 -81.532545,41.385487,0.0 -81.532233,41.384939,0.0 -81.531857,41.384719,0.0 -81.531347,41.38416,0.0 -81.531333,41.383885,0.0 -81.531535,41.383652,0.0 -81.53179,41.383507,0.0 -81.532179,41.383508,0.0 -81.532782,41.383623,0.0 -81.53306,41.383713,0.0 -81.533238,41.383878,0.0 -81.533164,41.384304,0.0 -81.533635,41.384525,0.0 -81.534375,41.384701,0.0 -81.535197,41.384882,0.0 -81.53636,41.385142,0.0 -81.537139,41.385282,0.0 -81.537891,41.385352,0.0 -81.538344,41.385369,0.0 -81.539114,41.38541,0.0 -81.539494,41.385589,0.0 -81.539701,41.385803,0.0 -81.539865,41.386271,0.0 -81.540163,41.386846,0.0 -81.540454,41.387432,0.0 -81.540751,41.387756,0.0 -81.540877,41.388224,0.0 -81.541096,41.388634,0.0 -81.541544,41.388791,0.0 -81.541988,41.388851,0.0 -81.54259,41.389088,0.0 -81.543259,41.389112,0.0 -81.543912,41.388717,0.0 -81.54529,41.38831,0.0 -81.546496,41.387861,0.0 -81.547005,41.387074,0.0 -81.54722,41.38614,0.0 -81.547514,41.385221,0.0 -81.548155,41.384703,0.0 -81.548672,41.384368,0.0 -81.548568,41.383624,0.0 -81.548783,41.383426,0.0 -81.549224,41.383219,0.0 -81.549725,41.383219,0.0 -81.550219,41.383293,0.0 -81.55174,41.383976,0.0 -81.552475,41.38429,0.0 -81.553092,41.384323,0.0 -81.553882,41.38391,0.0 -81.554331,41.383473,0.0 -81.554745,41.38288,0.0 -81.55485,41.382266,0.0 -81.554389,41.381495,0.0 -81.553947,41.380913,0.0 -81.553296,41.380478,0.0 -81.553006,41.380066,0.0 -81.553006,41.379632,0.0 -81.553412,41.379293,0.0 -81.553986,41.379071,0.0 -81.554796,41.378818,0.0 -81.555456,41.378587,0.0 -81.556222,41.378529,0.0 -81.556688,41.378597,0.0 -81.557853,41.378719,0.0 -81.559015,41.378809,0.0 -81.55976,41.379269,0.0 -81.560059,41.379859,0.0 -81.560263,41.380515,0.0 -81.56093,41.380739,0.0 -81.56161,41.380679,0.0 -81.562034,41.380437,0.0 -81.562786,41.379777,0.0 -81.563729,41.379409,0.0 -81.564491,41.379427,0.0 -81.565419,41.379379,0.0 -81.566067,41.379192,0.0 -81.566555,41.378724,0.0 -81.567072,41.378289,0.0 -81.568287,41.377535,0.0 -81.569321,41.376873,0.0 -81.570141,41.376379,0.0 -81.57053,41.375845,0.0 -81.57079,41.374903,0.0 -81.571499,41.374398,0.0 -81.572104,41.374218,0.0 -81.572714,41.374281,0.0 -81.574251,41.374911,0.0 -81.57531,41.375093,0.0 -81.576345,41.374739,0.0 -81.577275,41.374542,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="8807">
+        <Placemark id="14857">
             <name>Take Out</name>
-            <Point id="8806">
+            <styleUrl>#14858</styleUrl>
+            <Point id="14856">
                 <coordinates>-81.577275,41.374542,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8809">
+        <Placemark id="14862">
             <name>Great Falls of Tinker's Creek (V+)</name>
-            <Point id="8808">
+            <styleUrl>#14863</styleUrl>
+            <Point id="14861">
                 <coordinates>-81.532222,41.383516,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8811">
+        <Placemark id="14867">
             <name>Put In</name>
-            <Point id="8810">
+            <styleUrl>#14868</styleUrl>
+            <Point id="14866">
                 <coordinates>-81.524408,41.385154,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8813">
+        <Placemark id="14872">
             <name>Diagonal Ledge (III)</name>
-            <Point id="8812">
+            <styleUrl>#14873</styleUrl>
+            <Point id="14871">
                 <coordinates>-81.537092,41.385274,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8815">
-            <name>Optional Meat Put In/Takeout </name>
-            <Point id="8814">
-                <coordinates>-81.540616,41.387609,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8817">
-            <name>The Tunnel (III+)</name>
-            <Point id="8816">
-                <coordinates>-81.533861,41.384579,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8819">
-            <name>Regional (Rockpile) (III)</name>
-            <Point id="8818">
-                <coordinates>-81.538051,41.385358,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8821">
-            <name>First Ledge (II)</name>
-            <Point id="8820">
-                <coordinates>-81.562659,41.379888,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8823">
-            <name>Slalom Course (Regional - Left Side) (III)</name>
-            <Point id="8822">
-                <coordinates>-81.538941,41.385401,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8825">
-            <name>S-Turn  (III)</name>
-            <Point id="8824">
-                <coordinates>-81.540057,41.386641,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8827">
-            <name>Shawn's Hole (II)</name>
-            <Point id="8826">
-                <coordinates>-81.548622,41.384009,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8829">
-            <name>Second Ledge (II)</name>
-            <Point id="8828">
-                <coordinates>-81.570677,41.375314,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8831">
-            <name>Tight Slotz (III)</name>
-            <Point id="8830">
-                <coordinates>-81.536293,41.385127,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8833">
+        <Placemark id="14877">
             <name>Shovel Rock Smile Slide (II)</name>
-            <Point id="8832">
+            <styleUrl>#14878</styleUrl>
+            <Point id="14876">
                 <coordinates>-81.539773,41.386007,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8835">
-            <name>Put in</name>
-            <Point id="8834">
-                <coordinates>-81.524188,41.385173,0.0</coordinates>
+        <Placemark id="14882">
+            <name>Optional Meat Put In/Takeout </name>
+            <styleUrl>#14883</styleUrl>
+            <Point id="14881">
+                <coordinates>-81.540616,41.387609,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8837">
-            <name>Take out</name>
-            <Point id="8836">
-                <coordinates>-81.577275,41.374542,0.0</coordinates>
+        <Placemark id="14887">
+            <name>The Tunnel (III+)</name>
+            <styleUrl>#14888</styleUrl>
+            <Point id="14886">
+                <coordinates>-81.533861,41.384579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14892">
+            <name>Regional (Rockpile) (III)</name>
+            <styleUrl>#14893</styleUrl>
+            <Point id="14891">
+                <coordinates>-81.538051,41.385358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14897">
+            <name>First Ledge (II)</name>
+            <styleUrl>#14898</styleUrl>
+            <Point id="14896">
+                <coordinates>-81.562659,41.379888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14902">
+            <name>Slalom Course (Regional - Left Side) (III)</name>
+            <styleUrl>#14903</styleUrl>
+            <Point id="14901">
+                <coordinates>-81.538941,41.385401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14907">
+            <name>S-Turn  (III)</name>
+            <styleUrl>#14908</styleUrl>
+            <Point id="14906">
+                <coordinates>-81.540057,41.386641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14912">
+            <name>Shawn's Hole (II)</name>
+            <styleUrl>#14913</styleUrl>
+            <Point id="14911">
+                <coordinates>-81.548622,41.384009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14917">
+            <name>Second Ledge (II)</name>
+            <styleUrl>#14918</styleUrl>
+            <Point id="14916">
+                <coordinates>-81.570677,41.375314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14922">
+            <name>Tight Slotz (III)</name>
+            <styleUrl>#14923</styleUrl>
+            <Point id="14921">
+                <coordinates>-81.536293,41.385127,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

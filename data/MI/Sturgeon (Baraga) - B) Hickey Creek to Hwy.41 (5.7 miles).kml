@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="95938">
+        <Style id="95943">
+            <IconStyle id="95944">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95945">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95948">
+            <IconStyle id="95949">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95950">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95953">
+            <IconStyle id="95954">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95955">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95958">
+            <IconStyle id="95959">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95960">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95963">
+            <IconStyle id="95964">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95965">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95968">
+            <IconStyle id="95969">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95970">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95973">
+            <IconStyle id="95974">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95975">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95978">
+            <IconStyle id="95979">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95980">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95983">
+            <IconStyle id="95984">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95985">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sturgeon (Baraga) - B) Hickey Creek to Hwy.41 (5.7 miles)</name>
+        <Placemark id="95940">
+            <name>Sturgeon (Baraga) - B) Hickey Creek to Hwy.41 (5.7 miles) (II(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="95939">
+                <coordinates>-88.411767,46.595926,0.0 -88.411768,46.595928,0.0 -88.411769,46.596339,0.0 -88.411603,46.596545,0.0 -88.411338,46.596797,0.0 -88.41031,46.597277,0.0 -88.409283,46.597848,0.0 -88.408852,46.598283,0.0 -88.408388,46.599289,0.0 -88.408455,46.599928,0.0 -88.408555,46.599997,0.0 -88.408687,46.600317,0.0 -88.408887,46.600545,0.0 -88.40955,46.600659,0.0 -88.410246,46.600728,0.0 -88.41081,46.600979,0.0 -88.411076,46.601322,0.0 -88.41111,46.602739,0.0 -88.410977,46.603082,0.0 -88.410911,46.60315,0.0 -88.410944,46.603516,0.0 -88.411077,46.603836,0.0 -88.411542,46.604224,0.0 -88.41194,46.604681,0.0 -88.411941,46.605824,0.0 -88.411808,46.606098,0.0 -88.411411,46.607104,0.0 -88.41098,46.607378,0.0 -88.410781,46.607447,0.0 -88.410649,46.60763,0.0 -88.410815,46.607675,0.0 -88.411743,46.607789,0.0 -88.414264,46.608451,0.0 -88.415591,46.608976,0.0 -88.416818,46.609365,0.0 -88.416984,46.609547,0.0 -88.41725,46.609547,0.0 -88.417847,46.60973,0.0 -88.420832,46.610209,0.0 -88.423784,46.611007,0.0 -88.424414,46.611258,0.0 -88.42541,46.611441,0.0 -88.425741,46.611372,0.0 -88.425973,46.611235,0.0 -88.426271,46.610801,0.0 -88.426535,46.609132,0.0 -88.426866,46.608972,0.0 -88.427099,46.608995,0.0 -88.427497,46.609246,0.0 -88.427796,46.609543,0.0 -88.428393,46.609794,0.0 -88.428758,46.609839,0.0 -88.429222,46.609794,0.0 -88.429487,46.609702,0.0 -88.43005,46.609336,0.0 -88.430349,46.609222,0.0 -88.43088,46.609336,0.0 -88.432339,46.609998,0.0 -88.433036,46.6105,0.0 -88.433269,46.610797,0.0 -88.433236,46.611049,0.0 -88.432905,46.611254,0.0 -88.43244,46.611232,0.0 -88.431511,46.610798,0.0 -88.43098,46.610707,0.0 -88.430218,46.610799,0.0 -88.430085,46.61089,0.0 -88.429919,46.611073,0.0 -88.42992,46.611462,0.0 -88.430219,46.611644,0.0 -88.431645,46.611666,0.0 -88.432308,46.611826,0.0 -88.432673,46.6121,0.0 -88.432873,46.612374,0.0 -88.432807,46.61274,0.0 -88.432641,46.613083,0.0 -88.432642,46.613654,0.0 -88.433173,46.61402,0.0 -88.433405,46.61402,0.0 -88.434599,46.613768,0.0 -88.43566,46.613538,0.0 -88.436091,46.613515,0.0 -88.437053,46.61372,0.0 -88.438015,46.613766,0.0 -88.43954,46.613422,0.0 -88.439971,46.613422,0.0 -88.440502,46.613673,0.0 -88.440834,46.614015,0.0 -88.441232,46.614107,0.0 -88.44183,46.614198,0.0 -88.443985,46.614082,0.0 -88.445743,46.614173,0.0 -88.446307,46.614332,0.0 -88.446672,46.614606,0.0 -88.44727,46.615451,0.0 -88.447835,46.615862,0.0 -88.448366,46.616113,0.0 -88.449095,46.616022,0.0 -88.44936,46.615839,0.0 -88.449526,46.615564,0.0 -88.449558,46.614673,0.0 -88.449226,46.614376,0.0 -88.449225,46.61417,0.0 -88.449524,46.614033,0.0 -88.450088,46.614032,0.0 -88.450652,46.614215,0.0 -88.452012,46.614397,0.0 -88.453969,46.61435,0.0 -88.454964,46.614692,0.0 -88.455462,46.615057,0.0 -88.455894,46.615628,0.0 -88.455928,46.615811,0.0 -88.456193,46.616199,0.0 -88.457323,46.617296,0.0 -88.457423,46.617524,0.0 -88.457622,46.617753,0.0 -88.457722,46.617981,0.0 -88.458353,46.618803,0.0 -88.458487,46.619123,0.0 -88.45872,46.619649,0.0 -88.458952,46.6199,0.0 -88.459881,46.620311,0.0 -88.460712,46.620881,0.0 -88.461243,46.621087,0.0 -88.463134,46.621291,0.0 -88.463233,46.621199,0.0 -88.463929,46.62097,0.0 -88.464327,46.620993,0.0 -88.464792,46.621427,0.0 -88.464793,46.621586,0.0 -88.464859,46.621655,0.0 -88.464793,46.621929,0.0 -88.464661,46.622158,0.0 -88.464164,46.62241,0.0 -88.463832,46.622502,0.0 -88.463634,46.622822,0.0 -88.463667,46.623142,0.0 -88.464199,46.623415,0.0 -88.464763,46.623598,0.0 -88.465095,46.623826,0.0 -88.465228,46.624032,0.0 -88.465495,46.624946,0.0 -88.465562,46.625128,0.0 -88.46616,46.625722,0.0 -88.46616,46.625814,0.0 -88.466459,46.626248,0.0 -88.466825,46.626521,0.0 -88.467157,46.626635,0.0 -88.467654,46.626589,0.0 -88.467919,46.626269,0.0 -88.468184,46.625926,0.0 -88.469079,46.625583,0.0 -88.470429,46.625168,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="95942">
+            <name>Confluence, Hinkey Creek / Sturgeon River</name>
+            <styleUrl>#95943</styleUrl>
+            <Point id="95941">
+                <coordinates>-88.410599,46.6077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95947">
+            <name>Weir/Dam</name>
+            <styleUrl>#95948</styleUrl>
+            <Point id="95946">
+                <coordinates>-88.433777,46.6143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95952">
+            <name>Take Out</name>
+            <styleUrl>#95953</styleUrl>
+            <Point id="95951">
+                <coordinates>-88.4705,46.6254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95957">
+            <name>Put In</name>
+            <styleUrl>#95958</styleUrl>
+            <Point id="95956">
+                <coordinates>-88.4118,46.5959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95962">
+            <name>Head of Gradient (II+)</name>
+            <styleUrl>#95963</styleUrl>
+            <Point id="95961">
+                <coordinates>-88.407417,46.609497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95967">
+            <name>Minor Rapids</name>
+            <styleUrl>#95968</styleUrl>
+            <Point id="95966">
+                <coordinates>-88.419296,46.6101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95972">
+            <name>Powerline Crossing</name>
+            <styleUrl>#95973</styleUrl>
+            <Point id="95971">
+                <coordinates>-88.426201,46.611198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95977">
+            <name>Head of gradient (II)</name>
+            <styleUrl>#95978</styleUrl>
+            <Point id="95976">
+                <coordinates>-88.442001,46.614391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95982">
+            <name>Old US Hwy.41</name>
+            <styleUrl>#95983</styleUrl>
+            <Point id="95981">
+                <coordinates>-88.452904,46.614399,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

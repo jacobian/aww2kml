@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="74203">
+        <Style id="74208">
+            <IconStyle id="74209">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74210">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74213">
+            <IconStyle id="74214">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74215">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74218">
+            <IconStyle id="74219">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74220">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74223">
+            <IconStyle id="74224">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74225">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74228">
+            <IconStyle id="74229">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74230">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74233">
+            <IconStyle id="74234">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74235">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Little Grassy Creek - Downstream of dam at Little Grassy Lake (0.2 mile)</name>
+        <Placemark id="74205">
+            <name>Little Grassy Creek - Downstream of dam at Little Grassy Lake (0.2 mile) (II-III+(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="74204">
+                <coordinates>-89.137695,37.647094,0.0 -89.137683,37.647103,0.0 -89.137485,37.647233,0.0 -89.13705,37.647534,0.0 -89.136821,37.647671,0.0 -89.136485,37.647793,0.0 -89.136379,37.647847,0.0 -89.136111,37.648057,0.0 -89.135836,37.648235,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="74207">
+            <name>Little Grassy Wave (II)</name>
+            <styleUrl>#74208</styleUrl>
+            <Point id="74206">
+                <coordinates>-89.137085,37.647575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74212">
+            <name>Little Grassy Lake Spillway (Drainage: ~15.5 sq.mi.) (V)</name>
+            <styleUrl>#74213</styleUrl>
+            <Point id="74211">
+                <coordinates>-89.138,37.646999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74217">
+            <name>Table Rock Hole (II+)</name>
+            <styleUrl>#74218</styleUrl>
+            <Point id="74216">
+                <coordinates>-89.135887,37.648202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74222">
+            <name>Parking Area</name>
+            <styleUrl>#74223</styleUrl>
+            <Point id="74221">
+                <coordinates>-89.137705,37.64669,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74227">
+            <name>Little Grassy Shoals (Boogie water) (II+)</name>
+            <styleUrl>#74228</styleUrl>
+            <Point id="74226">
+                <coordinates>-89.136204,37.647984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74232">
+            <name>Take out</name>
+            <styleUrl>#74233</styleUrl>
+            <Point id="74231">
+                <coordinates>-89.135918,37.648361,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

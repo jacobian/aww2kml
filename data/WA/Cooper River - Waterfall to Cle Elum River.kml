@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="16865">
+    <Document id="28613">
+        <Style id="28618">
+            <IconStyle id="28619">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28620">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="28623">
+            <IconStyle id="28624">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28625">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Cooper River - Waterfall to Cle Elum River</name>
-        <Placemark id="16867">
-            <name>Cooper River - Waterfall to Cle Elum River</name>
+        <Placemark id="28615">
+            <name>Cooper River - Waterfall to Cle Elum River (IV-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="16866">
+            <LineString id="28614">
                 <coordinates>-121.138012,47.419241,0.0 -121.137264,47.4191,0.0 -121.136712,47.418961,0.0 -121.136229,47.418818,0.0 -121.135401,47.4184,0.0 -121.135057,47.418165,0.0 -121.134851,47.417927,0.0 -121.134506,47.417508,0.0 -121.134023,47.417365,0.0 -121.132781,47.417367,0.0 -121.132229,47.417223,0.0 -121.131056,47.41652,0.0 -121.130505,47.416052,0.0 -121.130022,47.415774,0.0 -121.12954,47.415353,0.0 -121.129057,47.414931,0.0 -121.128712,47.414835,0.0 -121.128161,47.414601,0.0 -121.127402,47.41418,0.0 -121.126712,47.414038,0.0 -121.126204,47.413882,0.0 -121.126108,47.413852,0.0 -121.125625,47.41371,0.0 -121.125004,47.413524,0.0 -121.124548,47.413356,0.0 -121.124107,47.413194,0.0 -121.123555,47.41296,0.0 -121.12321,47.41282,0.0 -121.122657,47.412401,0.0 -121.122133,47.412331,0.0 -121.121967,47.412309,0.0 -121.120932,47.411932,0.0 -121.120172,47.41156,0.0 -121.119621,47.411559,0.0 -121.119069,47.411465,0.0 -121.118723,47.411324,0.0 -121.118172,47.41123,0.0 -121.117827,47.411138,0.0 -121.117413,47.411141,0.0 -121.116791,47.411045,0.0 -121.11617,47.41081,0.0 -121.114928,47.410578,0.0 -121.113824,47.410438,0.0 -121.113203,47.410298,0.0 -121.11203,47.410157,0.0 -121.111479,47.410062,0.0 -121.110996,47.409924,0.0 -121.11065,47.409828,0.0 -121.110304,47.409737,0.0 -121.109684,47.409551,0.0 -121.109132,47.409502,0.0 -121.108787,47.409411,0.0 -121.108304,47.409268,0.0 -121.107545,47.409174,0.0 -121.107024,47.408949,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="16869">
+        <Placemark id="28617">
             <name>Cooper Road Put In</name>
-            <Point id="16868">
+            <styleUrl>#28618</styleUrl>
+            <Point id="28616">
                 <coordinates>-121.138506,47.418485,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="16871">
+        <Placemark id="28622">
             <name>Salmon La Sac Trailhead Take Out</name>
-            <Point id="16870">
+            <styleUrl>#28623</styleUrl>
+            <Point id="28621">
                 <coordinates>-121.106815,47.409465,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="16873">
-            <name>Put in</name>
-            <Point id="16872">
-                <coordinates>-121.138,47.4193,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="16875">
-            <name>Take out</name>
-            <Point id="16874">
-                <coordinates>-121.107002,47.409,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

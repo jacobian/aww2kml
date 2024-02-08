@@ -1,138 +1,335 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="19213">
+    <Document id="32446">
+        <Style id="32451">
+            <IconStyle id="32452">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32453">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32456">
+            <IconStyle id="32457">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32458">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32461">
+            <IconStyle id="32462">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32463">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32466">
+            <IconStyle id="32467">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32468">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32471">
+            <IconStyle id="32472">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32473">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32476">
+            <IconStyle id="32477">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32478">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32481">
+            <IconStyle id="32482">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32483">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32486">
+            <IconStyle id="32487">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32488">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32491">
+            <IconStyle id="32492">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32493">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32496">
+            <IconStyle id="32497">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32498">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32501">
+            <IconStyle id="32502">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32503">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32506">
+            <IconStyle id="32507">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32508">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32511">
+            <IconStyle id="32512">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32513">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32516">
+            <IconStyle id="32517">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32518">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32521">
+            <IconStyle id="32522">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32523">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32526">
+            <IconStyle id="32527">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32528">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32531">
+            <IconStyle id="32532">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32533">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32536">
+            <IconStyle id="32537">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32538">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32541">
+            <IconStyle id="32542">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32543">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Underwood Creek - Krueger Park to Hoyt Park (0.5 - 3.5 miles)</name>
-        <Placemark id="19215">
-            <name>Underwood Creek - Krueger Park to Hoyt Park (0.5 - 3.5 miles)</name>
+        <Placemark id="32448">
+            <name>Underwood Creek - Krueger Park to Hoyt Park (0.5 - 3.5 miles) (II(III))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="19214">
+            <LineString id="32447">
                 <coordinates>-88.068503,43.031441,0.0 -88.068573,43.031624,0.0 -88.068574,43.03175,0.0 -88.068567,43.03175,0.0 -88.068594,43.034455,0.0 -88.068157,43.035324,0.0 -88.066659,43.036741,0.0 -88.066534,43.037107,0.0 -88.066253,43.037404,0.0 -88.065473,43.038479,0.0 -88.065473,43.038616,0.0 -88.065753,43.038845,0.0 -88.065753,43.039188,0.0 -88.065409,43.039531,0.0 -88.06516,43.039714,0.0 -88.064255,43.039942,0.0 -88.064068,43.040125,0.0 -88.063912,43.040354,0.0 -88.062883,43.040788,0.0 -88.062726,43.04097,0.0 -88.062758,43.041108,0.0 -88.062851,43.041268,0.0 -88.062882,43.041428,0.0 -88.061322,43.041999,0.0 -88.060885,43.042342,0.0 -88.060729,43.042502,0.0 -88.060199,43.042661,0.0 -88.059762,43.043141,0.0 -88.059107,43.043347,0.0 -88.058702,43.043324,0.0 -88.058421,43.043232,0.0 -88.058047,43.043278,0.0 -88.057641,43.043483,0.0 -88.056331,43.04394,0.0 -88.056082,43.044146,0.0 -88.055644,43.044671,0.0 -88.055333,43.044808,0.0 -88.05499,43.044785,0.0 -88.054023,43.044785,0.0 -88.053586,43.04499,0.0 -88.053336,43.045333,0.0 -88.050686,43.0454,0.0 -88.049874,43.045926,0.0 -88.049157,43.046177,0.0 -88.048595,43.046771,0.0 -88.048126,43.04764,0.0 -88.047969,43.048166,0.0 -88.047533,43.048394,0.0 -88.046971,43.048577,0.0 -88.046877,43.048645,0.0 -88.046658,43.04924,0.0 -88.046344,43.05155,0.0 -88.045717,43.053585,0.0 -88.045623,43.054042,0.0 -88.045716,43.054248,0.0 -88.046402,43.054546,0.0 -88.046402,43.054934,0.0 -88.046183,43.055346,0.0 -88.045558,43.056009,0.0 -88.04431,43.056968,0.0 -88.043061,43.057654,0.0 -88.041969,43.058042,0.0 -88.039848,43.058452,0.0 -88.037695,43.058633,0.0 -88.03492,43.058562,0.0 -88.034327,43.058722,0.0 -88.033421,43.059316,0.0 -88.0318,43.059292,0.0 -88.031613,43.059223,0.0 -88.031301,43.058971,0.0 -88.031239,43.058834,0.0 -88.031114,43.058605,0.0 -88.031052,43.058354,0.0 -88.030866,43.058102,0.0 -88.029308,43.056866,0.0 -88.028809,43.056659,0.0 -88.027874,43.056338,0.0 -88.026464,43.056192,0.0 -88.026463,43.056196,0.0 -88.025883,43.056134,0.0 -88.025467,43.056015,0.0 -88.025467,43.056015,0.0 -88.024296,43.05568,0.0 -88.02418,43.055627,0.0 -88.02418,43.055627,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="19217">
+        <Placemark id="32450">
             <name>Walled In Terrace</name>
-            <Point id="19216">
+            <styleUrl>#32451</styleUrl>
+            <Point id="32449">
                 <coordinates>-88.037003,43.058998,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19219">
+        <Placemark id="32455">
             <name>Sliding Chicane / Rooster Tail Wave (II+)</name>
-            <Point id="19218">
+            <styleUrl>#32456</styleUrl>
+            <Point id="32454">
                 <coordinates>-88.050003,43.046001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19221">
+        <Placemark id="32460">
             <name>Hwy.100/Mayfair Road</name>
-            <Point id="19220">
+            <styleUrl>#32461</styleUrl>
+            <Point id="32459">
                 <coordinates>-88.047,43.048,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19223">
+        <Placemark id="32465">
             <name>4th Hydraulic Jump, Railroad Jump (II)</name>
-            <Point id="19222">
+            <styleUrl>#32466</styleUrl>
+            <Point id="32464">
                 <coordinates>-88.045998,43.055,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19225">
+        <Placemark id="32470">
             <name>Hoyt Park; Drainage area: ~110 sq.mi.</name>
-            <Point id="19224">
+            <styleUrl>#32471</styleUrl>
+            <Point id="32469">
                 <coordinates>-88.026001,43.056,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19227">
+        <Placemark id="32475">
             <name>2nd Hydraulic Jump (Wake-up Jump), 27&quot; (II)</name>
-            <Point id="19226">
+            <styleUrl>#32476</styleUrl>
+            <Point id="32474">
                 <coordinates>-88.052002,43.044998,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19229">
+        <Placemark id="32480">
             <name>Confluence with Menomonee River</name>
-            <Point id="19228">
+            <styleUrl>#32481</styleUrl>
+            <Point id="32479">
                 <coordinates>-88.033401,43.0592,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19231">
+        <Placemark id="32485">
             <name>Hansen Park Golf cart bridge (II)</name>
-            <Point id="19230">
+            <styleUrl>#32486</styleUrl>
+            <Point id="32484">
                 <coordinates>-88.031898,43.059101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19233">
+        <Placemark id="32490">
             <name>Remediation Rips (II)</name>
-            <Point id="19232">
+            <styleUrl>#32491</styleUrl>
+            <Point id="32489">
                 <coordinates>-88.045998,43.056,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19235">
+        <Placemark id="32495">
             <name>1st Hydraulic Jump (Warm-up Jump), 12&quot; (II)</name>
-            <Point id="19234">
+            <styleUrl>#32496</styleUrl>
+            <Point id="32494">
                 <coordinates>-88.053001,43.043999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19237">
+        <Placemark id="32500">
             <name>3rd Hydraulic Jump (WPR Jump), 25&quot; (II)</name>
-            <Point id="19236">
+            <styleUrl>#32501</styleUrl>
+            <Point id="32499">
                 <coordinates>-88.050697,43.0453,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19239">
+        <Placemark id="32505">
             <name>115th Street Wave (I)</name>
-            <Point id="19238">
+            <styleUrl>#32506</styleUrl>
+            <Point id="32504">
                 <coordinates>-88.056396,43.043098,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19241">
+        <Placemark id="32510">
             <name>117th&amp;Parkway Road: Alternate Put-in</name>
-            <Point id="19240">
+            <styleUrl>#32511</styleUrl>
+            <Point id="32509">
                 <coordinates>-88.058998,43.042,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19243">
+        <Placemark id="32515">
             <name>Confluence Deer Creek/Underwood Creek: Drainage area: 16 sq.mi. (I)</name>
-            <Point id="19242">
+            <styleUrl>#32516</styleUrl>
+            <Point id="32514">
                 <coordinates>-88.067,43.037,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19245">
+        <Placemark id="32520">
             <name>Narrowing</name>
-            <Point id="19244">
+            <styleUrl>#32521</styleUrl>
+            <Point id="32519">
                 <coordinates>-88.042999,43.057999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19247">
+        <Placemark id="32525">
             <name>Take Out</name>
-            <Point id="19246">
+            <styleUrl>#32526</styleUrl>
+            <Point id="32524">
                 <coordinates>-88.026,43.056,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19249">
+        <Placemark id="32530">
             <name>End of remediation area</name>
-            <Point id="19248">
+            <styleUrl>#32531</styleUrl>
+            <Point id="32529">
                 <coordinates>-88.033997,43.058998,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19251">
-            <name>Alternate put-in: Community Lot at 12600 W.Bluemound Road</name>
-            <Point id="19250">
-                <coordinates>-88.06713,43.036296,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19253">
+        <Placemark id="32535">
             <name>Actual Put-in</name>
-            <Point id="19252">
+            <styleUrl>#32536</styleUrl>
+            <Point id="32534">
                 <coordinates>-88.0685,43.0314,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19255">
-            <name>Put in</name>
-            <Point id="19254">
-                <coordinates>-88.068503,43.031441,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19257">
-            <name>Take out</name>
-            <Point id="19256">
-                <coordinates>-88.02418,43.055627,0.0</coordinates>
+        <Placemark id="32540">
+            <name>Alternate put-in: Community Lot at 12600 W.Bluemound Road</name>
+            <styleUrl>#32541</styleUrl>
+            <Point id="32539">
+                <coordinates>-88.06713,43.036296,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

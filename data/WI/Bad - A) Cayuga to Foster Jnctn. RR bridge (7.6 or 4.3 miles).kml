@@ -1,150 +1,369 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="25201">
+    <Document id="42272">
+        <Style id="42277">
+            <IconStyle id="42278">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42279">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42282">
+            <IconStyle id="42283">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42284">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42287">
+            <IconStyle id="42288">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42289">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42292">
+            <IconStyle id="42293">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42294">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42297">
+            <IconStyle id="42298">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42299">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42302">
+            <IconStyle id="42303">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42304">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42307">
+            <IconStyle id="42308">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42309">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42312">
+            <IconStyle id="42313">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42314">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42317">
+            <IconStyle id="42318">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42319">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42322">
+            <IconStyle id="42323">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42324">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42327">
+            <IconStyle id="42328">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42329">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42332">
+            <IconStyle id="42333">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42334">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42337">
+            <IconStyle id="42338">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42339">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42342">
+            <IconStyle id="42343">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42344">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42347">
+            <IconStyle id="42348">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42349">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42352">
+            <IconStyle id="42353">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42354">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42357">
+            <IconStyle id="42358">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42359">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42362">
+            <IconStyle id="42363">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42364">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42367">
+            <IconStyle id="42368">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42369">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42372">
+            <IconStyle id="42373">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42374">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42377">
+            <IconStyle id="42378">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42379">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Bad - A) Cayuga to Foster Jnctn. RR bridge (7.6 or 4.3 miles)</name>
-        <Placemark id="25203">
-            <name>Bad - A) Cayuga to Foster Jnctn. RR bridge (7.6 or 4.3 miles)</name>
+        <Placemark id="42274">
+            <name>Bad - A) Cayuga to Foster Jnctn. RR bridge (7.6 or 4.3 miles) (II-III(IV))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="25202">
+            <LineString id="42273">
                 <coordinates>-90.684204,46.243885,0.0 -90.684253,46.244224,0.0 -90.684352,46.24443,0.0 -90.684484,46.24475,0.0 -90.684748,46.245138,0.0 -90.685901,46.246074,0.0 -90.686099,46.246394,0.0 -90.686198,46.246623,0.0 -90.686034,46.246965,0.0 -90.685475,46.247468,0.0 -90.685343,46.24772,0.0 -90.685245,46.248131,0.0 -90.685476,46.249068,0.0 -90.685641,46.249274,0.0 -90.685773,46.249639,0.0 -90.685938,46.249799,0.0 -90.685905,46.249959,0.0 -90.68606,46.250151,0.0 -90.686258,46.250539,0.0 -90.686522,46.250927,0.0 -90.687412,46.251909,0.0 -90.687709,46.252229,0.0 -90.687841,46.252343,0.0 -90.688072,46.252549,0.0 -90.688501,46.253325,0.0 -90.688468,46.253714,0.0 -90.688271,46.253897,0.0 -90.687283,46.254332,0.0 -90.686657,46.254492,0.0 -90.686394,46.254721,0.0 -90.686263,46.255063,0.0 -90.686264,46.255863,0.0 -90.686396,46.256274,0.0 -90.68722,46.257165,0.0 -90.688177,46.257987,0.0 -90.688704,46.258193,0.0 -90.689298,46.258695,0.0 -90.689265,46.258969,0.0 -90.688705,46.259152,0.0 -90.688178,46.259313,0.0 -90.688113,46.259473,0.0 -90.688146,46.259793,0.0 -90.688311,46.260021,0.0 -90.688311,46.260318,0.0 -90.688641,46.26066,0.0 -90.688906,46.261551,0.0 -90.689071,46.261848,0.0 -90.689532,46.262145,0.0 -90.690323,46.262008,0.0 -90.690751,46.261847,0.0 -90.691178,46.261185,0.0 -90.691804,46.260864,0.0 -90.692167,46.260887,0.0 -90.692562,46.261092,0.0 -90.692694,46.261412,0.0 -90.692728,46.261686,0.0 -90.692958,46.261846,0.0 -90.693354,46.261915,0.0 -90.693816,46.262371,0.0 -90.694145,46.262485,0.0 -90.695068,46.262371,0.0 -90.695792,46.262073,0.0 -90.696022,46.261982,0.0 -90.696484,46.261981,0.0 -90.697011,46.262164,0.0 -90.697308,46.262552,0.0 -90.697341,46.262735,0.0 -90.697572,46.26294,0.0 -90.697572,46.263123,0.0 -90.697803,46.263374,0.0 -90.698298,46.263763,0.0 -90.698398,46.264471,0.0 -90.698629,46.264631,0.0 -90.69965,46.264561,0.0 -90.700078,46.264744,0.0 -90.700376,46.265109,0.0 -90.700343,46.265589,0.0 -90.700179,46.266023,0.0 -90.700181,46.267509,0.0 -90.70005,46.267783,0.0 -90.699984,46.268217,0.0 -90.700116,46.2684,0.0 -90.700808,46.268445,0.0 -90.701402,46.268628,0.0 -90.701698,46.268536,0.0 -90.701796,46.268033,0.0 -90.701994,46.267896,0.0 -90.702291,46.267987,0.0 -90.702917,46.268467,0.0 -90.703741,46.268375,0.0 -90.704005,46.268489,0.0 -90.703939,46.26874,0.0 -90.703544,46.269106,0.0 -90.70361,46.269335,0.0 -90.703907,46.269517,0.0 -90.704369,46.269677,0.0 -90.704764,46.269585,0.0 -90.705159,46.269425,0.0 -90.705258,46.269288,0.0 -90.705555,46.26931,0.0 -90.706577,46.269904,0.0 -90.706774,46.269904,0.0 -90.706808,46.270041,0.0 -90.707104,46.270315,0.0 -90.708094,46.271,0.0 -90.708951,46.271319,0.0 -90.709973,46.271341,0.0 -90.710829,46.271272,0.0 -90.711324,46.271134,0.0 -90.711851,46.27118,0.0 -90.7135,46.271932,0.0 -90.714093,46.272138,0.0 -90.714291,46.272275,0.0 -90.714226,46.272549,0.0 -90.713896,46.2728,0.0 -90.713271,46.273029,0.0 -90.712217,46.273213,0.0 -90.711953,46.273373,0.0 -90.711625,46.274059,0.0 -90.710802,46.274631,0.0 -90.709353,46.275226,0.0 -90.708069,46.276027,0.0 -90.707707,46.276415,0.0 -90.70728,46.277147,0.0 -90.706588,46.277856,0.0 -90.706128,46.278176,0.0 -90.705337,46.278177,0.0 -90.704611,46.278086,0.0 -90.703986,46.278178,0.0 -90.70313,46.278795,0.0 -90.702801,46.279389,0.0 -90.703065,46.279618,0.0 -90.703625,46.279549,0.0 -90.704185,46.279389,0.0 -90.704613,46.279411,0.0 -90.705108,46.279594,0.0 -90.705372,46.279959,0.0 -90.705374,46.280919,0.0 -90.704914,46.282404,0.0 -90.704553,46.283022,0.0 -90.703927,46.283639,0.0 -90.703928,46.283959,0.0 -90.704159,46.284279,0.0 -90.704259,46.284964,0.0 -90.705117,46.285946,0.0 -90.705546,46.286243,0.0 -90.70581,46.286174,0.0 -90.705809,46.285786,0.0 -90.705644,46.285397,0.0 -90.705709,46.284963,0.0 -90.705972,46.284711,0.0 -90.70617,46.284666,0.0 -90.706566,46.284688,0.0 -90.70683,46.284757,0.0 -90.706995,46.285419,0.0 -90.707226,46.285579,0.0 -90.707194,46.28615,0.0 -90.706042,46.287111,0.0 -90.705515,46.287797,0.0 -90.705549,46.288345,0.0 -90.705912,46.288665,0.0 -90.707,46.288824,0.0 -90.707198,46.289029,0.0 -90.70743,46.289372,0.0 -90.70743,46.289578,0.0 -90.707431,46.290309,0.0 -90.707497,46.29072,0.0 -90.70763,46.290949,0.0 -90.707597,46.291063,0.0 -90.707729,46.291131,0.0 -90.707828,46.291474,0.0 -90.707894,46.29152,0.0 -90.708027,46.291908,0.0 -90.707665,46.292617,0.0 -90.7078,46.294376,0.0 -90.707833,46.294559,0.0 -90.707734,46.294856,0.0 -90.707504,46.294879,0.0 -90.7049,46.294949,0.0 -90.704603,46.295064,0.0 -90.704636,46.295292,0.0 -90.70655,46.296753,0.0 -90.707112,46.297507,0.0 -90.707508,46.297918,0.0 -90.707872,46.298512,0.0 -90.708103,46.29922,0.0 -90.708072,46.300317,0.0 -90.708007,46.30082,0.0 -90.708042,46.301917,0.0 -90.708141,46.302396,0.0 -90.708306,46.302648,0.0 -90.708999,46.303013,0.0 -90.709,46.303424,0.0 -90.70877,46.303881,0.0 -90.70877,46.304064,0.0 -90.708968,46.304293,0.0 -90.709463,46.304475,0.0 -90.710453,46.304748,0.0 -90.710651,46.304885,0.0 -90.710948,46.305228,0.0 -90.711014,46.305388,0.0 -90.711048,46.306188,0.0 -90.710424,46.307491,0.0 -90.710392,46.308405,0.0 -90.710261,46.308496,0.0 -90.708911,46.309982,0.0 -90.708516,46.310257,0.0 -90.708087,46.310394,0.0 -90.707906,46.310386,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="25205">
+        <Placemark id="42276">
             <name>Rocket Railroad A (III+)</name>
-            <Point id="25204">
+            <styleUrl>#42277</styleUrl>
+            <Point id="42275">
                 <coordinates>-90.706062,46.278069,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25207">
+        <Placemark id="42281">
             <name>Warm-up Rapids (II+)</name>
-            <Point id="25206">
+            <styleUrl>#42282</styleUrl>
+            <Point id="42280">
                 <coordinates>-90.687897,46.251999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25209">
+        <Placemark id="42286">
             <name>Rocket Railroad B (III+)</name>
-            <Point id="25208">
+            <styleUrl>#42287</styleUrl>
+            <Point id="42285">
                 <coordinates>-90.705673,46.278042,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25211">
+        <Placemark id="42291">
             <name>Rocket Railroad Intro (III)</name>
-            <Point id="25210">
+            <styleUrl>#42292</styleUrl>
+            <Point id="42290">
                 <coordinates>-90.706665,46.277557,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25213">
+        <Placemark id="42296">
             <name>Left Tongue Drop (III)</name>
-            <Point id="25212">
+            <styleUrl>#42297</styleUrl>
+            <Point id="42295">
                 <coordinates>-90.692596,46.261299,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25215">
+        <Placemark id="42301">
             <name>Right Tongue Drop (III)</name>
-            <Point id="25214">
+            <styleUrl>#42302</styleUrl>
+            <Point id="42300">
                 <coordinates>-90.690941,46.261833,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25217">
+        <Placemark id="42306">
             <name>Cool-down Rapids (III)</name>
-            <Point id="25216">
+            <styleUrl>#42307</styleUrl>
+            <Point id="42305">
                 <coordinates>-90.7089,46.303398,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25219">
+        <Placemark id="42311">
             <name>Third RR Bridge</name>
-            <Point id="25218">
+            <styleUrl>#42312</styleUrl>
+            <Point id="42310">
                 <coordinates>-90.712463,46.27314,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25221">
+        <Placemark id="42316">
             <name>Fifth RR Bridge</name>
-            <Point id="25220">
+            <styleUrl>#42317</styleUrl>
+            <Point id="42315">
                 <coordinates>-90.706787,46.294971,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25223">
+        <Placemark id="42321">
             <name>Sixth RR Bridge</name>
-            <Point id="25222">
+            <styleUrl>#42322</styleUrl>
+            <Point id="42320">
                 <coordinates>-90.70591,46.296249,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25225">
+        <Placemark id="42326">
             <name>Take Out</name>
-            <Point id="25224">
+            <styleUrl>#42327</styleUrl>
+            <Point id="42325">
                 <coordinates>-90.707901,46.310501,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25227">
+        <Placemark id="42331">
             <name>Second RR Bridge</name>
-            <Point id="25226">
+            <styleUrl>#42332</styleUrl>
+            <Point id="42330">
                 <coordinates>-90.711548,46.271229,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25229">
+        <Placemark id="42336">
             <name>Fourth RR Bridge</name>
-            <Point id="25228">
+            <styleUrl>#42337</styleUrl>
+            <Point id="42335">
                 <coordinates>-90.707001,46.2771,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25231">
+        <Placemark id="42341">
             <name>Rocky Prominence</name>
-            <Point id="25230">
+            <styleUrl>#42342</styleUrl>
+            <Point id="42340">
                 <coordinates>-90.707314,46.290169,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25233">
+        <Placemark id="42346">
             <name>Put In</name>
-            <Point id="25232">
+            <styleUrl>#42347</styleUrl>
+            <Point id="42345">
                 <coordinates>-90.684097,46.2439,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25235">
+        <Placemark id="42351">
             <name>Quarter-Mile Rips</name>
-            <Point id="25234">
+            <styleUrl>#42352</styleUrl>
+            <Point id="42350">
                 <coordinates>-90.630486,46.227001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25237">
+        <Placemark id="42356">
             <name>First RR Bridge</name>
-            <Point id="25236">
+            <styleUrl>#42357</styleUrl>
+            <Point id="42355">
                 <coordinates>-90.687706,46.254223,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25239">
+        <Placemark id="42361">
             <name>Take-out Parking</name>
-            <Point id="25238">
+            <styleUrl>#42362</styleUrl>
+            <Point id="42360">
                 <coordinates>-90.70594,46.31266,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25241">
+        <Placemark id="42366">
             <name>USGS sampling site: 31 sq.mi.</name>
-            <Point id="25240">
+            <styleUrl>#42367</styleUrl>
+            <Point id="42365">
                 <coordinates>-90.625999,46.223999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25243">
+        <Placemark id="42371">
             <name>Conley Road: 82 sq.mi.</name>
-            <Point id="25242">
+            <styleUrl>#42372</styleUrl>
+            <Point id="42370">
                 <coordinates>-90.707001,46.27,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25245">
+        <Placemark id="42376">
             <name>Seventh RR Bridge: 95 sq.mi.</name>
-            <Point id="25244">
+            <styleUrl>#42377</styleUrl>
+            <Point id="42375">
                 <coordinates>-90.708,46.310001,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25247">
-            <name>Put in</name>
-            <Point id="25246">
-                <coordinates>-90.684097,46.2439,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25249">
-            <name>Take out</name>
-            <Point id="25248">
-                <coordinates>-90.707901,46.310501,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

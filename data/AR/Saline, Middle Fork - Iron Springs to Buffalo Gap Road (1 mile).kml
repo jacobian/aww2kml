@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="113902">
+        <Style id="113907">
+            <IconStyle id="113908">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="113909">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="113912">
+            <IconStyle id="113913">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="113914">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Saline, Middle Fork - Iron Springs to Buffalo Gap Road (1 mile)</name>
+        <Placemark id="113904">
+            <name>Saline, Middle Fork - Iron Springs to Buffalo Gap Road (1 mile) (II(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="113903">
+                <coordinates>-93.072336,34.761608,0.0 -93.071625,34.76159,0.0 -93.070868,34.761785,0.0 -93.070509,34.761955,0.0 -93.070113,34.761945,0.0 -93.069894,34.761904,0.0 -93.068997,34.761166,0.0 -93.069006,34.760916,0.0 -93.069237,34.760636,0.0 -93.069248,34.76035,0.0 -93.069134,34.759882,0.0 -93.069051,34.759736,0.0 -93.06862,34.759475,0.0 -93.068451,34.759292,0.0 -93.067912,34.758384,0.0 -93.067916,34.758277,0.0 -93.067625,34.75784,0.0 -93.067505,34.757515,0.0 -93.067318,34.756616,0.0 -93.067298,34.756008,0.0 -93.067214,34.755898,0.0 -93.067274,34.75547,0.0 -93.067461,34.755189,0.0 -93.067476,34.754796,0.0 -93.067443,34.754509,0.0 -93.067163,34.75375,0.0 -93.06675,34.753024,0.0 -93.06573,34.752033,0.0 -93.065484,34.751561,0.0 -93.065337,34.750771,0.0 -93.06521,34.750597,0.0 -93.065044,34.75037,0.0 -93.065025,34.750297,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="113906">
+            <name>Take Out</name>
+            <styleUrl>#113907</styleUrl>
+            <Point id="113905">
+                <coordinates>-93.065063,34.750286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113911">
+            <name>Put In</name>
+            <styleUrl>#113912</styleUrl>
+            <Point id="113910">
+                <coordinates>-93.072342,34.761375,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

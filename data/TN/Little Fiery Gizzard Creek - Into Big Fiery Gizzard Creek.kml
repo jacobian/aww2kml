@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="64301">
+        <Style id="64306">
+            <IconStyle id="64307">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64308">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64311">
+            <IconStyle id="64312">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64313">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Little Fiery Gizzard Creek - Into Big Fiery Gizzard Creek</name>
+        <Placemark id="64303">
+            <name>Little Fiery Gizzard Creek - Into Big Fiery Gizzard Creek (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="64302">
+                <coordinates>-85.743153,35.252371,0.0 -85.743216,35.252347,0.0 -85.743349,35.252331,0.0 -85.743618,35.252385,0.0 -85.743825,35.252567,0.0 -85.743879,35.252704,0.0 -85.743946,35.252836,0.0 -85.744,35.253028,0.0 -85.744067,35.253089,0.0 -85.744188,35.253127,0.0 -85.744389,35.253105,0.0 -85.744549,35.253017,0.0 -85.744703,35.252858,0.0 -85.745018,35.252654,0.0 -85.745634,35.252429,0.0 -85.746063,35.252329,0.0 -85.746411,35.25217,0.0 -85.746525,35.252065,0.0 -85.746552,35.251812,0.0 -85.746525,35.251626,0.0 -85.746458,35.251356,0.0 -85.746464,35.251104,0.0 -85.746571,35.250818,0.0 -85.746805,35.250537,0.0 -85.74714,35.25029,0.0 -85.747408,35.250191,0.0 -85.747763,35.250163,0.0 -85.747911,35.250202,0.0 -85.747964,35.25024,0.0 -85.748112,35.250256,0.0 -85.748514,35.250569,0.0 -85.748668,35.250729,0.0 -85.748896,35.251075,0.0 -85.749097,35.251267,0.0 -85.749419,35.25141,0.0 -85.749586,35.251388,0.0 -85.74974,35.251311,0.0 -85.749971,35.251098,0.0 -85.750306,35.250842,0.0 -85.750548,35.250578,0.0 -85.750815,35.250078,0.0 -85.750867,35.249982,0.0 -85.750853,35.249955,0.0 -85.751021,35.24979,0.0 -85.75151,35.249548,0.0 -85.751792,35.249521,0.0 -85.752113,35.24956,0.0 -85.752669,35.249736,0.0 -85.753098,35.249896,0.0 -85.75354,35.249962,0.0 -85.753915,35.249945,0.0 -85.754069,35.249863,0.0 -85.754115,35.249816,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="64305">
+            <name>Take Out</name>
+            <styleUrl>#64306</styleUrl>
+            <Point id="64304">
+                <coordinates>-85.754204,35.249901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64310">
+            <name>Put In</name>
+            <styleUrl>#64311</styleUrl>
+            <Point id="64309">
+                <coordinates>-85.743202,35.252499,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

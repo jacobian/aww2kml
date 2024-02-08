@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="67373">
+        <Style id="67378">
+            <IconStyle id="67379">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="67380">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="67383">
+            <IconStyle id="67384">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="67385">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Spring Creek - Bellefonte to Milesburg</name>
+        <Placemark id="67375">
+            <name>Spring Creek - Bellefonte to Milesburg (I)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="67374">
+                <coordinates>-77.786406,40.918184,0.0 -77.786519,40.918549,0.0 -77.786584,40.919614,0.0 -77.786504,40.919762,0.0 -77.78646,40.919987,0.0 -77.78646,40.920141,0.0 -77.786475,40.920223,0.0 -77.786518,40.920333,0.0 -77.786533,40.920498,0.0 -77.786496,40.920591,0.0 -77.786453,40.920788,0.0 -77.78646,40.920865,0.0 -77.786511,40.920975,0.0 -77.786257,40.921579,0.0 -77.785997,40.921793,0.0 -77.785722,40.921985,0.0 -77.785215,40.922522,0.0 -77.783941,40.923686,0.0 -77.783319,40.924218,0.0 -77.782313,40.925052,0.0 -77.781734,40.925584,0.0 -77.781604,40.925617,0.0 -77.781495,40.925705,0.0 -77.781387,40.925814,0.0 -77.781379,40.925902,0.0 -77.781075,40.926204,0.0 -77.780901,40.926522,0.0 -77.78072,40.926901,0.0 -77.780568,40.927312,0.0 -77.780749,40.927685,0.0 -77.782514,40.928926,0.0 -77.78318,40.929415,0.0 -77.783838,40.929854,0.0 -77.784728,40.93043,0.0 -77.785263,40.930842,0.0 -77.785371,40.930946,0.0 -77.786117,40.931731,0.0 -77.7871,40.932456,0.0 -77.787542,40.932807,0.0 -77.788764,40.934344,0.0 -77.789241,40.935381,0.0 -77.789386,40.936182,0.0 -77.789393,40.936715,0.0 -77.789321,40.937208,0.0 -77.788937,40.938125,0.0 -77.788466,40.939014,0.0 -77.788249,40.939365,0.0 -77.787988,40.939573,0.0 -77.787937,40.940408,0.0 -77.787865,40.940808,0.0 -77.787619,40.941247,0.0 -77.787532,40.941549,0.0 -77.787481,40.942449,0.0 -77.787401,40.942844,0.0 -77.7873,40.943003,0.0 -77.78704,40.9431,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="67377">
+            <name>McWave (I)</name>
+            <styleUrl>#67378</styleUrl>
+            <Point id="67376">
+                <coordinates>-77.785004,40.931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67382">
+            <name>Put in</name>
+            <styleUrl>#67383</styleUrl>
+            <Point id="67381">
+                <coordinates>-77.787003,40.917999,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

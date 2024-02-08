@@ -1,66 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="6947">
+    <Document id="11721">
+        <Style id="11726">
+            <IconStyle id="11727">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11728">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11731">
+            <IconStyle id="11732">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11733">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11736">
+            <IconStyle id="11737">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11738">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11741">
+            <IconStyle id="11742">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11743">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11746">
+            <IconStyle id="11747">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11748">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11751">
+            <IconStyle id="11752">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11753">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="11756">
+            <IconStyle id="11757">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11758">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Chippewa - C) Lake Wissota Spillway (PnP)</name>
-        <Placemark id="6949">
-            <name>Chippewa - C) Lake Wissota Spillway (PnP)</name>
+        <Placemark id="11723">
+            <name>Chippewa - C) Lake Wissota Spillway (PnP) (II-III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="6948">
+            <LineString id="11722">
                 <coordinates>-91.34144,44.944108,0.0 -91.342526,44.943786,0.0 -91.344194,44.943034,0.0 -91.344613,44.94239,0.0 -91.34439,44.941738,0.0 -91.34569,44.940718,0.0 -91.34755,44.940752,0.0 -91.351138,44.942564,0.0 -91.352972,44.943233,0.0 -91.354461,44.944184,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="6951">
+        <Placemark id="11725">
             <name>&quot;NOCC&quot; (Narrow Overflow Connecting Channel)</name>
-            <Point id="6950">
+            <styleUrl>#11726</styleUrl>
+            <Point id="11724">
                 <coordinates>-91.3426,44.941,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6953">
+        <Placemark id="11730">
             <name>&quot;ROC&quot; (Rejoined Overflow Channel)</name>
-            <Point id="6952">
+            <styleUrl>#11731</styleUrl>
+            <Point id="11729">
                 <coordinates>-91.345,44.9414,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6955">
+        <Placemark id="11735">
             <name>&quot;FOC&quot; (First Overflow Channel)</name>
-            <Point id="6954">
+            <styleUrl>#11736</styleUrl>
+            <Point id="11734">
                 <coordinates>-91.3433,44.9434,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6957">
+        <Placemark id="11740">
             <name>Take Out</name>
-            <Point id="6956">
+            <styleUrl>#11741</styleUrl>
+            <Point id="11739">
                 <coordinates>-91.3544,44.9442,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6959">
+        <Placemark id="11745">
             <name>Put In</name>
-            <Point id="6958">
+            <styleUrl>#11746</styleUrl>
+            <Point id="11744">
                 <coordinates>-91.3405,44.9442,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6961">
+        <Placemark id="11750">
             <name>Main Channel</name>
-            <Point id="6960">
+            <styleUrl>#11751</styleUrl>
+            <Point id="11749">
                 <coordinates>-91.347,44.9405,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6963">
+        <Placemark id="11755">
             <name>&quot;SOC&quot; (Second Overflow Channel)</name>
-            <Point id="6962">
+            <styleUrl>#11756</styleUrl>
+            <Point id="11754">
                 <coordinates>-91.3414,44.9425,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="6965">
-            <name>Put in</name>
-            <Point id="6964">
-                <coordinates>-91.34144,44.944108,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="6967">
-            <name>Take out</name>
-            <Point id="6966">
-                <coordinates>-91.354461,44.944184,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

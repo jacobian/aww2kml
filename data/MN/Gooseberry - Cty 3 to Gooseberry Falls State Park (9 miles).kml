@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="97863">
+        <Style id="97868">
+            <IconStyle id="97869">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97870">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97873">
+            <IconStyle id="97874">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97875">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97878">
+            <IconStyle id="97879">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97880">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97883">
+            <IconStyle id="97884">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97885">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97888">
+            <IconStyle id="97889">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97890">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97893">
+            <IconStyle id="97894">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97895">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97898">
+            <IconStyle id="97899">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97900">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97903">
+            <IconStyle id="97904">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97905">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97908">
+            <IconStyle id="97909">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97910">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97913">
+            <IconStyle id="97914">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97915">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97918">
+            <IconStyle id="97919">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97920">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97923">
+            <IconStyle id="97924">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97925">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97928">
+            <IconStyle id="97929">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97930">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Gooseberry - Cty 3 to Gooseberry Falls State Park (9 miles)</name>
+        <Placemark id="97865">
+            <name>Gooseberry - Cty 3 to Gooseberry Falls State Park (9 miles) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="97864">
+                <coordinates>-91.574606,47.177611,0.0 -91.574262,47.17734,0.0 -91.574128,47.176929,0.0 -91.573927,47.176723,0.0 -91.573693,47.176631,0.0 -91.573526,47.176129,0.0 -91.573695,47.175123,0.0 -91.57346,47.17478,0.0 -91.57212,47.174665,0.0 -91.571383,47.174368,0.0 -91.570646,47.17423,0.0 -91.567999,47.173178,0.0 -91.567262,47.173246,0.0 -91.566424,47.173565,0.0 -91.565385,47.173519,0.0 -91.564849,47.173404,0.0 -91.564481,47.172993,0.0 -91.563543,47.172604,0.0 -91.561767,47.172809,0.0 -91.560493,47.172602,0.0 -91.559522,47.172373,0.0 -91.558483,47.172418,0.0 -91.558047,47.172212,0.0 -91.55778,47.171915,0.0 -91.556037,47.171914,0.0 -91.553793,47.17125,0.0 -91.552353,47.170632,0.0 -91.551281,47.170014,0.0 -91.551114,47.169831,0.0 -91.551315,47.169671,0.0 -91.55289,47.169558,0.0 -91.55336,47.169215,0.0 -91.553227,47.168873,0.0 -91.552624,47.168392,0.0 -91.552189,47.168186,0.0 -91.552021,47.168163,0.0 -91.551182,47.169077,0.0 -91.550713,47.169168,0.0 -91.549607,47.169236,0.0 -91.547763,47.170034,0.0 -91.54726,47.16992,0.0 -91.547227,47.169668,0.0 -91.547496,47.169051,0.0 -91.547396,47.168549,0.0 -91.547028,47.168297,0.0 -91.546258,47.168045,0.0 -91.545856,47.167702,0.0 -91.545857,47.167222,0.0 -91.546193,47.166857,0.0 -91.546595,47.166697,0.0 -91.547869,47.166538,0.0 -91.548372,47.166218,0.0 -91.548406,47.16583,0.0 -91.548038,47.16551,0.0 -91.54777,47.165418,0.0 -91.546866,47.164686,0.0 -91.546632,47.164206,0.0 -91.5466,47.163818,0.0 -91.547069,47.163452,0.0 -91.547171,47.162858,0.0 -91.547506,47.162493,0.0 -91.54754,47.16215,0.0 -91.547139,47.161921,0.0 -91.546335,47.161647,0.0 -91.545196,47.161303,0.0 -91.544225,47.161005,0.0 -91.543588,47.161119,0.0 -91.543119,47.161598,0.0 -91.54275,47.161827,0.0 -91.542213,47.162146,0.0 -91.541878,47.162146,0.0 -91.541242,47.161917,0.0 -91.540505,47.161871,0.0 -91.539902,47.161642,0.0 -91.539869,47.161345,0.0 -91.540171,47.160819,0.0 -91.540207,47.159814,0.0 -91.539805,47.159402,0.0 -91.537997,47.158852,0.0 -91.536959,47.1586,0.0 -91.536758,47.158303,0.0 -91.53666,47.157206,0.0 -91.536526,47.156954,0.0 -91.535522,47.156314,0.0 -91.534018,47.154416,0.0 -91.533416,47.153798,0.0 -91.533249,47.153592,0.0 -91.532311,47.153523,0.0 -91.531541,47.1535,0.0 -91.530637,47.153133,0.0 -91.530504,47.152745,0.0 -91.531108,47.152037,0.0 -91.530974,47.151694,0.0 -91.53064,47.151648,0.0 -91.52997,47.151739,0.0 -91.529568,47.151533,0.0 -91.529133,47.151052,0.0 -91.52853,47.151097,0.0 -91.526855,47.151302,0.0 -91.525782,47.151689,0.0 -91.525346,47.15194,0.0 -91.524476,47.151734,0.0 -91.523739,47.151504,0.0 -91.521998,47.15132,0.0 -91.521429,47.151091,0.0 -91.520458,47.150427,0.0 -91.519789,47.150015,0.0 -91.51892,47.149146,0.0 -91.518485,47.149009,0.0 -91.51825,47.149031,0.0 -91.517546,47.149693,0.0 -91.516775,47.149921,0.0 -91.515334,47.150057,0.0 -91.514096,47.14953,0.0 -91.513325,47.149483,0.0 -91.512689,47.149643,0.0 -91.512219,47.149985,0.0 -91.511614,47.150944,0.0 -91.510876,47.151195,0.0 -91.510206,47.151491,0.0 -91.50997,47.151811,0.0 -91.509869,47.152382,0.0 -91.509701,47.152542,0.0 -91.509131,47.152724,0.0 -91.508795,47.153089,0.0 -91.508627,47.153386,0.0 -91.507856,47.153637,0.0 -91.507487,47.153614,0.0 -91.50722,47.15343,0.0 -91.506987,47.152813,0.0 -91.506853,47.152493,0.0 -91.506084,47.152195,0.0 -91.506051,47.151967,0.0 -91.506453,47.151602,0.0 -91.50632,47.151236,0.0 -91.505852,47.150984,0.0 -91.505216,47.150892,0.0 -91.504846,47.151463,0.0 -91.504075,47.151805,0.0 -91.503706,47.152033,0.0 -91.503136,47.152032,0.0 -91.502768,47.151803,0.0 -91.502468,47.151209,0.0 -91.501932,47.151162,0.0 -91.50039,47.151709,0.0 -91.500189,47.151761,0.0 -91.499452,47.152128,0.0 -91.498883,47.152357,0.0 -91.498414,47.152106,0.0 -91.497777,47.151924,0.0 -91.496572,47.152359,0.0 -91.495835,47.152383,0.0 -91.494731,47.152818,0.0 -91.493759,47.152887,0.0 -91.492587,47.152843,0.0 -91.492151,47.153003,0.0 -91.491584,47.154032,0.0 -91.490212,47.154696,0.0 -91.487765,47.153922,0.0 -91.486156,47.153603,0.0 -91.485184,47.153261,0.0 -91.485049,47.152804,0.0 -91.485149,47.152256,0.0 -91.485047,47.151867,0.0 -91.484611,47.151662,0.0 -91.483707,47.151572,0.0 -91.482802,47.151184,0.0 -91.482331,47.150476,0.0 -91.481895,47.149882,0.0 -91.481425,47.149745,0.0 -91.479617,47.149953,0.0 -91.47831,47.14984,0.0 -91.477673,47.149452,0.0 -91.477505,47.149109,0.0 -91.477303,47.148446,0.0 -91.476968,47.148378,0.0 -91.475259,47.148265,0.0 -91.474924,47.14806,0.0 -91.474722,47.147626,0.0 -91.474955,47.146552,0.0 -91.475121,47.145637,0.0 -91.474819,47.145386,0.0 -91.474316,47.145135,0.0 -91.473846,47.144382,0.0 -91.473141,47.143582,0.0 -91.472605,47.143514,0.0 -91.472002,47.143652,0.0 -91.471768,47.143926,0.0 -91.471468,47.144863,0.0 -91.471,47.145298,0.0 -91.470063,47.145436,0.0 -91.469024,47.145414,0.0 -91.468321,47.145209,0.0 -91.46822,47.145003,0.0 -91.468338,47.144852,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="97867">
+            <name>Take Out</name>
+            <styleUrl>#97868</styleUrl>
+            <Point id="97866">
+                <coordinates>-91.4684,47.1449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97872">
+            <name>SHT Bridge</name>
+            <styleUrl>#97873</styleUrl>
+            <Point id="97871">
+                <coordinates>-91.471657,47.144081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97877">
+            <name>Put In</name>
+            <styleUrl>#97878</styleUrl>
+            <Point id="97876">
+                <coordinates>-91.5743,47.178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97882">
+            <name>Confluence, Skunk Creek</name>
+            <styleUrl>#97883</styleUrl>
+            <Point id="97881">
+                <coordinates>-91.490143,47.1549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97887">
+            <name>Powerline Crossing</name>
+            <styleUrl>#97888</styleUrl>
+            <Point id="97886">
+                <coordinates>-91.46875,47.145401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97892">
+            <name>USGS sampling site</name>
+            <styleUrl>#97893</styleUrl>
+            <Point id="97891">
+                <coordinates>-91.468201,47.143501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97897">
+            <name>SHT (Superior Hiking Trail) Bridge</name>
+            <styleUrl>#97898</styleUrl>
+            <Point id="97896">
+                <coordinates>-91.504387,47.151611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97902">
+            <name>Falls</name>
+            <styleUrl>#97903</styleUrl>
+            <Point id="97901">
+                <coordinates>-91.4748,47.145199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97907">
+            <name>Steep Eroded Bank</name>
+            <styleUrl>#97908</styleUrl>
+            <Point id="97906">
+                <coordinates>-91.547684,47.170311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97912">
+            <name>Rocky Rapids</name>
+            <styleUrl>#97913</styleUrl>
+            <Point id="97911">
+                <coordinates>-91.546898,47.162601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97917">
+            <name>Confluence, Dago Creek</name>
+            <styleUrl>#97918</styleUrl>
+            <Point id="97916">
+                <coordinates>-91.525497,47.152199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97922">
+            <name>SHT Bridge</name>
+            <styleUrl>#97923</styleUrl>
+            <Point id="97921">
+                <coordinates>-91.476898,47.148499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97927">
+            <name>Fifth Falls</name>
+            <styleUrl>#97928</styleUrl>
+            <Point id="97926">
+                <coordinates>-91.477501,47.1492,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

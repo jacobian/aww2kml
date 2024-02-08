@@ -1,90 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="19905">
+    <Document id="33635">
+        <Style id="33640">
+            <IconStyle id="33641">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33642">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33645">
+            <IconStyle id="33646">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33647">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33650">
+            <IconStyle id="33651">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33652">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33655">
+            <IconStyle id="33656">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33657">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33660">
+            <IconStyle id="33661">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33662">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33665">
+            <IconStyle id="33666">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33667">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33670">
+            <IconStyle id="33671">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33672">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33675">
+            <IconStyle id="33676">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33677">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33680">
+            <IconStyle id="33681">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33682">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33685">
+            <IconStyle id="33686">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33687">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33690">
+            <IconStyle id="33691">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33692">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Falls - Mead Rd to Lake Superior (L'Anse) (2 miles)</name>
-        <Placemark id="19907">
-            <name>Falls - Mead Rd to Lake Superior (L'Anse) (2 miles)</name>
+        <Placemark id="33637">
+            <name>Falls - Mead Rd to Lake Superior (L'Anse) (2 miles) (III-IV+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="19906">
+            <LineString id="33636">
                 <coordinates>-88.444165,46.72981,0.0 -88.443941,46.729971,0.0 -88.443775,46.73017,0.0 -88.443674,46.730502,0.0 -88.443309,46.730571,0.0 -88.443198,46.730746,0.0 -88.443049,46.730855,0.0 -88.442989,46.731111,0.0 -88.442869,46.73155,0.0 -88.442841,46.732168,0.0 -88.44292,46.732623,0.0 -88.442989,46.732791,0.0 -88.443001,46.732948,0.0 -88.442957,46.73337,0.0 -88.442864,46.733743,0.0 -88.442804,46.734128,0.0 -88.442811,46.734323,0.0 -88.442883,46.734461,0.0 -88.443056,46.734628,0.0 -88.443037,46.734746,0.0 -88.442935,46.734934,0.0 -88.442884,46.73521,0.0 -88.4427,46.735426,0.0 -88.442672,46.735592,0.0 -88.442703,46.735716,0.0 -88.44286,46.735859,0.0 -88.443248,46.735995,0.0 -88.443341,46.736066,0.0 -88.443512,46.736323,0.0 -88.44372,46.736474,0.0 -88.444199,46.736668,0.0 -88.444537,46.736916,0.0 -88.444642,46.737146,0.0 -88.444621,46.737479,0.0 -88.444591,46.737667,0.0 -88.444702,46.737814,0.0 -88.445174,46.738031,0.0 -88.445433,46.73812,0.0 -88.445706,46.738123,0.0 -88.446088,46.738033,0.0 -88.446416,46.738122,0.0 -88.446481,46.738277,0.0 -88.446314,46.738858,0.0 -88.446307,46.739237,0.0 -88.446587,46.739555,0.0 -88.446786,46.739731,0.0 -88.447286,46.739878,0.0 -88.447735,46.740019,0.0 -88.447902,46.740147,0.0 -88.44803,46.740486,0.0 -88.447868,46.74081,0.0 -88.447812,46.740986,0.0 -88.44796,46.741505,0.0 -88.44809,46.741703,0.0 -88.448361,46.741752,0.0 -88.448483,46.741881,0.0 -88.448657,46.742377,0.0 -88.448682,46.742627,0.0 -88.448603,46.742922,0.0 -88.448439,46.743535,0.0 -88.448455,46.743609,0.0 -88.448664,46.743749,0.0 -88.448856,46.744035,0.0 -88.448923,46.74432,0.0 -88.449049,46.744612,0.0 -88.449319,46.744771,0.0 -88.449584,46.744955,0.0 -88.449691,46.745259,0.0 -88.449735,46.745534,0.0 -88.449714,46.745853,0.0 -88.449441,46.746214,0.0 -88.44945,46.746579,0.0 -88.449563,46.747064,0.0 -88.449725,46.747411,0.0 -88.449799,46.747581,0.0 -88.449751,46.747769,0.0 -88.449947,46.748224,0.0 -88.450318,46.74845,0.0 -88.450804,46.748577,0.0 -88.451302,46.748675,0.0 -88.451663,46.748812,0.0 -88.451848,46.748964,0.0 -88.451744,46.749186,0.0 -88.451592,46.749263,0.0 -88.45152,46.749431,0.0 -88.45173,46.749752,0.0 -88.452057,46.749991,0.0 -88.452418,46.75008,0.0 -88.452751,46.750291,0.0 -88.452707,46.750499,0.0 -88.452522,46.750736,0.0 -88.452488,46.751164,0.0 -88.452781,46.751979,0.0 -88.452846,46.752595,0.0 -88.452828,46.752922,0.0 -88.453156,46.753007,0.0 -88.453985,46.753077,0.0 -88.454157,46.753197,0.0 -88.454481,46.753302,0.0 -88.45468,46.753367,0.0 -88.454965,46.753818,0.0 -88.45505,46.754295,0.0 -88.455268,46.754553,0.0 -88.456247,46.755196,0.0 -88.457029,46.755687,0.0 -88.457316,46.756189,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="19909">
+        <Placemark id="33639">
             <name>Warm-up ledges (III)</name>
-            <Point id="19908">
+            <styleUrl>#33640</styleUrl>
+            <Point id="33638">
                 <coordinates>-88.442802,46.732201,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19911">
+        <Placemark id="33644">
             <name>Alternate put-in (former dam location)</name>
-            <Point id="19910">
+            <styleUrl>#33645</styleUrl>
+            <Point id="33643">
                 <coordinates>-88.443001,46.734501,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19913">
+        <Placemark id="33649">
             <name>Alternate take-out</name>
-            <Point id="19912">
+            <styleUrl>#33650</styleUrl>
+            <Point id="33648">
                 <coordinates>-88.452301,46.751202,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19915">
+        <Placemark id="33654">
             <name>Power House Falls (IV)</name>
-            <Point id="19914">
+            <styleUrl>#33655</styleUrl>
+            <Point id="33653">
                 <coordinates>-88.444397,46.736801,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19917">
+        <Placemark id="33659">
             <name>Middle Falls (IV)</name>
-            <Point id="19916">
+            <styleUrl>#33660</styleUrl>
+            <Point id="33658">
                 <coordinates>-88.452805,46.752357,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19919">
+        <Placemark id="33664">
             <name>Lower Falls</name>
-            <Point id="19918">
+            <styleUrl>#33665</styleUrl>
+            <Point id="33663">
                 <coordinates>-88.452805,46.752892,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19921">
+        <Placemark id="33669">
             <name>Dam Drop (IV)</name>
-            <Point id="19920">
+            <styleUrl>#33670</styleUrl>
+            <Point id="33668">
                 <coordinates>-88.454445,46.753395,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19923">
+        <Placemark id="33674">
             <name>Ass Hole</name>
-            <Point id="19922">
+            <styleUrl>#33675</styleUrl>
+            <Point id="33673">
                 <coordinates>-88.446,46.739,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19925">
+        <Placemark id="33679">
             <name>Put In</name>
-            <Point id="19924">
+            <styleUrl>#33680</styleUrl>
+            <Point id="33678">
                 <coordinates>-88.444099,46.729698,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19927">
+        <Placemark id="33684">
             <name>Former USGS site</name>
-            <Point id="19926">
+            <styleUrl>#33685</styleUrl>
+            <Point id="33683">
                 <coordinates>-88.4524,46.751598,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19929">
+        <Placemark id="33689">
             <name>Take Out</name>
-            <Point id="19928">
+            <styleUrl>#33690</styleUrl>
+            <Point id="33688">
                 <coordinates>-88.457065,46.756019,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19931">
-            <name>Put in</name>
-            <Point id="19930">
-                <coordinates>-88.444165,46.72981,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19933">
-            <name>Take out</name>
-            <Point id="19932">
-                <coordinates>-88.457316,46.756189,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

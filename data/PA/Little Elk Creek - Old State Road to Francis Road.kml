@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="103287">
+        <Style id="103292">
+            <IconStyle id="103293">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103294">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="103297">
+            <IconStyle id="103298">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103299">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Little Elk Creek - Old State Road to Francis Road</name>
+        <Placemark id="103289">
+            <name>Little Elk Creek - Old State Road to Francis Road (III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="103288">
+                <coordinates>-80.281108,41.945259,0.0 -80.281632,41.945226,0.0 -80.281969,41.945523,0.0 -80.282183,41.945981,0.0 -80.282059,41.946667,0.0 -80.281722,41.947079,0.0 -80.281261,41.947376,0.0 -80.28025,41.947604,0.0 -80.280065,41.947992,0.0 -80.28034,41.948748,0.0 -80.280002,41.949525,0.0 -80.278805,41.950897,0.0 -80.278803,41.951629,0.0 -80.278987,41.951949,0.0 -80.278955,41.952567,0.0 -80.278832,41.952727,0.0 -80.278464,41.952932,0.0 -80.277606,41.953023,0.0 -80.277269,41.95316,0.0 -80.277268,41.953755,0.0 -80.277849,41.954259,0.0 -80.280728,41.955542,0.0 -80.281156,41.956115,0.0 -80.28134,41.956206,0.0 -80.281493,41.956412,0.0 -80.282229,41.95655,0.0 -80.282504,41.956733,0.0 -80.282503,41.957191,0.0 -80.282227,41.957785,0.0 -80.28241,41.958426,0.0 -80.284032,41.95948,0.0 -80.284169,41.95977,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="103291">
+            <name>Put in</name>
+            <styleUrl>#103292</styleUrl>
+            <Point id="103290">
+                <coordinates>-80.281097,41.945099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103296">
+            <name>Take out</name>
+            <styleUrl>#103297</styleUrl>
+            <Point id="103295">
+                <coordinates>-80.284103,41.959801,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="52721">
+        <Style id="52726">
+            <IconStyle id="52727">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52728">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52731">
+            <IconStyle id="52732">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52733">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52736">
+            <IconStyle id="52737">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52738">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52741">
+            <IconStyle id="52742">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52743">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52746">
+            <IconStyle id="52747">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52748">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52751">
+            <IconStyle id="52752">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52753">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52756">
+            <IconStyle id="52757">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52758">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52761">
+            <IconStyle id="52762">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52763">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Silver - C) Lower Silver: Arvon Rd to Silver Falls Park (4.2 miles)</name>
+        <Placemark id="52723">
+            <name>Silver - C) Lower Silver: Arvon Rd to Silver Falls Park (4.2 miles) (III-IV+(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="52722">
+                <coordinates>-88.355463,46.755398,0.0 -88.355613,46.756526,0.0 -88.355913,46.756864,0.0 -88.356439,46.757276,0.0 -88.356503,46.757482,0.0 -88.356503,46.757482,0.0 -88.356804,46.757577,0.0 -88.358037,46.758379,0.0 -88.358198,46.758673,0.0 -88.358434,46.758812,0.0 -88.358434,46.758812,0.0 -88.358499,46.759128,0.0 -88.359894,46.760201,0.0 -88.360194,46.760525,0.0 -88.360966,46.76112,0.0 -88.361031,46.761252,0.0 -88.360999,46.762171,0.0 -88.36043,46.763362,0.0 -88.36043,46.763472,0.0 -88.36043,46.763472,0.0 -88.360258,46.763568,0.0 -88.359668,46.764589,0.0 -88.359228,46.764934,0.0 -88.358499,46.76528,0.0 -88.358401,46.765347,0.0 -88.358401,46.765347,0.0 -88.358401,46.765347,0.0 -88.358401,46.765347,0.0 -88.358401,46.765347,0.0 -88.35837,46.765368,0.0 -88.358402,46.765758,0.0 -88.358638,46.765941,0.0 -88.358638,46.766353,0.0 -88.358231,46.766764,0.0 -88.357265,46.767492,0.0 -88.356675,46.767859,0.0 -88.356535,46.768109,0.0 -88.356407,46.768388,0.0 -88.356171,46.768572,0.0 -88.355044,46.768771,0.0 -88.354411,46.769116,0.0 -88.354003,46.769388,0.0 -88.35351,46.769755,0.0 -88.352609,46.769939,0.0 -88.352051,46.770351,0.0 -88.351911,46.770696,0.0 -88.351847,46.771129,0.0 -88.351675,46.771401,0.0 -88.351278,46.771673,0.0 -88.350677,46.771857,0.0 -88.349884,46.772019,0.0 -88.34968,46.772136,0.0 -88.349047,46.773025,0.0 -88.34895,46.773341,0.0 -88.349015,46.773709,0.0 -88.349079,46.773826,0.0 -88.349047,46.774282,0.0 -88.348854,46.774466,0.0 -88.348457,46.774627,0.0 -88.348489,46.774781,0.0 -88.348522,46.774853,0.0 -88.348522,46.774853,0.0 -88.348585,46.774987,0.0 -88.348982,46.775244,0.0 -88.349551,46.775421,0.0 -88.349776,46.77556,0.0 -88.349851,46.775678,0.0 -88.349819,46.776089,0.0 -88.349519,46.7762,0.0 -88.348746,46.776383,0.0 -88.348221,46.776729,0.0 -88.348049,46.777089,0.0 -88.348081,46.777845,0.0 -88.348414,46.778764,0.0 -88.34865,46.779014,0.0 -88.349283,46.779219,0.0 -88.349776,46.779557,0.0 -88.349776,46.780086,0.0 -88.349615,46.780454,0.0 -88.349583,46.780931,0.0 -88.349218,46.781504,0.0 -88.348682,46.781894,0.0 -88.347684,46.782254,0.0 -88.346515,46.782481,0.0 -88.346053,46.782805,0.0 -88.345614,46.782996,0.0 -88.345614,46.782996,0.0 -88.345581,46.78301,0.0 -88.345453,46.782988,0.0 -88.345453,46.782988,0.0 -88.345485,46.78326,0.0 -88.345753,46.783488,0.0 -88.346053,46.783583,0.0 -88.346053,46.783583,0.0 -88.346021,46.783951,0.0 -88.345753,46.784245,0.0 -88.345485,46.78445,0.0 -88.344315,46.784516,0.0 -88.343886,46.784656,0.0 -88.343425,46.785317,0.0 -88.342556,46.78589,0.0 -88.341826,46.786206,0.0 -88.341655,46.786258,0.0 -88.341655,46.786258,0.0 -88.341526,46.78639,0.0 -88.340431,46.787169,0.0 -88.339831,46.787286,0.0 -88.3382,46.787374,0.0 -88.337535,46.787558,0.0 -88.337331,46.787719,0.0 -88.337331,46.787925,0.0 -88.337663,46.788241,0.0 -88.339326,46.788858,0.0 -88.34026,46.789247,0.0 -88.341322,46.789909,0.0 -88.34129,46.790092,0.0 -88.341022,46.790232,0.0 -88.339788,46.790437,0.0 -88.339198,46.790731,0.0 -88.338677,46.791087,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="52725">
+            <name>Mini-Dells (III)</name>
+            <styleUrl>#52726</styleUrl>
+            <Point id="52724">
+                <coordinates>-88.356499,46.757301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52730">
+            <name>First Falls (IV)</name>
+            <styleUrl>#52731</styleUrl>
+            <Point id="52729">
+                <coordinates>-88.358101,46.758301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52735">
+            <name>Twisted Triple (IV)</name>
+            <styleUrl>#52736</styleUrl>
+            <Point id="52734">
+                <coordinates>-88.361198,46.761002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52740">
+            <name>Railroad Trestle (IV)</name>
+            <styleUrl>#52741</styleUrl>
+            <Point id="52739">
+                <coordinates>-88.339996,46.789101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52745">
+            <name>Straight Triple (IV)</name>
+            <styleUrl>#52746</styleUrl>
+            <Point id="52744">
+                <coordinates>-88.360703,46.762901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52750">
+            <name>Silver Falls (III+)</name>
+            <styleUrl>#52751</styleUrl>
+            <Point id="52749">
+                <coordinates>-88.336403,46.792599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52755">
+            <name>Take Out</name>
+            <styleUrl>#52756</styleUrl>
+            <Point id="52754">
+                <coordinates>-88.3361,46.793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52760">
+            <name>Put In</name>
+            <styleUrl>#52761</styleUrl>
+            <Point id="52759">
+                <coordinates>-88.3555,46.7554,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

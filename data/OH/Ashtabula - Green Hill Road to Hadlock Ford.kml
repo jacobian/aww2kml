@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="101878">
+        <Style id="101883">
+            <IconStyle id="101884">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101885">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="101888">
+            <IconStyle id="101889">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101890">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="101893">
+            <IconStyle id="101894">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101895">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="101898">
+            <IconStyle id="101899">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101900">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Ashtabula - Green Hill Road to Hadlock Ford</name>
+        <Placemark id="101880">
+            <name>Ashtabula - Green Hill Road to Hadlock Ford (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="101879">
+                <coordinates>-80.727341,41.8525,0.0 -80.727341,41.852864,0.0 -80.726914,41.853367,0.0 -80.726027,41.853826,0.0 -80.725201,41.854124,0.0 -80.724131,41.854239,0.0 -80.722968,41.854217,0.0 -80.720856,41.85383,0.0 -80.7196,41.853053,0.0 -80.718742,41.852093,0.0 -80.718527,41.851659,0.0 -80.718282,41.851476,0.0 -80.718037,41.851385,0.0 -80.71718,41.851454,0.0 -80.716721,41.85166,0.0 -80.716446,41.851912,0.0 -80.716356,41.85317,0.0 -80.715593,41.854178,0.0 -80.714921,41.854979,0.0 -80.714799,41.855414,0.0 -80.715014,41.8561,0.0 -80.715657,41.85658,0.0 -80.716178,41.856717,0.0 -80.716851,41.856807,0.0 -80.717463,41.85667,0.0 -80.719206,41.855685,0.0 -80.719941,41.855913,0.0 -80.720431,41.856164,0.0 -80.723064,41.857077,0.0 -80.723738,41.857488,0.0 -80.724137,41.858266,0.0 -80.724107,41.858746,0.0 -80.723008,41.860326,0.0 -80.722213,41.86115,0.0 -80.72093,41.862684,0.0 -80.720502,41.863073,0.0 -80.720258,41.863188,0.0 -80.71937,41.86312,0.0 -80.718849,41.862777,0.0 -80.718482,41.862617,0.0 -80.717226,41.862412,0.0 -80.715757,41.862459,0.0 -80.714044,41.862666,0.0 -80.711841,41.863332,0.0 -80.710189,41.863447,0.0 -80.709301,41.863631,0.0 -80.708415,41.864089,0.0 -80.707498,41.8656,0.0 -80.707407,41.866149,0.0 -80.707591,41.866537,0.0 -80.708143,41.867109,0.0 -80.709766,41.868092,0.0 -80.710165,41.868686,0.0 -80.710411,41.869304,0.0 -80.710259,41.870104,0.0 -80.709953,41.870425,0.0 -80.709556,41.870677,0.0 -80.707751,41.871456,0.0 -80.706955,41.87196,0.0 -80.706436,41.872532,0.0 -80.706283,41.872967,0.0 -80.706284,41.873493,0.0 -80.706407,41.873745,0.0 -80.706866,41.87411,0.0 -80.708489,41.874613,0.0 -80.709132,41.874681,0.0 -80.710754,41.874565,0.0 -80.712866,41.874106,0.0 -80.714366,41.874105,0.0 -80.714698,41.874077,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="101882">
+            <name>Dewey Road</name>
+            <styleUrl>#101883</styleUrl>
+            <Point id="101881">
+                <coordinates>-80.721001,41.862999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101887">
+            <name>Take Out</name>
+            <styleUrl>#101888</styleUrl>
+            <Point id="101886">
+                <coordinates>-80.7147,41.8741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101892">
+            <name>Put In</name>
+            <styleUrl>#101893</styleUrl>
+            <Point id="101891">
+                <coordinates>-80.7274,41.8525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101897">
+            <name>Plymouth Ridge Road</name>
+            <styleUrl>#101898</styleUrl>
+            <Point id="101896">
+                <coordinates>-80.716003,41.854,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

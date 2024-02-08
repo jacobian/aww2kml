@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="60604">
+        <Style id="60609">
+            <IconStyle id="60610">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60611">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60614">
+            <IconStyle id="60615">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60616">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sacandaga - 2. Stewarts Bridge Reservoir to Hudson River</name>
+        <Placemark id="60606">
+            <name>Sacandaga - 2. Stewarts Bridge Reservoir to Hudson River (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="60605">
+                <coordinates>-73.885169,43.297281,0.0 -73.885098,43.297508,0.0 -73.884969,43.297918,0.0 -73.884622,43.298754,0.0 -73.884417,43.299248,0.0 -73.884302,43.299303,0.0 -73.882764,43.300032,0.0 -73.880706,43.300224,0.0 -73.878486,43.299936,0.0 -73.87556,43.300153,0.0 -73.87539,43.300284,0.0 -73.875212,43.300421,0.0 -73.874627,43.300873,0.0 -73.87241,43.301116,0.0 -73.871955,43.301506,0.0 -73.871424,43.302162,0.0 -73.870063,43.303639,0.0 -73.869558,43.304405,0.0 -73.869709,43.305807,0.0 -73.869549,43.306846,0.0 -73.86905,43.307919,0.0 -73.868705,43.308977,0.0 -73.867596,43.31009,0.0 -73.867074,43.310863,0.0 -73.865544,43.311911,0.0 -73.86408,43.313708,0.0 -73.863268,43.315108,0.0 -73.863026,43.315418,0.0 -73.862985,43.315471,0.0 -73.86166,43.316003,0.0 -73.861173,43.315977,0.0 -73.860718,43.315952,0.0 -73.859411,43.31588,0.0 -73.857771,43.315714,0.0 -73.857227,43.315659,0.0 -73.855634,43.315498,0.0 -73.85421,43.315257,0.0 -73.853709,43.315172,0.0 -73.8528,43.315018,0.0 -73.850648,43.314381,0.0 -73.850205,43.31425,0.0 -73.850054,43.314205,0.0 -73.849446,43.313998,0.0 -73.848797,43.313752,0.0 -73.847469,43.313403,0.0 -73.847048,43.313416,0.0 -73.846176,43.313642,0.0 -73.845968,43.313746,0.0 -73.84575,43.313856,0.0 -73.845487,43.313872,0.0 -73.845043,43.314009,0.0 -73.844602,43.314004,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="60608">
+            <name>Take Out</name>
+            <styleUrl>#60609</styleUrl>
+            <Point id="60607">
+                <coordinates>-73.8446,43.3142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60613">
+            <name>Put In</name>
+            <styleUrl>#60614</styleUrl>
+            <Point id="60612">
+                <coordinates>-73.8865,43.2977,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

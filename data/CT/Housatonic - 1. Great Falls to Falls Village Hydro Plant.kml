@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="92104">
+        <Style id="92109">
+            <IconStyle id="92110">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="92111">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="92114">
+            <IconStyle id="92115">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="92116">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Housatonic - 1. Great Falls to Falls Village Hydro Plant</name>
+        <Placemark id="92106">
+            <name>Housatonic - 1. Great Falls to Falls Village Hydro Plant (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="92105">
+                <coordinates>-73.373168,41.962267,0.0 -73.373135,41.962229,0.0 -73.373039,41.962165,0.0 -73.372951,41.9621,0.0 -73.372885,41.962059,0.0 -73.372827,41.961986,0.0 -73.372841,41.961964,0.0 -73.37287,41.961901,0.0 -73.372907,41.961807,0.0 -73.372922,41.961722,0.0 -73.372885,41.961609,0.0 -73.372841,41.961468,0.0 -73.372819,41.961346,0.0 -73.372789,41.96122,0.0 -73.372767,41.96113,0.0 -73.372752,41.961066,0.0 -73.372782,41.960945,0.0 -73.372832,41.960842,0.0 -73.372855,41.960802,0.0 -73.372877,41.960739,0.0 -73.372928,41.960623,0.0 -73.372965,41.960475,0.0 -73.373017,41.960358,0.0 -73.373038,41.960305,0.0 -73.373038,41.960192,0.0 -73.373031,41.960152,0.0 -73.373001,41.960048,0.0 -73.372942,41.959921,0.0 -73.372854,41.959766,0.0 -73.372765,41.95963,0.0 -73.37264,41.959462,0.0 -73.372537,41.959329,0.0 -73.372352,41.959169,0.0 -73.372198,41.959063,0.0 -73.372014,41.958944,0.0 -73.371882,41.958852,0.0 -73.371727,41.958778,0.0 -73.37169,41.958764,0.0 -73.371404,41.958615,0.0 -73.370799,41.958317,0.0 -73.370327,41.958014,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="92108">
+            <name>Take Out</name>
+            <styleUrl>#92109</styleUrl>
+            <Point id="92107">
+                <coordinates>-73.3704,41.9579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92113">
+            <name>Put In</name>
+            <styleUrl>#92114</styleUrl>
+            <Point id="92112">
+                <coordinates>-73.3729,41.9625,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

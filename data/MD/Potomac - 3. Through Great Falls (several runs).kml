@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="76877">
+        <Style id="76882">
+            <IconStyle id="76883">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76884">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="76887">
+            <IconStyle id="76888">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76889">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Potomac - 3. Through Great Falls (several runs)</name>
+        <Placemark id="76879">
+            <name>Potomac - 3. Through Great Falls (several runs) (V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="76878">
+                <coordinates>-77.248509,39.000692,0.0 -77.248749,39.000615,0.0 -77.248784,39.000593,0.0 -77.248854,39.000577,0.0 -77.248934,39.000582,0.0 -77.249161,39.000228,0.0 -77.249164,38.999989,0.0 -77.249134,38.999743,0.0 -77.248982,38.999347,0.0 -77.248893,38.998942,0.0 -77.248785,38.998655,0.0 -77.248804,38.998258,0.0 -77.248795,38.998014,0.0 -77.248828,38.997842,0.0 -77.248891,38.99774,0.0 -77.248921,38.997577,0.0 -77.248975,38.997511,0.0 -77.249051,38.997505,0.0 -77.249108,38.997452,0.0 -77.249087,38.997318,0.0 -77.249051,38.997088,0.0 -77.249179,38.996934,0.0 -77.249192,38.996516,0.0 -77.249431,38.995215,0.0 -77.24939,38.995005,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="76881">
+            <name>Take Out</name>
+            <styleUrl>#76882</styleUrl>
+            <Point id="76880">
+                <coordinates>-77.247589,38.995052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76886">
+            <name>Put In</name>
+            <styleUrl>#76887</styleUrl>
+            <Point id="76885">
+                <coordinates>-77.248688,39.001724,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

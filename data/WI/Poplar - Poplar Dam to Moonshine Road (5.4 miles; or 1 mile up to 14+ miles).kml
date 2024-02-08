@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="81675">
+        <Style id="81680">
+            <IconStyle id="81681">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81682">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81685">
+            <IconStyle id="81686">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81687">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81690">
+            <IconStyle id="81691">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81692">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81695">
+            <IconStyle id="81696">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81697">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81700">
+            <IconStyle id="81701">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81702">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81705">
+            <IconStyle id="81706">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81707">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81710">
+            <IconStyle id="81711">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81712">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81715">
+            <IconStyle id="81716">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81717">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81720">
+            <IconStyle id="81721">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81722">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Poplar - Poplar Dam to Moonshine Road (5.4 miles; or 1 mile up to 14+ miles)</name>
+        <Placemark id="81677">
+            <name>Poplar - Poplar Dam to Moonshine Road (5.4 miles; or 1 mile up to 14+ miles) (II(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="81676">
+                <coordinates>-91.793626,46.579451,0.0 -91.793883,46.579747,0.0 -91.793716,46.580409,0.0 -91.793848,46.580935,0.0 -91.794378,46.581255,0.0 -91.794874,46.581667,0.0 -91.794973,46.582033,0.0 -91.794806,46.582924,0.0 -91.794474,46.583495,0.0 -91.794406,46.58425,0.0 -91.794869,46.585324,0.0 -91.794868,46.585713,0.0 -91.794635,46.586124,0.0 -91.793972,46.586352,0.0 -91.793011,46.5861,0.0 -91.792514,46.5861,0.0 -91.792182,46.586328,0.0 -91.790889,46.586578,0.0 -91.790324,46.587149,0.0 -91.789296,46.587583,0.0 -91.788997,46.587925,0.0 -91.789096,46.588108,0.0 -91.789659,46.588383,0.0 -91.789957,46.588726,0.0 -91.789824,46.589206,0.0 -91.789326,46.589343,0.0 -91.789027,46.589822,0.0 -91.788761,46.589959,0.0 -91.787899,46.590142,0.0 -91.787865,46.590484,0.0 -91.788594,46.591216,0.0 -91.788758,46.591765,0.0 -91.788789,46.593296,0.0 -91.788556,46.59421,0.0 -91.788753,46.594851,0.0 -91.789449,46.595103,0.0 -91.790278,46.594966,0.0 -91.790809,46.594989,0.0 -91.791372,46.595195,0.0 -91.792034,46.595744,0.0 -91.792366,46.595859,0.0 -91.792797,46.596065,0.0 -91.793028,46.596545,0.0 -91.793093,46.597528,0.0 -91.793457,46.59778,0.0 -91.793955,46.59778,0.0 -91.794386,46.5973,0.0 -91.794784,46.597141,0.0 -91.795315,46.597187,0.0 -91.79664,46.597713,0.0 -91.797336,46.597782,0.0 -91.797536,46.597623,0.0 -91.797868,46.596891,0.0 -91.798167,46.596709,0.0 -91.798432,46.596778,0.0 -91.798896,46.597144,0.0 -91.79916,46.597829,0.0 -91.798926,46.599292,0.0 -91.799191,46.599566,0.0 -91.799522,46.599544,0.0 -91.800517,46.599385,0.0 -91.800982,46.598813,0.0 -91.801247,46.598951,0.0 -91.801445,46.599614,0.0 -91.801378,46.600345,0.0 -91.800317,46.600504,0.0 -91.799985,46.600916,0.0 -91.799951,46.601395,0.0 -91.799618,46.602355,0.0 -91.79912,46.602698,0.0 -91.79912,46.602926,0.0 -91.799385,46.603132,0.0 -91.799649,46.603498,0.0 -91.799483,46.603681,0.0 -91.799152,46.603681,0.0 -91.797692,46.603794,0.0 -91.796564,46.604204,0.0 -91.796,46.604227,0.0 -91.795537,46.603929,0.0 -91.794808,46.603609,0.0 -91.79431,46.603723,0.0 -91.794144,46.604111,0.0 -91.79434,46.605437,0.0 -91.794638,46.605872,0.0 -91.794804,46.605849,0.0 -91.795269,46.605415,0.0 -91.7959,46.605004,0.0 -91.796364,46.60505,0.0 -91.796795,46.605416,0.0 -91.796794,46.605896,0.0 -91.797125,46.606193,0.0 -91.797058,46.606422,0.0 -91.796594,46.606627,0.0 -91.796328,46.607198,0.0 -91.796062,46.607404,0.0 -91.795896,46.607381,0.0 -91.7953,46.607038,0.0 -91.794935,46.606946,0.0 -91.794404,46.607014,0.0 -91.793541,46.607745,0.0 -91.79301,46.607813,0.0 -91.792679,46.607516,0.0 -91.792414,46.607378,0.0 -91.792082,46.60763,0.0 -91.791815,46.608384,0.0 -91.791915,46.608567,0.0 -91.792644,46.608887,0.0 -91.793041,46.609436,0.0 -91.793538,46.609551,0.0 -91.794069,46.6093,0.0 -91.794567,46.609208,0.0 -91.795495,46.609689,0.0 -91.79619,46.610284,0.0 -91.796289,46.61065,0.0 -91.795758,46.610741,0.0 -91.794796,46.61122,0.0 -91.794862,46.611449,0.0 -91.79599,46.611427,0.0 -91.796553,46.611953,0.0 -91.796718,46.61241,0.0 -91.796252,46.613072,0.0 -91.796285,46.613529,0.0 -91.796185,46.614009,0.0 -91.795388,46.614557,0.0 -91.795255,46.614923,0.0 -91.795553,46.61506,0.0 -91.79625,46.614969,0.0 -91.796349,46.615038,0.0 -91.796448,46.615609,0.0 -91.796745,46.616044,0.0 -91.797541,46.616227,0.0 -91.798503,46.616251,0.0 -91.798702,46.616411,0.0 -91.798403,46.616845,0.0 -91.797639,46.617439,0.0 -91.797041,46.618033,0.0 -91.796974,46.618375,0.0 -91.79714,46.618444,0.0 -91.797671,46.618422,0.0 -91.798268,46.618171,0.0 -91.798766,46.618194,0.0 -91.798832,46.618422,0.0 -91.798512,46.619245,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="81679">
+            <name>Town Road 31 / Deer Trail Road</name>
+            <styleUrl>#81680</styleUrl>
+            <Point id="81678">
+                <coordinates>-91.792702,46.6087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81684">
+            <name>E.North Line Road</name>
+            <styleUrl>#81685</styleUrl>
+            <Point id="81683">
+                <coordinates>-91.794098,46.6045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81689">
+            <name>Hackett Road</name>
+            <styleUrl>#81690</styleUrl>
+            <Point id="81688">
+                <coordinates>-91.792702,46.687199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81694">
+            <name>N.Line Road / Deer Trail Road</name>
+            <styleUrl>#81695</styleUrl>
+            <Point id="81693">
+                <coordinates>-91.7967,46.604401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81699">
+            <name>Town Road 42 / Brush Road</name>
+            <styleUrl>#81700</styleUrl>
+            <Point id="81698">
+                <coordinates>-91.797386,46.611694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81704">
+            <name>Moonshine Road</name>
+            <styleUrl>#81705</styleUrl>
+            <Point id="81703">
+                <coordinates>-91.798409,46.619175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81709">
+            <name>Hwy.13 / CTH.P</name>
+            <styleUrl>#81710</styleUrl>
+            <Point id="81708">
+                <coordinates>-91.785461,46.648186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81714">
+            <name>Take Out</name>
+            <styleUrl>#81715</styleUrl>
+            <Point id="81713">
+                <coordinates>-91.798401,46.619202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81719">
+            <name>Put In</name>
+            <styleUrl>#81720</styleUrl>
+            <Point id="81718">
+                <coordinates>-91.7938,46.5793,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

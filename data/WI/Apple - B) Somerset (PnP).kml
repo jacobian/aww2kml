@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="69017">
+        <Style id="69022">
+            <IconStyle id="69023">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="69024">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69027">
+            <IconStyle id="69028">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="69029">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Apple - B) Somerset (PnP)</name>
+        <Placemark id="69019">
+            <name>Apple - B) Somerset (PnP) (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="69018">
+                <coordinates>-92.678842,45.12901,0.0 -92.67904,45.129006,0.0 -92.679334,45.129093,0.0 -92.679619,45.129236,0.0 -92.679791,45.129358,0.0 -92.680035,45.129573,0.0 -92.680346,45.12992,0.0 -92.680736,45.130407,0.0 -92.681054,45.13077,0.0 -92.681414,45.131226,0.0 -92.681526,45.131476,0.0 -92.681436,45.131927,0.0 -92.681404,45.13218,0.0 -92.681308,45.132631,0.0 -92.681082,45.133038,0.0 -92.681071,45.133274,0.0 -92.681201,45.133665,0.0 -92.681332,45.133969,0.0 -92.681578,45.134247,0.0 -92.681934,45.134467,0.0 -92.682747,45.134724,0.0 -92.683139,45.13477,0.0 -92.683365,45.134851,0.0 -92.683406,45.135016,0.0 -92.683407,45.135386,0.0 -92.683352,45.135647,0.0 -92.683432,45.135913,0.0 -92.683573,45.136083,0.0 -92.683883,45.13628,0.0 -92.684172,45.136318,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="69021">
+            <name>Take Out</name>
+            <styleUrl>#69022</styleUrl>
+            <Point id="69020">
+                <coordinates>-92.684189,45.136189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69026">
+            <name>Put In</name>
+            <styleUrl>#69027</styleUrl>
+            <Point id="69025">
+                <coordinates>-92.678833,45.128613,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="89413">
+        <Style id="89418">
+            <IconStyle id="89419">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89420">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89423">
+            <IconStyle id="89424">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89425">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Schroon - Warrensburg to Thurman Station</name>
+        <Placemark id="89415">
+            <name>Schroon - Warrensburg to Thurman Station (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="89414">
+                <coordinates>-73.770026,43.491127,0.0 -73.770464,43.491201,0.0 -73.77062,43.491218,0.0 -73.771596,43.491325,0.0 -73.772172,43.491447,0.0 -73.775283,43.491335,0.0 -73.776234,43.49129,0.0 -73.777191,43.491056,0.0 -73.777409,43.490903,0.0 -73.777559,43.490741,0.0 -73.777975,43.490368,0.0 -73.778341,43.490219,0.0 -73.778707,43.489949,0.0 -73.779124,43.489642,0.0 -73.779369,43.488764,0.0 -73.779165,43.487991,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="89417">
+            <name>Take Out</name>
+            <styleUrl>#89418</styleUrl>
+            <Point id="89416">
+                <coordinates>-73.779099,43.487999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89422">
+            <name>Put In</name>
+            <styleUrl>#89423</styleUrl>
+            <Point id="89421">
+                <coordinates>-73.769997,43.491299,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

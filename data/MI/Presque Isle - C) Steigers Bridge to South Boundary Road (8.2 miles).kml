@@ -1,84 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="6297">
+    <Document id="10616">
+        <Style id="10621">
+            <IconStyle id="10622">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10623">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="10626">
+            <IconStyle id="10627">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10628">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="10631">
+            <IconStyle id="10632">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10633">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="10636">
+            <IconStyle id="10637">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10638">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="10641">
+            <IconStyle id="10642">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10643">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="10646">
+            <IconStyle id="10647">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10648">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="10651">
+            <IconStyle id="10652">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10653">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="10656">
+            <IconStyle id="10657">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10658">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="10661">
+            <IconStyle id="10662">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10663">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="10666">
+            <IconStyle id="10667">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10668">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Presque Isle - C) Steigers Bridge to South Boundary Road (8.2 miles)</name>
-        <Placemark id="6299">
-            <name>Presque Isle - C) Steigers Bridge to South Boundary Road (8.2 miles)</name>
+        <Placemark id="10618">
+            <name>Presque Isle - C) Steigers Bridge to South Boundary Road (8.2 miles) (III-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="6298">
+            <LineString id="10617">
                 <coordinates>-89.877622,46.641968,0.0 -89.87847,46.642345,0.0 -89.87847,46.642345,0.0 -89.879605,46.64245,0.0 -89.880611,46.642566,0.0 -89.881349,46.642828,0.0 -89.88167,46.643477,0.0 -89.881853,46.644243,0.0 -89.882895,46.645611,0.0 -89.883312,46.646317,0.0 -89.88365,46.647601,0.0 -89.88467,46.648967,0.0 -89.88467,46.648967,0.0 -89.885196,46.649193,0.0 -89.88617,46.648883,0.0 -89.888125,46.648971,0.0 -89.889622,46.64929,0.0 -89.890537,46.648826,0.0 -89.892511,46.648713,0.0 -89.895452,46.649147,0.0 -89.896466,46.649192,0.0 -89.89758,46.648939,0.0 -89.899182,46.648909,0.0 -89.901088,46.648742,0.0 -89.904521,46.647786,0.0 -89.907609,46.647419,0.0 -89.909244,46.647039,0.0 -89.909948,46.646779,0.0 -89.909948,46.646779,0.0 -89.91376,46.645374,0.0 -89.916259,46.645082,0.0 -89.917787,46.645856,0.0 -89.919355,46.646984,0.0 -89.921282,46.647372,0.0 -89.923095,46.648209,0.0 -89.925906,46.650048,0.0 -89.929138,46.652056,0.0 -89.932079,46.652489,0.0 -89.933927,46.652168,0.0 -89.935252,46.652354,0.0 -89.935252,46.652354,0.0 -89.935506,46.652389,0.0 -89.936899,46.653056,0.0 -89.939649,46.654832,0.0 -89.939649,46.654832,0.0 -89.940508,46.657402,0.0 -89.940527,46.657761,0.0 -89.940527,46.657761,0.0 -89.940574,46.658672,0.0 -89.941867,46.660502,0.0 -89.941739,46.661889,0.0 -89.941089,46.663,0.0 -89.941031,46.663631,0.0 -89.940256,46.664103,0.0 -89.938607,46.664157,0.0 -89.93822,46.664393,0.0 -89.938174,46.664897,0.0 -89.938843,46.66556,0.0 -89.940249,46.668155,0.0 -89.940508,46.669306,0.0 -89.940128,46.671442,0.0 -89.940128,46.671442,0.0 -89.940353,46.672972,0.0 -89.940988,46.674013,0.0 -89.942192,46.674826,0.0 -89.943647,46.674891,0.0 -89.94415,46.675131,0.0 -89.94415,46.675131,0.0 -89.944522,46.675309,0.0 -89.944464,46.67594,0.0 -89.943872,46.67642,0.0 -89.943825,46.676925,0.0 -89.94391,46.677008,0.0 -89.94391,46.677008,0.0 -89.945165,46.678251,0.0 -89.946609,46.678441,0.0 -89.948657,46.678025,0.0 -89.955049,46.678054,0.0 -89.956106,46.678481,0.0 -89.957744,46.678553,0.0 -89.958778,46.679232,0.0 -89.95848,46.680485,0.0 -89.957706,46.680958,0.0 -89.957659,46.681462,0.0 -89.958318,46.682251,0.0 -89.958202,46.683512,0.0 -89.956847,46.684339,0.0 -89.956789,46.68497,0.0 -89.957629,46.685767,0.0 -89.958505,46.686185,0.0 -89.959596,46.686233,0.0 -89.960905,46.685911,0.0 -89.964169,46.686182,0.0 -89.964692,46.686458,0.0 -89.96542,46.68649,0.0 -89.966194,46.686018,0.0 -89.96674,46.686042,0.0 -89.967081,46.68631,0.0 -89.966989,46.687319,0.0 -89.967329,46.687587,0.0 -89.970571,46.68811,0.0 -89.971775,46.688923,0.0 -89.971876,46.689814,0.0 -89.971102,46.690286,0.0 -89.970865,46.690276,0.0 -89.970865,46.690276,0.0 -89.969828,46.69023,0.0 -89.969169,46.689441,0.0 -89.968465,46.689157,0.0 -89.967679,46.689756,0.0 -89.967416,46.690631,0.0 -89.968597,46.691696,0.0 -89.969825,46.692257,0.0 -89.973818,46.692559,0.0 -89.974329,46.692961,0.0 -89.974165,46.695691,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="6301">
+        <Placemark id="10620">
             <name>Lepisto Falls (III+)</name>
-            <Point id="6300">
+            <styleUrl>#10621</styleUrl>
+            <Point id="10619">
                 <coordinates>-89.940498,46.6586,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6303">
+        <Placemark id="10625">
             <name>Iagoo Falls (III+)</name>
-            <Point id="6302">
+            <styleUrl>#10626</styleUrl>
+            <Point id="10624">
                 <coordinates>-89.941704,46.661999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6305">
+        <Placemark id="10630">
             <name>Triple Drop (IV)</name>
-            <Point id="6304">
+            <styleUrl>#10631</styleUrl>
+            <Point id="10629">
                 <coordinates>-89.910553,46.646439,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6307">
+        <Placemark id="10635">
             <name>Nakomis Falls (III+)</name>
-            <Point id="6306">
+            <styleUrl>#10636</styleUrl>
+            <Point id="10634">
                 <coordinates>-89.915527,46.645115,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6309">
+        <Placemark id="10640">
             <name>Take Out</name>
-            <Point id="6308">
+            <styleUrl>#10641</styleUrl>
+            <Point id="10639">
                 <coordinates>-89.974297,46.695202,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6311">
+        <Placemark id="10645">
             <name>begin increased gradient</name>
-            <Point id="6310">
+            <styleUrl>#10646</styleUrl>
+            <Point id="10644">
                 <coordinates>-89.901093,46.648579,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6313">
+        <Placemark id="10650">
             <name>Put In</name>
-            <Point id="6312">
+            <styleUrl>#10651</styleUrl>
+            <Point id="10649">
                 <coordinates>-89.877502,46.641701,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6315">
+        <Placemark id="10655">
             <name>Confluence with Copper Creek</name>
-            <Point id="6314">
+            <styleUrl>#10656</styleUrl>
+            <Point id="10654">
                 <coordinates>-89.93541,46.652016,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6317">
+        <Placemark id="10660">
             <name>Big Rock</name>
-            <Point id="6316">
+            <styleUrl>#10661</styleUrl>
+            <Point id="10659">
                 <coordinates>-89.904602,46.647598,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6319">
+        <Placemark id="10665">
             <name>USGS site</name>
-            <Point id="6318">
+            <styleUrl>#10666</styleUrl>
+            <Point id="10664">
                 <coordinates>-89.974098,46.696098,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="6321">
-            <name>Put in</name>
-            <Point id="6320">
-                <coordinates>-89.877622,46.641968,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="6323">
-            <name>Take out</name>
-            <Point id="6322">
-                <coordinates>-89.974165,46.695691,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

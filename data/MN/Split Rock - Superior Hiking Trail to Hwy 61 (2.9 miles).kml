@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="25375">
+    <Document id="42595">
+        <Style id="42600">
+            <IconStyle id="42601">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42602">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42605">
+            <IconStyle id="42606">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42607">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Split Rock - Superior Hiking Trail to Hwy 61 (2.9 miles)</name>
-        <Placemark id="25377">
-            <name>Split Rock - Superior Hiking Trail to Hwy 61 (2.9 miles)</name>
+        <Placemark id="42597">
+            <name>Split Rock - Superior Hiking Trail to Hwy 61 (2.9 miles) (IV-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="25376">
+            <LineString id="42596">
                 <coordinates>-91.424597,47.200866,0.0 -91.424253,47.200855,0.0 -91.423079,47.200947,0.0 -91.422744,47.200787,0.0 -91.422207,47.200284,0.0 -91.421972,47.200124,0.0 -91.421234,47.199851,0.0 -91.421033,47.199416,0.0 -91.421033,47.198959,0.0 -91.420495,47.198068,0.0 -91.420327,47.197611,0.0 -91.419925,47.197246,0.0 -91.419623,47.196949,0.0 -91.419053,47.196721,0.0 -91.418986,47.196378,0.0 -91.419387,47.195852,0.0 -91.419387,47.195601,0.0 -91.41875,47.194778,0.0 -91.418649,47.194299,0.0 -91.41895,47.194116,0.0 -91.41999,47.194047,0.0 -91.420124,47.194001,0.0 -91.419855,47.193224,0.0 -91.419184,47.193224,0.0 -91.418615,47.193179,0.0 -91.41848,47.192996,0.0 -91.418614,47.192767,0.0 -91.418245,47.191739,0.0 -91.418144,47.191122,0.0 -91.417641,47.190551,0.0 -91.417674,47.190186,0.0 -91.417841,47.189797,0.0 -91.417841,47.189683,0.0 -91.417539,47.189569,0.0 -91.415729,47.189409,0.0 -91.415126,47.189135,0.0 -91.414522,47.188061,0.0 -91.41432,47.187444,0.0 -91.413984,47.18701,0.0 -91.41271,47.18596,0.0 -91.412274,47.185754,0.0 -91.411201,47.184452,0.0 -91.410564,47.184223,0.0 -91.409391,47.183949,0.0 -91.408854,47.183561,0.0 -91.408284,47.182784,0.0 -91.408239,47.182655,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="25379">
+        <Placemark id="42599">
             <name>Take Out</name>
-            <Point id="25378">
+            <styleUrl>#42600</styleUrl>
+            <Point id="42598">
                 <coordinates>-91.408401,47.182598,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25381">
+        <Placemark id="42604">
             <name>Put In</name>
-            <Point id="25380">
+            <styleUrl>#42605</styleUrl>
+            <Point id="42603">
                 <coordinates>-91.424599,47.200802,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25383">
-            <name>Put in</name>
-            <Point id="25382">
-                <coordinates>-91.424599,47.200802,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25385">
-            <name>Take out</name>
-            <Point id="25384">
-                <coordinates>-91.408401,47.182598,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

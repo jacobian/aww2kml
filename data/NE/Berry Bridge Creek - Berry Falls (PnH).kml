@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="114805">
+        <Style id="114810">
+            <IconStyle id="114811">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114812">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114815">
+            <IconStyle id="114816">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114817">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Berry Bridge Creek - Berry Falls (PnH)</name>
+        <Placemark id="114807">
+            <name>Berry Bridge Creek - Berry Falls (PnH) (III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="114806">
+                <coordinates>-100.363185,42.901168,0.0 -100.362724,42.901347,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="114809">
+            <name>Take Out</name>
+            <styleUrl>#114810</styleUrl>
+            <Point id="114808">
+                <coordinates>-100.3629,42.901798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114814">
+            <name>Put In</name>
+            <styleUrl>#114815</styleUrl>
+            <Point id="114813">
+                <coordinates>-100.363197,42.901199,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

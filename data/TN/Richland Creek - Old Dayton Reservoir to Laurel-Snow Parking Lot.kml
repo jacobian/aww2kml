@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="64133">
+        <Style id="64138">
+            <IconStyle id="64139">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64140">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64143">
+            <IconStyle id="64144">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64145">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Richland Creek - Old Dayton Reservoir to Laurel-Snow Parking Lot</name>
+        <Placemark id="64135">
+            <name>Richland Creek - Old Dayton Reservoir to Laurel-Snow Parking Lot (III-IV(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="64134">
+                <coordinates>-85.030172,35.542443,0.0 -85.029912,35.542289,0.0 -85.029745,35.541646,0.0 -85.029355,35.541163,0.0 -85.02873,35.540443,0.0 -85.028528,35.540311,0.0 -85.028085,35.540267,0.0 -85.02791,35.54019,0.0 -85.027715,35.540014,0.0 -85.027594,35.539822,0.0 -85.027601,35.539514,0.0 -85.027709,35.539173,0.0 -85.027669,35.53891,0.0 -85.027561,35.538761,0.0 -85.027353,35.538552,0.0 -85.027071,35.53819,0.0 -85.02697,35.538135,0.0 -85.026687,35.538074,0.0 -85.026533,35.537931,0.0 -85.026466,35.53781,0.0 -85.026244,35.537739,0.0 -85.026029,35.537711,0.0 -85.025827,35.537585,0.0 -85.025693,35.537404,0.0 -85.025283,35.536717,0.0 -85.025082,35.535991,0.0 -85.024914,35.535282,0.0 -85.024928,35.534903,0.0 -85.024988,35.534612,0.0 -85.025022,35.534513,0.0 -85.02507,35.534339,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="64137">
+            <name>Take Out</name>
+            <styleUrl>#64138</styleUrl>
+            <Point id="64136">
+                <coordinates>-85.025299,35.534401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64142">
+            <name>Put In</name>
+            <styleUrl>#64143</styleUrl>
+            <Point id="64141">
+                <coordinates>-85.030197,35.5424,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

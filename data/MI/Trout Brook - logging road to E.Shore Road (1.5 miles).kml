@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="110995">
+        <Style id="111000">
+            <IconStyle id="111001">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111002">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="111005">
+            <IconStyle id="111006">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111007">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Trout Brook - logging road to E.Shore Road (1.5 miles)</name>
+        <Placemark id="110997">
+            <name>Trout Brook - logging road to E.Shore Road (1.5 miles) (II-III+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="110996">
+                <coordinates>-89.49799,46.440115,0.0 -89.498071,46.440111,0.0 -89.498963,46.43979,0.0 -89.499393,46.440178,0.0 -89.500154,46.440223,0.0 -89.500725,46.440234,0.0 -89.501121,46.440486,0.0 -89.501318,46.440829,0.0 -89.502012,46.441173,0.0 -89.504291,46.441838,0.0 -89.505479,46.442661,0.0 -89.506768,46.442548,0.0 -89.507429,46.442732,0.0 -89.50799,46.443441,0.0 -89.508287,46.443601,0.0 -89.50918,46.443396,0.0 -89.510566,46.444197,0.0 -89.51093,46.444243,0.0 -89.514236,46.443766,0.0 -89.515427,46.443447,0.0 -89.516121,46.443539,0.0 -89.517805,46.444089,0.0 -89.520251,46.444388,0.0 -89.522169,46.445068,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="110999">
+            <name>Take Out</name>
+            <styleUrl>#111000</styleUrl>
+            <Point id="110998">
+                <coordinates>-89.5223,46.4447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111004">
+            <name>Put In</name>
+            <styleUrl>#111005</styleUrl>
+            <Point id="111003">
+                <coordinates>-89.498,46.4403,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

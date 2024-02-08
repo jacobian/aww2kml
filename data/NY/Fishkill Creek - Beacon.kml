@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="87894">
+        <Style id="87899">
+            <IconStyle id="87900">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87901">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87904">
+            <IconStyle id="87905">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87906">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87909">
+            <IconStyle id="87910">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87911">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87914">
+            <IconStyle id="87915">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87916">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Fishkill Creek - Beacon</name>
+        <Placemark id="87896">
+            <name>Fishkill Creek - Beacon (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="87895">
+                <coordinates>-73.968764,41.492077,0.0 -73.969207,41.491371,0.0 -73.969703,41.490314,0.0 -73.970461,41.489699,0.0 -73.971039,41.48934,0.0 -73.971217,41.489177,0.0 -73.971541,41.489107,0.0 -73.971915,41.489001,0.0 -73.972309,41.489116,0.0 -73.973231,41.488906,0.0 -73.974037,41.488598,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="87898">
+            <name>Bridge St. Putin</name>
+            <styleUrl>#87899</styleUrl>
+            <Point id="87897">
+                <coordinates>-73.949303,41.5117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87903">
+            <name>Red Rocks (II+)</name>
+            <styleUrl>#87904</styleUrl>
+            <Point id="87902">
+                <coordinates>-73.952019,41.508965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87908">
+            <name>Take Out</name>
+            <styleUrl>#87909</styleUrl>
+            <Point id="87907">
+                <coordinates>-73.974,41.4885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87913">
+            <name>Put In</name>
+            <styleUrl>#87914</styleUrl>
+            <Point id="87912">
+                <coordinates>-73.9688,41.4921,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

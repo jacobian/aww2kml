@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="28393">
+    <Document id="47602">
+        <Style id="47607">
+            <IconStyle id="47608">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47609">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="47612">
+            <IconStyle id="47613">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47614">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Kahola Creek - Kahola Creek Lake Park (PnH)</name>
-        <Placemark id="28395">
-            <name>Kahola Creek - Kahola Creek Lake Park (PnH)</name>
+        <Placemark id="47604">
+            <name>Kahola Creek - Kahola Creek Lake Park (PnH) (III-IV)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="28394">
+            <LineString id="47603">
                 <coordinates>-96.415826,38.528935,0.0 -96.415097,38.529152,0.0 -96.414777,38.529336,0.0 -96.414369,38.529336,0.0 -96.414369,38.529336,0.0 -96.413641,38.529199,0.0 -96.412971,38.528901,0.0 -96.411136,38.527484,0.0 -96.410349,38.527164,0.0 -96.410187,38.52721,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="28397">
+        <Placemark id="47606">
             <name>Put in</name>
-            <Point id="28396">
+            <styleUrl>#47607</styleUrl>
+            <Point id="47605">
                 <coordinates>-96.415826,38.528935,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28399">
+        <Placemark id="47611">
             <name>Take out</name>
-            <Point id="28398">
+            <styleUrl>#47612</styleUrl>
+            <Point id="47610">
                 <coordinates>-96.410187,38.52721,0.0</coordinates>
             </Point>
         </Placemark>

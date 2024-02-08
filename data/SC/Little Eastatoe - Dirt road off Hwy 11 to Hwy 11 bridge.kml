@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="116028">
+        <Style id="116033">
+            <IconStyle id="116034">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116035">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="116038">
+            <IconStyle id="116039">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116040">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="116043">
+            <IconStyle id="116044">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116045">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="116048">
+            <IconStyle id="116049">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116050">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Little Eastatoe - Dirt road off Hwy 11 to Hwy 11 bridge</name>
+        <Placemark id="116030">
+            <name>Little Eastatoe - Dirt road off Hwy 11 to Hwy 11 bridge (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="116029">
+                <coordinates>-82.847116,34.952903,0.0 -82.847322,34.952724,0.0 -82.848196,34.952031,0.0 -82.848402,34.951893,0.0 -82.848576,34.951729,0.0 -82.848729,34.951476,0.0 -82.849016,34.951074,0.0 -82.84933,34.950805,0.0 -82.849496,34.950596,0.0 -82.849563,34.950481,0.0 -82.84965,34.950228,0.0 -82.84971,34.950063,0.0 -82.849883,34.949909,0.0 -82.850264,34.949728,0.0 -82.850304,34.949695,0.0 -82.85051,34.949524,0.0 -82.850597,34.949381,0.0 -82.850677,34.949211,0.0 -82.850764,34.948738,0.0 -82.850783,34.948161,0.0 -82.85095,34.947765,0.0 -82.85121,34.947337,0.0 -82.851504,34.947045,0.0 -82.851771,34.946847,0.0 -82.852244,34.946682,0.0 -82.853199,34.946451,0.0 -82.854847,34.946225,0.0 -82.855094,34.946236,0.0 -82.855177,34.946249,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="116032">
+            <name>Chelie (III)</name>
+            <styleUrl>#116033</styleUrl>
+            <Point id="116031">
+                <coordinates>-82.847397,34.952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="116037">
+            <name>Green Wave (IV)</name>
+            <styleUrl>#116038</styleUrl>
+            <Point id="116036">
+                <coordinates>-82.850502,34.9487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="116042">
+            <name>Put in</name>
+            <styleUrl>#116043</styleUrl>
+            <Point id="116041">
+                <coordinates>-82.8472,34.953,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="116047">
+            <name>Take out</name>
+            <styleUrl>#116048</styleUrl>
+            <Point id="116046">
+                <coordinates>-82.8552,34.9461,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

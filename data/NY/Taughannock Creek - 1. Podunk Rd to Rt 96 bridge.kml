@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="87137">
+        <Style id="87142">
+            <IconStyle id="87143">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87144">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87147">
+            <IconStyle id="87148">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87149">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Taughannock Creek - 1. Podunk Rd to Rt 96 bridge</name>
+        <Placemark id="87139">
+            <name>Taughannock Creek - 1. Podunk Rd to Rt 96 bridge (II-III+(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="87138">
+                <coordinates>-76.660536,42.520964,0.0 -76.659877,42.521054,0.0 -76.659568,42.521214,0.0 -76.659445,42.521534,0.0 -76.659445,42.522335,0.0 -76.659971,42.523501,0.0 -76.660312,42.524096,0.0 -76.660436,42.524118,0.0 -76.660529,42.525376,0.0 -76.660035,42.526063,0.0 -76.659633,42.5262,0.0 -76.658953,42.526269,0.0 -76.65852,42.526177,0.0 -76.657592,42.526269,0.0 -76.656881,42.526567,0.0 -76.656263,42.527024,0.0 -76.655367,42.528191,0.0 -76.65512,42.528374,0.0 -76.654656,42.528351,0.0 -76.653388,42.527917,0.0 -76.6528,42.527894,0.0 -76.652398,42.52794,0.0 -76.652244,42.528169,0.0 -76.652182,42.528672,0.0 -76.651596,42.530204,0.0 -76.651256,42.530502,0.0 -76.650668,42.530639,0.0 -76.648534,42.530754,0.0 -76.647452,42.531029,0.0 -76.646649,42.531395,0.0 -76.645752,42.532058,0.0 -76.645226,42.532241,0.0 -76.643928,42.532356,0.0 -76.643278,42.532333,0.0 -76.642691,42.532173,0.0 -76.641825,42.531716,0.0 -76.641299,42.53119,0.0 -76.639691,42.530207,0.0 -76.637526,42.529612,0.0 -76.637301,42.529629,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="87141">
+            <name>Take Out</name>
+            <styleUrl>#87142</styleUrl>
+            <Point id="87140">
+                <coordinates>-76.637299,42.529598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87146">
+            <name>Put In</name>
+            <styleUrl>#87147</styleUrl>
+            <Point id="87145">
+                <coordinates>-76.6605,42.520699,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

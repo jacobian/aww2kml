@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="75026">
+        <Style id="75031">
+            <IconStyle id="75032">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75033">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="75036">
+            <IconStyle id="75037">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75038">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="75041">
+            <IconStyle id="75042">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75043">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="75046">
+            <IconStyle id="75047">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75048">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="75051">
+            <IconStyle id="75052">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75053">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="75056">
+            <IconStyle id="75057">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75058">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="75061">
+            <IconStyle id="75062">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75063">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="75066">
+            <IconStyle id="75067">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75068">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="75071">
+            <IconStyle id="75072">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75073">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="75076">
+            <IconStyle id="75077">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75078">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Clear Creek - 4. Lilly to Nemo </name>
+        <Placemark id="75028">
+            <name>Clear Creek - 4. Lilly to Nemo  (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="75027">
+                <coordinates>-84.717205,36.1051,0.0 -84.7173,36.104969,0.0 -84.717402,36.104837,0.0 -84.717963,36.104271,0.0 -84.718051,36.104166,0.0 -84.718193,36.103936,0.0 -84.718274,36.103826,0.0 -84.71837,36.103649,0.0 -84.717587,36.10292,0.0 -84.717253,36.10253,0.0 -84.71693,36.101757,0.0 -84.716706,36.10103,0.0 -84.716361,36.100559,0.0 -84.716108,36.100201,0.0 -84.71587,36.099931,0.0 -84.71553,36.099747,0.0 -84.715315,36.099662,0.0 -84.715025,36.099627,0.0 -84.714717,36.099621,0.0 -84.714373,36.099571,0.0 -84.713985,36.099489,0.0 -84.713596,36.099423,0.0 -84.713106,36.099392,0.0 -84.712322,36.099207,0.0 -84.71122,36.098817,0.0 -84.710496,36.098413,0.0 -84.709865,36.097951,0.0 -84.709056,36.097007,0.0 -84.708515,36.096429,0.0 -84.708506,36.096112,0.0 -84.708623,36.095524,0.0 -84.708911,36.094984,0.0 -84.709153,36.094134,0.0 -84.709319,36.093584,0.0 -84.709318,36.093311,0.0 -84.709144,36.09305,0.0 -84.708763,36.092726,0.0 -84.708389,36.092483,0.0 -84.707965,36.092357,0.0 -84.70773,36.092315,0.0 -84.707486,36.092296,0.0 -84.707231,36.092328,0.0 -84.706834,36.092519,0.0 -84.706445,36.092785,0.0 -84.705025,36.0932,0.0 -84.704624,36.093251,0.0 -84.70398,36.093084,0.0 -84.703584,36.092951,0.0 -84.70238,36.092803,0.0 -84.701739,36.09268,0.0 -84.701335,36.092525,0.0 -84.701041,36.09232,0.0 -84.700253,36.091627,0.0 -84.699572,36.091164,0.0 -84.699303,36.091033,0.0 -84.69904,36.091012,0.0 -84.698343,36.090956,0.0 -84.69794,36.091455,0.0 -84.696985,36.092094,0.0 -84.696749,36.092641,0.0 -84.696582,36.092889,0.0 -84.69573,36.093387,0.0 -84.694926,36.093911,0.0 -84.694335,36.094301,0.0 -84.694211,36.094344,0.0 -84.69383,36.094547,0.0 -84.69339,36.095062,0.0 -84.692948,36.095828,0.0 -84.692347,36.096644,0.0 -84.691898,36.097333,0.0 -84.691223,36.09811,0.0 -84.69057,36.098649,0.0 -84.68991,36.098819,0.0 -84.689374,36.098865,0.0 -84.688849,36.098718,0.0 -84.6884,36.09836,0.0 -84.68785,36.097944,0.0 -84.687215,36.097794,0.0 -84.686298,36.097537,0.0 -84.685948,36.09736,0.0 -84.683572,36.096174,0.0 -84.682818,36.09573,0.0 -84.682576,36.095453,0.0 -84.682492,36.094908,0.0 -84.682473,36.094701,0.0 -84.682748,36.09411,0.0 -84.683205,36.093357,0.0 -84.684306,36.091849,0.0 -84.6851,36.090413,0.0 -84.685492,36.089386,0.0 -84.685535,36.088937,0.0 -84.685344,36.08858,0.0 -84.685216,36.088331,0.0 -84.685168,36.087908,0.0 -84.685087,36.08744,0.0 -84.684394,36.086461,0.0 -84.684238,36.085992,0.0 -84.684157,36.085848,0.0 -84.682559,36.084374,0.0 -84.6824,36.084261,0.0 -84.681993,36.084002,0.0 -84.681623,36.083849,0.0 -84.681405,36.083796,0.0 -84.681185,36.083776,0.0 -84.680828,36.083874,0.0 -84.680358,36.084218,0.0 -84.680064,36.084524,0.0 -84.679398,36.085026,0.0 -84.678725,36.085484,0.0 -84.678411,36.085612,0.0 -84.678126,36.085626,0.0 -84.677532,36.085595,0.0 -84.676444,36.085318,0.0 -84.675225,36.084962,0.0 -84.673175,36.084436,0.0 -84.672274,36.084065,0.0 -84.671763,36.083784,0.0 -84.671316,36.083361,0.0 -84.671155,36.083066,0.0 -84.670767,36.082227,0.0 -84.670638,36.08126,0.0 -84.670507,36.080965,0.0 -84.670062,36.08066,0.0 -84.669551,36.080362,0.0 -84.668929,36.080172,0.0 -84.667039,36.079904,0.0 -84.666237,36.079929,0.0 -84.665331,36.080297,0.0 -84.664515,36.08069,0.0 -84.663832,36.080904,0.0 -84.663139,36.081041,0.0 -84.662035,36.081043,0.0 -84.661144,36.080843,0.0 -84.66007,36.080847,0.0 -84.659608,36.080732,0.0 -84.659318,36.080658,0.0 -84.658277,36.080552,0.0 -84.657678,36.080395,0.0 -84.657206,36.080304,0.0 -84.656163,36.079996,0.0 -84.655391,36.079758,0.0 -84.654813,36.079544,0.0 -84.654194,36.07943,0.0 -84.65396,36.079235,0.0 -84.653687,36.079023,0.0 -84.653328,36.078821,0.0 -84.652524,36.078323,0.0 -84.652388,36.078182,0.0 -84.65188,36.077706,0.0 -84.651303,36.077297,0.0 -84.651043,36.077146,0.0 -84.650477,36.076669,0.0 -84.649569,36.075714,0.0 -84.649405,36.075526,0.0 -84.649173,36.07526,0.0 -84.649499,36.075093,0.0 -84.650143,36.074479,0.0 -84.650452,36.074384,0.0 -84.650802,36.07438,0.0 -84.651462,36.074137,0.0 -84.652254,36.073601,0.0 -84.652593,36.073269,0.0 -84.652852,36.073062,0.0 -84.653593,36.072846,0.0 -84.654209,36.072721,0.0 -84.655123,36.072274,0.0 -84.656503,36.071876,0.0 -84.657277,36.071538,0.0 -84.658914,36.070871,0.0 -84.659511,36.070847,0.0 -84.660521,36.070478,0.0 -84.661292,36.070334,0.0 -84.662061,36.069924,0.0 -84.662251,36.069658,0.0 -84.662432,36.069074,0.0 -84.662266,36.068235,0.0 -84.661759,36.067843,0.0 -84.661093,36.067377,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="75030">
+            <name>Rock Jumble (III)</name>
+            <styleUrl>#75031</styleUrl>
+            <Point id="75029">
+                <coordinates>-84.70886,36.09511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75035">
+            <name>Obed River confluence</name>
+            <styleUrl>#75036</styleUrl>
+            <Point id="75034">
+                <coordinates>-84.69908,36.09108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75040">
+            <name>Camel Rock (III)</name>
+            <styleUrl>#75041</styleUrl>
+            <Point id="75039">
+                <coordinates>-84.71074,36.09858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75045">
+            <name>Canoe Hole (III)</name>
+            <styleUrl>#75046</styleUrl>
+            <Point id="75044">
+                <coordinates>-84.69279,36.09587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75050">
+            <name>Take Out</name>
+            <styleUrl>#75051</styleUrl>
+            <Point id="75049">
+                <coordinates>-84.660797,36.067799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75055">
+            <name>Keep Right (III)</name>
+            <styleUrl>#75056</styleUrl>
+            <Point id="75054">
+                <coordinates>-84.68467,36.09143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75060">
+            <name>Widow Maker (III)</name>
+            <styleUrl>#75061</styleUrl>
+            <Point id="75059">
+                <coordinates>-84.68438,36.08646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75065">
+            <name>Focus Falls (III)</name>
+            <styleUrl>#75066</styleUrl>
+            <Point id="75064">
+                <coordinates>-84.70356,36.09308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75070">
+            <name>Emory River confluence</name>
+            <styleUrl>#75071</styleUrl>
+            <Point id="75069">
+                <coordinates>-84.64908,36.07568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75075">
+            <name>Put in</name>
+            <styleUrl>#75076</styleUrl>
+            <Point id="75074">
+                <coordinates>-84.715797,36.104198,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

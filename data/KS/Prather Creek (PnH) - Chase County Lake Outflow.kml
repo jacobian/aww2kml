@@ -1,29 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="28215">
+    <Document id="47336">
+        <Style id="47341">
+            <IconStyle id="47342">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47343">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="47346">
+            <IconStyle id="47347">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47348">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="47351">
+            <IconStyle id="47352">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47353">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Prather Creek (PnH) - Chase County Lake Outflow</name>
-        <Placemark id="28217">
-            <name>Prather Creek (PnH) - Chase County Lake Outflow</name>
+        <Placemark id="47338">
+            <name>Prather Creek (PnH) - Chase County Lake Outflow (V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="28216">
+            <LineString id="47337">
                 <coordinates>-96.580796,38.369137,0.0 -96.580702,38.369216,0.0 -96.580594,38.369351,0.0 -96.580594,38.369351,0.0 -96.580332,38.36974,0.0 -96.58039,38.369969,0.0 -96.580506,38.370015,0.0 -96.580506,38.370221,0.0 -96.580361,38.370266,0.0 -96.579983,38.37022,0.0 -96.57975,38.37006,0.0 -96.579256,38.370083,0.0 -96.579227,38.370586,0.0 -96.579372,38.370952,0.0 -96.579372,38.371433,0.0 -96.578877,38.371776,0.0 -96.578839,38.371889,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="28219">
+        <Placemark id="47340">
             <name>Chaw Falls (V)</name>
-            <Point id="28218">
+            <styleUrl>#47341</styleUrl>
+            <Point id="47339">
                 <coordinates>-96.580444,38.369494,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28221">
+        <Placemark id="47345">
             <name>Put in</name>
-            <Point id="28220">
+            <styleUrl>#47346</styleUrl>
+            <Point id="47344">
                 <coordinates>-96.580796,38.369137,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28223">
+        <Placemark id="47350">
             <name>Take out</name>
-            <Point id="28222">
+            <styleUrl>#47351</styleUrl>
+            <Point id="47349">
                 <coordinates>-96.578839,38.371889,0.0</coordinates>
             </Point>
         </Placemark>

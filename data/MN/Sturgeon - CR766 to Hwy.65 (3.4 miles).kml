@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="114705">
+        <Style id="114710">
+            <IconStyle id="114711">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114712">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114715">
+            <IconStyle id="114716">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114717">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114720">
+            <IconStyle id="114721">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114722">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114725">
+            <IconStyle id="114726">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114727">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114730">
+            <IconStyle id="114731">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114732">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114735">
+            <IconStyle id="114736">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114737">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114740">
+            <IconStyle id="114741">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114742">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114745">
+            <IconStyle id="114746">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114747">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sturgeon - CR766 to Hwy.65 (3.4 miles)</name>
+        <Placemark id="114707">
+            <name>Sturgeon - CR766 to Hwy.65 (3.4 miles) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="114706">
+                <coordinates>-92.931253,47.655817,0.0 -92.9307,47.655842,0.0 -92.930244,47.655689,0.0 -92.929973,47.655401,0.0 -92.929938,47.654938,0.0 -92.930171,47.65465,0.0 -92.930404,47.654263,0.0 -92.93058,47.653899,0.0 -92.930189,47.653777,0.0 -92.929538,47.653669,0.0 -92.928895,47.653538,0.0 -92.928228,47.653456,0.0 -92.927611,47.653478,0.0 -92.927001,47.653406,0.0 -92.926633,47.653091,0.0 -92.926281,47.652744,0.0 -92.925637,47.652451,0.0 -92.92505,47.652262,0.0 -92.924489,47.652181,0.0 -92.924027,47.652311,0.0 -92.923793,47.652576,0.0 -92.923346,47.65263,0.0 -92.922193,47.652611,0.0 -92.921601,47.652795,0.0 -92.921122,47.652984,0.0 -92.920579,47.653136,0.0 -92.919962,47.65328,0.0 -92.919566,47.65359,0.0 -92.91939,47.653963,0.0 -92.919124,47.654265,0.0 -92.918711,47.654444,0.0 -92.918262,47.654201,0.0 -92.918041,47.653926,0.0 -92.918037,47.653454,0.0 -92.918043,47.653081,0.0 -92.917676,47.652887,0.0 -92.91705,47.652918,0.0 -92.916538,47.65285,0.0 -92.916081,47.652674,0.0 -92.915577,47.652552,0.0 -92.914991,47.652516,0.0 -92.914512,47.652448,0.0 -92.914137,47.652304,0.0 -92.913729,47.652119,0.0 -92.913695,47.652106,0.0 -92.9135,47.651984,0.0 -92.913296,47.651907,0.0 -92.913036,47.651966,0.0 -92.912939,47.652312,0.0 -92.912957,47.652492,0.0 -92.912765,47.653437,0.0 -92.912764,47.6539,0.0 -92.912635,47.654219,0.0 -92.912463,47.654453,0.0 -92.912322,47.654619,0.0 -92.912121,47.654583,0.0 -92.912135,47.654255,0.0 -92.912003,47.653962,0.0 -92.911474,47.653944,0.0 -92.911168,47.654268,0.0 -92.910991,47.654618,0.0 -92.910872,47.654992,0.0 -92.910712,47.655388,0.0 -92.910423,47.655869,0.0 -92.91014,47.656269,0.0 -92.910093,47.656336,0.0 -92.909787,47.656831,0.0 -92.909221,47.657186,0.0 -92.908654,47.657518,0.0 -92.908055,47.657846,0.0 -92.908092,47.658526,0.0 -92.908161,47.659138,0.0 -92.908092,47.659682,0.0 -92.907924,47.6601,0.0 -92.907776,47.660275,0.0 -92.907593,47.660491,0.0 -92.907157,47.660797,0.0 -92.906858,47.661148,0.0 -92.906674,47.661507,0.0 -92.906637,47.661885,0.0 -92.906636,47.661903,0.0 -92.906264,47.662276,0.0 -92.905655,47.662334,0.0 -92.905077,47.662226,0.0 -92.904686,47.661987,0.0 -92.904334,47.661708,0.0 -92.903928,47.66182,0.0 -92.903882,47.662153,0.0 -92.903746,47.662513,0.0 -92.903268,47.662746,0.0 -92.902659,47.662881,0.0 -92.902279,47.663083,0.0 -92.902036,47.663325,0.0 -92.901868,47.663604,0.0 -92.901822,47.663982,0.0 -92.90184,47.664302,0.0 -92.901996,47.664621,0.0 -92.902388,47.664833,0.0 -92.902642,47.665144,0.0 -92.902302,47.665323,0.0 -92.901813,47.665215,0.0 -92.901249,47.665039,0.0 -92.901284,47.665084,0.0 -92.901281,47.665822,0.0 -92.901057,47.666325,0.0 -92.900669,47.66664,0.0 -92.900183,47.667013,0.0 -92.899867,47.667454,0.0 -92.899748,47.66762,0.0 -92.899598,47.668241,0.0 -92.899331,47.668866,0.0 -92.899376,47.669302,0.0 -92.899409,47.669662,0.0 -92.899646,47.670252,0.0 -92.900122,47.67063,0.0 -92.900212,47.671165,0.0 -92.900495,47.671674,0.0 -92.900767,47.672138,0.0 -92.900753,47.672214,0.0 -92.900811,47.672574,0.0 -92.900771,47.672893,0.0 -92.900686,47.673024,0.0 -92.900565,47.673195,0.0 -92.900344,47.673352,0.0 -92.900186,47.673405,0.0 -92.900047,47.673356,0.0 -92.898565,47.673724,0.0 -92.898095,47.673723,0.0 -92.896906,47.674433,0.0 -92.896635,47.674724,0.0 -92.896634,47.674725,0.0 -92.896576,47.674787,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="114709">
+            <name>Take Out</name>
+            <styleUrl>#114710</styleUrl>
+            <Point id="114708">
+                <coordinates>-92.896477,47.674694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114714">
+            <name>Put In</name>
+            <styleUrl>#114715</styleUrl>
+            <Point id="114713">
+                <coordinates>-92.931259,47.655952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114719">
+            <name>Initial Sequence</name>
+            <styleUrl>#114720</styleUrl>
+            <Point id="114718">
+                <coordinates>-92.93264,47.656067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114724">
+            <name>Final Sequence</name>
+            <styleUrl>#114725</styleUrl>
+            <Point id="114723">
+                <coordinates>-92.900162,47.670712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114729">
+            <name>Second Sequence</name>
+            <styleUrl>#114730</styleUrl>
+            <Point id="114728">
+                <coordinates>-92.926201,47.653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114734">
+            <name>Third Sequence</name>
+            <styleUrl>#114735</styleUrl>
+            <Point id="114733">
+                <coordinates>-92.919502,47.653702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114739">
+            <name>Confluence E.Br.Sturgeon</name>
+            <styleUrl>#114740</styleUrl>
+            <Point id="114738">
+                <coordinates>-92.9011,47.6651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114744">
+            <name>East Branch Rapids (Drainage: ~51 sq.mi.)</name>
+            <styleUrl>#114745</styleUrl>
+            <Point id="114743">
+                <coordinates>-92.861,47.625999,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

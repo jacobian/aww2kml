@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="39245">
+        <Style id="39250">
+            <IconStyle id="39251">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="39252">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39255">
+            <IconStyle id="39256">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="39257">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39260">
+            <IconStyle id="39261">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="39262">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39265">
+            <IconStyle id="39266">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="39267">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Milwaukee - A) West Bend: E.Washington St./Dam to Quaas Creek Park (2 miles)</name>
+        <Placemark id="39247">
+            <name>Milwaukee - A) West Bend: E.Washington St./Dam to Quaas Creek Park (2 miles) (I(II))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="39246">
+                <coordinates>-88.183369,43.427535,0.0 -88.183213,43.427603,0.0 -88.182979,43.427457,0.0 -88.18263,43.427063,0.0 -88.182374,43.426412,0.0 -88.182236,43.4254,0.0 -88.182273,43.424861,0.0 -88.181852,43.423897,0.0 -88.181367,43.422867,0.0 -88.180991,43.422134,0.0 -88.180455,43.421137,0.0 -88.179991,43.420325,0.0 -88.179493,43.419943,0.0 -88.178978,43.419794,0.0 -88.177805,43.419577,0.0 -88.176962,43.419405,0.0 -88.176354,43.419115,0.0 -88.1754,43.419071,0.0 -88.174515,43.419347,0.0 -88.17383,43.419314,0.0 -88.172875,43.419491,0.0 -88.172283,43.419671,0.0 -88.171925,43.419861,0.0 -88.170728,43.420043,0.0 -88.170117,43.419607,0.0 -88.169791,43.419456,0.0 -88.168998,43.419569,0.0 -88.168403,43.419975,0.0 -88.168189,43.420521,0.0 -88.168457,43.420716,0.0 -88.169983,43.421281,0.0 -88.17053,43.421859,0.0 -88.170924,43.42246,0.0 -88.170801,43.422719,0.0 -88.170525,43.422812,0.0 -88.169744,43.422741,0.0 -88.168937,43.422612,0.0 -88.16859,43.42244,0.0 -88.168485,43.422345,0.0 -88.168094,43.422384,0.0 -88.167329,43.42281,0.0 -88.166786,43.423481,0.0 -88.165935,43.424246,0.0 -88.165808,43.424763,0.0 -88.165358,43.425391,0.0 -88.164653,43.42566,0.0 -88.16415,43.425777,0.0 -88.163181,43.425724,0.0 -88.16197,43.425626,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="39249">
+            <name>Riverside Disc Golf Rips (I)</name>
+            <styleUrl>#39250</styleUrl>
+            <Point id="39248">
+                <coordinates>-88.173426,43.419421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39254">
+            <name>Take Out</name>
+            <styleUrl>#39255</styleUrl>
+            <Point id="39253">
+                <coordinates>-88.16197,43.425626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39259">
+            <name>Put In</name>
+            <styleUrl>#39260</styleUrl>
+            <Point id="39258">
+                <coordinates>-88.1834,43.4275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39264">
+            <name>Eisenbahn State Trail</name>
+            <styleUrl>#39265</styleUrl>
+            <Point id="39263">
+                <coordinates>-88.178723,43.419749,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

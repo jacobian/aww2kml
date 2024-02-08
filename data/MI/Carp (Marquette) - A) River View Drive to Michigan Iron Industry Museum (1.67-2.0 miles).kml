@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="95987">
+        <Style id="95992">
+            <IconStyle id="95993">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95994">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95997">
+            <IconStyle id="95998">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95999">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96002">
+            <IconStyle id="96003">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96004">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96007">
+            <IconStyle id="96008">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96009">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96012">
+            <IconStyle id="96013">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96014">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96017">
+            <IconStyle id="96018">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96019">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96022">
+            <IconStyle id="96023">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96024">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Carp (Marquette) - A) River View Drive to Michigan Iron Industry Museum (1.67-2.0 miles)</name>
+        <Placemark id="95989">
+            <name>Carp (Marquette) - A) River View Drive to Michigan Iron Industry Museum (1.67-2.0 miles) (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="95988">
+                <coordinates>-87.5823,46.526774,0.0 -87.581817,46.526774,0.0 -87.581188,46.526568,0.0 -87.580063,46.526134,0.0 -87.57907,46.525425,0.0 -87.578242,46.525059,0.0 -87.577249,46.524715,0.0 -87.576057,46.524486,0.0 -87.575627,46.524555,0.0 -87.575328,46.524714,0.0 -87.575361,46.525195,0.0 -87.575195,46.525309,0.0 -87.574632,46.525423,0.0 -87.574467,46.5254,0.0 -87.574301,46.525308,0.0 -87.573341,46.524851,0.0 -87.573309,46.524348,0.0 -87.573408,46.524028,0.0 -87.574005,46.523525,0.0 -87.574767,46.523183,0.0 -87.57586,46.523046,0.0 -87.576456,46.522841,0.0 -87.57692,46.522544,0.0 -87.57692,46.521881,0.0 -87.576821,46.521835,0.0 -87.576854,46.521698,0.0 -87.576226,46.521378,0.0 -87.575398,46.521286,0.0 -87.574636,46.521286,0.0 -87.573113,46.521468,0.0 -87.570066,46.521443,0.0 -87.569338,46.521557,0.0 -87.56788,46.5219,0.0 -87.567218,46.521945,0.0 -87.566854,46.521876,0.0 -87.566391,46.521647,0.0 -87.566191,46.521434,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="95991">
+            <name>Upper Carp River Falls (IV)</name>
+            <styleUrl>#95992</styleUrl>
+            <Point id="95990">
+                <coordinates>-87.577499,46.521999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95996">
+            <name>Take Out</name>
+            <styleUrl>#95997</styleUrl>
+            <Point id="95995">
+                <coordinates>-87.5658,46.5218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96001">
+            <name>Hwy.28/41 (I)</name>
+            <styleUrl>#96002</styleUrl>
+            <Point id="96000">
+                <coordinates>-87.573402,46.5247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96006">
+            <name>Put In</name>
+            <styleUrl>#96007</styleUrl>
+            <Point id="96005">
+                <coordinates>-87.5823,46.5264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96011">
+            <name>Alternate take-out</name>
+            <styleUrl>#96012</styleUrl>
+            <Point id="96010">
+                <coordinates>-87.560799,46.518902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96016">
+            <name>More low-grade rapids (II)</name>
+            <styleUrl>#96017</styleUrl>
+            <Point id="96015">
+                <coordinates>-87.575073,46.52285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96021">
+            <name>Warm-up</name>
+            <styleUrl>#96022</styleUrl>
+            <Point id="96020">
+                <coordinates>-87.5774,46.524799,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

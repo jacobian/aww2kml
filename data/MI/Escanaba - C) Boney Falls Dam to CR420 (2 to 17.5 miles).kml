@@ -1,132 +1,318 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="21481">
+    <Document id="36065">
+        <Style id="36070">
+            <IconStyle id="36071">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36072">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36075">
+            <IconStyle id="36076">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36077">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36080">
+            <IconStyle id="36081">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36082">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36085">
+            <IconStyle id="36086">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36087">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36090">
+            <IconStyle id="36091">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36092">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36095">
+            <IconStyle id="36096">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36097">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36100">
+            <IconStyle id="36101">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36102">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36105">
+            <IconStyle id="36106">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36107">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36110">
+            <IconStyle id="36111">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36112">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36115">
+            <IconStyle id="36116">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36117">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36120">
+            <IconStyle id="36121">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36122">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36125">
+            <IconStyle id="36126">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36127">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36130">
+            <IconStyle id="36131">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36132">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36135">
+            <IconStyle id="36136">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36137">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36140">
+            <IconStyle id="36141">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36142">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36145">
+            <IconStyle id="36146">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36147">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36150">
+            <IconStyle id="36151">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36152">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36155">
+            <IconStyle id="36156">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36157">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Escanaba - C) Boney Falls Dam to CR420 (2 to 17.5 miles)</name>
-        <Placemark id="21483">
-            <name>Escanaba - C) Boney Falls Dam to CR420 (2 to 17.5 miles)</name>
+        <Placemark id="36067">
+            <name>Escanaba - C) Boney Falls Dam to CR420 (2 to 17.5 miles) (II(III))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="21482">
+            <LineString id="36066">
                 <coordinates>-87.269614,45.979717,0.0 -87.269254,45.977922,0.0 -87.26777,45.976813,0.0 -87.266545,45.976481,0.0 -87.264326,45.975451,0.0 -87.260097,45.974545,0.0 -87.259771,45.974271,0.0 -87.258008,45.973904,0.0 -87.257681,45.97363,0.0 -87.254155,45.972896,0.0 -87.25146,45.972722,0.0 -87.24852,45.973039,0.0 -87.24215,45.97326,0.0 -87.236744,45.973038,0.0 -87.228744,45.971887,0.0 -87.224875,45.971003,0.0 -87.22246,45.970087,0.0 -87.221482,45.969264,0.0 -87.219949,45.968531,0.0 -87.218628,45.967559,0.0 -87.216054,45.965112,0.0 -87.21521,45.963284,0.0 -87.216005,45.958649,0.0 -87.21686,45.956298,0.0 -87.217286,45.955819,0.0 -87.217386,45.955065,0.0 -87.218567,45.952989,0.0 -87.218703,45.950591,0.0 -87.217437,45.947849,0.0 -87.21747,45.947598,0.0 -87.216087,45.945735,0.0 -87.214328,45.943975,0.0 -87.212995,45.941735,0.0 -87.212853,45.940079,0.0 -87.213186,45.937568,0.0 -87.212591,45.933856,0.0 -87.212711,45.931584,0.0 -87.212373,45.930043,0.0 -87.210877,45.927666,0.0 -87.210426,45.92561,0.0 -87.210679,45.922334,0.0 -87.211863,45.918865,0.0 -87.212788,45.914619,0.0 -87.212462,45.914344,0.0 -87.212562,45.913591,0.0 -87.212094,45.911661,0.0 -87.212773,45.907905,0.0 -87.212759,45.906638,0.0 -87.212371,45.905473,0.0 -87.210956,45.903862,0.0 -87.205062,45.899173,0.0 -87.201218,45.896771,0.0 -87.198806,45.895854,0.0 -87.197208,45.895624,0.0 -87.195936,45.895667,0.0 -87.194434,45.896076,0.0 -87.192865,45.896987,0.0 -87.191346,45.897522,0.0 -87.185701,45.897788,0.0 -87.176283,45.899201,0.0 -87.168568,45.898698,0.0 -87.167996,45.898914,0.0 -87.167099,45.898855,0.0 -87.160456,45.899815,0.0 -87.156453,45.901327,0.0 -87.151173,45.904275,0.0 -87.149671,45.904683,0.0 -87.146357,45.9051,0.0 -87.144025,45.904947,0.0 -87.142998,45.9045,0.0 -87.142185,45.903814,0.0 -87.141422,45.90275,0.0 -87.138349,45.900016,0.0 -87.136974,45.89676,0.0 -87.135835,45.895799,0.0 -87.132219,45.894422,0.0 -87.130739,45.893312,0.0 -87.130026,45.891873,0.0 -87.130065,45.890229,0.0 -87.129017,45.887247,0.0 -87.126179,45.882755,0.0 -87.124408,45.881119,0.0 -87.122553,45.880111,0.0 -87.120826,45.879491,0.0 -87.116443,45.878444,0.0 -87.116118,45.878169,0.0 -87.112727,45.87782,0.0 -87.111976,45.878024,0.0 -87.110407,45.878934,0.0 -87.109846,45.880417,0.0 -87.109061,45.880872,0.0 -87.107234,45.881006,0.0 -87.104723,45.880841,0.0 -87.103792,45.881033,0.0 -87.103075,45.880986,0.0 -87.100665,45.880067,0.0 -87.099051,45.879961,0.0 -87.096472,45.880298,0.0 -87.095037,45.880204,0.0 -87.094096,45.879129,0.0 -87.093973,45.877348,0.0 -87.093648,45.877073,0.0 -87.093587,45.876182,0.0 -87.093133,45.875519,0.0 -87.09387,45.867336,0.0 -87.093518,45.86592,0.0 -87.092252,45.86457,0.0 -87.091541,45.86313,0.0 -87.092114,45.858862,0.0 -87.092607,45.857881,0.0 -87.092776,45.856626,0.0 -87.092003,45.854295,0.0 -87.089831,45.85162,0.0 -87.089299,45.850192,0.0 -87.089366,45.84969,0.0 -87.087048,45.846751,0.0 -87.087166,45.845872,0.0 -87.088623,45.844448,0.0 -87.088905,45.839655,0.0 -87.090082,45.838973,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="21485">
+        <Placemark id="36069">
             <name>Confluence, South Mino-kwe Creek</name>
-            <Point id="21484">
+            <styleUrl>#36070</styleUrl>
+            <Point id="36068">
                 <coordinates>-87.222313,45.969959,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21487">
+        <Placemark id="36074">
             <name>Final ledge in sequence (I)</name>
-            <Point id="21486">
+            <styleUrl>#36075</styleUrl>
+            <Point id="36073">
                 <coordinates>-87.212608,45.93502,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21489">
+        <Placemark id="36079">
             <name>Hunters Brook Falls</name>
-            <Point id="21488">
+            <styleUrl>#36080</styleUrl>
+            <Point id="36078">
                 <coordinates>-87.218803,45.947701,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21491">
+        <Placemark id="36084">
             <name>Begin ledge sequence (II)</name>
-            <Point id="21490">
+            <styleUrl>#36085</styleUrl>
+            <Point id="36083">
                 <coordinates>-87.217964,45.954739,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21493">
+        <Placemark id="36089">
             <name>Robin G Road</name>
-            <Point id="21492">
+            <styleUrl>#36090</styleUrl>
+            <Point id="36088">
                 <coordinates>-87.242889,45.973141,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21495">
+        <Placemark id="36094">
             <name>Take Out</name>
-            <Point id="21494">
+            <styleUrl>#36095</styleUrl>
+            <Point id="36093">
                 <coordinates>-87.0914,45.8399,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21497">
+        <Placemark id="36099">
             <name>Put In</name>
-            <Point id="21496">
+            <styleUrl>#36100</styleUrl>
+            <Point id="36098">
                 <coordinates>-87.2697,45.9797,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21499">
+        <Placemark id="36104">
             <name>Possible playable wave/hole (II)</name>
-            <Point id="21498">
+            <styleUrl>#36105</styleUrl>
+            <Point id="36103">
                 <coordinates>-87.268303,45.976879,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21501">
+        <Placemark id="36109">
             <name>Possible diagonal bedrock ledge/waves</name>
-            <Point id="21500">
+            <styleUrl>#36110</styleUrl>
+            <Point id="36108">
                 <coordinates>-87.134941,45.895321,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21503">
+        <Placemark id="36114">
             <name>possible minor wave/hole</name>
-            <Point id="21502">
+            <styleUrl>#36115</styleUrl>
+            <Point id="36113">
                 <coordinates>-87.108139,45.881069,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21505">
+        <Placemark id="36119">
             <name>Rocky shoals</name>
-            <Point id="21504">
+            <styleUrl>#36120</styleUrl>
+            <Point id="36118">
                 <coordinates>-87.215813,45.960361,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21507">
+        <Placemark id="36124">
             <name>*Possible* access point</name>
-            <Point id="21506">
+            <styleUrl>#36125</styleUrl>
+            <Point id="36123">
                 <coordinates>-87.2164,45.95652,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21509">
+        <Placemark id="36129">
             <name>Second+Third Ledge</name>
-            <Point id="21508">
+            <styleUrl>#36130</styleUrl>
+            <Point id="36128">
                 <coordinates>-87.218582,45.95237,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21511">
+        <Placemark id="36134">
             <name>Back-to-back-to-back very minor ledges</name>
-            <Point id="21510">
+            <styleUrl>#36135</styleUrl>
+            <Point id="36133">
                 <coordinates>-87.212929,45.941399,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21513">
+        <Placemark id="36139">
             <name>Minor ledges</name>
-            <Point id="21512">
+            <styleUrl>#36140</styleUrl>
+            <Point id="36138">
                 <coordinates>-87.212387,45.909828,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21515">
+        <Placemark id="36144">
             <name>Bedrock slabs</name>
-            <Point id="21514">
+            <styleUrl>#36145</styleUrl>
+            <Point id="36143">
                 <coordinates>-87.129578,45.889339,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21517">
+        <Placemark id="36149">
             <name>Powerlines</name>
-            <Point id="21516">
+            <styleUrl>#36150</styleUrl>
+            <Point id="36148">
                 <coordinates>-87.123108,45.880409,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21519">
+        <Placemark id="36154">
             <name>USGS active gauge</name>
-            <Point id="21518">
+            <styleUrl>#36155</styleUrl>
+            <Point id="36153">
                 <coordinates>-87.213699,45.9086,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21521">
-            <name>Put in</name>
-            <Point id="21520">
-                <coordinates>-87.2697,45.9797,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21523">
-            <name>Take out</name>
-            <Point id="21522">
-                <coordinates>-87.0914,45.8399,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

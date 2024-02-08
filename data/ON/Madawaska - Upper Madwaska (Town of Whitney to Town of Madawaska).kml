@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="50004">
+        <Style id="50009">
+            <IconStyle id="50010">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50011">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50014">
+            <IconStyle id="50015">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50016">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50019">
+            <IconStyle id="50020">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50021">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50024">
+            <IconStyle id="50025">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50026">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50029">
+            <IconStyle id="50030">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50031">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Madawaska - Upper Madwaska (Town of Whitney to Town of Madawaska)</name>
+        <Placemark id="50006">
+            <name>Madawaska - Upper Madwaska (Town of Whitney to Town of Madawaska) (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="50005">
+                <coordinates>-78.24042,45.493855,0.0 -78.238951,45.494065,0.0 -78.235997,45.494331,0.0 -78.232892,45.49518,0.0 -78.230998,45.496455,0.0 -78.229786,45.497464,0.0 -78.229256,45.501552,0.0 -78.230316,45.504365,0.0 -78.22971,45.504896,0.0 -78.227438,45.505746,0.0 -78.224635,45.506117,0.0 -78.22206,45.507073,0.0 -78.219409,45.509143,0.0 -78.215091,45.511425,0.0 -78.208956,45.511372,0.0 -78.204941,45.512062,0.0 -78.201836,45.51323,0.0 -78.197515,45.515162,0.0 -78.194586,45.517784,0.0 -78.191655,45.519091,0.0 -78.188405,45.517845,0.0 -78.185937,45.517026,0.0 -78.182742,45.516362,0.0 -78.180327,45.516436,0.0 -78.177738,45.51584,0.0 -78.174184,45.514607,0.0 -78.171481,45.514498,0.0 -78.16813,45.513888,0.0 -78.158059,45.510538,0.0 -78.1546,45.50938,0.0 -78.150502,45.50877,0.0 -78.145795,45.50753,0.0 -78.143466,45.50714,0.0 -78.141188,45.507243,0.0 -78.13479,45.508003,0.0 -78.132069,45.509149,0.0 -78.129715,45.509176,0.0 -78.126626,45.507277,0.0 -78.125941,45.506752,0.0 -78.125372,45.505415,0.0 -78.123308,45.503674,0.0 -78.122182,45.502275,0.0 -78.119724,45.499983,0.0 -78.117259,45.498744,0.0 -78.114824,45.4985,0.0 -78.113488,45.497647,0.0 -78.111815,45.497086,0.0 -78.110664,45.495956,0.0 -78.107839,45.494265,0.0 -78.105989,45.492905,0.0 -78.102851,45.493082,0.0 -78.100611,45.494141,0.0 -78.098241,45.493811,0.0 -78.095737,45.494028,0.0 -78.092956,45.493506,0.0 -78.091434,45.491849,0.0 -78.088977,45.490756,0.0 -78.08606,45.491229,0.0 -78.083,45.490436,0.0 -78.081831,45.490888,0.0 -78.078527,45.491334,0.0 -78.074789,45.490475,0.0 -78.072893,45.490214,0.0 -78.071946,45.490389,0.0 -78.071346,45.490889,0.0 -78.068393,45.494227,0.0 -78.066549,45.496598,0.0 -78.067436,45.500432,0.0 -78.067005,45.501038,0.0 -78.066979,45.502375,0.0 -78.067652,45.504399,0.0 -78.064682,45.507264,0.0 -78.063127,45.508936,0.0 -78.062499,45.510975,0.0 -78.061418,45.513386,0.0 -78.06049,45.514473,0.0 -78.058547,45.514451,0.0 -78.056938,45.517091,0.0 -78.055416,45.519467,0.0 -78.054354,45.521722,0.0 -78.05277,45.523815,0.0 -78.050214,45.526122,0.0 -78.049881,45.52938,0.0 -78.048424,45.530685,0.0 -78.048069,45.532395,0.0 -78.048418,45.533641,0.0 -78.04836,45.53369,0.0 -78.048127,45.53384,0.0 -78.047444,45.534047,0.0 -78.04687,45.534394,0.0 -78.046496,45.53471,0.0 -78.046338,45.534989,0.0 -78.046201,45.53517,0.0 -78.046162,45.535321,0.0 -78.046151,45.53533,0.0 -78.046252,45.535368,0.0 -78.046193,45.535348,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="50008">
+            <name>Town of Whitney Put-in</name>
+            <styleUrl>#50009</styleUrl>
+            <Point id="50007">
+                <coordinates>-78.240247,45.494124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50013">
+            <name>Alternate Access, Hydroline Road</name>
+            <styleUrl>#50014</styleUrl>
+            <Point id="50012">
+                <coordinates>-78.171509,45.514375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50018">
+            <name>Town of Madawaska Access</name>
+            <styleUrl>#50019</styleUrl>
+            <Point id="50017">
+                <coordinates>-78.04557,45.535247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50023">
+            <name>Put in</name>
+            <styleUrl>#50024</styleUrl>
+            <Point id="50022">
+                <coordinates>-78.24042,45.493855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50028">
+            <name>Take out</name>
+            <styleUrl>#50029</styleUrl>
+            <Point id="50027">
+                <coordinates>-78.046193,45.535348,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="88690">
+        <Style id="88695">
+            <IconStyle id="88696">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="88697">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="88700">
+            <IconStyle id="88701">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="88702">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Poesten Kill - 2. Troy to Hudson River</name>
+        <Placemark id="88692">
+            <name>Poesten Kill - 2. Troy to Hudson River (III-V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="88691">
+                <coordinates>-73.675511,42.721703,0.0 -73.6759,42.72166,0.0 -73.676134,42.721603,0.0 -73.676423,42.721521,0.0 -73.676679,42.721439,0.0 -73.676846,42.721392,0.0 -73.677114,42.721316,0.0 -73.67727,42.721324,0.0 -73.677348,42.721398,0.0 -73.677437,42.721496,0.0 -73.677526,42.721562,0.0 -73.677568,42.721572,0.0 -73.67766,42.721595,0.0 -73.677772,42.721545,0.0 -73.677851,42.721483,0.0 -73.677925,42.721425,0.0 -73.678002,42.72133,0.0 -73.678114,42.721205,0.0 -73.678216,42.721095,0.0 -73.678395,42.720981,0.0 -73.67864,42.720891,0.0 -73.67893,42.720809,0.0 -73.679186,42.720768,0.0 -73.67942,42.720768,0.0 -73.679676,42.720784,0.0 -73.680055,42.720833,0.0 -73.680435,42.72088,0.0 -73.680723,42.720915,0.0 -73.680924,42.720915,0.0 -73.681058,42.720891,0.0 -73.681214,42.720833,0.0 -73.681256,42.720813,0.0 -73.681425,42.720735,0.0 -73.681484,42.720702,0.0 -73.681704,42.72058,0.0 -73.68216,42.720269,0.0 -73.682989,42.719631,0.0 -73.683527,42.71944,0.0 -73.683702,42.719417,0.0 -73.683807,42.719404,0.0 -73.684029,42.719364,0.0 -73.684185,42.719407,0.0 -73.684505,42.719417,0.0 -73.684678,42.719423,0.0 -73.684727,42.719418,0.0 -73.685914,42.71931,0.0 -73.686385,42.719291,0.0 -73.686681,42.719367,0.0 -73.687344,42.719419,0.0 -73.689026,42.719564,0.0 -73.690563,42.719763,0.0 -73.692086,42.719944,0.0 -73.693541,42.720114,0.0 -73.6952,42.720301,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="88694">
+            <name>Take Out</name>
+            <styleUrl>#88695</styleUrl>
+            <Point id="88693">
+                <coordinates>-73.6952,42.7203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88699">
+            <name>Put In</name>
+            <styleUrl>#88700</styleUrl>
+            <Point id="88698">
+                <coordinates>-73.6755,42.7216,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

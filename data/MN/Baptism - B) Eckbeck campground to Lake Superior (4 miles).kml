@@ -1,72 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="12991">
+    <Document id="22025">
+        <Style id="22030">
+            <IconStyle id="22031">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22032">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22035">
+            <IconStyle id="22036">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22037">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22040">
+            <IconStyle id="22041">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22042">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22045">
+            <IconStyle id="22046">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22047">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22050">
+            <IconStyle id="22051">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22052">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22055">
+            <IconStyle id="22056">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22057">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22060">
+            <IconStyle id="22061">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22062">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22065">
+            <IconStyle id="22066">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22067">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Baptism - B) Eckbeck campground to Lake Superior (4 miles)</name>
-        <Placemark id="12993">
-            <name>Baptism - B) Eckbeck campground to Lake Superior (4 miles)</name>
+        <Placemark id="22027">
+            <name>Baptism - B) Eckbeck campground to Lake Superior (4 miles) (II-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="12992">
+            <LineString id="22026">
                 <coordinates>-91.228794,47.372891,0.0 -91.228693,47.371606,0.0 -91.228557,47.370989,0.0 -91.22859,47.370875,0.0 -91.229095,47.37076,0.0 -91.229532,47.370805,0.0 -91.230069,47.370348,0.0 -91.230338,47.37021,0.0 -91.230304,47.369822,0.0 -91.229664,47.369068,0.0 -91.228081,47.368087,0.0 -91.226163,47.367563,0.0 -91.225994,47.367358,0.0 -91.225723,47.365896,0.0 -91.225386,47.365485,0.0 -91.224309,47.365463,0.0 -91.223435,47.365486,0.0 -91.223031,47.365144,0.0 -91.222289,47.364071,0.0 -91.221447,47.363546,0.0 -91.221077,47.363386,0.0 -91.220908,47.362975,0.0 -91.220739,47.362153,0.0 -91.220671,47.362038,0.0 -91.219965,47.361947,0.0 -91.219091,47.362131,0.0 -91.218687,47.362063,0.0 -91.218418,47.361629,0.0 -91.218249,47.361195,0.0 -91.217373,47.36051,0.0 -91.216398,47.360191,0.0 -91.21606,47.359665,0.0 -91.215992,47.358797,0.0 -91.215924,47.358546,0.0 -91.21589,47.358455,0.0 -91.215386,47.358364,0.0 -91.214411,47.358639,0.0 -91.21394,47.358479,0.0 -91.213671,47.358274,0.0 -91.212728,47.35768,0.0 -91.212391,47.357246,0.0 -91.212391,47.356904,0.0 -91.212592,47.356538,0.0 -91.213163,47.356377,0.0 -91.214777,47.356353,0.0 -91.215147,47.356125,0.0 -91.21518,47.355622,0.0 -91.214269,47.354137,0.0 -91.213428,47.35359,0.0 -91.212688,47.353339,0.0 -91.211511,47.353088,0.0 -91.21077,47.352495,0.0 -91.2105,47.351946,0.0 -91.209927,47.350919,0.0 -91.207841,47.349458,0.0 -91.207168,47.34923,0.0 -91.206898,47.348773,0.0 -91.206863,47.347928,0.0 -91.206359,47.347791,0.0 -91.206056,47.347311,0.0 -91.206054,47.346466,0.0 -91.206454,47.343586,0.0 -91.206452,47.342216,0.0 -91.207022,47.341735,0.0 -91.207829,47.341483,0.0 -91.208736,47.341323,0.0 -91.208836,47.340866,0.0 -91.208567,47.340272,0.0 -91.207994,47.339861,0.0 -91.20712,47.33977,0.0 -91.206045,47.339817,0.0 -91.204464,47.339224,0.0 -91.20396,47.338995,0.0 -91.202984,47.338539,0.0 -91.202143,47.338014,0.0 -91.200025,47.337444,0.0 -91.199587,47.336919,0.0 -91.198713,47.336508,0.0 -91.19804,47.33612,0.0 -91.19754,47.335973,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="12995">
+        <Placemark id="22029">
             <name>Two Step (IV)</name>
-            <Point id="12994">
+            <styleUrl>#22030</styleUrl>
+            <Point id="22028">
                 <coordinates>-91.206802,47.348099,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12997">
+        <Placemark id="22034">
             <name>Narrows/Cascades (V)</name>
-            <Point id="12996">
+            <styleUrl>#22035</styleUrl>
+            <Point id="22033">
                 <coordinates>-91.206703,47.343201,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12999">
+        <Placemark id="22039">
             <name>Superior Hiking Trail Bridge / High Falls</name>
-            <Point id="12998">
+            <styleUrl>#22040</styleUrl>
+            <Point id="22038">
                 <coordinates>-91.210297,47.3517,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="13001">
+        <Placemark id="22044">
             <name>Illgen Falls (IV)</name>
-            <Point id="13000">
+            <styleUrl>#22045</styleUrl>
+            <Point id="22043">
                 <coordinates>-91.214104,47.358799,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="13003">
+        <Placemark id="22049">
             <name>Take Out</name>
-            <Point id="13002">
+            <styleUrl>#22050</styleUrl>
+            <Point id="22048">
                 <coordinates>-91.197502,47.336102,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="13005">
+        <Placemark id="22054">
             <name>Put In</name>
-            <Point id="13004">
+            <styleUrl>#22055</styleUrl>
+            <Point id="22053">
                 <coordinates>-91.228699,47.372898,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="13007">
+        <Placemark id="22059">
             <name>Kramer's Choice (III)</name>
-            <Point id="13006">
+            <styleUrl>#22060</styleUrl>
+            <Point id="22058">
                 <coordinates>-91.230103,47.369701,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="13009">
+        <Placemark id="22064">
             <name>USGS sampling site</name>
-            <Point id="13008">
+            <styleUrl>#22065</styleUrl>
+            <Point id="22063">
                 <coordinates>-91.200699,47.337399,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="13011">
-            <name>Put in</name>
-            <Point id="13010">
-                <coordinates>-91.228699,47.372898,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="13013">
-            <name>Take out</name>
-            <Point id="13012">
-                <coordinates>-91.197502,47.336102,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="68647">
+        <Style id="68652">
+            <IconStyle id="68653">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68654">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="68657">
+            <IconStyle id="68658">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68659">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Hazard Creek - Hard Creek to Little Salmon confluence</name>
+        <Placemark id="68649">
+            <name>Hazard Creek - Hard Creek to Little Salmon confluence (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="68648">
+                <coordinates>-116.282502,45.182796,0.0 -116.282759,45.182816,0.0 -116.283814,45.182936,0.0 -116.284132,45.182887,0.0 -116.284295,45.182849,0.0 -116.284435,45.182843,0.0 -116.28518,45.183025,0.0 -116.286033,45.183173,0.0 -116.286328,45.183184,0.0 -116.286825,45.183124,0.0 -116.287135,45.183009,0.0 -116.287445,45.18297,0.0 -116.287787,45.182992,0.0 -116.288485,45.182954,0.0 -116.289044,45.182855,0.0 -116.289331,45.182778,0.0 -116.290449,45.182367,0.0 -116.290782,45.182285,0.0 -116.291318,45.182203,0.0 -116.291527,45.182203,0.0 -116.291822,45.182252,0.0 -116.292993,45.182263,0.0 -116.294235,45.182302,0.0 -116.294584,45.182346,0.0 -116.29522,45.182582,0.0 -116.295468,45.182758,0.0 -116.2956,45.182878,0.0 -116.295949,45.183284,0.0 -116.29612,45.183427,0.0 -116.296485,45.183619,0.0 -116.296981,45.1838,0.0 -116.297424,45.18385,0.0 -116.298386,45.183883,0.0 -116.298634,45.18385,0.0 -116.298952,45.183762,0.0 -116.299456,45.183663,0.0 -116.299643,45.183614,0.0 -116.299875,45.183537,0.0 -116.300201,45.183504,0.0 -116.300869,45.183571,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="68651">
+            <name>Take Out</name>
+            <styleUrl>#68652</styleUrl>
+            <Point id="68650">
+                <coordinates>-116.300873,45.183538,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68656">
+            <name>Put In</name>
+            <styleUrl>#68657</styleUrl>
+            <Point id="68655">
+                <coordinates>-116.282495,45.182895,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

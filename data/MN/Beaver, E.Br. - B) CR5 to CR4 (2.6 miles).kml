@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="72895">
+        <Style id="72900">
+            <IconStyle id="72901">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72902">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72905">
+            <IconStyle id="72906">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72907">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72910">
+            <IconStyle id="72911">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72912">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72915">
+            <IconStyle id="72916">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72917">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72920">
+            <IconStyle id="72921">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72922">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72925">
+            <IconStyle id="72926">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72927">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72930">
+            <IconStyle id="72931">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72932">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Beaver, E.Br. - B) CR5 to CR4 (2.6 miles)</name>
+        <Placemark id="72897">
+            <name>Beaver, E.Br. - B) CR5 to CR4 (2.6 miles) (III+(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="72896">
+                <coordinates>-91.319588,47.294915,0.0 -91.318609,47.29447,0.0 -91.318173,47.294264,0.0 -91.318005,47.29383,0.0 -91.318039,47.293579,0.0 -91.317704,47.293236,0.0 -91.317099,47.293121,0.0 -91.31589,47.293098,0.0 -91.314916,47.292731,0.0 -91.314413,47.292434,0.0 -91.314111,47.292023,0.0 -91.314078,47.291726,0.0 -91.314179,47.291543,0.0 -91.315053,47.290835,0.0 -91.315759,47.290493,0.0 -91.316296,47.290447,0.0 -91.317404,47.290493,0.0 -91.318211,47.290402,0.0 -91.318547,47.289946,0.0 -91.318514,47.28942,0.0 -91.317709,47.288734,0.0 -91.317508,47.288368,0.0 -91.317676,47.28766,0.0 -91.316938,47.286769,0.0 -91.315999,47.285968,0.0 -91.315798,47.285626,0.0 -91.316067,47.285032,0.0 -91.315967,47.28478,0.0 -91.316001,47.284186,0.0 -91.316473,47.28309,0.0 -91.317212,47.282359,0.0 -91.317851,47.281879,0.0 -91.31849,47.281263,0.0 -91.318692,47.280783,0.0 -91.318558,47.280143,0.0 -91.318357,47.279457,0.0 -91.318694,47.278338,0.0 -91.318695,47.277492,0.0 -91.318427,47.277355,0.0 -91.318124,47.277401,0.0 -91.317218,47.277789,0.0 -91.316379,47.277331,0.0 -91.316278,47.27708,0.0 -91.316581,47.27676,0.0 -91.316716,47.276395,0.0 -91.316212,47.27628,0.0 -91.315575,47.275914,0.0 -91.314735,47.275731,0.0 -91.314232,47.275411,0.0 -91.314132,47.275022,0.0 -91.314636,47.274588,0.0 -91.315341,47.274314,0.0 -91.31608,47.274018,0.0 -91.316618,47.273264,0.0 -91.31766,47.272465,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="72899">
+            <name>Start of Three Falls Sequence (IV+)</name>
+            <styleUrl>#72900</styleUrl>
+            <Point id="72898">
+                <coordinates>-91.315498,47.285702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72904">
+            <name>Head of gradient</name>
+            <styleUrl>#72905</styleUrl>
+            <Point id="72903">
+                <coordinates>-91.318497,47.290089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72909">
+            <name>Take Out</name>
+            <styleUrl>#72910</styleUrl>
+            <Point id="72908">
+                <coordinates>-91.322197,47.2733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72914">
+            <name>Put In</name>
+            <styleUrl>#72915</styleUrl>
+            <Point id="72913">
+                <coordinates>-91.319504,47.295101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72919">
+            <name>Pipeline Service Road</name>
+            <styleUrl>#72920</styleUrl>
+            <Point id="72918">
+                <coordinates>-91.315804,47.284901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72924">
+            <name>Railroad</name>
+            <styleUrl>#72925</styleUrl>
+            <Point id="72923">
+                <coordinates>-91.316704,47.273499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72929">
+            <name>Silver Bay Golf Course</name>
+            <styleUrl>#72930</styleUrl>
+            <Point id="72928">
+                <coordinates>-91.318703,47.278198,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

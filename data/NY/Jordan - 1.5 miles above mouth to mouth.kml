@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="90607">
+        <Style id="90612">
+            <IconStyle id="90613">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="90614">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="90617">
+            <IconStyle id="90618">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="90619">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Jordan - 1.5 miles above mouth to mouth</name>
+        <Placemark id="90609">
+            <name>Jordan - 1.5 miles above mouth to mouth (II-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="90608">
+                <coordinates>-74.701238,44.377715,0.0 -74.701242,44.377737,0.0 -74.701466,44.378057,0.0 -74.701658,44.378194,0.0 -74.701754,44.378537,0.0 -74.701723,44.379337,0.0 -74.701628,44.380115,0.0 -74.701756,44.38032,0.0 -74.702011,44.38048,0.0 -74.703447,44.380777,0.0 -74.704116,44.380662,0.0 -74.704689,44.380295,0.0 -74.705008,44.380318,0.0 -74.705551,44.380638,0.0 -74.705679,44.380935,0.0 -74.705743,44.381415,0.0 -74.705871,44.38169,0.0 -74.706127,44.381872,0.0 -74.707371,44.382077,0.0 -74.70753,44.382306,0.0 -74.707404,44.382901,0.0 -74.707468,44.383266,0.0 -74.707596,44.383358,0.0 -74.70817,44.3837,0.0 -74.708649,44.383814,0.0 -74.709222,44.383768,0.0 -74.710051,44.383402,0.0 -74.710689,44.383333,0.0 -74.711582,44.383561,0.0 -74.712252,44.38404,0.0 -74.712858,44.38404,0.0 -74.713336,44.383994,0.0 -74.71407,44.383993,0.0 -74.714739,44.38381,0.0 -74.715249,44.383604,0.0 -74.715887,44.383626,0.0 -74.716174,44.383694,0.0 -74.717832,44.38351,0.0 -74.718374,44.383555,0.0 -74.719522,44.38376,0.0 -74.720384,44.383988,0.0 -74.720734,44.383942,0.0 -74.720734,44.383508,0.0 -74.720319,44.383165,0.0 -74.719552,44.382571,0.0 -74.719456,44.382045,0.0 -74.719646,44.38145,0.0 -74.720028,44.381084,0.0 -74.720187,44.380627,0.0 -74.720633,44.380215,0.0 -74.721033,44.37992,0.0 -74.721828,44.379492,0.0 -74.722947,44.378822,0.0 -74.724138,44.37793,0.0 -74.724376,44.377968,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="90611">
+            <name>Take Out</name>
+            <styleUrl>#90612</styleUrl>
+            <Point id="90610">
+                <coordinates>-74.724403,44.3778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90616">
+            <name>Put In</name>
+            <styleUrl>#90617</styleUrl>
+            <Point id="90615">
+                <coordinates>-74.701302,44.377701,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="112746">
+        <Style id="112751">
+            <IconStyle id="112752">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112753">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="112756">
+            <IconStyle id="112757">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112758">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Flat Fork, North Prong - Panther Branch &amp; Emory Gap Branch Confluence to Parking Lot</name>
+        <Placemark id="112748">
+            <name>Flat Fork, North Prong - Panther Branch &amp; Emory Gap Branch Confluence to Parking Lot (II-III(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="112747">
+                <coordinates>-84.475323,36.140245,0.0 -84.475404,36.140298,0.0 -84.475526,36.140359,0.0 -84.475858,36.140276,0.0 -84.476109,36.140194,0.0 -84.476224,36.140133,0.0 -84.476291,36.140078,0.0 -84.476372,36.13999,0.0 -84.476447,36.139864,0.0 -84.476609,36.139512,0.0 -84.476657,36.139463,0.0 -84.476724,36.139435,0.0 -84.477151,36.139408,0.0 -84.477374,36.139413,0.0 -84.47774,36.139451,0.0 -84.47797,36.13944,0.0 -84.478072,36.139396,0.0 -84.47839,36.139188,0.0 -84.478478,36.139149,0.0 -84.478553,36.139133,0.0 -84.478959,36.139127,0.0 -84.479121,36.1391,0.0 -84.479264,36.139056,0.0 -84.479839,36.138748,0.0 -84.480198,36.138599,0.0 -84.480604,36.138473,0.0 -84.48076,36.138412,0.0 -84.480922,36.138324,0.0 -84.481091,36.138215,0.0 -84.481247,36.138083,0.0 -84.481565,36.137714,0.0 -84.48166,36.137621,0.0 -84.481917,36.137401,0.0 -84.482052,36.137346,0.0 -84.482181,36.137308,0.0 -84.48233,36.137286,0.0 -84.482872,36.137275,0.0 -84.483007,36.137258,0.0 -84.483136,36.137231,0.0 -84.483589,36.137066,0.0 -84.483704,36.137033,0.0 -84.483894,36.137005,0.0 -84.484084,36.136994,0.0 -84.484348,36.137016,0.0 -84.485011,36.137098,0.0 -84.485228,36.137071,0.0 -84.485736,36.136955,0.0 -84.486081,36.136845,0.0 -84.486345,36.136696,0.0 -84.486528,36.136625,0.0 -84.486684,36.136587,0.0 -84.486785,36.136581,0.0 -84.486866,36.136603,0.0 -84.487246,36.136817,0.0 -84.487368,36.136861,0.0 -84.487508,36.136892,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="112750">
+            <name>Put in</name>
+            <styleUrl>#112751</styleUrl>
+            <Point id="112749">
+                <coordinates>-84.475311,36.140263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="112755">
+            <name>Take out</name>
+            <styleUrl>#112756</styleUrl>
+            <Point id="112754">
+                <coordinates>-84.487579,36.136566,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

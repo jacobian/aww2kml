@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="27193">
+    <Document id="45542">
+        <Style id="45547">
+            <IconStyle id="45548">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45549">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45552">
+            <IconStyle id="45553">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45554">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Lake Superior -  Various 'South Shore' (Wisconsin) locations </name>
-        <Placemark id="27195">
-            <name>Lake Superior -  Various 'South Shore' (Wisconsin) locations </name>
+        <Placemark id="45544">
+            <name>Lake Superior -  Various 'South Shore' (Wisconsin) locations  (I-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="27194">
+            <LineString id="45543">
                 <coordinates>-92.013596,46.705864,0.0 -91.944119,46.680578,0.0 -91.867349,46.693084,0.0 -91.575114,46.75973,0.0 -91.288406,46.835467,0.0 -91.19037,46.887705,0.0 -90.96887,46.944457,0.0 -90.868147,46.96257,0.0 -90.834725,46.960773,0.0 -90.788242,46.9345,0.0 -90.747123,46.893106,0.0 -90.64293,46.859651,0.0 -90.616192,46.877377,0.0 -90.556235,46.852587,0.0 -90.420031,46.565762,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="27197">
+        <Placemark id="45546">
             <name>Take Out</name>
-            <Point id="27196">
+            <styleUrl>#45547</styleUrl>
+            <Point id="45545">
                 <coordinates>-90.4369,46.5621,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27199">
+        <Placemark id="45551">
             <name>Put In</name>
-            <Point id="27198">
+            <styleUrl>#45552</styleUrl>
+            <Point id="45550">
                 <coordinates>-92.0135,46.7059,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27201">
-            <name>Put in</name>
-            <Point id="27200">
-                <coordinates>-92.013596,46.705864,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27203">
-            <name>Take out</name>
-            <Point id="27202">
-                <coordinates>-90.420031,46.565762,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

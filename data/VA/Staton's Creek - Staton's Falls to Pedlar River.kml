@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="101125">
+        <Style id="101130">
+            <IconStyle id="101131">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101132">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="101135">
+            <IconStyle id="101136">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="101137">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Staton's Creek - Staton's Falls to Pedlar River</name>
+        <Placemark id="101127">
+            <name>Staton's Creek - Staton's Falls to Pedlar River (V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="101126">
+                <coordinates>-79.235373,37.76884,0.0 -79.235407,37.768803,0.0 -79.235787,37.768561,0.0 -79.236106,37.768457,0.0 -79.236306,37.768435,0.0 -79.236542,37.768435,0.0 -79.236749,37.768473,0.0 -79.236964,37.76861,0.0 -79.237054,37.768654,0.0 -79.237164,37.768671,0.0 -79.237268,37.768654,0.0 -79.237649,37.768539,0.0 -79.238022,37.768538,0.0 -79.238292,37.768582,0.0 -79.238576,37.768654,0.0 -79.238964,37.768807,0.0 -79.239254,37.768884,0.0 -79.239469,37.768895,0.0 -79.239614,37.768862,0.0 -79.239842,37.768834,0.0 -79.240085,37.76884,0.0 -79.240265,37.768884,0.0 -79.2405,37.768977,0.0 -79.24068,37.769092,0.0 -79.241317,37.769756,0.0 -79.241525,37.769894,0.0 -79.241774,37.770113,0.0 -79.241892,37.770261,0.0 -79.241975,37.770415,0.0 -79.24203,37.770552,0.0 -79.242196,37.770701,0.0 -79.242598,37.770904,0.0 -79.242951,37.771107,0.0 -79.24383,37.771837,0.0 -79.244004,37.772095,0.0 -79.244107,37.772205,0.0 -79.244391,37.772337,0.0 -79.24473,37.772457,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="101129">
+            <name>Take Out</name>
+            <styleUrl>#101130</styleUrl>
+            <Point id="101128">
+                <coordinates>-79.244797,37.772301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101134">
+            <name>Put In</name>
+            <styleUrl>#101135</styleUrl>
+            <Point id="101133">
+                <coordinates>-79.235001,37.768501,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

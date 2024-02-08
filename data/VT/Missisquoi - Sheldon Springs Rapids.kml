@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="53133">
+        <Style id="53138">
+            <IconStyle id="53139">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53140">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53143">
+            <IconStyle id="53144">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53145">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Missisquoi - Sheldon Springs Rapids</name>
+        <Placemark id="53135">
+            <name>Missisquoi - Sheldon Springs Rapids (IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="53134">
+                <coordinates>-72.973379,44.911597,0.0 -72.973273,44.911879,0.0 -72.973273,44.91219,0.0 -72.973391,44.912601,0.0 -72.973466,44.912692,0.0 -72.97382,44.913011,0.0 -72.974517,44.91311,0.0 -72.974925,44.913148,0.0 -72.975354,44.913057,0.0 -72.97544,44.912996,0.0 -72.975483,44.912996,0.0 -72.976041,44.912692,0.0 -72.976427,44.91216,0.0 -72.976781,44.911332,0.0 -72.977436,44.910093,0.0 -72.977704,44.909698,0.0 -72.97824,44.909014,0.0 -72.97853,44.908589,0.0 -72.97883,44.9083,0.0 -72.979034,44.908026,0.0 -72.979324,44.907723,0.0 -72.979506,44.907601,0.0 -72.979839,44.907487,0.0 -72.979839,44.907487,0.0 -72.980075,44.907464,0.0 -72.980429,44.907517,0.0 -72.980955,44.907738,0.0 -72.981352,44.908019,0.0 -72.981673,44.908216,0.0 -72.982092,44.908589,0.0 -72.982596,44.909295,0.0 -72.982765,44.909592,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="53137">
+            <name>Take Out</name>
+            <styleUrl>#53138</styleUrl>
+            <Point id="53136">
+                <coordinates>-72.9828,44.9095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53142">
+            <name>Put In</name>
+            <styleUrl>#53143</styleUrl>
+            <Point id="53141">
+                <coordinates>-72.9733,44.9122,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

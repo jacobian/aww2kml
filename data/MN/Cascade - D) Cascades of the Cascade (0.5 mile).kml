@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="72780">
+        <Style id="72785">
+            <IconStyle id="72786">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72787">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72790">
+            <IconStyle id="72791">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72792">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72795">
+            <IconStyle id="72796">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72797">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Cascade - D) Cascades of the Cascade (0.5 mile)</name>
+        <Placemark id="72782">
+            <name>Cascade - D) Cascades of the Cascade (0.5 mile) (V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="72781">
+                <coordinates>-90.528278,47.712855,0.0 -90.528104,47.712823,0.0 -90.526378,47.71289,0.0 -90.525938,47.712639,0.0 -90.525364,47.712227,0.0 -90.524586,47.711883,0.0 -90.52435,47.711586,0.0 -90.523878,47.710581,0.0 -90.524219,47.709325,0.0 -90.524018,47.708525,0.0 -90.523714,47.708159,0.0 -90.522869,47.70761,0.0 -90.522548,47.707192,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="72784">
+            <name>Take Out</name>
+            <styleUrl>#72785</styleUrl>
+            <Point id="72783">
+                <coordinates>-90.522797,47.707001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72789">
+            <name>USGS site</name>
+            <styleUrl>#72790</styleUrl>
+            <Point id="72788">
+                <coordinates>-90.522598,47.7071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72794">
+            <name>Put In</name>
+            <styleUrl>#72795</styleUrl>
+            <Point id="72793">
+                <coordinates>-90.528397,47.7122,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

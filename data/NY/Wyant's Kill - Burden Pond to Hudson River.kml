@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="88648">
+        <Style id="88653">
+            <IconStyle id="88654">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="88655">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="88658">
+            <IconStyle id="88659">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="88660">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Wyant's Kill - Burden Pond to Hudson River</name>
+        <Placemark id="88650">
+            <name>Wyant's Kill - Burden Pond to Hudson River (IV-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="88649">
+                <coordinates>-73.688211,42.70434,0.0 -73.688388,42.704255,0.0 -73.688544,42.703953,0.0 -73.688693,42.703756,0.0 -73.688752,42.703745,0.0 -73.688814,42.703717,0.0 -73.688987,42.703696,0.0 -73.689273,42.703661,0.0 -73.689587,42.70365,0.0 -73.689926,42.703638,0.0 -73.690481,42.703816,0.0 -73.690871,42.703885,0.0 -73.691385,42.703897,0.0 -73.69164,42.703922,0.0 -73.691972,42.703985,0.0 -73.692372,42.704022,0.0 -73.69277,42.704056,0.0 -73.692798,42.704061,0.0 -73.693235,42.704128,0.0 -73.693446,42.70416,0.0 -73.693575,42.70418,0.0 -73.693813,42.704129,0.0 -73.694166,42.704053,0.0 -73.694922,42.704055,0.0 -73.695424,42.704125,0.0 -73.696133,42.704268,0.0 -73.69618,42.704279,0.0 -73.696489,42.704354,0.0 -73.696553,42.70437,0.0 -73.696794,42.704431,0.0 -73.69686,42.704476,0.0 -73.696978,42.704555,0.0 -73.69724,42.704739,0.0 -73.697275,42.704754,0.0 -73.697509,42.704856,0.0 -73.69785,42.704936,0.0 -73.698294,42.705015,0.0 -73.698477,42.705058,0.0 -73.698917,42.705284,0.0 -73.699387,42.705462,0.0 -73.699707,42.70555,0.0 -73.70034,42.705649,0.0 -73.700608,42.705665,0.0 -73.701166,42.705632,0.0 -73.701381,42.70564,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="88652">
+            <name>Take Out</name>
+            <styleUrl>#88653</styleUrl>
+            <Point id="88651">
+                <coordinates>-73.7014,42.7051,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88657">
+            <name>Put In</name>
+            <styleUrl>#88658</styleUrl>
+            <Point id="88656">
+                <coordinates>-73.688,42.7039,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

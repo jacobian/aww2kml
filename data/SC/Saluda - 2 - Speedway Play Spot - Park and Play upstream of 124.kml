@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="57308">
+        <Style id="57313">
+            <IconStyle id="57314">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="57315">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="57318">
+            <IconStyle id="57319">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="57320">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Saluda - 2 - Speedway Play Spot - Park and Play upstream of 124</name>
+        <Placemark id="57310">
+            <name>Saluda - 2 - Speedway Play Spot - Park and Play upstream of 124 (II+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="57309">
+                <coordinates>-82.480683,34.842384,0.0 -82.480652,34.842347,0.0 -82.480652,34.842347,0.0 -82.480545,34.842153,0.0 -82.480513,34.841977,0.0 -82.480481,34.841581,0.0 -82.480416,34.841228,0.0 -82.480342,34.840581,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="57312">
+            <name>Take Out</name>
+            <styleUrl>#57313</styleUrl>
+            <Point id="57311">
+                <coordinates>-82.4804,34.8405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57317">
+            <name>Put In</name>
+            <styleUrl>#57318</styleUrl>
+            <Point id="57316">
+                <coordinates>-82.4804,34.8405,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

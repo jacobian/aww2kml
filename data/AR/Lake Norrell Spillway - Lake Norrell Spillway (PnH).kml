@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="100026">
+        <Style id="100031">
+            <IconStyle id="100032">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100033">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100036">
+            <IconStyle id="100037">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100038">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Lake Norrell Spillway - Lake Norrell Spillway (PnH)</name>
+        <Placemark id="100028">
+            <name>Lake Norrell Spillway - Lake Norrell Spillway (PnH) (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="100027">
+                <coordinates>-92.641992,34.7193,0.0 -92.641979,34.719165,0.0 -92.642019,34.718923,0.0 -92.642139,34.71867,0.0 -92.642312,34.718429,0.0 -92.642532,34.718066,0.0 -92.642579,34.71789,0.0 -92.642639,34.717714,0.0 -92.642699,34.717467,0.0 -92.642819,34.717175,0.0 -92.643052,34.716873,0.0 -92.643159,34.716759,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="100030">
+            <name>Take Out</name>
+            <styleUrl>#100031</styleUrl>
+            <Point id="100029">
+                <coordinates>-92.643097,34.716702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100035">
+            <name>Put In</name>
+            <styleUrl>#100036</styleUrl>
+            <Point id="100034">
+                <coordinates>-92.641998,34.719299,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

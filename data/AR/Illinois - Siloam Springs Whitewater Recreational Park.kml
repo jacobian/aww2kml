@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="99409">
+        <Style id="99414">
+            <IconStyle id="99415">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99416">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99419">
+            <IconStyle id="99420">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99421">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Illinois - Siloam Springs Whitewater Recreational Park</name>
+        <Placemark id="99411">
+            <name>Illinois - Siloam Springs Whitewater Recreational Park (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="99410">
+                <coordinates>-94.51602,36.122763,0.0 -94.516128,36.122779,0.0 -94.516421,36.122825,0.0 -94.516463,36.122832,0.0 -94.51669,36.122913,0.0 -94.516925,36.123038,0.0 -94.517046,36.123099,0.0 -94.517139,36.123176,0.0 -94.517283,36.123321,0.0 -94.517379,36.123441,0.0 -94.517414,36.123484,0.0 -94.517492,36.123609,0.0 -94.517553,36.1237,0.0 -94.517671,36.123797,0.0 -94.517865,36.12394,0.0 -94.517978,36.124001,0.0 -94.51823,36.124116,0.0 -94.518251,36.124126,0.0 -94.518439,36.124227,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="99413">
+            <name>Take Out</name>
+            <styleUrl>#99414</styleUrl>
+            <Point id="99412">
+                <coordinates>-94.5184,36.1243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99418">
+            <name>Put In</name>
+            <styleUrl>#99419</styleUrl>
+            <Point id="99417">
+                <coordinates>-94.516,36.1229,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="90579">
+        <Style id="90584">
+            <IconStyle id="90585">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="90586">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="90589">
+            <IconStyle id="90590">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="90591">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Raquette - 3) Hannawa Falls dam to powerhouse</name>
+        <Placemark id="90581">
+            <name>Raquette - 3) Hannawa Falls dam to powerhouse (IV-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="90580">
+                <coordinates>-74.974933,44.612285,0.0 -74.975477,44.612809,0.0 -74.974356,44.615207,0.0 -74.973749,44.615759,0.0 -74.973723,44.615871,0.0 -74.973371,44.616237,0.0 -74.972956,44.616924,0.0 -74.972957,44.617678,0.0 -74.973086,44.617884,0.0 -74.973535,44.618364,0.0 -74.973695,44.618547,0.0 -74.973783,44.61937,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="90583">
+            <name>Take Out</name>
+            <styleUrl>#90584</styleUrl>
+            <Point id="90582">
+                <coordinates>-74.973503,44.6194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90588">
+            <name>Put In</name>
+            <styleUrl>#90589</styleUrl>
+            <Point id="90587">
+                <coordinates>-74.975304,44.6119,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

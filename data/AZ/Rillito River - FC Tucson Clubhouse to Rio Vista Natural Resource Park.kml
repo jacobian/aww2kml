@@ -1,35 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="19071">
+    <Document id="32216">
+        <Style id="32221">
+            <IconStyle id="32222">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32223">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32226">
+            <IconStyle id="32227">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32228">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32231">
+            <IconStyle id="32232">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32233">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32236">
+            <IconStyle id="32237">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32238">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Rillito River - FC Tucson Clubhouse to Rio Vista Natural Resource Park</name>
-        <Placemark id="19073">
-            <name>Rillito River - FC Tucson Clubhouse to Rio Vista Natural Resource Park</name>
+        <Placemark id="32218">
+            <name>Rillito River - FC Tucson Clubhouse to Rio Vista Natural Resource Park (I)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="19072">
+            <LineString id="32217">
                 <coordinates>-110.916252,32.270987,0.0 -110.916756,32.270923,0.0 -110.917969,32.270887,0.0 -110.918752,32.270851,0.0 -110.920254,32.270978,0.0 -110.920887,32.27105,0.0 -110.921617,32.271177,0.0 -110.921992,32.271395,0.0 -110.923709,32.271894,0.0 -110.92432,32.272211,0.0 -110.924696,32.272701,0.0 -110.924985,32.273363,0.0 -110.925211,32.277563,0.0 -110.92579,32.279559,0.0 -110.926595,32.280566,0.0 -110.926831,32.280793,0.0 -110.927281,32.281527,0.0 -110.927281,32.281527,0.0 -110.928118,32.282144,0.0 -110.929073,32.282489,0.0 -110.930028,32.282752,0.0 -110.931187,32.282879,0.0 -110.932367,32.282734,0.0 -110.934137,32.282189,0.0 -110.936015,32.281872,0.0 -110.938042,32.281627,0.0 -110.939004,32.281614,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="19075">
+        <Placemark id="32220">
             <name>Put In</name>
-            <Point id="19074">
+            <styleUrl>#32221</styleUrl>
+            <Point id="32219">
                 <coordinates>-110.915308,32.271492,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19077">
+        <Placemark id="32225">
             <name>Take Out</name>
-            <Point id="19076">
+            <styleUrl>#32226</styleUrl>
+            <Point id="32224">
                 <coordinates>-110.938379,32.281162,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19079">
+        <Placemark id="32230">
             <name>Put in</name>
-            <Point id="19078">
+            <styleUrl>#32231</styleUrl>
+            <Point id="32229">
                 <coordinates>-110.916252,32.270987,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19081">
+        <Placemark id="32235">
             <name>Take out</name>
-            <Point id="19080">
+            <styleUrl>#32236</styleUrl>
+            <Point id="32234">
                 <coordinates>-110.939004,32.281614,0.0</coordinates>
             </Point>
         </Placemark>

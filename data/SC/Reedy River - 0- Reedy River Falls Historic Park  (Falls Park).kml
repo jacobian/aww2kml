@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="116000">
+        <Style id="116005">
+            <IconStyle id="116006">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116007">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="116010">
+            <IconStyle id="116011">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="116012">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Reedy River - 0- Reedy River Falls Historic Park  (Falls Park)</name>
+        <Placemark id="116002">
+            <name>Reedy River - 0- Reedy River Falls Historic Park  (Falls Park) (IV(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="116001">
+                <coordinates>-82.40113,34.844577,0.0 -82.401145,34.844507,0.0 -82.40116,34.844401,0.0 -82.401165,34.84433,0.0 -82.401161,34.844259,0.0 -82.401139,34.844217,0.0 -82.401088,34.844181,0.0 -82.40105,34.844162,0.0 -82.400882,34.84412,0.0 -82.400838,34.844117,0.0 -82.40075,34.844118,0.0 -82.400707,34.84412,0.0 -82.400664,34.844126,0.0 -82.400576,34.844123,0.0 -82.400402,34.844109,0.0 -82.400315,34.844106,0.0 -82.400228,34.844097,0.0 -82.400142,34.844082,0.0 -82.400102,34.844067,0.0 -82.399843,34.843876,0.0 -82.399563,34.843651,0.0 -82.399479,34.843569,0.0 -82.39946,34.843537,0.0 -82.399413,34.843293,0.0 -82.399396,34.84326,0.0 -82.399378,34.843192,0.0 -82.399348,34.843125,0.0 -82.399217,34.8429,0.0 -82.399092,34.842712,0.0 -82.399063,34.842685,0.0 -82.398903,34.842563,0.0 -82.39883,34.842525,0.0 -82.398749,34.842496,0.0 -82.398676,34.842487,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="116004">
+            <name>Take Out</name>
+            <styleUrl>#116005</styleUrl>
+            <Point id="116003">
+                <coordinates>-82.3987,34.8423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="116009">
+            <name>Put In</name>
+            <styleUrl>#116010</styleUrl>
+            <Point id="116008">
+                <coordinates>-82.4012,34.8446,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

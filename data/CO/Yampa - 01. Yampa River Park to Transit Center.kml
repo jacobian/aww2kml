@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="104312">
+        <Style id="104317">
+            <IconStyle id="104318">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104319">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104322">
+            <IconStyle id="104323">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104324">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Yampa - 01. Yampa River Park to Transit Center</name>
+        <Placemark id="104314">
+            <name>Yampa - 01. Yampa River Park to Transit Center (III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="104313">
+                <coordinates>-106.830414,40.474765,0.0 -106.830109,40.475047,0.0 -106.828411,40.476066,0.0 -106.828077,40.476363,0.0 -106.827333,40.477023,0.0 -106.827096,40.477624,0.0 -106.82692,40.478339,0.0 -106.82702,40.479057,0.0 -106.827236,40.479827,0.0 -106.827334,40.480475,0.0 -106.827361,40.481017,0.0 -106.82748,40.48102,0.0 -106.827752,40.481268,0.0 -106.828203,40.481438,0.0 -106.828801,40.481492,0.0 -106.829215,40.481485,0.0 -106.829396,40.48147,0.0 -106.829733,40.481654,0.0 -106.830368,40.481897,0.0 -106.830838,40.48213,0.0 -106.831227,40.482414,0.0 -106.831835,40.48286,0.0 -106.832793,40.483376,0.0 -106.83376,40.483601,0.0 -106.833943,40.484012,0.0 -106.83477,40.484204,0.0 -106.83568,40.484784,0.0 -106.83679,40.485411,0.0 -106.837602,40.486056,0.0 -106.838378,40.486574,0.0 -106.838837,40.486997,0.0 -106.839675,40.48735,0.0 -106.840117,40.487786,0.0 -106.84083,40.488419,0.0 -106.840781,40.488587,0.0 -106.84097,40.488672,0.0 -106.84147,40.489137,0.0 -106.842787,40.48989,0.0 -106.844372,40.490854,0.0 -106.846086,40.49173,0.0 -106.847228,40.4923,0.0 -106.850011,40.493058,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="104316">
+            <name>Take Out</name>
+            <styleUrl>#104317</styleUrl>
+            <Point id="104315">
+                <coordinates>-106.85,40.4931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104321">
+            <name>Put In</name>
+            <styleUrl>#104322</styleUrl>
+            <Point id="104320">
+                <coordinates>-106.831,40.4754,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

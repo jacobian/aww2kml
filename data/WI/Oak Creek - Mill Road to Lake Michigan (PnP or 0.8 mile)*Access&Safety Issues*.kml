@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="52862">
+        <Style id="52867">
+            <IconStyle id="52868">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52869">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52872">
+            <IconStyle id="52873">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52874">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52877">
+            <IconStyle id="52878">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52879">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52882">
+            <IconStyle id="52883">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52884">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52887">
+            <IconStyle id="52888">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52889">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52892">
+            <IconStyle id="52893">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52894">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52897">
+            <IconStyle id="52898">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52899">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52902">
+            <IconStyle id="52903">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52904">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52907">
+            <IconStyle id="52908">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52909">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Oak Creek - Mill Road to Lake Michigan (PnP or 0.8 mile)*Access&amp;Safety Issues*</name>
+        <Placemark id="52864">
+            <name>Oak Creek - Mill Road to Lake Michigan (PnP or 0.8 mile)*Access&amp;Safety Issues* (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="52863">
+                <coordinates>-87.85299,42.912206,0.0 -87.852989,42.912206,0.0 -87.85246,42.912297,0.0 -87.851931,42.912297,0.0 -87.851216,42.911885,0.0 -87.850936,42.911794,0.0 -87.849753,42.911634,0.0 -87.8491,42.911405,0.0 -87.848789,42.911061,0.0 -87.848571,42.91065,0.0 -87.847794,42.910124,0.0 -87.847514,42.90978,0.0 -87.847452,42.909506,0.0 -87.847358,42.909254,0.0 -87.847203,42.909048,0.0 -87.846643,42.908454,0.0 -87.846581,42.908156,0.0 -87.846674,42.907996,0.0 -87.846675,42.907584,0.0 -87.846519,42.907379,0.0 -87.846052,42.907218,0.0 -87.844746,42.907355,0.0 -87.843439,42.907012,0.0 -87.843136,42.906805,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="52866">
+            <name>Mouth</name>
+            <styleUrl>#52867</styleUrl>
+            <Point id="52865">
+                <coordinates>-87.843136,42.906805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52871">
+            <name>Snags</name>
+            <styleUrl>#52872</styleUrl>
+            <Point id="52870">
+                <coordinates>-87.848108,42.910337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52876">
+            <name>Ledge/Wave</name>
+            <styleUrl>#52877</styleUrl>
+            <Point id="52875">
+                <coordinates>-87.851086,42.911843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52881">
+            <name>Downstream of 1st Bridge</name>
+            <styleUrl>#52882</styleUrl>
+            <Point id="52880">
+                <coordinates>-87.852045,42.912297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52886">
+            <name>Run-out/First-Bend</name>
+            <styleUrl>#52887</styleUrl>
+            <Point id="52885">
+                <coordinates>-87.852513,42.912288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52891">
+            <name>Wave &amp; Pool</name>
+            <styleUrl>#52892</styleUrl>
+            <Point id="52890">
+                <coordinates>-87.852846,42.912231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52896">
+            <name>Take Out</name>
+            <styleUrl>#52897</styleUrl>
+            <Point id="52895">
+                <coordinates>-87.843002,42.907001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52901">
+            <name>Put In</name>
+            <styleUrl>#52902</styleUrl>
+            <Point id="52900">
+                <coordinates>-87.852997,42.911999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52906">
+            <name>Gauge Location</name>
+            <styleUrl>#52907</styleUrl>
+            <Point id="52905">
+                <coordinates>-87.870003,42.924999,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

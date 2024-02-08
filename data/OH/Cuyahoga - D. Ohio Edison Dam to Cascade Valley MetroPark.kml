@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="50563">
+        <Style id="50568">
+            <IconStyle id="50569">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50570">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50573">
+            <IconStyle id="50574">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50575">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50578">
+            <IconStyle id="50579">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50580">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50583">
+            <IconStyle id="50584">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50585">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50588">
+            <IconStyle id="50589">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50590">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50593">
+            <IconStyle id="50594">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50595">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Cuyahoga - D. Ohio Edison Dam to Cascade Valley MetroPark</name>
+        <Placemark id="50565">
+            <name>Cuyahoga - D. Ohio Edison Dam to Cascade Valley MetroPark (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="50564">
+                <coordinates>-81.49797,41.123104,0.0 -81.498178,41.123403,0.0 -81.498956,41.123676,0.0 -81.499917,41.123717,0.0 -81.500901,41.123351,0.0 -81.501824,41.122971,0.0 -81.503428,41.122896,0.0 -81.504747,41.122983,0.0 -81.506243,41.122905,0.0 -81.507806,41.122756,0.0 -81.508714,41.122667,0.0 -81.509482,41.122636,0.0 -81.509629,41.122897,0.0 -81.509634,41.123157,0.0 -81.509893,41.123276,0.0 -81.510328,41.123126,0.0 -81.510867,41.123189,0.0 -81.511726,41.123382,0.0 -81.512334,41.12344,0.0 -81.513115,41.123386,0.0 -81.514272,41.123251,0.0 -81.51564,41.123191,0.0 -81.516932,41.123475,0.0 -81.517425,41.123814,0.0 -81.518069,41.124148,0.0 -81.518671,41.124415,0.0 -81.51923,41.124518,0.0 -81.519549,41.124239,0.0 -81.519501,41.12388,0.0 -81.519216,41.123507,0.0 -81.519369,41.123046,0.0 -81.51956,41.122613,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="50567">
+            <name>Park &amp; Play Take Out</name>
+            <styleUrl>#50568</styleUrl>
+            <Point id="50566">
+                <coordinates>-81.516867,41.123311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50572">
+            <name>The Island</name>
+            <styleUrl>#50573</styleUrl>
+            <Point id="50571">
+                <coordinates>-81.512576,41.123445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50577">
+            <name>Put In</name>
+            <styleUrl>#50578</styleUrl>
+            <Point id="50576">
+                <coordinates>-81.49797,41.123104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50582">
+            <name>Park &amp; Play Put In</name>
+            <styleUrl>#50583</styleUrl>
+            <Point id="50581">
+                <coordinates>-81.509521,41.122706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50587">
+            <name>Take Out</name>
+            <styleUrl>#50588</styleUrl>
+            <Point id="50586">
+                <coordinates>-81.51956,41.122613,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50592">
+            <name>Butterfly Rock Rapid (II)</name>
+            <styleUrl>#50593</styleUrl>
+            <Point id="50591">
+                <coordinates>-81.500021,41.123673,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="120672">
+        <Style id="120677">
+            <IconStyle id="120678">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="120679">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="120682">
+            <IconStyle id="120683">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="120684">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="120687">
+            <IconStyle id="120688">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="120689">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="120692">
+            <IconStyle id="120693">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="120694">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="120697">
+            <IconStyle id="120698">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="120699">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="120702">
+            <IconStyle id="120703">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="120704">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Mountain Fork - 2. Reregulation Dam to Hwy 70 (3 miles)</name>
+        <Placemark id="120674">
+            <name>Mountain Fork - 2. Reregulation Dam to Hwy 70 (3 miles) (I-II+(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="120673">
+                <coordinates>-94.632835,34.082821,0.0 -94.632789,34.082725,0.0 -94.632709,34.082259,0.0 -94.632244,34.081395,0.0 -94.632115,34.081286,0.0 -94.63216,34.081215,0.0 -94.631947,34.08089,0.0 -94.631781,34.080387,0.0 -94.63123,34.079486,0.0 -94.631104,34.079198,0.0 -94.63055,34.078368,0.0 -94.630384,34.077901,0.0 -94.629493,34.076387,0.0 -94.6292,34.075704,0.0 -94.629204,34.075453,0.0 -94.628992,34.075128,0.0 -94.628951,34.074949,0.0 -94.628145,34.073579,0.0 -94.626738,34.071666,0.0 -94.626361,34.070767,0.0 -94.625552,34.069612,0.0 -94.625393,34.069237,0.0 -94.625306,34.069032,0.0 -94.625133,34.068834,0.0 -94.625022,34.068762,0.0 -94.624783,34.068387,0.0 -94.624105,34.067319,0.0 -94.624098,34.067306,0.0 -94.623835,34.066805,0.0 -94.62365,34.066451,0.0 -94.623167,34.065529,0.0 -94.622978,34.06517,0.0 -94.622205,34.06341,0.0 -94.620969,34.061168,0.0 -94.619902,34.058814,0.0 -94.619726,34.057789,0.0 -94.619599,34.056919,0.0 -94.619504,34.056264,0.0 -94.619378,34.055899,0.0 -94.619288,34.055636,0.0 -94.619007,34.054822,0.0 -94.618464,34.053969,0.0 -94.618385,34.053823,0.0 -94.618184,34.053665,0.0 -94.617844,34.053096,0.0 -94.61754,34.052607,0.0 -94.617233,34.051947,0.0 -94.617032,34.051479,0.0 -94.616752,34.050649,0.0 -94.616597,34.049995,0.0 -94.616531,34.049646,0.0 -94.616555,34.049074,0.0 -94.616686,34.048393,0.0 -94.616811,34.047913,0.0 -94.616886,34.047627,0.0 -94.617089,34.04697,0.0 -94.617169,34.046605,0.0 -94.61726,34.046262,0.0 -94.617361,34.046076,0.0 -94.617528,34.045921,0.0 -94.617725,34.0458,0.0 -94.617875,34.045739,0.0 -94.617981,34.045695,0.0 -94.618308,34.045625,0.0 -94.618461,34.045556,0.0 -94.618571,34.045433,0.0 -94.618924,34.045065,0.0 -94.619363,34.044662,0.0 -94.619803,34.044259,0.0 -94.620107,34.04421,0.0 -94.620363,34.044408,0.0 -94.620577,34.044499,0.0 -94.620773,34.044448,0.0 -94.620968,34.044128,0.0 -94.621063,34.043973,0.0 -94.621293,34.043178,0.0 -94.621367,34.042682,0.0 -94.621402,34.041905,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="120676">
+            <name>Rock Garden (II)</name>
+            <styleUrl>#120677</styleUrl>
+            <Point id="120675">
+                <coordinates>-94.631943,34.080853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="120681">
+            <name>The Ledges (II+)</name>
+            <styleUrl>#120682</styleUrl>
+            <Point id="120680">
+                <coordinates>-94.626923,34.071373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="120686">
+            <name>The Chute (II)</name>
+            <styleUrl>#120687</styleUrl>
+            <Point id="120685">
+                <coordinates>-94.623741,34.067051,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="120691">
+            <name>Presbyterian Falls (II)</name>
+            <styleUrl>#120692</styleUrl>
+            <Point id="120690">
+                <coordinates>-94.6231,34.065701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="120696">
+            <name>Leaning Tree</name>
+            <styleUrl>#120697</styleUrl>
+            <Point id="120695">
+                <coordinates>-94.617218,34.047359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="120701">
+            <name>Take Out</name>
+            <styleUrl>#120702</styleUrl>
+            <Point id="120700">
+                <coordinates>-94.6213,34.0419,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

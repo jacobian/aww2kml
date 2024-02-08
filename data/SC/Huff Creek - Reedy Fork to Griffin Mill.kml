@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="115491">
+        <Style id="115496">
+            <IconStyle id="115497">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="115498">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="115501">
+            <IconStyle id="115502">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="115503">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Huff Creek - Reedy Fork to Griffin Mill</name>
+        <Placemark id="115493">
+            <name>Huff Creek - Reedy Fork to Griffin Mill (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="115492">
+                <coordinates>-82.353886,34.72221,0.0 -82.353616,34.722068,0.0 -82.353389,34.721897,0.0 -82.353209,34.721716,0.0 -82.352923,34.721337,0.0 -82.352543,34.720925,0.0 -82.352397,34.720815,0.0 -82.352204,34.720699,0.0 -82.351804,34.720595,0.0 -82.351491,34.720562,0.0 -82.351298,34.720502,0.0 -82.350972,34.720348,0.0 -82.350632,34.720123,0.0 -82.350353,34.719898,0.0 -82.350173,34.719694,0.0 -82.350066,34.719518,0.0 -82.350053,34.719452,0.0 -82.349953,34.719255,0.0 -82.349979,34.718765,0.0 -82.349966,34.718562,0.0 -82.349926,34.718485,0.0 -82.349926,34.718309,0.0 -82.349972,34.718232,0.0 -82.350032,34.71738,0.0 -82.350085,34.717243,0.0 -82.350152,34.717155,0.0 -82.350238,34.716918,0.0 -82.350318,34.716781,0.0 -82.350631,34.716369,0.0 -82.350657,34.716171,0.0 -82.35073,34.716039,0.0 -82.350863,34.715863,0.0 -82.35103,34.715747,0.0 -82.351522,34.715511,0.0 -82.351662,34.715423,0.0 -82.351782,34.715297,0.0 -82.352247,34.714626,0.0 -82.352513,34.714362,0.0 -82.35264,34.714257,0.0 -82.352946,34.714098,0.0 -82.353239,34.714026,0.0 -82.35435,34.713905,0.0 -82.354397,34.713872,0.0 -82.35463,34.713789,0.0 -82.354763,34.713679,0.0 -82.354809,34.71358,0.0 -82.354849,34.713372,0.0 -82.35474,34.713019,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="115495">
+            <name>Take Out</name>
+            <styleUrl>#115496</styleUrl>
+            <Point id="115494">
+                <coordinates>-82.354797,34.713001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115500">
+            <name>Put In</name>
+            <styleUrl>#115501</styleUrl>
+            <Point id="115499">
+                <coordinates>-82.353996,34.722,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

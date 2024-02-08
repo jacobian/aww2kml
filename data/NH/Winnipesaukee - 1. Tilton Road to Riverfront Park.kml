@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="52113">
+        <Style id="52118">
+            <IconStyle id="52119">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52120">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52123">
+            <IconStyle id="52124">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52125">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Winnipesaukee - 1. Tilton Road to Riverfront Park</name>
+        <Placemark id="52115">
+            <name>Winnipesaukee - 1. Tilton Road to Riverfront Park (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="52114">
+                <coordinates>-71.562719,43.451708,0.0 -71.563151,43.451287,0.0 -71.563433,43.451287,0.0 -71.564675,43.451755,0.0 -71.565993,43.451893,0.0 -71.566859,43.452305,0.0 -71.5678,43.452622,0.0 -71.568459,43.452636,0.0 -71.56908,43.452513,0.0 -71.57006,43.452048,0.0 -71.570758,43.451541,0.0 -71.572456,43.449155,0.0 -71.57321,43.44847,0.0 -71.573455,43.448086,0.0 -71.573658,43.44791,0.0 -71.575114,43.446647,0.0 -71.576433,43.446209,0.0 -71.577224,43.445839,0.0 -71.579165,43.444661,0.0 -71.580164,43.444264,0.0 -71.580823,43.444155,0.0 -71.581595,43.444169,0.0 -71.583514,43.444541,0.0 -71.584812,43.444568,0.0 -71.58487,43.444569,0.0 -71.58551,43.444337,0.0 -71.585963,43.443816,0.0 -71.586039,43.443308,0.0 -71.586467,43.442937,0.0 -71.586623,43.442801,0.0 -71.586699,43.442225,0.0 -71.587246,43.441759,0.0 -71.587585,43.441594,0.0 -71.58943,43.441829,0.0 -71.591311,43.442543,0.0 -71.592026,43.44312,0.0 -71.592534,43.443271,0.0 -71.592582,43.44327,0.0 -71.592929,43.443258,0.0 -71.593725,43.442652,0.0 -71.59374,43.442641,0.0 -71.593909,43.442574,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="52117">
+            <name>Put in</name>
+            <styleUrl>#52118</styleUrl>
+            <Point id="52116">
+                <coordinates>-71.561106,43.450053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52122">
+            <name>Take out</name>
+            <styleUrl>#52123</styleUrl>
+            <Point id="52121">
+                <coordinates>-71.594095,43.443044,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

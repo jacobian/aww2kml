@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="127735">
+        <Style id="127740">
+            <IconStyle id="127741">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="127742">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="127745">
+            <IconStyle id="127746">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="127747">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Baskahegan Str. - South Bancroft to Mattawamkeag River</name>
+        <Placemark id="127737">
+            <name>Baskahegan Str. - South Bancroft to Mattawamkeag River (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="127736">
+                <coordinates>-67.977216,45.720251,0.0 -67.977443,45.720195,0.0 -67.977795,45.72005,0.0 -67.978283,45.71974,0.0 -67.979387,45.718755,0.0 -67.979928,45.718486,0.0 -67.980209,45.718397,0.0 -67.981279,45.718327,0.0 -67.982066,45.718171,0.0 -67.982545,45.718289,0.0 -67.983201,45.718302,0.0 -67.984288,45.718701,0.0 -67.985709,45.718789,0.0 -67.98629,45.718882,0.0 -67.986267,45.719055,0.0 -67.98631,45.719172,0.0 -67.986347,45.719235,0.0 -67.986467,45.719352,0.0 -67.986518,45.719594,0.0 -67.986695,45.719729,0.0 -67.987068,45.719909,0.0 -67.987507,45.719991,0.0 -67.988302,45.719883,0.0 -67.98855,45.719757,0.0 -67.988714,45.719577,0.0 -67.989,45.719502,0.0 -67.989805,45.719424,0.0 -67.990046,45.719477,0.0 -67.990342,45.719424,0.0 -67.990953,45.719439,0.0 -67.991262,45.719258,0.0 -67.991415,45.719248,0.0 -67.992229,45.719455,0.0 -67.992893,45.719469,0.0 -67.993346,45.719585,0.0 -67.993637,45.719517,0.0 -67.993842,45.719409,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="127739">
+            <name>Take Out</name>
+            <styleUrl>#127740</styleUrl>
+            <Point id="127738">
+                <coordinates>-67.993896,45.719501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127744">
+            <name>Put In</name>
+            <styleUrl>#127745</styleUrl>
+            <Point id="127743">
+                <coordinates>-67.977203,45.7202,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

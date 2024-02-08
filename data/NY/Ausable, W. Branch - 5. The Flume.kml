@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="90439">
+        <Style id="90444">
+            <IconStyle id="90445">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="90446">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="90449">
+            <IconStyle id="90450">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="90451">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Ausable, W. Branch - 5. The Flume</name>
+        <Placemark id="90441">
+            <name>Ausable, W. Branch - 5. The Flume (V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="90440">
+                <coordinates>-73.841994,44.365688,0.0 -73.841874,44.365687,0.0 -73.841267,44.365851,0.0 -73.841237,44.365862,0.0 -73.841078,44.365958,0.0 -73.840546,44.366407,0.0 -73.840175,44.366792,0.0 -73.839872,44.367004,0.0 -73.839841,44.367033,0.0 -73.839623,44.367116,0.0 -73.839594,44.367139,0.0 -73.839161,44.367338,0.0 -73.838863,44.367433,0.0 -73.838502,44.367417,0.0 -73.838084,44.367437,0.0 -73.837719,44.367503,0.0 -73.837506,44.367656,0.0 -73.837354,44.367838,0.0 -73.837014,44.368186,0.0 -73.836712,44.368408,0.0 -73.836484,44.3686,0.0 -73.836225,44.368707,0.0 -73.835786,44.368811,0.0 -73.835323,44.368829,0.0 -73.835259,44.368755,0.0 -73.835153,44.368674,0.0 -73.835031,44.368605,0.0 -73.834718,44.36859,0.0 -73.834538,44.368531,0.0 -73.834091,44.368697,0.0 -73.833659,44.369014,0.0 -73.833174,44.368965,0.0 -73.832602,44.368956,0.0 -73.83252,44.368976,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="90443">
+            <name>Take Out</name>
+            <styleUrl>#90444</styleUrl>
+            <Point id="90442">
+                <coordinates>-73.8326,44.3693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90448">
+            <name>Put In</name>
+            <styleUrl>#90449</styleUrl>
+            <Point id="90447">
+                <coordinates>-73.842,44.3651,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

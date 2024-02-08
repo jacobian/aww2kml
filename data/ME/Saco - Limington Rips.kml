@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="117724">
+        <Style id="117729">
+            <IconStyle id="117730">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="117731">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="117734">
+            <IconStyle id="117735">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="117736">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Saco - Limington Rips</name>
+        <Placemark id="117726">
+            <name>Saco - Limington Rips (II+(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="117725">
+                <coordinates>-70.645852,43.745921,0.0 -70.645324,43.743892,0.0 -70.645477,43.742819,0.0 -70.645488,43.742352,0.0 -70.645722,43.741176,0.0 -70.646053,43.740124,0.0 -70.646502,43.739443,0.0 -70.646829,43.739231,0.0 -70.647296,43.73911,0.0 -70.648502,43.738685,0.0 -70.649314,43.738138,0.0 -70.649621,43.737844,0.0 -70.650096,43.73726,0.0 -70.650163,43.736616,0.0 -70.650559,43.736471,0.0 -70.651306,43.735725,0.0 -70.651683,43.73514,0.0 -70.652038,43.734564,0.0 -70.652137,43.733523,0.0 -70.652605,43.732818,0.0 -70.652693,43.73254,0.0 -70.653249,43.731424,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="117728">
+            <name>Take Out</name>
+            <styleUrl>#117729</styleUrl>
+            <Point id="117727">
+                <coordinates>-70.6532,43.7314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117733">
+            <name>Put In</name>
+            <styleUrl>#117734</styleUrl>
+            <Point id="117732">
+                <coordinates>-70.6467,43.7457,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

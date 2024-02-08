@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="113734">
+        <Style id="113739">
+            <IconStyle id="113740">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="113741">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="113744">
+            <IconStyle id="113745">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="113746">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Miners Run - The Gorge</name>
+        <Placemark id="113736">
+            <name>Miners Run - The Gorge (IV-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="113735">
+                <coordinates>-76.920072,41.529049,0.0 -76.920047,41.528987,0.0 -76.919836,41.528751,0.0 -76.919726,41.528575,0.0 -76.919675,41.528443,0.0 -76.919675,41.528218,0.0 -76.919858,41.527911,0.0 -76.92007,41.527626,0.0 -76.920508,41.527362,0.0 -76.920815,41.527258,0.0 -76.920924,41.527192,0.0 -76.921063,41.526972,0.0 -76.921129,41.526769,0.0 -76.9211,41.526561,0.0 -76.920932,41.526292,0.0 -76.920859,41.526094,0.0 -76.920881,41.525973,0.0 -76.920866,41.525897,0.0 -76.920961,41.525737,0.0 -76.921034,41.525551,0.0 -76.921042,41.525414,0.0 -76.920816,41.52448,0.0 -76.920706,41.524069,0.0 -76.920472,41.523498,0.0 -76.920283,41.523075,0.0 -76.92021,41.522855,0.0 -76.920254,41.522537,0.0 -76.920232,41.522317,0.0 -76.919837,41.521834,0.0 -76.919735,41.521598,0.0 -76.919743,41.521313,0.0 -76.91986,41.520512,0.0 -76.919874,41.520111,0.0 -76.919845,41.520001,0.0 -76.919641,41.519738,0.0 -76.91959,41.519644,0.0 -76.919619,41.519233,0.0 -76.919612,41.519057,0.0 -76.919583,41.518903,0.0 -76.919473,41.518711,0.0 -76.919356,41.518563,0.0 -76.919152,41.518387,0.0 -76.918845,41.518206,0.0 -76.918531,41.518134,0.0 -76.918268,41.517948,0.0 -76.918195,41.517843,0.0 -76.918078,41.517602,0.0 -76.917896,41.517152,0.0 -76.917597,41.516768,0.0 -76.917341,41.516504,0.0 -76.916793,41.516153,0.0 -76.916633,41.516015,0.0 -76.91658,41.515911,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="113738">
+            <name>Take Out</name>
+            <styleUrl>#113739</styleUrl>
+            <Point id="113737">
+                <coordinates>-76.916603,41.5159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113743">
+            <name>Put In</name>
+            <styleUrl>#113744</styleUrl>
+            <Point id="113742">
+                <coordinates>-76.920197,41.528999,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

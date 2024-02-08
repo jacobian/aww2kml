@@ -1,47 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="28713">
+    <Document id="48126">
+        <Style id="48131">
+            <IconStyle id="48132">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48133">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48136">
+            <IconStyle id="48137">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48138">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48141">
+            <IconStyle id="48142">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48143">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48146">
+            <IconStyle id="48147">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48148">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48151">
+            <IconStyle id="48152">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48153">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>West River - 2. (Salmon Hole)</name>
-        <Placemark id="28715">
-            <name>West River - 2. (Salmon Hole)</name>
+        <Placemark id="48128">
+            <name>West River - 2. (Salmon Hole) (III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="28714">
+            <LineString id="48127">
                 <coordinates>-72.771543,43.126651,0.0 -72.771042,43.126117,0.0 -72.770881,43.125876,0.0 -72.770637,43.125329,0.0 -72.770531,43.125187,0.0 -72.770283,43.124973,0.0 -72.770104,43.124852,0.0 -72.76975,43.124683,0.0 -72.769446,43.124594,0.0 -72.769041,43.124532,0.0 -72.768768,43.124519,0.0 -72.768648,43.124492,0.0 -72.768245,43.124431,0.0 -72.767893,43.124335,0.0 -72.767461,43.124301,0.0 -72.7671,43.124317,0.0 -72.766121,43.124452,0.0 -72.765696,43.124465,0.0 -72.765385,43.12445,0.0 -72.765298,43.124434,0.0 -72.765231,43.124421,0.0 -72.765032,43.124384,0.0 -72.764798,43.124313,0.0 -72.764381,43.124226,0.0 -72.764119,43.124154,0.0 -72.763972,43.124139,0.0 -72.763587,43.124007,0.0 -72.763241,43.12394,0.0 -72.763127,43.123942,0.0 -72.763054,43.123966,0.0 -72.762976,43.123962,0.0 -72.762126,43.123614,0.0 -72.761769,43.12312,0.0 -72.760498,43.121693,0.0 -72.760177,43.121153,0.0 -72.759962,43.120596,0.0 -72.75993,43.120513,0.0 -72.759922,43.120501,0.0 -72.759691,43.120154,0.0 -72.759555,43.120006,0.0 -72.758901,43.119491,0.0 -72.757659,43.118795,0.0 -72.757296,43.118547,0.0 -72.75682,43.118302,0.0 -72.75599,43.117381,0.0 -72.7559,43.117256,0.0 -72.755842,43.117122,0.0 -72.755852,43.116967,0.0 -72.755952,43.116779,0.0 -72.756033,43.116695,0.0 -72.756197,43.11623,0.0 -72.756273,43.11614,0.0 -72.756483,43.115729,0.0 -72.756728,43.115402,0.0 -72.757033,43.115355,0.0 -72.757155,43.115362,0.0 -72.757847,43.115468,0.0 -72.758666,43.115657,0.0 -72.759139,43.115719,0.0 -72.759249,43.115752,0.0 -72.75962,43.115813,0.0 -72.759941,43.115835,0.0 -72.760172,43.115822,0.0 -72.760352,43.115795,0.0 -72.760493,43.115735,0.0 -72.760909,43.115301,0.0 -72.761103,43.115076,0.0 -72.761327,43.114834,0.0 -72.761812,43.114426,0.0 -72.762321,43.114211,0.0 -72.76274,43.114078,0.0 -72.763339,43.113918,0.0 -72.763773,43.11368,0.0 -72.764184,43.113394,0.0 -72.76455,43.113102,0.0 -72.764946,43.11292,0.0 -72.76547,43.112743,0.0 -72.76648,43.112222,0.0 -72.766944,43.112061,0.0 -72.767498,43.111824,0.0 -72.768031,43.111516,0.0 -72.768375,43.111385,0.0 -72.768569,43.111349,0.0 -72.768865,43.111322,0.0 -72.769768,43.111336,0.0 -72.770916,43.111434,0.0 -72.771319,43.111515,0.0 -72.771564,43.11154,0.0 -72.771658,43.111528,0.0 -72.77212,43.11155,0.0 -72.772549,43.111591,0.0 -72.773143,43.111563,0.0 -72.773422,43.111497,0.0 -72.773771,43.111492,0.0 -72.773857,43.111476,0.0 -72.773942,43.111436,0.0 -72.774149,43.111402,0.0 -72.774336,43.111322,0.0 -72.774474,43.111284,0.0 -72.774673,43.111192,0.0 -72.774782,43.111117,0.0 -72.775005,43.111004,0.0 -72.775328,43.110701,0.0 -72.775687,43.110093,0.0 -72.775785,43.109754,0.0 -72.77577,43.109307,0.0 -72.775755,43.108658,0.0 -72.775565,43.107873,0.0 -72.775251,43.10738,0.0 -72.774686,43.106623,0.0 -72.774335,43.106158,0.0 -72.774314,43.106124,0.0 -72.774241,43.106055,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="28717">
+        <Placemark id="48130">
             <name>The Dumplings (III)</name>
-            <Point id="28716">
+            <styleUrl>#48131</styleUrl>
+            <Point id="48129">
                 <coordinates>-72.764801,43.1129,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28719">
+        <Placemark id="48135">
             <name>Boof Rock (III)</name>
-            <Point id="28718">
+            <styleUrl>#48136</styleUrl>
+            <Point id="48134">
                 <coordinates>-72.755898,43.1171,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28721">
+        <Placemark id="48140">
             <name>Initiation (III)</name>
-            <Point id="28720">
+            <styleUrl>#48141</styleUrl>
+            <Point id="48139">
                 <coordinates>-72.7714,43.126202,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28723">
+        <Placemark id="48145">
             <name>Put in (None)</name>
-            <Point id="28722">
+            <styleUrl>#48146</styleUrl>
+            <Point id="48144">
                 <coordinates>-72.771599,43.126598,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28725">
-            <name>Put in</name>
-            <Point id="28724">
-                <coordinates>-72.771599,43.126598,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="28727">
+        <Placemark id="48150">
             <name>Take out</name>
-            <Point id="28726">
+            <styleUrl>#48151</styleUrl>
+            <Point id="48149">
                 <coordinates>-72.7742,43.106098,0.0</coordinates>
             </Point>
         </Placemark>

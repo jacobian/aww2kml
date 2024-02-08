@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="54712">
+        <Style id="54717">
+            <IconStyle id="54718">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54719">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54722">
+            <IconStyle id="54723">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54724">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54727">
+            <IconStyle id="54728">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54729">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54732">
+            <IconStyle id="54733">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54734">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54737">
+            <IconStyle id="54738">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54739">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54742">
+            <IconStyle id="54743">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54744">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54747">
+            <IconStyle id="54748">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54749">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54752">
+            <IconStyle id="54753">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54754">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54757">
+            <IconStyle id="54758">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54759">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54762">
+            <IconStyle id="54763">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54764">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54767">
+            <IconStyle id="54768">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54769">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Waubonsie Creek - Oswego: Stone Gate Park to Fox River (1.15-2.15 miles)</name>
+        <Placemark id="54714">
+            <name>Waubonsie Creek - Oswego: Stone Gate Park to Fox River (1.15-2.15 miles) (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="54713">
+                <coordinates>-88.336417,41.690768,0.0 -88.336447,41.690781,0.0 -88.336759,41.690986,0.0 -88.336831,41.691011,0.0 -88.336978,41.691027,0.0 -88.337042,41.69102,0.0 -88.337133,41.690972,0.0 -88.337408,41.690762,0.0 -88.337471,41.690683,0.0 -88.337536,41.690624,0.0 -88.337563,41.690593,0.0 -88.337869,41.690332,0.0 -88.337965,41.690283,0.0 -88.338074,41.690201,0.0 -88.33812,41.690146,0.0 -88.338152,41.690019,0.0 -88.338178,41.689967,0.0 -88.33821,41.689796,0.0 -88.33832,41.689534,0.0 -88.338456,41.68939,0.0 -88.338483,41.689369,0.0 -88.338516,41.689314,0.0 -88.338537,41.689129,0.0 -88.338556,41.689067,0.0 -88.338761,41.688902,0.0 -88.338958,41.688785,0.0 -88.339251,41.68877,0.0 -88.339575,41.68878,0.0 -88.339626,41.68881,0.0 -88.340423,41.688877,0.0 -88.340459,41.688884,0.0 -88.340804,41.689103,0.0 -88.340864,41.689137,0.0 -88.341038,41.689178,0.0 -88.341771,41.68919,0.0 -88.342329,41.689161,0.0 -88.342581,41.689136,0.0 -88.342713,41.689098,0.0 -88.342823,41.68905,0.0 -88.342887,41.689015,0.0 -88.342969,41.688954,0.0 -88.342998,41.688873,0.0 -88.342972,41.688723,0.0 -88.342941,41.688604,0.0 -88.342958,41.688562,0.0 -88.343223,41.688321,0.0 -88.343452,41.688146,0.0 -88.343524,41.68806,0.0 -88.343624,41.687964,0.0 -88.343903,41.687743,0.0 -88.343965,41.687707,0.0 -88.344073,41.687681,0.0 -88.344284,41.687653,0.0 -88.344522,41.687659,0.0 -88.344604,41.687618,0.0 -88.344695,41.687546,0.0 -88.344714,41.687521,0.0 -88.344722,41.687487,0.0 -88.34475,41.687467,0.0 -88.344773,41.687425,0.0 -88.344794,41.68737,0.0 -88.34485,41.687308,0.0 -88.344868,41.687267,0.0 -88.345014,41.687137,0.0 -88.345046,41.687116,0.0 -88.345133,41.687078,0.0 -88.345197,41.68704,0.0 -88.345444,41.686978,0.0 -88.345476,41.686974,0.0 -88.345516,41.68696,0.0 -88.345727,41.686936,0.0 -88.345954,41.686951,0.0 -88.345966,41.686955,0.0 -88.346014,41.68696,0.0 -88.34606,41.686968,0.0 -88.346097,41.68699,0.0 -88.346139,41.687006,0.0 -88.346184,41.687019,0.0 -88.346277,41.687039,0.0 -88.346325,41.687042,0.0 -88.346421,41.68704,0.0 -88.346468,41.687029,0.0 -88.3466,41.686985,0.0 -88.346726,41.686934,0.0 -88.346766,41.686913,0.0 -88.34685,41.686878,0.0 -88.346896,41.686867,0.0 -88.346943,41.686869,0.0 -88.34699,41.686877,0.0 -88.347086,41.68688,0.0 -88.347134,41.686877,0.0 -88.347179,41.686865,0.0 -88.347292,41.686799,0.0 -88.347326,41.686774,0.0 -88.347436,41.686705,0.0 -88.347668,41.686578,0.0 -88.34778,41.68651,0.0 -88.347955,41.686388,0.0 -88.348047,41.686305,0.0 -88.34808,41.686279,0.0 -88.348105,41.686249,0.0 -88.348146,41.686189,0.0 -88.348215,41.686168,0.0 -88.348417,41.686033,0.0 -88.348531,41.685981,0.0 -88.348554,41.685968,0.0 -88.348636,41.685954,0.0 -88.348759,41.685923,0.0 -88.34892,41.685912,0.0 -88.349332,41.685952,0.0 -88.349671,41.685972,0.0 -88.350115,41.685954,0.0 -88.350193,41.685943,0.0 -88.35033,41.685894,0.0 -88.350366,41.685888,0.0 -88.350394,41.685867,0.0 -88.350458,41.685853,0.0 -88.350522,41.685816,0.0 -88.350773,41.685688,0.0 -88.350805,41.685667,0.0 -88.35087,41.685653,0.0 -88.350915,41.685639,0.0 -88.350942,41.685619,0.0 -88.351035,41.685605,0.0 -88.351175,41.685567,0.0 -88.351323,41.685546,0.0 -88.351497,41.685531,0.0 -88.351744,41.685558,0.0 -88.351785,41.685568,0.0 -88.352015,41.685596,0.0 -88.352014,41.685599,0.0 -88.35218,41.685621,0.0 -88.352469,41.685765,0.0 -88.352566,41.685789,0.0 -88.353156,41.685821,0.0 -88.353306,41.685901,0.0 -88.353445,41.686005,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="54716">
+            <name>playspot (II)</name>
+            <styleUrl>#54717</styleUrl>
+            <Point id="54715">
+                <coordinates>-88.338707,41.688992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54721">
+            <name>playspot (II)</name>
+            <styleUrl>#54722</styleUrl>
+            <Point id="54720">
+                <coordinates>-88.340752,41.688942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54726">
+            <name>playspot? (II)</name>
+            <styleUrl>#54727</styleUrl>
+            <Point id="54725">
+                <coordinates>-88.345955,41.686932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54731">
+            <name>playspot (II)</name>
+            <styleUrl>#54732</styleUrl>
+            <Point id="54730">
+                <coordinates>-88.347786,41.686729,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54736">
+            <name>Low Bridge (None)</name>
+            <styleUrl>#54737</styleUrl>
+            <Point id="54735">
+                <coordinates>-88.352333,41.68565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54741">
+            <name>playspot (II)</name>
+            <styleUrl>#54742</styleUrl>
+            <Point id="54740">
+                <coordinates>-88.346886,41.687084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54746">
+            <name>playspot (II)</name>
+            <styleUrl>#54747</styleUrl>
+            <Point id="54745">
+                <coordinates>-88.348366,41.686211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54751">
+            <name>Possible Access?</name>
+            <styleUrl>#54752</styleUrl>
+            <Point id="54750">
+                <coordinates>-88.325699,41.694901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54756">
+            <name>Put In</name>
+            <styleUrl>#54757</styleUrl>
+            <Point id="54755">
+                <coordinates>-88.336403,41.6908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54761">
+            <name>Take Out</name>
+            <styleUrl>#54762</styleUrl>
+            <Point id="54760">
+                <coordinates>-88.353445,41.686005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54766">
+            <name>Waubonsee Lake Park Dam (II)</name>
+            <styleUrl>#54767</styleUrl>
+            <Point id="54765">
+                <coordinates>-88.260696,41.73742,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

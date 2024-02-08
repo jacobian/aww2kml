@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="119864">
+        <Style id="119869">
+            <IconStyle id="119870">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="119871">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="119874">
+            <IconStyle id="119875">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="119876">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Clay Run - Junction with Quarry Run to Cheat Lake</name>
+        <Placemark id="119866">
+            <name>Clay Run - Junction with Quarry Run to Cheat Lake (V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="119865">
+                <coordinates>-79.833963,39.655179,0.0 -79.834106,39.655286,0.0 -79.834241,39.655355,0.0 -79.834462,39.655488,0.0 -79.834561,39.655539,0.0 -79.834774,39.655635,0.0 -79.834959,39.655709,0.0 -79.835123,39.655779,0.0 -79.835293,39.655834,0.0 -79.835485,39.65589,0.0 -79.835648,39.655933,0.0 -79.835982,39.656008,0.0 -79.836245,39.656087,0.0 -79.836551,39.656207,0.0 -79.837119,39.656411,0.0 -79.83724,39.656444,0.0 -79.837403,39.656513,0.0 -79.838036,39.656758,0.0 -79.838164,39.6568,0.0 -79.83837,39.656861,0.0 -79.838626,39.65694,0.0 -79.838754,39.656986,0.0 -79.838896,39.657046,0.0 -79.838966,39.657087,0.0 -79.839223,39.65723,0.0 -79.839414,39.657317,0.0 -79.839699,39.657437,0.0 -79.839969,39.657593,0.0 -79.840083,39.657644,0.0 -79.840161,39.657681,0.0 -79.840331,39.657741,0.0 -79.840445,39.657782,0.0 -79.840558,39.65782,0.0 -79.840779,39.65788,0.0 -79.840999,39.657896,0.0 -79.841255,39.657903,0.0 -79.84139,39.657891,0.0 -79.841717,39.657854,0.0 -79.841781,39.657836,0.0 -79.841966,39.657793,0.0 -79.84205,39.657776,0.0 -79.842378,39.657689,0.0 -79.842512,39.657645,0.0 -79.842719,39.657584,0.0 -79.843166,39.65744,0.0 -79.843301,39.65741,0.0 -79.843401,39.657375,0.0 -79.843692,39.657256,0.0 -79.843849,39.657168,0.0 -79.843939,39.657107,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="119868">
+            <name>Take Out</name>
+            <styleUrl>#119869</styleUrl>
+            <Point id="119867">
+                <coordinates>-79.844002,39.6572,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119873">
+            <name>Put In</name>
+            <styleUrl>#119874</styleUrl>
+            <Point id="119872">
+                <coordinates>-79.834099,39.654999,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

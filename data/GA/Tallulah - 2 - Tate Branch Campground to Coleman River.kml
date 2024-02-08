@@ -1,54 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="14031">
+    <Document id="23870">
+        <Style id="23875">
+            <IconStyle id="23876">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="23877">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="23880">
+            <IconStyle id="23881">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="23882">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="23885">
+            <IconStyle id="23886">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="23887">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="23890">
+            <IconStyle id="23891">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="23892">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="23895">
+            <IconStyle id="23896">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="23897">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Tallulah - 2 - Tate Branch Campground to Coleman River</name>
-        <Placemark id="14033">
-            <name>Tallulah - 2 - Tate Branch Campground to Coleman River</name>
+        <Placemark id="23872">
+            <name>Tallulah - 2 - Tate Branch Campground to Coleman River (IV-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="14032">
+            <LineString id="23871">
                 <coordinates>-83.550844,34.950092,0.0 -83.54915,34.94148,0.0 -83.548043,34.942747,0.0 -83.547753,34.942597,0.0 -83.547378,34.942457,0.0 -83.547088,34.94236,0.0 -83.546573,34.942237,0.0 -83.546144,34.942078,0.0 -83.545704,34.941938,0.0 -83.545382,34.941797,0.0 -83.545221,34.9417,0.0 -83.545103,34.941586,0.0 -83.544996,34.941348,0.0 -83.544888,34.940997,0.0 -83.544835,34.940698,0.0 -83.544878,34.940442,0.0 -83.545028,34.940196,0.0 -83.545232,34.940047,0.0 -83.545554,34.939932,0.0 -83.546079,34.939862,0.0 -83.546541,34.93973,0.0 -83.547206,34.939475,0.0 -83.547431,34.939352,0.0 -83.547496,34.939282,0.0 -83.547614,34.939026,0.0 -83.547732,34.938675,0.0 -83.547753,34.938481,0.0 -83.547753,34.938481,0.0 -83.547775,34.938455,0.0 -83.547742,34.938428,0.0 -83.547732,34.938323,0.0 -83.547753,34.938147,0.0 -83.547957,34.93761,0.0 -83.547989,34.937399,0.0 -83.547968,34.937259,0.0 -83.547925,34.937153,0.0 -83.547753,34.936907,0.0 -83.547721,34.936836,0.0 -83.54771,34.936696,0.0 -83.547764,34.936423,0.0 -83.547839,34.935746,0.0 -83.547935,34.935308,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="14035">
+        <Placemark id="23874">
             <name>first half (IV)</name>
-            <Point id="14034">
+            <styleUrl>#23875</styleUrl>
+            <Point id="23873">
                 <coordinates>-83.550113,34.946377,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="14037">
+        <Placemark id="23879">
             <name>Tate branch campground / 4th bridge</name>
-            <Point id="14036">
+            <styleUrl>#23880</styleUrl>
+            <Point id="23878">
                 <coordinates>-83.551374,34.947555,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="14039">
+        <Placemark id="23884">
             <name>third bridge</name>
-            <Point id="14038">
+            <styleUrl>#23885</styleUrl>
+            <Point id="23883">
                 <coordinates>-83.550141,34.94652,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="14041">
+        <Placemark id="23889">
             <name>first bridge</name>
-            <Point id="14040">
+            <styleUrl>#23890</styleUrl>
+            <Point id="23888">
                 <coordinates>-83.5452,34.9301,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="14043">
+        <Placemark id="23894">
             <name>Flume of doom (IV)</name>
-            <Point id="14042">
+            <styleUrl>#23895</styleUrl>
+            <Point id="23893">
                 <coordinates>-83.54815,34.942625,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="14045">
-            <name>Put in</name>
-            <Point id="14044">
-                <coordinates>-83.550844,34.950092,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="14047">
-            <name>Take out</name>
-            <Point id="14046">
-                <coordinates>-83.547935,34.935308,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

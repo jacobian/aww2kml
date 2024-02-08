@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="97688">
+        <Style id="97693">
+            <IconStyle id="97694">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97695">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97698">
+            <IconStyle id="97699">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97700">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97703">
+            <IconStyle id="97704">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97705">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sagamore Creek - Sonny Drive to Sagamore Road</name>
+        <Placemark id="97690">
+            <name>Sagamore Creek - Sonny Drive to Sagamore Road (IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="97689">
+                <coordinates>-81.556685,41.352139,0.0 -81.556709,41.352133,0.0 -81.557195,41.352156,0.0 -81.557923,41.352454,0.0 -81.558196,41.352866,0.0 -81.558074,41.35369,0.0 -81.558165,41.354193,0.0 -81.558559,41.354491,0.0 -81.559227,41.354766,0.0 -81.561018,41.35511,0.0 -81.562202,41.354996,0.0 -81.562627,41.355202,0.0 -81.5629,41.356323,0.0 -81.563294,41.35669,0.0 -81.564023,41.356782,0.0 -81.564205,41.356873,0.0 -81.564235,41.357468,0.0 -81.564569,41.357628,0.0 -81.565328,41.357469,0.0 -81.566756,41.356829,0.0 -81.567636,41.357012,0.0 -81.567879,41.356967,0.0 -81.567879,41.356715,0.0 -81.567576,41.356326,0.0 -81.567576,41.356143,0.0 -81.56788,41.356051,0.0 -81.569124,41.356967,0.0 -81.569519,41.356967,0.0 -81.569914,41.35683,0.0 -81.570127,41.356441,0.0 -81.570218,41.35603,0.0 -81.570431,41.355755,0.0 -81.570765,41.355572,0.0 -81.57119,41.355595,0.0 -81.572222,41.356145,0.0 -81.57286,41.356282,0.0 -81.573771,41.356214,0.0 -81.574287,41.355986,0.0 -81.574895,41.355162,0.0 -81.576049,41.354179,0.0 -81.576141,41.353881,0.0 -81.576657,41.353516,0.0 -81.577356,41.353539,0.0 -81.577781,41.353447,0.0 -81.578874,41.352761,0.0 -81.579694,41.352579,0.0 -81.58097,41.352465,0.0 -81.582366,41.352991,0.0 -81.583793,41.352878,0.0 -81.585008,41.352992,0.0 -81.585858,41.353313,0.0 -81.586192,41.353336,0.0 -81.586829,41.353199,0.0 -81.587832,41.352604,0.0 -81.588925,41.352216,0.0 -81.59102,41.351965,0.0 -81.592043,41.351571,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="97692">
+            <name>Sagamore Tunnel (IV)</name>
+            <styleUrl>#97693</styleUrl>
+            <Point id="97691">
+                <coordinates>-81.568359,41.356533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97697">
+            <name>Take Out</name>
+            <styleUrl>#97698</styleUrl>
+            <Point id="97696">
+                <coordinates>-81.5919,41.3512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97702">
+            <name>Put In</name>
+            <styleUrl>#97703</styleUrl>
+            <Point id="97701">
+                <coordinates>-81.5567,41.3522,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

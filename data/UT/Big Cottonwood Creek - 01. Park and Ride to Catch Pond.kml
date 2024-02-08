@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="13045">
+    <Document id="22112">
+        <Style id="22117">
+            <IconStyle id="22118">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22119">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22122">
+            <IconStyle id="22123">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22124">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Big Cottonwood Creek - 01. Park and Ride to Catch Pond</name>
-        <Placemark id="13047">
-            <name>Big Cottonwood Creek - 01. Park and Ride to Catch Pond</name>
+        <Placemark id="22114">
+            <name>Big Cottonwood Creek - 01. Park and Ride to Catch Pond (IV+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="13046">
+            <LineString id="22113">
                 <coordinates>-111.788067,40.619798,0.0 -111.78836,40.619892,0.0 -111.788615,40.619871,0.0 -111.788806,40.619795,0.0 -111.789134,40.619734,0.0 -111.789423,40.619734,0.0 -111.789653,40.61981,0.0 -111.789874,40.619937,0.0 -111.789945,40.620055,0.0 -111.790078,40.620269,0.0 -111.79031,40.620429,0.0 -111.790488,40.620748,0.0 -111.790694,40.620878,0.0 -111.790928,40.621084,0.0 -111.791248,40.621251,0.0 -111.791651,40.621263,0.0 -111.792075,40.621575,0.0 -111.792227,40.621607,0.0 -111.792975,40.622026,0.0 -111.793346,40.622032,0.0 -111.793689,40.622156,0.0 -111.794019,40.622373,0.0 -111.794438,40.622596,0.0 -111.794693,40.622643,0.0 -111.79489,40.622541,0.0 -111.795028,40.622501,0.0 -111.795565,40.622596,0.0 -111.796031,40.622708,0.0 -111.79639,40.622925,0.0 -111.796916,40.622995,0.0 -111.797305,40.623094,0.0 -111.797495,40.623161,0.0 -111.797657,40.6233,0.0 -111.797862,40.623596,0.0 -111.797999,40.623818,0.0 -111.798171,40.624085,0.0 -111.798301,40.624198,0.0 -111.79845,40.624358,0.0 -111.798687,40.62459,0.0 -111.798788,40.624741,0.0 -111.798934,40.624881,0.0 -111.799005,40.624937,0.0 -111.799074,40.625015,0.0 -111.799168,40.625064,0.0 -111.799348,40.625218,0.0 -111.799499,40.625317,0.0 -111.799795,40.625646,0.0 -111.799946,40.625811,0.0 -111.800088,40.626005,0.0 -111.800239,40.626163,0.0 -111.800453,40.626353,0.0 -111.800603,40.626893,0.0 -111.800768,40.627245,0.0 -111.800987,40.627638,0.0 -111.801076,40.627744,0.0 -111.801147,40.627872,0.0 -111.80134,40.628044,0.0 -111.801765,40.628287,0.0 -111.802094,40.628682,0.0 -111.802317,40.628896,0.0 -111.802842,40.628979,0.0 -111.803002,40.628999,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="13049">
+        <Placemark id="22116">
             <name>Take Out</name>
-            <Point id="13048">
+            <styleUrl>#22117</styleUrl>
+            <Point id="22115">
                 <coordinates>-111.803001,40.629002,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="13051">
+        <Placemark id="22121">
             <name>Put In</name>
-            <Point id="13050">
+            <styleUrl>#22122</styleUrl>
+            <Point id="22120">
                 <coordinates>-111.788002,40.619999,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="13053">
-            <name>Put in</name>
-            <Point id="13052">
-                <coordinates>-111.788002,40.619999,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="13055">
-            <name>Take out</name>
-            <Point id="13054">
-                <coordinates>-111.803001,40.629002,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

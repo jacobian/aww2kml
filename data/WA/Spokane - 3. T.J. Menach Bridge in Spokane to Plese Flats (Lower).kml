@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="68310">
+        <Style id="68315">
+            <IconStyle id="68316">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68317">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="68320">
+            <IconStyle id="68321">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68322">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="68325">
+            <IconStyle id="68326">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68327">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="68330">
+            <IconStyle id="68331">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68332">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="68335">
+            <IconStyle id="68336">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68337">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="68340">
+            <IconStyle id="68341">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68342">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="68345">
+            <IconStyle id="68346">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68347">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="68350">
+            <IconStyle id="68351">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68352">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="68355">
+            <IconStyle id="68356">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68357">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Spokane - 3. T.J. Menach Bridge in Spokane to Plese Flats (Lower)</name>
+        <Placemark id="68312">
+            <name>Spokane - 3. T.J. Menach Bridge in Spokane to Plese Flats (Lower) (II-III+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="68311">
+                <coordinates>-117.455124,47.680649,0.0 -117.456531,47.680962,0.0 -117.457473,47.681313,0.0 -117.458756,47.681274,0.0 -117.460803,47.681038,0.0 -117.461899,47.680593,0.0 -117.463288,47.68056,0.0 -117.465091,47.680751,0.0 -117.466918,47.680619,0.0 -117.469924,47.680443,0.0 -117.472052,47.680497,0.0 -117.473319,47.680782,0.0 -117.474367,47.681242,0.0 -117.475765,47.682942,0.0 -117.47657,47.683792,0.0 -117.476863,47.684341,0.0 -117.477644,47.685662,0.0 -117.477937,47.686134,0.0 -117.477783,47.686962,0.0 -117.47689,47.687588,0.0 -117.475809,47.687742,0.0 -117.473681,47.687539,0.0 -117.471537,47.687737,0.0 -117.469904,47.688275,0.0 -117.468491,47.688632,0.0 -117.467704,47.689373,0.0 -117.467233,47.69019,0.0 -117.467201,47.690657,0.0 -117.467201,47.690695,0.0 -117.467689,47.691309,0.0 -117.468323,47.691627,0.0 -117.468363,47.691638,0.0 -117.468965,47.691896,0.0 -117.470216,47.692181,0.0 -117.471475,47.692646,0.0 -117.471979,47.693162,0.0 -117.473524,47.694143,0.0 -117.475929,47.695108,0.0 -117.478319,47.696281,0.0 -117.478945,47.696593,0.0 -117.481187,47.696647,0.0 -117.482682,47.696652,0.0 -117.483981,47.696361,0.0 -117.484014,47.69635,0.0 -117.48485,47.696059,0.0 -117.486808,47.695602,0.0 -117.490511,47.694328,0.0 -117.491063,47.693944,0.0 -117.492265,47.693505,0.0 -117.494207,47.693306,0.0 -117.495531,47.693821,0.0 -117.496052,47.694024,0.0 -117.496084,47.69404,0.0 -117.497125,47.694605,0.0 -117.497133,47.694627,0.0 -117.497386,47.695625,0.0 -117.497663,47.696458,0.0 -117.497655,47.69648,0.0 -117.497623,47.69704,0.0 -117.497623,47.697056,0.0 -117.49738,47.697572,0.0 -117.497039,47.698066,0.0 -117.49652,47.698455,0.0 -117.496479,47.698488,0.0 -117.495391,47.698747,0.0 -117.494847,47.69895,0.0 -117.493191,47.699954,0.0 -117.492517,47.700514,0.0 -117.492273,47.700838,0.0 -117.49225,47.701474,0.0 -117.492323,47.701551,0.0 -117.49242,47.701655,0.0 -117.492534,47.701776,0.0 -117.492616,47.701863,0.0 -117.492738,47.701995,0.0 -117.49277,47.702028,0.0 -117.492835,47.702099,0.0 -117.493462,47.702768,0.0 -117.494455,47.704128,0.0 -117.495528,47.70495,0.0 -117.497772,47.705942,0.0 -117.499122,47.706593,0.0 -117.499171,47.706632,0.0 -117.499268,47.706714,0.0 -117.499407,47.706835,0.0 -117.499504,47.706922,0.0 -117.499659,47.707049,0.0 -117.499789,47.707158,0.0 -117.500293,47.707597,0.0 -117.500465,47.70843,0.0 -117.500515,47.709406,0.0 -117.500866,47.710273,0.0 -117.500729,47.711359,0.0 -117.501055,47.712368,0.0 -117.501359,47.713323,0.0 -117.501057,47.71386,0.0 -117.499703,47.716203,0.0 -117.499459,47.716669,0.0 -117.498981,47.717591,0.0 -117.499015,47.719,0.0 -117.49996,47.72025,0.0 -117.50105,47.720881,0.0 -117.501456,47.721117,0.0 -117.503188,47.720767,0.0 -117.50635,47.720664,0.0 -117.5093,47.72049,0.0 -117.512575,47.721183,0.0 -117.51359,47.722187,0.0 -117.514133,47.724869,0.0 -117.512854,47.727578,0.0 -117.512258,47.728315,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="68314">
+            <name>Poop Plant Access</name>
+            <styleUrl>#68315</styleUrl>
+            <Point id="68313">
+                <coordinates>-117.478996,47.696999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68319">
+            <name>Peaceful Valley Access</name>
+            <styleUrl>#68320</styleUrl>
+            <Point id="68318">
+                <coordinates>-117.438004,47.66,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68324">
+            <name>Ninemile Dam</name>
+            <styleUrl>#68325</styleUrl>
+            <Point id="68323">
+                <coordinates>-117.543999,47.775002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68329">
+            <name>Spokane Falls</name>
+            <styleUrl>#68330</styleUrl>
+            <Point id="68328">
+                <coordinates>-117.425003,47.661999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68334">
+            <name>Disc Golf Course Access</name>
+            <styleUrl>#68335</styleUrl>
+            <Point id="68333">
+                <coordinates>-117.472,47.687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68339">
+            <name>Take Out</name>
+            <styleUrl>#68340</styleUrl>
+            <Point id="68338">
+                <coordinates>-117.511002,47.727299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68344">
+            <name>Bowl and Pitcher (III)</name>
+            <styleUrl>#68345</styleUrl>
+            <Point id="68343">
+                <coordinates>-117.498001,47.695999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68349">
+            <name>Devil's Toenail (III)</name>
+            <styleUrl>#68350</styleUrl>
+            <Point id="68348">
+                <coordinates>-117.5,47.707001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68354">
+            <name>Put In</name>
+            <styleUrl>#68355</styleUrl>
+            <Point id="68353">
+                <coordinates>-117.455002,47.681198,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

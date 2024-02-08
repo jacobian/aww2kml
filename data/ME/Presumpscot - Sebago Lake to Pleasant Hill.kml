@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="126699">
+        <Style id="126704">
+            <IconStyle id="126705">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="126706">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="126709">
+            <IconStyle id="126710">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="126711">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Presumpscot - Sebago Lake to Pleasant Hill</name>
+        <Placemark id="126701">
+            <name>Presumpscot - Sebago Lake to Pleasant Hill (I-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="126700">
+                <coordinates>-70.295273,43.728748,0.0 -70.29503,43.728988,0.0 -70.294706,43.729389,0.0 -70.293755,43.730769,0.0 -70.293437,43.730993,0.0 -70.292973,43.731119,0.0 -70.292285,43.731169,0.0 -70.291764,43.731058,0.0 -70.291146,43.730644,0.0 -70.290534,43.730081,0.0 -70.290173,43.729835,0.0 -70.289879,43.729701,0.0 -70.289489,43.729687,0.0 -70.288873,43.729819,0.0 -70.287264,43.729274,0.0 -70.286541,43.728895,0.0 -70.285921,43.728431,0.0 -70.285175,43.727338,0.0 -70.28489,43.726725,0.0 -70.284862,43.726547,0.0 -70.284777,43.726445,0.0 -70.284621,43.726306,0.0 -70.283862,43.725904,0.0 -70.282996,43.725212,0.0 -70.282653,43.724904,0.0 -70.282229,43.724376,0.0 -70.281305,43.723443,0.0 -70.28056,43.722818,0.0 -70.280091,43.72262,0.0 -70.27944,43.722446,0.0 -70.278849,43.722416,0.0 -70.27821,43.722471,0.0 -70.277721,43.722419,0.0 -70.277409,43.722307,0.0 -70.276943,43.722043,0.0 -70.276482,43.72191,0.0 -70.275193,43.721529,0.0 -70.274213,43.72098,0.0 -70.272377,43.720271,0.0 -70.271835,43.719854,0.0 -70.269882,43.718814,0.0 -70.269196,43.718298,0.0 -70.268851,43.718039,0.0 -70.268507,43.718007,0.0 -70.268162,43.718031,0.0 -70.267175,43.71755,0.0 -70.266001,43.717239,0.0 -70.265465,43.717173,0.0 -70.264945,43.716969,0.0 -70.26437,43.716873,0.0 -70.26394,43.716695,0.0 -70.263548,43.716686,0.0 -70.263165,43.716613,0.0 -70.262433,43.71639,0.0 -70.261843,43.716426,0.0 -70.261087,43.7166,0.0 -70.260547,43.716553,0.0 -70.260004,43.716364,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="126703">
+            <name>Take Out</name>
+            <styleUrl>#126704</styleUrl>
+            <Point id="126702">
+                <coordinates>-70.260056,43.716217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="126708">
+            <name>Put In</name>
+            <styleUrl>#126709</styleUrl>
+            <Point id="126707">
+                <coordinates>-70.295334,43.728809,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

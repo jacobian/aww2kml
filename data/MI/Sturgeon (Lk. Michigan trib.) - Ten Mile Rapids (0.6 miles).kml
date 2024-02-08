@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="82533">
+        <Style id="82538">
+            <IconStyle id="82539">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="82540">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="82543">
+            <IconStyle id="82544">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="82545">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="82548">
+            <IconStyle id="82549">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="82550">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="82553">
+            <IconStyle id="82554">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="82555">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="82558">
+            <IconStyle id="82559">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="82560">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="82563">
+            <IconStyle id="82564">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="82565">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sturgeon (Lk. Michigan trib.) - Ten Mile Rapids (0.6 miles)</name>
+        <Placemark id="82535">
+            <name>Sturgeon (Lk. Michigan trib.) - Ten Mile Rapids (0.6 miles) (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="82534">
+                <coordinates>-86.705697,45.949926,0.0 -86.705565,45.949034,0.0 -86.705368,45.948851,0.0 -86.705302,45.948646,0.0 -86.705138,45.948463,0.0 -86.705073,45.948395,0.0 -86.704974,45.948097,0.0 -86.704941,45.94796,0.0 -86.704809,45.947823,0.0 -86.704711,45.947618,0.0 -86.704284,45.946978,0.0 -86.704251,45.946635,0.0 -86.704414,45.946429,0.0 -86.705168,45.946314,0.0 -86.705495,45.946131,0.0 -86.705691,45.945857,0.0 -86.705756,45.945422,0.0 -86.705789,45.945262,0.0 -86.70582,45.944325,0.0 -86.705918,45.943868,0.0 -86.706048,45.943456,0.0 -86.706179,45.943365,0.0 -86.706482,45.942746,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="82537">
+            <name>Take Out</name>
+            <styleUrl>#82538</styleUrl>
+            <Point id="82536">
+                <coordinates>-86.707,45.943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82542">
+            <name>Put In</name>
+            <styleUrl>#82543</styleUrl>
+            <Point id="82541">
+                <coordinates>-86.706,45.95,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82547">
+            <name>Lower Ten Mile (II)</name>
+            <styleUrl>#82548</styleUrl>
+            <Point id="82546">
+                <coordinates>-86.705772,45.945175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82552">
+            <name>Campground</name>
+            <styleUrl>#82553</styleUrl>
+            <Point id="82551">
+                <coordinates>-86.707741,45.93829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82557">
+            <name>Upper Ten Mile (II)</name>
+            <styleUrl>#82558</styleUrl>
+            <Point id="82556">
+                <coordinates>-86.705421,45.949207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="82562">
+            <name>USGS sampling site</name>
+            <styleUrl>#82563</styleUrl>
+            <Point id="82561">
+                <coordinates>-86.705704,45.943001,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55996">
+        <Style id="56001">
+            <IconStyle id="56002">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56003">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56006">
+            <IconStyle id="56007">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56008">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56011">
+            <IconStyle id="56012">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56013">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56016">
+            <IconStyle id="56017">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56018">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Bay Creek, Hill Branch - Bell Smith Springs (1.4 miles)</name>
+        <Placemark id="55998">
+            <name>Bay Creek, Hill Branch - Bell Smith Springs (1.4 miles) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="55997">
+                <coordinates>-88.678829,37.526289,0.0 -88.678788,37.526272,0.0 -88.678388,37.525943,0.0 -88.678326,37.525871,0.0 -88.678181,37.525761,0.0 -88.678133,37.525684,0.0 -88.678008,37.525564,0.0 -88.677946,37.525525,0.0 -88.677829,37.525371,0.0 -88.677726,37.525179,0.0 -88.677608,37.525053,0.0 -88.677519,37.524915,0.0 -88.677374,37.52452,0.0 -88.677277,37.524366,0.0 -88.677146,37.524256,0.0 -88.677022,37.52419,0.0 -88.676691,37.524064,0.0 -88.676402,37.523883,0.0 -88.676326,37.523861,0.0 -88.676002,37.523696,0.0 -88.675698,37.52358,0.0 -88.675132,37.523448,0.0 -88.675022,37.523465,0.0 -88.674988,37.523492,0.0 -88.674808,37.523718,0.0 -88.674788,37.523772,0.0 -88.674691,37.523866,0.0 -88.674477,37.524031,0.0 -88.674374,37.524069,0.0 -88.673815,37.52414,0.0 -88.67327,37.52414,0.0 -88.67258,37.524063,0.0 -88.672146,37.523959,0.0 -88.671318,37.5238,0.0 -88.671215,37.523756,0.0 -88.67036,37.523563,0.0 -88.669953,37.523431,0.0 -88.669429,37.523332,0.0 -88.669194,37.523321,0.0 -88.66849,37.523239,0.0 -88.668132,37.523239,0.0 -88.667484,37.523151,0.0 -88.667228,37.52314,0.0 -88.667049,37.523167,0.0 -88.666863,37.523151,0.0 -88.666628,37.523008,0.0 -88.666352,37.522887,0.0 -88.666139,37.52276,0.0 -88.665828,37.52264,0.0 -88.665359,37.522612,0.0 -88.66498,37.522645,0.0 -88.664849,37.522639,0.0 -88.664008,37.522507,0.0 -88.663477,37.522469,0.0 -88.663194,37.522474,0.0 -88.663042,37.522392,0.0 -88.662966,37.522392,0.0 -88.662863,37.522425,0.0 -88.662794,37.522419,0.0 -88.662428,37.522205,0.0 -88.662304,37.522084,0.0 -88.662159,37.521985,0.0 -88.662042,37.521864,0.0 -88.661994,37.521771,0.0 -88.661973,37.521628,0.0 -88.661918,37.521584,0.0 -88.661677,37.52148,0.0 -88.661594,37.521414,0.0 -88.661352,37.521315,0.0 -88.661173,37.521155,0.0 -88.660856,37.520963,0.0 -88.660622,37.520848,0.0 -88.660456,37.520798,0.0 -88.65987,37.520551,0.0 -88.659118,37.520331,0.0 -88.658946,37.52021,0.0 -88.658877,37.520128,0.0 -88.658767,37.519787,0.0 -88.658719,37.519375,0.0 -88.65867,37.519177,0.0 -88.658677,37.519029,0.0 -88.658739,37.518952,0.0 -88.65896,37.518776,0.0 -88.65934,37.518601,0.0 -88.659401,37.518556,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="56000">
+            <name>Take Out</name>
+            <styleUrl>#56001</styleUrl>
+            <Point id="55999">
+                <coordinates>-88.658997,37.518002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56005">
+            <name>Boogie Slide</name>
+            <styleUrl>#56006</styleUrl>
+            <Point id="56004">
+                <coordinates>-88.67087,37.523678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56010">
+            <name>Put In</name>
+            <styleUrl>#56011</styleUrl>
+            <Point id="56009">
+                <coordinates>-88.679001,37.526001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56015">
+            <name>First Drop</name>
+            <styleUrl>#56016</styleUrl>
+            <Point id="56014">
+                <coordinates>-88.677374,37.52452,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

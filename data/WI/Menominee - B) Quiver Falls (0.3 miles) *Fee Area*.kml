@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55213">
+        <Style id="55218">
+            <IconStyle id="55219">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55220">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55223">
+            <IconStyle id="55224">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55225">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Menominee - B) Quiver Falls (0.3 miles) *Fee Area*</name>
+        <Placemark id="55215">
+            <name>Menominee - B) Quiver Falls (0.3 miles) *Fee Area* (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="55214">
+                <coordinates>-87.823484,45.656143,0.0 -87.8252,45.655232,0.0 -87.825635,45.654903,0.0 -87.826383,45.654534,0.0 -87.826848,45.654118,0.0 -87.827461,45.653718,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="55217">
+            <name>Put In</name>
+            <styleUrl>#55218</styleUrl>
+            <Point id="55216">
+                <coordinates>-87.826103,45.657501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55222">
+            <name>Take Out</name>
+            <styleUrl>#55223</styleUrl>
+            <Point id="55221">
+                <coordinates>-87.826103,45.657501,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

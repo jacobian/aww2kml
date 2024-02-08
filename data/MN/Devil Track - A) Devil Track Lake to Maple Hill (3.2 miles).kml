@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="97946">
+        <Style id="97951">
+            <IconStyle id="97952">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97953">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97956">
+            <IconStyle id="97957">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97958">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97961">
+            <IconStyle id="97962">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97963">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97966">
+            <IconStyle id="97967">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97968">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97971">
+            <IconStyle id="97972">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97973">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97976">
+            <IconStyle id="97977">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97978">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97981">
+            <IconStyle id="97982">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97983">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Devil Track - A) Devil Track Lake to Maple Hill (3.2 miles)</name>
+        <Placemark id="97948">
+            <name>Devil Track - A) Devil Track Lake to Maple Hill (3.2 miles) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="97947">
+                <coordinates>-90.35684,47.816204,0.0 -90.356833,47.816206,0.0 -90.356562,47.81632,0.0 -90.356155,47.816846,0.0 -90.355273,47.817234,0.0 -90.354933,47.817851,0.0 -90.354763,47.818307,0.0 -90.35439,47.818376,0.0 -90.353916,47.818261,0.0 -90.353,47.817439,0.0 -90.35256,47.817256,0.0 -90.35222,47.81721,0.0 -90.351373,47.816479,0.0 -90.351068,47.816411,0.0 -90.350457,47.816616,0.0 -90.350186,47.816867,0.0 -90.349473,47.816958,0.0 -90.348354,47.816798,0.0 -90.348187,47.81666,0.0 -90.347229,47.816406,0.0 -90.345869,47.814953,0.0 -90.345128,47.814923,0.0 -90.344837,47.814697,0.0 -90.344727,47.814696,0.0 -90.343032,47.813804,0.0 -90.342591,47.813462,0.0 -90.342082,47.813439,0.0 -90.34137,47.813781,0.0 -90.340862,47.813712,0.0 -90.340048,47.813004,0.0 -90.339031,47.812821,0.0 -90.338353,47.812935,0.0 -90.337572,47.813346,0.0 -90.336894,47.8133,0.0 -90.335741,47.812842,0.0 -90.335267,47.812705,0.0 -90.334249,47.813116,0.0 -90.332147,47.813047,0.0 -90.331129,47.812909,0.0 -90.330112,47.812658,0.0 -90.329129,47.812315,0.0 -90.327264,47.812291,0.0 -90.326857,47.812062,0.0 -90.326485,47.811651,0.0 -90.325976,47.811491,0.0 -90.325468,47.811034,0.0 -90.324892,47.810919,0.0 -90.324214,47.810805,0.0 -90.323773,47.810439,0.0 -90.323672,47.810211,0.0 -90.324045,47.809526,0.0 -90.323842,47.809091,0.0 -90.322961,47.808703,0.0 -90.320927,47.808291,0.0 -90.320249,47.808405,0.0 -90.319706,47.808655,0.0 -90.318858,47.808609,0.0 -90.317841,47.808426,0.0 -90.317163,47.808334,0.0 -90.316587,47.807969,0.0 -90.316147,47.807808,0.0 -90.315706,47.80758,0.0 -90.315062,47.807465,0.0 -90.31452,47.807168,0.0 -90.313943,47.807191,0.0 -90.313265,47.807281,0.0 -90.312485,47.807075,0.0 -90.311672,47.806824,0.0 -90.311129,47.806915,0.0 -90.310823,47.807303,0.0 -90.31001,47.807371,0.0 -90.308958,47.807782,0.0 -90.308449,47.807735,0.0 -90.307975,47.807415,0.0 -90.307738,47.807073,0.0 -90.306721,47.807118,0.0 -90.306314,47.806866,0.0 -90.305331,47.806843,0.0 -90.304653,47.806842,0.0 -90.304145,47.806545,0.0 -90.303875,47.805471,0.0 -90.303859,47.805452,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="97950">
+            <name>Take Out</name>
+            <styleUrl>#97951</styleUrl>
+            <Point id="97949">
+                <coordinates>-90.3038,47.8055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97955">
+            <name>Gunflint Trail/12</name>
+            <styleUrl>#97956</styleUrl>
+            <Point id="97954">
+                <coordinates>-90.306267,47.806808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97960">
+            <name>Put In</name>
+            <styleUrl>#97961</styleUrl>
+            <Point id="97959">
+                <coordinates>-90.3568,47.8161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97965">
+            <name>Private Bridge</name>
+            <styleUrl>#97966</styleUrl>
+            <Point id="97964">
+                <coordinates>-90.31089,47.807018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97970">
+            <name>Side stream</name>
+            <styleUrl>#97971</styleUrl>
+            <Point id="97969">
+                <coordinates>-90.322601,47.808601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97975">
+            <name>Powerline Crossing</name>
+            <styleUrl>#97976</styleUrl>
+            <Point id="97974">
+                <coordinates>-90.326752,47.811829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97980">
+            <name>Gradient Line</name>
+            <styleUrl>#97981</styleUrl>
+            <Point id="97979">
+                <coordinates>-90.343613,47.814072,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

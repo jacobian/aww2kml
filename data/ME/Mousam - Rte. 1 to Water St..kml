@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="99334">
+        <Style id="99339">
+            <IconStyle id="99340">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99341">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99344">
+            <IconStyle id="99345">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99346">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Mousam - Rte. 1 to Water St.</name>
+        <Placemark id="99336">
+            <name>Mousam - Rte. 1 to Water St. (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="99335">
+                <coordinates>-70.542415,43.384967,0.0 -70.542073,43.384673,0.0 -70.541924,43.384226,0.0 -70.541575,43.383636,0.0 -70.541098,43.383013,0.0 -70.540974,43.38274,0.0 -70.540975,43.382312,0.0 -70.541293,43.382018,0.0 -70.541473,43.38177,0.0 -70.541546,43.380911,0.0 -70.541781,43.3804,0.0 -70.541633,43.37995,0.0 -70.541526,43.379875,0.0 -70.541519,43.379517,0.0 -70.541382,43.379286,0.0 -70.540498,43.378577,0.0 -70.540156,43.378434,0.0 -70.539819,43.378382,0.0 -70.539102,43.378414,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="99338">
+            <name>Take Out</name>
+            <styleUrl>#99339</styleUrl>
+            <Point id="99337">
+                <coordinates>-70.5392,43.3806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99343">
+            <name>Put In</name>
+            <styleUrl>#99344</styleUrl>
+            <Point id="99342">
+                <coordinates>-70.5423,43.3851,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

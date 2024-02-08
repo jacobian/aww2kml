@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="5705">
+    <Document id="9710">
+        <Style id="9715">
+            <IconStyle id="9716">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9717">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9720">
+            <IconStyle id="9721">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9722">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Elkhorn, N.Fk. - North Fork Whitewater Park, Norfolk</name>
-        <Placemark id="5707">
-            <name>Elkhorn, N.Fk. - North Fork Whitewater Park, Norfolk</name>
+        <Placemark id="9712">
+            <name>Elkhorn, N.Fk. - North Fork Whitewater Park, Norfolk (II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="5706">
+            <LineString id="9711">
                 <coordinates>-97.406871,42.034693,0.0 -97.405568,42.034421,0.0 -97.404972,42.034164,0.0 -97.404433,42.033985,0.0 -97.404282,42.03378,0.0 -97.404314,42.032923,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="5709">
+        <Placemark id="9714">
             <name>Put in</name>
-            <Point id="5708">
+            <styleUrl>#9715</styleUrl>
+            <Point id="9713">
                 <coordinates>-97.406871,42.034693,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5711">
+        <Placemark id="9719">
             <name>Take out</name>
-            <Point id="5710">
+            <styleUrl>#9720</styleUrl>
+            <Point id="9718">
                 <coordinates>-97.404314,42.032923,0.0</coordinates>
             </Point>
         </Placemark>

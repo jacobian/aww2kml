@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="26947">
+    <Document id="45119">
+        <Style id="45124">
+            <IconStyle id="45125">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45126">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45129">
+            <IconStyle id="45130">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45131">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Mississippi - Chain of Rocks (Riverview Drive, north St. Louis) (PnP)</name>
-        <Placemark id="26949">
-            <name>Mississippi - Chain of Rocks (Riverview Drive, north St. Louis) (PnP)</name>
+        <Placemark id="45121">
+            <name>Mississippi - Chain of Rocks (Riverview Drive, north St. Louis) (PnP) (III-IV)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="26948">
+            <LineString id="45120">
                 <coordinates>-90.17137,38.756909,0.0 -90.176104,38.75972,0.0 -90.180516,38.761161,0.0 -90.181003,38.759607,0.0 -90.179945,38.756882,0.0 -90.176096,38.754676,0.0 -90.171459,38.755377,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="26951">
+        <Placemark id="45123">
             <name>Take Out</name>
-            <Point id="26950">
+            <styleUrl>#45124</styleUrl>
+            <Point id="45122">
                 <coordinates>-90.182198,38.7561,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26953">
+        <Placemark id="45128">
             <name>Put In</name>
-            <Point id="26952">
+            <styleUrl>#45129</styleUrl>
+            <Point id="45127">
                 <coordinates>-90.181396,38.7589,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="26955">
-            <name>Put in</name>
-            <Point id="26954">
-                <coordinates>-90.17137,38.756909,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="26957">
-            <name>Take out</name>
-            <Point id="26956">
-                <coordinates>-90.171459,38.755377,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

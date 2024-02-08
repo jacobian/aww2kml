@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="65487">
+        <Style id="65492">
+            <IconStyle id="65493">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65494">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65497">
+            <IconStyle id="65498">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65499">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65502">
+            <IconStyle id="65503">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65504">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65507">
+            <IconStyle id="65508">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65509">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Mill Creek - Cataract Falls (1 mile) ** Access Issues **</name>
+        <Placemark id="65489">
+            <name>Mill Creek - Cataract Falls (1 mile) ** Access Issues ** (V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="65488">
+                <coordinates>-86.813282,39.433475,0.0 -86.813185,39.433847,0.0 -86.813155,39.433962,0.0 -86.813211,39.434486,0.0 -86.813403,39.4349,0.0 -86.813704,39.435076,0.0 -86.813928,39.435315,0.0 -86.814177,39.435785,0.0 -86.814458,39.436254,0.0 -86.814898,39.437277,0.0 -86.815138,39.438415,0.0 -86.815154,39.438552,0.0 -86.81516,39.438608,0.0 -86.81525,39.439397,0.0 -86.815448,39.439732,0.0 -86.815615,39.4399,0.0 -86.815717,39.440002,0.0 -86.816057,39.440177,0.0 -86.816418,39.440123,0.0 -86.816952,39.43998,0.0 -86.817479,39.439956,0.0 -86.817614,39.440166,0.0 -86.81758,39.440629,0.0 -86.817379,39.440973,0.0 -86.817205,39.441157,0.0 -86.816921,39.441286,0.0 -86.816779,39.441475,0.0 -86.816565,39.441904,0.0 -86.816513,39.442073,0.0 -86.816635,39.442137,0.0 -86.81668,39.442161,0.0 -86.816751,39.442198,0.0 -86.817233,39.442189,0.0 -86.817715,39.442176,0.0 -86.817902,39.442206,0.0 -86.818108,39.442146,0.0 -86.818442,39.442222,0.0 -86.818853,39.442253,0.0 -86.819239,39.442274,0.0 -86.819637,39.442419,0.0 -86.819984,39.442719,0.0 -86.820084,39.442832,0.0 -86.820355,39.443134,0.0 -86.820663,39.443419,0.0 -86.820758,39.443492,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="65491">
+            <name>Upper Cataract (V)</name>
+            <styleUrl>#65492</styleUrl>
+            <Point id="65490">
+                <coordinates>-86.813103,39.4342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65496">
+            <name>Lower Cataract (IV)</name>
+            <styleUrl>#65497</styleUrl>
+            <Point id="65495">
+                <coordinates>-86.819702,39.442402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65501">
+            <name>Take Out</name>
+            <styleUrl>#65502</styleUrl>
+            <Point id="65500">
+                <coordinates>-86.82122,39.442894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65506">
+            <name>Put In</name>
+            <styleUrl>#65507</styleUrl>
+            <Point id="65505">
+                <coordinates>-86.813461,39.433521,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

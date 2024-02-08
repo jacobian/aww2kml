@@ -1,42 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="27229">
+    <Document id="45584">
+        <Style id="45589">
+            <IconStyle id="45590">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45591">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45594">
+            <IconStyle id="45595">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45596">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45599">
+            <IconStyle id="45600">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45601">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Fox - B) Appleton Dam (PnP) *Access Issues*</name>
-        <Placemark id="27231">
-            <name>Fox - B) Appleton Dam (PnP) *Access Issues*</name>
+        <Placemark id="45586">
+            <name>Fox - B) Appleton Dam (PnP) *Access Issues* (II-IV+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="27230">
+            <LineString id="45585">
                 <coordinates>-88.410939,44.254572,0.0 -88.409329,44.255528,0.0 -88.40929,44.255693,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="27233">
+        <Placemark id="45588">
             <name>Take Out</name>
-            <Point id="27232">
+            <styleUrl>#45589</styleUrl>
+            <Point id="45587">
                 <coordinates>-88.409,44.256,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27235">
+        <Placemark id="45593">
             <name>Put In</name>
-            <Point id="27234">
+            <styleUrl>#45594</styleUrl>
+            <Point id="45592">
                 <coordinates>-88.411,44.253,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27237">
+        <Placemark id="45598">
             <name>Breakwall</name>
-            <Point id="27236">
+            <styleUrl>#45599</styleUrl>
+            <Point id="45597">
                 <coordinates>-88.411003,44.255001,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27239">
-            <name>Put in</name>
-            <Point id="27238">
-                <coordinates>-88.410939,44.254572,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27241">
-            <name>Take out</name>
-            <Point id="27240">
-                <coordinates>-88.40929,44.255693,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

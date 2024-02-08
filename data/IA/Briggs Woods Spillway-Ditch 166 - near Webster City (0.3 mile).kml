@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="64877">
+        <Style id="64882">
+            <IconStyle id="64883">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64884">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64887">
+            <IconStyle id="64888">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64889">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64892">
+            <IconStyle id="64893">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64894">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Briggs Woods Spillway/Ditch 166 - near Webster City (0.3 mile)</name>
+        <Placemark id="64879">
+            <name>Briggs Woods Spillway/Ditch 166 - near Webster City (0.3 mile) (II-III+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="64878">
+                <coordinates>-93.792741,42.439686,0.0 -93.792763,42.440005,0.0 -93.792735,42.440112,0.0 -93.792716,42.440143,0.0 -93.792712,42.440188,0.0 -93.792683,42.440221,0.0 -93.792711,42.440242,0.0 -93.792785,42.440283,0.0 -93.792813,42.440283,0.0 -93.792868,42.440318,0.0 -93.792924,42.440332,0.0 -93.793118,42.440422,0.0 -93.793308,42.440518,0.0 -93.793838,42.44091,0.0 -93.793922,42.440986,0.0 -93.793982,42.441056,0.0 -93.794148,42.441206,0.0 -93.794199,42.441268,0.0 -93.794217,42.441302,0.0 -93.794347,42.441398,0.0 -93.794467,42.441461,0.0 -93.794586,42.441516,0.0 -93.794633,42.441537,0.0 -93.794671,42.441544,0.0 -93.794707,42.441564,0.0 -93.79479,42.441592,0.0 -93.795041,42.441661,0.0 -93.795128,42.441678,0.0 -93.795226,42.441668,0.0 -93.795496,42.441483,0.0 -93.795696,42.441432,0.0 -93.795979,42.441409,0.0 -93.796061,42.441471,0.0 -93.796098,42.441505,0.0 -93.796074,42.441811,0.0 -93.796069,42.441835,0.0 -93.796041,42.44189,0.0 -93.796041,42.441924,0.0 -93.796068,42.442052,0.0 -93.796117,42.44205,0.0 -93.796165,42.442045,0.0 -93.796212,42.442034,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="64881">
+            <name>Take Out</name>
+            <styleUrl>#64882</styleUrl>
+            <Point id="64880">
+                <coordinates>-93.796204,42.442001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64886">
+            <name>Put In</name>
+            <styleUrl>#64887</styleUrl>
+            <Point id="64885">
+                <coordinates>-93.793404,42.439602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64891">
+            <name>Run Overview (II+)</name>
+            <styleUrl>#64892</styleUrl>
+            <Point id="64890">
+                <coordinates>-93.793404,42.439602,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

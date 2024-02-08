@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="129836">
+        <Style id="129841">
+            <IconStyle id="129842">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="129843">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="129846">
+            <IconStyle id="129847">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="129848">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Wolverine Creek - Upper River to Matanuska River</name>
+        <Placemark id="129838">
+            <name>Wolverine Creek - Upper River to Matanuska River (V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="129837">
+                <coordinates>-149.038594,61.632686,0.0 -149.038971,61.632704,0.0 -149.039161,61.632693,0.0 -149.039352,61.6327,0.0 -149.03963,61.632725,0.0 -149.040001,61.632789,0.0 -149.040387,61.632752,0.0 -149.040481,61.632749,0.0 -149.04133,61.632787,0.0 -149.041611,61.632773,0.0 -149.04172,61.632783,0.0 -149.041885,61.632851,0.0 -149.042067,61.632902,0.0 -149.042346,61.632955,0.0 -149.042441,61.632959,0.0 -149.042734,61.632926,0.0 -149.04293,61.632888,0.0 -149.043227,61.632809,0.0 -149.043417,61.632788,0.0 -149.043514,61.632805,0.0 -149.043689,61.632856,0.0 -149.043772,61.632849,0.0 -149.043882,61.632825,0.0 -149.043913,61.632807,0.0 -149.043993,61.632794,0.0 -149.044371,61.632758,0.0 -149.044465,61.632755,0.0 -149.044656,61.632762,0.0 -149.044747,61.632771,0.0 -149.044835,61.632791,0.0 -149.04512,61.632821,0.0 -149.045302,61.632817,0.0 -149.045417,61.632808,0.0 -149.045496,61.632784,0.0 -149.045609,61.632764,0.0 -149.045792,61.632759,0.0 -149.045878,61.632749,0.0 -149.046088,61.632704,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="129840">
+            <name>Take Out</name>
+            <styleUrl>#129841</styleUrl>
+            <Point id="129839">
+                <coordinates>-149.031998,61.6562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129845">
+            <name>Put In</name>
+            <styleUrl>#129846</styleUrl>
+            <Point id="129844">
+                <coordinates>-149.045807,61.631401,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

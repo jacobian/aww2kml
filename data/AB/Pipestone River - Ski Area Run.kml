@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="17855">
+    <Document id="30127">
+        <Style id="30132">
+            <IconStyle id="30133">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30134">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30137">
+            <IconStyle id="30138">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30139">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Pipestone River - Ski Area Run</name>
-        <Placemark id="17857">
-            <name>Pipestone River - Ski Area Run</name>
+        <Placemark id="30129">
+            <name>Pipestone River - Ski Area Run (III-IV)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="17856">
+            <LineString id="30128">
                 <coordinates>-116.174163,51.448788,0.0 -116.174134,51.448569,0.0 -116.174773,51.448141,0.0 -116.173743,51.447725,0.0 -116.1732,51.44741,0.0 -116.172799,51.447143,0.0 -116.172685,51.446899,0.0 -116.171903,51.446501,0.0 -116.171636,51.446246,0.0 -116.171522,51.446008,0.0 -116.171017,51.445515,0.0 -116.170969,51.445333,0.0 -116.17095,51.445066,0.0 -116.170445,51.444709,0.0 -116.170159,51.444258,0.0 -116.169673,51.443996,0.0 -116.169148,51.443878,0.0 -116.168519,51.443313,0.0 -116.168023,51.442428,0.0 -116.167918,51.442178,0.0 -116.167203,51.44153,0.0 -116.167165,51.441227,0.0 -116.16626,51.440419,0.0 -116.166079,51.440086,0.0 -116.166241,51.439433,0.0 -116.166546,51.439052,0.0 -116.166593,51.43869,0.0 -116.166984,51.438096,0.0 -116.16687,51.437501,0.0 -116.166155,51.436592,0.0 -116.166212,51.436331,0.0 -116.16645,51.436277,0.0 -116.166879,51.436396,0.0 -116.167537,51.436563,0.0 -116.168367,51.436289,0.0 -116.169053,51.435695,0.0 -116.169453,51.435427,0.0 -116.170206,51.435416,0.0 -116.171131,51.435433,0.0 -116.172237,51.435273,0.0 -116.1732,51.435011,0.0 -116.174001,51.434399,0.0 -116.174716,51.433223,0.0 -116.174975,51.431825,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="17859">
+        <Placemark id="30131">
             <name>Put in</name>
-            <Point id="17858">
+            <styleUrl>#30132</styleUrl>
+            <Point id="30130">
                 <coordinates>-116.174163,51.448788,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17861">
+        <Placemark id="30136">
             <name>Take out</name>
-            <Point id="17860">
+            <styleUrl>#30137</styleUrl>
+            <Point id="30135">
                 <coordinates>-116.174975,51.431825,0.0</coordinates>
             </Point>
         </Placemark>

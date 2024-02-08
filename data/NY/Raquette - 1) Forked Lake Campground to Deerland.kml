@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="89854">
+        <Style id="89859">
+            <IconStyle id="89860">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89861">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89864">
+            <IconStyle id="89865">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89866">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89869">
+            <IconStyle id="89870">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89871">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Raquette - 1) Forked Lake Campground to Deerland</name>
+        <Placemark id="89856">
+            <name>Raquette - 1) Forked Lake Campground to Deerland (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="89855">
+                <coordinates>-74.526239,43.90622,0.0 -74.524625,43.907424,0.0 -74.524435,43.90747,0.0 -74.523803,43.907058,0.0 -74.523202,43.907149,0.0 -74.522189,43.907445,0.0 -74.521366,43.907604,0.0 -74.520291,43.907626,0.0 -74.51833,43.907441,0.0 -74.517349,43.907806,0.0 -74.516748,43.907806,0.0 -74.516305,43.907622,0.0 -74.514883,43.906821,0.0 -74.513935,43.906614,0.0 -74.513175,43.906682,0.0 -74.511688,43.907344,0.0 -74.511245,43.907412,0.0 -74.509822,43.907227,0.0 -74.508967,43.907341,0.0 -74.508492,43.907592,0.0 -74.507922,43.9083,0.0 -74.506908,43.908779,0.0 -74.506086,43.908779,0.0 -74.505169,43.908366,0.0 -74.504759,43.908,0.0 -74.503968,43.907976,0.0 -74.503146,43.907678,0.0 -74.502515,43.90722,0.0 -74.501915,43.906579,0.0 -74.501252,43.906098,0.0 -74.500303,43.906074,0.0 -74.500049,43.906165,0.0 -74.499608,43.90619,0.0 -74.496255,43.906262,0.0 -74.495497,43.906469,0.0 -74.494707,43.906813,0.0 -74.493948,43.907294,0.0 -74.493854,43.9075,0.0 -74.493887,43.908185,0.0 -74.49335,43.908758,0.0 -74.493002,43.90885,0.0 -74.491358,43.908897,0.0 -74.490947,43.909012,0.0 -74.489809,43.909836,0.0 -74.488197,43.910295,0.0 -74.486743,43.911028,0.0 -74.486522,43.911212,0.0 -74.485955,43.912104,0.0 -74.484912,43.912585,0.0 -74.484153,43.913203,0.0 -74.484028,43.913661,0.0 -74.484281,43.913935,0.0 -74.484441,43.914644,0.0 -74.483589,43.915765,0.0 -74.482832,43.917344,0.0 -74.482676,43.918419,0.0 -74.482392,43.918831,0.0 -74.481792,43.919357,0.0 -74.481097,43.920204,0.0 -74.479833,43.92112,0.0 -74.479834,43.921646,0.0 -74.480024,43.921829,0.0 -74.480626,43.922103,0.0 -74.480595,43.922537,0.0 -74.479805,43.922904,0.0 -74.478984,43.923842,0.0 -74.477342,43.926016,0.0 -74.477265,43.926041,0.0 -74.477129,43.926301,0.0 -74.476672,43.926506,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="89858">
+            <name>Buttermilk Falls (VI)</name>
+            <styleUrl>#89859</styleUrl>
+            <Point id="89857">
+                <coordinates>-74.484085,43.914894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89863">
+            <name>Take Out</name>
+            <styleUrl>#89864</styleUrl>
+            <Point id="89862">
+                <coordinates>-74.4764,43.9259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89868">
+            <name>Put In</name>
+            <styleUrl>#89869</styleUrl>
+            <Point id="89867">
+                <coordinates>-74.526,43.9059,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

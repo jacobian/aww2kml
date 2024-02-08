@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="110865">
+        <Style id="110870">
+            <IconStyle id="110871">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110872">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110875">
+            <IconStyle id="110876">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110877">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110880">
+            <IconStyle id="110881">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110882">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110885">
+            <IconStyle id="110886">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110887">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110890">
+            <IconStyle id="110891">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110892">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110895">
+            <IconStyle id="110896">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110897">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110900">
+            <IconStyle id="110901">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110902">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110905">
+            <IconStyle id="110906">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110907">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Montreal (Keweenaw) - Mandan Road to Lake Superior (4.5 miles+lake paddle)</name>
+        <Placemark id="110867">
+            <name>Montreal (Keweenaw) - Mandan Road to Lake Superior (4.5 miles+lake paddle) (I(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="110866">
+                <coordinates>-87.840102,47.423041,0.0 -87.839957,47.422347,0.0 -87.839788,47.422279,0.0 -87.83925,47.422278,0.0 -87.838172,47.422735,0.0 -87.837532,47.422803,0.0 -87.836286,47.422414,0.0 -87.835209,47.421774,0.0 -87.833964,47.421157,0.0 -87.832853,47.420334,0.0 -87.831978,47.419602,0.0 -87.831777,47.418871,0.0 -87.832148,47.418094,0.0 -87.832822,47.4175,0.0 -87.833159,47.416472,0.0 -87.832991,47.416266,0.0 -87.832486,47.416197,0.0 -87.832116,47.416425,0.0 -87.831644,47.416334,0.0 -87.831645,47.416105,0.0 -87.831375,47.415945,0.0 -87.831072,47.416036,0.0 -87.830567,47.416014,0.0 -87.830029,47.415396,0.0 -87.829962,47.414436,0.0 -87.829189,47.413796,0.0 -87.829088,47.413179,0.0 -87.828684,47.412905,0.0 -87.828483,47.412585,0.0 -87.828719,47.412128,0.0 -87.828652,47.411785,0.0 -87.828585,47.411328,0.0 -87.829057,47.410711,0.0 -87.829461,47.410163,0.0 -87.829899,47.409843,0.0 -87.829731,47.409386,0.0 -87.829866,47.409294,0.0 -87.830404,47.409386,0.0 -87.830237,47.407832,0.0 -87.830474,47.407306,0.0 -87.830911,47.406964,0.0 -87.831585,47.406553,0.0 -87.831855,47.405981,0.0 -87.831822,47.405296,0.0 -87.831956,47.405022,0.0 -87.832765,47.40461,0.0 -87.833202,47.404405,0.0 -87.833371,47.404199,0.0 -87.833135,47.404016,0.0 -87.832294,47.403879,0.0 -87.831756,47.403513,0.0 -87.831251,47.402873,0.0 -87.830848,47.402005,0.0 -87.83095,47.401479,0.0 -87.831219,47.401319,0.0 -87.8327,47.401365,0.0 -87.833878,47.401366,0.0 -87.835393,47.401321,0.0 -87.836268,47.400978,0.0 -87.836672,47.400544,0.0 -87.836875,47.399538,0.0 -87.836606,47.398921,0.0 -87.83627,47.398533,0.0 -87.836371,47.397984,0.0 -87.836809,47.397436,0.0 -87.837314,47.397162,0.0 -87.837786,47.397048,0.0 -87.837887,47.396819,0.0 -87.837651,47.396614,0.0 -87.836271,47.396453,0.0 -87.835497,47.39611,0.0 -87.835161,47.395653,0.0 -87.835263,47.394944,0.0 -87.835499,47.394533,0.0 -87.835835,47.394259,0.0 -87.836711,47.394168,0.0 -87.839436,47.39474,0.0 -87.839773,47.394626,0.0 -87.839941,47.394283,0.0 -87.839975,47.39378,0.0 -87.840649,47.392935,0.0 -87.841255,47.392455,0.0 -87.841659,47.392433,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="110869">
+            <name>apparent falls #3</name>
+            <styleUrl>#110870</styleUrl>
+            <Point id="110868">
+                <coordinates>-87.835503,47.395599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110874">
+            <name>apparent rapids/falls #4</name>
+            <styleUrl>#110875</styleUrl>
+            <Point id="110873">
+                <coordinates>-87.841301,47.392601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110879">
+            <name>apparent falls #1</name>
+            <styleUrl>#110880</styleUrl>
+            <Point id="110878">
+                <coordinates>-87.8321,47.418098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110884">
+            <name>apparent rapids/falls #2</name>
+            <styleUrl>#110885</styleUrl>
+            <Point id="110883">
+                <coordinates>-87.836197,47.398102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110889">
+            <name>possible egress/access</name>
+            <styleUrl>#110890</styleUrl>
+            <Point id="110888">
+                <coordinates>-87.866798,47.393799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110894">
+            <name>Possible Access</name>
+            <styleUrl>#110895</styleUrl>
+            <Point id="110893">
+                <coordinates>-88.018097,47.413399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110899">
+            <name>Take Out</name>
+            <styleUrl>#110900</styleUrl>
+            <Point id="110898">
+                <coordinates>-87.8417,47.3924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110904">
+            <name>Put In</name>
+            <styleUrl>#110905</styleUrl>
+            <Point id="110903">
+                <coordinates>-87.8403,47.423,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="114425">
+        <Style id="114430">
+            <IconStyle id="114431">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114432">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114435">
+            <IconStyle id="114436">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114437">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Grassy Creek - Gateway Motel to Russell Fork (0.94 mile)</name>
+        <Placemark id="114427">
+            <name>Grassy Creek - Gateway Motel to Russell Fork (0.94 mile) (IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="114426">
+                <coordinates>-82.301349,37.303226,0.0 -82.301482,37.303155,0.0 -82.301757,37.303056,0.0 -82.302651,37.302776,0.0 -82.302782,37.302693,0.0 -82.302974,37.302545,0.0 -82.303098,37.302413,0.0 -82.303394,37.302188,0.0 -82.303469,37.302105,0.0 -82.303676,37.301941,0.0 -82.303717,37.301891,0.0 -82.303848,37.301809,0.0 -82.304302,37.301589,0.0 -82.304467,37.30154,0.0 -82.304921,37.30138,0.0 -82.305237,37.30132,0.0 -82.305629,37.301215,0.0 -82.306062,37.301012,0.0 -82.306544,37.300655,0.0 -82.306894,37.300419,0.0 -82.307197,37.300172,0.0 -82.307362,37.300007,0.0 -82.307782,37.299661,0.0 -82.307864,37.299617,0.0 -82.30816,37.299392,0.0 -82.308408,37.299232,0.0 -82.308745,37.299056,0.0 -82.308896,37.298946,0.0 -82.309315,37.298694,0.0 -82.309549,37.298578,0.0 -82.309687,37.298491,0.0 -82.309742,37.298469,0.0 -82.31001,37.298326,0.0 -82.310209,37.298172,0.0 -82.31034,37.298024,0.0 -82.310533,37.29776,0.0 -82.310684,37.297524,0.0 -82.310794,37.297386,0.0 -82.310931,37.297227,0.0 -82.311096,37.297101,0.0 -82.311378,37.296952,0.0 -82.312107,37.29665,0.0 -82.312417,37.296485,0.0 -82.312685,37.296375,0.0 -82.312774,37.296342,0.0 -82.313593,37.296189,0.0 -82.313792,37.296123,0.0 -82.313937,37.296051,0.0 -82.314074,37.29593,0.0 -82.314164,37.295886,0.0 -82.314497,37.295727,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="114429">
+            <name>Take Out</name>
+            <styleUrl>#114430</styleUrl>
+            <Point id="114428">
+                <coordinates>-82.314499,37.295334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114434">
+            <name>Put In</name>
+            <styleUrl>#114435</styleUrl>
+            <Point id="114433">
+                <coordinates>-82.301498,37.303501,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

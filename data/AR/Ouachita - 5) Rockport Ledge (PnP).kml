@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="54949">
+        <Style id="54954">
+            <IconStyle id="54955">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54956">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54959">
+            <IconStyle id="54960">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54961">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Ouachita - 5) Rockport Ledge (PnP)</name>
+        <Placemark id="54951">
+            <name>Ouachita - 5) Rockport Ledge (PnP) (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="54950">
+                <coordinates>-92.843391,34.394759,0.0 -92.839287,34.384833,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="54953">
+            <name>Take Out</name>
+            <styleUrl>#54954</styleUrl>
+            <Point id="54952">
+                <coordinates>-92.841904,34.394001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54958">
+            <name>Put In</name>
+            <styleUrl>#54959</styleUrl>
+            <Point id="54957">
+                <coordinates>-92.841904,34.394001,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

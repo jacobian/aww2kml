@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="110422">
+        <Style id="110427">
+            <IconStyle id="110428">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110429">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110432">
+            <IconStyle id="110433">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110434">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110437">
+            <IconStyle id="110438">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110439">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110442">
+            <IconStyle id="110443">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110444">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110447">
+            <IconStyle id="110448">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110449">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110452">
+            <IconStyle id="110453">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110454">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110457">
+            <IconStyle id="110458">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110459">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110462">
+            <IconStyle id="110463">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110464">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110467">
+            <IconStyle id="110468">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110469">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110472">
+            <IconStyle id="110473">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110474">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Kings, N. Fork - Dinkey Creek to Main Kings Confluence</name>
+        <Placemark id="110424">
+            <name>Kings, N. Fork - Dinkey Creek to Main Kings Confluence (V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="110423">
+                <coordinates>-119.123049,36.901564,0.0 -119.122917,36.901495,0.0 -119.123365,36.900781,0.0 -119.123537,36.900506,0.0 -119.123613,36.89952,0.0 -119.123616,36.89948,0.0 -119.12371,36.898241,0.0 -119.123631,36.898096,0.0 -119.123628,36.898091,0.0 -119.123612,36.897813,0.0 -119.123622,36.897773,0.0 -119.123587,36.897701,0.0 -119.123566,36.89719,0.0 -119.123248,36.896296,0.0 -119.123162,36.896055,0.0 -119.123066,36.895576,0.0 -119.122999,36.895241,0.0 -119.123,36.894947,0.0 -119.123066,36.89486,0.0 -119.123029,36.894744,0.0 -119.123,36.894652,0.0 -119.123055,36.894531,0.0 -119.122991,36.893882,0.0 -119.122992,36.89386,0.0 -119.122997,36.893766,0.0 -119.123025,36.89325,0.0 -119.122944,36.892991,0.0 -119.122916,36.892903,0.0 -119.122873,36.892618,0.0 -119.122873,36.892617,0.0 -119.122939,36.892531,0.0 -119.122808,36.892115,0.0 -119.122779,36.891959,0.0 -119.122743,36.89176,0.0 -119.122773,36.891693,0.0 -119.122798,36.891639,0.0 -119.122721,36.891396,0.0 -119.122843,36.891042,0.0 -119.122799,36.890903,0.0 -119.122943,36.890617,0.0 -119.122921,36.890401,0.0 -119.123187,36.889613,0.0 -119.123202,36.889409,0.0 -119.123221,36.889167,0.0 -119.123223,36.889127,0.0 -119.123232,36.889016,0.0 -119.123233,36.888668,0.0 -119.123233,36.888574,0.0 -119.123058,36.88802,0.0 -119.123043,36.887865,0.0 -119.123024,36.887679,0.0 -119.122994,36.88737,0.0 -119.122956,36.887251,0.0 -119.122908,36.887099,0.0 -119.122881,36.887014,0.0 -119.122874,36.886989,0.0 -119.122622,36.886634,0.0 -119.122435,36.886487,0.0 -119.122376,36.886274,0.0 -119.122142,36.885437,0.0 -119.122069,36.885178,0.0 -119.122064,36.885161,0.0 -119.121845,36.88491,0.0 -119.121798,36.884759,0.0 -119.12162,36.884195,0.0 -119.121543,36.883949,0.0 -119.121452,36.883663,0.0 -119.121384,36.883242,0.0 -119.121365,36.883127,0.0 -119.121293,36.882681,0.0 -119.121133,36.881693,0.0 -119.121129,36.881668,0.0 -119.121105,36.881523,0.0 -119.121117,36.880969,0.0 -119.121133,36.880913,0.0 -119.121254,36.88049,0.0 -119.121295,36.880346,0.0 -119.121862,36.879407,0.0 -119.121941,36.879343,0.0 -119.122228,36.879108,0.0 -119.122363,36.878997,0.0 -119.122542,36.878962,0.0 -119.122803,36.878911,0.0 -119.123055,36.878972,0.0 -119.123572,36.878981,0.0 -119.124209,36.879252,0.0 -119.12473,36.879474,0.0 -119.125,36.879589,0.0 -119.125395,36.879746,0.0 -119.126247,36.879919,0.0 -119.126592,36.87999,0.0 -119.126646,36.879979,0.0 -119.127007,36.879908,0.0 -119.127251,36.879861,0.0 -119.12801,36.879602,0.0 -119.128175,36.87957,0.0 -119.128366,36.879532,0.0 -119.128493,36.879507,0.0 -119.129064,36.879543,0.0 -119.129808,36.879753,0.0 -119.131217,36.880151,0.0 -119.131501,36.880169,0.0 -119.132073,36.880204,0.0 -119.132183,36.880256,0.0 -119.132687,36.880158,0.0 -119.132799,36.880136,0.0 -119.133272,36.87986,0.0 -119.133657,36.879306,0.0 -119.133657,36.879258,0.0 -119.133658,36.878864,0.0 -119.133556,36.878329,0.0 -119.133517,36.878119,0.0 -119.133539,36.877894,0.0 -119.13343,36.877513,0.0 -119.133191,36.876675,0.0 -119.133081,36.876292,0.0 -119.133114,36.876175,0.0 -119.133125,36.876136,0.0 -119.133103,36.876026,0.0 -119.133038,36.875712,0.0 -119.133215,36.875383,0.0 -119.133333,36.875324,0.0 -119.133457,36.875262,0.0 -119.133578,36.875088,0.0 -119.133842,36.874708,0.0 -119.133925,36.874258,0.0 -119.133992,36.873892,0.0 -119.134031,36.873678,0.0 -119.134078,36.873596,0.0 -119.134483,36.872891,0.0 -119.134487,36.872802,0.0 -119.134506,36.872371,0.0 -119.134608,36.872167,0.0 -119.134853,36.87168,0.0 -119.134936,36.871515,0.0 -119.135179,36.870706,0.0 -119.135301,36.870303,0.0 -119.135235,36.870095,0.0 -119.134818,36.869809,0.0 -119.134797,36.869739,0.0 -119.134391,36.869585,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="110426">
+            <name>Boulder Pile (IV+)</name>
+            <styleUrl>#110427</styleUrl>
+            <Point id="110425">
+                <coordinates>-119.133003,36.880299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110431">
+            <name>Olympic Slalom Rapid (III+)</name>
+            <styleUrl>#110432</styleUrl>
+            <Point id="110430">
+                <coordinates>-119.133003,36.875401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110436">
+            <name>Wrapped Bridge - Goal Post (IV+)</name>
+            <styleUrl>#110437</styleUrl>
+            <Point id="110435">
+                <coordinates>-119.123001,36.891998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110441">
+            <name>Red Rocks (IV+)</name>
+            <styleUrl>#110442</styleUrl>
+            <Point id="110440">
+                <coordinates>-119.123001,36.8792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110446">
+            <name>Chuck's Leap (IV+)</name>
+            <styleUrl>#110447</styleUrl>
+            <Point id="110445">
+                <coordinates>-119.123001,36.8965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110451">
+            <name>Three Ledges (IV+)</name>
+            <styleUrl>#110452</styleUrl>
+            <Point id="110450">
+                <coordinates>-119.121002,36.883499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110456">
+            <name>Furrow's Filet (V)</name>
+            <styleUrl>#110457</styleUrl>
+            <Point id="110455">
+                <coordinates>-119.123001,36.8876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110461">
+            <name>Dewell's Demise (V)</name>
+            <styleUrl>#110462</styleUrl>
+            <Point id="110460">
+                <coordinates>-119.122002,36.885502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110466">
+            <name>Put in</name>
+            <styleUrl>#110467</styleUrl>
+            <Point id="110465">
+                <coordinates>-119.123001,36.901699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110471">
+            <name>Take out</name>
+            <styleUrl>#110472</styleUrl>
+            <Point id="110470">
+                <coordinates>-119.134003,36.870602,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

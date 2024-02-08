@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="14231">
+    <Document id="24187">
+        <Style id="24192">
+            <IconStyle id="24193">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24194">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24197">
+            <IconStyle id="24198">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24199">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Yuba, North - 0. Pacific Crest Trail to Wild Plum Road</name>
-        <Placemark id="14233">
-            <name>Yuba, North - 0. Pacific Crest Trail to Wild Plum Road</name>
+        <Placemark id="24189">
+            <name>Yuba, North - 0. Pacific Crest Trail to Wild Plum Road (V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="14232">
+            <LineString id="24188">
                 <coordinates>-120.607827,39.580163,0.0 -120.607166,39.579216,0.0 -120.607166,39.579216,0.0 -120.607314,39.578255,0.0 -120.60897,39.576608,0.0 -120.609413,39.576013,0.0 -120.609413,39.576013,0.0 -120.60962,39.575556,0.0 -120.609946,39.575236,0.0 -120.610478,39.575213,0.0 -120.611187,39.575396,0.0 -120.611719,39.575419,0.0 -120.612192,39.575259,0.0 -120.612606,39.574847,0.0 -120.612813,39.574481,0.0 -120.613138,39.573452,0.0 -120.614144,39.571851,0.0 -120.614765,39.570844,0.0 -120.615001,39.570181,0.0 -120.615031,39.56922,0.0 -120.61512,39.568992,0.0 -120.615531,39.568674,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="14235">
+        <Placemark id="24191">
             <name>Put in</name>
-            <Point id="14234">
+            <styleUrl>#24192</styleUrl>
+            <Point id="24190">
                 <coordinates>-120.607827,39.580163,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="14237">
+        <Placemark id="24196">
             <name>Take out</name>
-            <Point id="14236">
+            <styleUrl>#24197</styleUrl>
+            <Point id="24195">
                 <coordinates>-120.615531,39.568674,0.0</coordinates>
             </Point>
         </Placemark>

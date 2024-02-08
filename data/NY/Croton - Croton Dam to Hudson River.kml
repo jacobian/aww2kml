@@ -1,72 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="8579">
+    <Document id="14438">
+        <Style id="14443">
+            <IconStyle id="14444">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14445">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14448">
+            <IconStyle id="14449">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14450">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14453">
+            <IconStyle id="14454">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14455">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14458">
+            <IconStyle id="14459">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14460">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14463">
+            <IconStyle id="14464">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14465">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14468">
+            <IconStyle id="14469">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14470">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14473">
+            <IconStyle id="14474">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14475">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14478">
+            <IconStyle id="14479">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14480">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Croton - Croton Dam to Hudson River</name>
-        <Placemark id="8581">
-            <name>Croton - Croton Dam to Hudson River</name>
+        <Placemark id="14440">
+            <name>Croton - Croton Dam to Hudson River (II-III(IV))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="8580">
+            <LineString id="14439">
                 <coordinates>-73.879555,41.184563,0.0 -73.879538,41.184629,0.0 -73.87958,41.184952,0.0 -73.879237,41.185243,0.0 -73.879237,41.185243,0.0 -73.878379,41.186018,0.0 -73.87795,41.18618,0.0 -73.877864,41.186406,0.0 -73.877864,41.186567,0.0 -73.87795,41.186632,0.0 -73.87795,41.186664,0.0 -73.877778,41.186696,0.0 -73.877177,41.187245,0.0 -73.876877,41.187407,0.0 -73.876705,41.187665,0.0 -73.876362,41.187698,0.0 -73.87619,41.187956,0.0 -73.875933,41.18802,0.0 -73.875675,41.187956,0.0 -73.875246,41.188279,0.0 -73.875074,41.188473,0.0 -73.874946,41.188505,0.0 -73.874731,41.18844,0.0 -73.874516,41.188602,0.0 -73.874345,41.188892,0.0 -73.874087,41.189119,0.0 -73.87413,41.189409,0.0 -73.874345,41.189571,0.0 -73.87413,41.189668,0.0 -73.874087,41.190055,0.0 -73.874688,41.191121,0.0 -73.874989,41.191153,0.0 -73.876019,41.190733,0.0 -73.87619,41.190862,0.0 -73.87619,41.190959,0.0 -73.875976,41.191056,0.0 -73.875761,41.191218,0.0 -73.875589,41.191702,0.0 -73.875332,41.19196,0.0 -73.875117,41.192057,0.0 -73.874817,41.192122,0.0 -73.874431,41.19209,0.0 -73.874345,41.192477,0.0 -73.873959,41.193058,0.0 -73.873701,41.194221,0.0 -73.873701,41.194415,0.0 -73.873572,41.194996,0.0 -73.873658,41.196804,0.0 -73.873401,41.1959,0.0 -73.873272,41.195739,0.0 -73.873229,41.195803,0.0 -73.873186,41.196288,0.0 -73.8731,41.196385,0.0 -73.8731,41.196643,0.0 -73.873186,41.196772,0.0 -73.873401,41.196869,0.0 -73.873487,41.197095,0.0 -73.873401,41.197224,0.0 -73.873358,41.197805,0.0 -73.872886,41.198548,0.0 -73.8728,41.199,0.0 -73.872886,41.199388,0.0 -73.873014,41.199775,0.0 -73.873272,41.200066,0.0 -73.873315,41.200324,0.0 -73.873315,41.200582,0.0 -73.873186,41.200712,0.0 -73.873272,41.200905,0.0 -73.873143,41.201228,0.0 -73.873229,41.20139,0.0 -73.8731,41.201551,0.0 -73.873143,41.201874,0.0 -73.873057,41.201874,0.0 -73.872972,41.202035,0.0 -73.872929,41.202262,0.0 -73.8728,41.202358,0.0 -73.872671,41.202875,0.0 -73.872843,41.203456,0.0 -73.872972,41.203585,0.0 -73.8731,41.203553,0.0 -73.873143,41.203682,0.0 -73.873014,41.203876,0.0 -73.873057,41.203941,0.0 -73.873014,41.204134,0.0 -73.872843,41.204231,0.0 -73.871427,41.205781,0.0 -73.872371,41.204877,0.0 -73.872843,41.204231,0.0 -73.871341,41.205878,0.0 -73.871427,41.205781,0.0 -73.867521,41.212948,0.0 -73.868637,41.212464,0.0 -73.868895,41.212206,0.0 -73.869967,41.21114,0.0 -73.871126,41.209623,0.0 -73.871212,41.208267,0.0 -73.871169,41.20775,0.0 -73.87104,41.207298,0.0 -73.87104,41.206782,0.0 -73.871341,41.205878,0.0 -73.866019,41.216144,0.0 -73.865805,41.215273,0.0 -73.865848,41.214627,0.0 -73.867006,41.213336,0.0 -73.867521,41.212948,0.0 -73.860826,41.223472,0.0 -73.861985,41.222213,0.0 -73.862629,41.221406,0.0 -73.86323,41.219405,0.0 -73.86353,41.218727,0.0 -73.864474,41.217662,0.0 -73.865676,41.216532,0.0 -73.866019,41.216144,0.0 -73.858466,41.226022,0.0 -73.859153,41.225344,0.0 -73.859839,41.22486,0.0 -73.860483,41.224214,0.0 -73.860826,41.223472,0.0 -73.858037,41.226603,0.0 -73.858103,41.226513,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="8583">
+        <Placemark id="14442">
             <name>Quaker Bridge  Rapid and Wave (II)</name>
-            <Point id="8582">
+            <styleUrl>#14443</styleUrl>
+            <Point id="14441">
                 <coordinates>-73.867409,41.212989,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8585">
+        <Placemark id="14447">
             <name>Silver Beach Dam (II)</name>
-            <Point id="8584">
+            <styleUrl>#14448</styleUrl>
+            <Point id="14446">
                 <coordinates>-73.871186,41.208438,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8587">
+        <Placemark id="14452">
             <name>Pumping Station Dam (II)</name>
-            <Point id="8586">
+            <styleUrl>#14453</styleUrl>
+            <Point id="14451">
                 <coordinates>-73.863694,41.218515,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8589">
+        <Placemark id="14457">
             <name>Hudson River</name>
-            <Point id="8588">
+            <styleUrl>#14458</styleUrl>
+            <Point id="14456">
                 <coordinates>-73.874603,41.192501,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8591">
+        <Placemark id="14462">
             <name>Mayo's Landing (II)</name>
-            <Point id="8590">
+            <styleUrl>#14463</styleUrl>
+            <Point id="14461">
                 <coordinates>-73.871378,41.205449,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8593">
+        <Placemark id="14467">
             <name>Put In</name>
-            <Point id="8592">
+            <styleUrl>#14468</styleUrl>
+            <Point id="14466">
                 <coordinates>-73.857201,41.2272,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8595">
+        <Placemark id="14472">
             <name>Island Rapid (III)</name>
-            <Point id="8594">
+            <styleUrl>#14473</styleUrl>
+            <Point id="14471">
                 <coordinates>-73.872943,41.20219,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8597">
+        <Placemark id="14477">
             <name>Black Rock Dam aka Rock Slide (IV)</name>
-            <Point id="8596">
+            <styleUrl>#14478</styleUrl>
+            <Point id="14476">
                 <coordinates>-73.865839,41.214765,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8599">
-            <name>Put in</name>
-            <Point id="8598">
-                <coordinates>-73.879555,41.184563,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8601">
-            <name>Take out</name>
-            <Point id="8600">
-                <coordinates>-73.858103,41.226513,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

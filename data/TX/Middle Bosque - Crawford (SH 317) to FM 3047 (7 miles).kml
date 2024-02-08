@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="91741">
+        <Style id="91746">
+            <IconStyle id="91747">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91748">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91751">
+            <IconStyle id="91752">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91753">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91756">
+            <IconStyle id="91757">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91758">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91761">
+            <IconStyle id="91762">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91763">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91766">
+            <IconStyle id="91767">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91768">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91771">
+            <IconStyle id="91772">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91773">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91776">
+            <IconStyle id="91777">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91778">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91781">
+            <IconStyle id="91782">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91783">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Middle Bosque - Crawford (SH 317) to FM 3047 (7 miles)</name>
+        <Placemark id="91743">
+            <name>Middle Bosque - Crawford (SH 317) to FM 3047 (7 miles) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="91742">
+                <coordinates>-97.447501,31.552292,0.0 -97.447076,31.552263,0.0 -97.446222,31.55246,0.0 -97.445711,31.5527,0.0 -97.445502,31.552703,0.0 -97.445143,31.552605,0.0 -97.443149,31.553175,0.0 -97.442615,31.553279,0.0 -97.442281,31.553244,0.0 -97.441864,31.553282,0.0 -97.440779,31.553668,0.0 -97.44014,31.553981,0.0 -97.439733,31.554061,0.0 -97.439403,31.55401,0.0 -97.438932,31.553774,0.0 -97.43861,31.553691,0.0 -97.438149,31.553696,0.0 -97.437328,31.553844,0.0 -97.43716,31.553833,0.0 -97.435751,31.553199,0.0 -97.434598,31.552771,0.0 -97.433726,31.552658,0.0 -97.433378,31.552772,0.0 -97.433175,31.552732,0.0 -97.432028,31.552292,0.0 -97.431398,31.55188,0.0 -97.430848,31.551481,0.0 -97.430117,31.551211,0.0 -97.429794,31.550987,0.0 -97.429259,31.549826,0.0 -97.428292,31.548448,0.0 -97.428284,31.548305,0.0 -97.428359,31.548139,0.0 -97.428699,31.547783,0.0 -97.428797,31.54755,0.0 -97.428737,31.546877,0.0 -97.428801,31.546417,0.0 -97.429178,31.546036,0.0 -97.429287,31.545843,0.0 -97.429213,31.545136,0.0 -97.429134,31.544932,0.0 -97.428778,31.54461,0.0 -97.428567,31.544145,0.0 -97.42815,31.543791,0.0 -97.427628,31.543431,0.0 -97.427293,31.542861,0.0 -97.426932,31.54268,0.0 -97.425428,31.542213,0.0 -97.424613,31.542054,0.0 -97.423943,31.542005,0.0 -97.423399,31.542044,0.0 -97.422424,31.542265,0.0 -97.421505,31.542328,0.0 -97.420508,31.542702,0.0 -97.419934,31.542802,0.0 -97.419562,31.542638,0.0 -97.419188,31.542256,0.0 -97.418879,31.542073,0.0 -97.418682,31.54201,0.0 -97.418223,31.541965,0.0 -97.417594,31.541975,0.0 -97.417032,31.54174,0.0 -97.416838,31.541592,0.0 -97.416471,31.541157,0.0 -97.415882,31.540642,0.0 -97.41397,31.539358,0.0 -97.412555,31.538447,0.0 -97.41233,31.538284,0.0 -97.412096,31.53803,0.0 -97.411818,31.537589,0.0 -97.411625,31.537154,0.0 -97.411577,31.536871,0.0 -97.411601,31.536442,0.0 -97.411262,31.535639,0.0 -97.41057,31.5347,0.0 -97.410029,31.534254,0.0 -97.4094,31.53429,0.0 -97.408779,31.53419,0.0 -97.407481,31.533774,0.0 -97.407031,31.533577,0.0 -97.40656,31.533341,0.0 -97.405872,31.532868,0.0 -97.405743,31.532684,0.0 -97.405612,31.532269,0.0 -97.405418,31.531136,0.0 -97.405387,31.530526,0.0 -97.405451,31.530027,0.0 -97.405686,31.529689,0.0 -97.406186,31.529157,0.0 -97.407873,31.527708,0.0 -97.408151,31.527394,0.0 -97.408418,31.526791,0.0 -97.408473,31.526545,0.0 -97.408394,31.526194,0.0 -97.408205,31.525816,0.0 -97.407603,31.525217,0.0 -97.407082,31.524852,0.0 -97.406307,31.524416,0.0 -97.405373,31.523691,0.0 -97.403129,31.521314,0.0 -97.401847,31.520274,0.0 -97.401394,31.520012,0.0 -97.400957,31.519879,0.0 -97.400433,31.519646,0.0 -97.399319,31.518877,0.0 -97.398809,31.518624,0.0 -97.397962,31.518303,0.0 -97.396745,31.517976,0.0 -97.395792,31.5177,0.0 -97.395538,31.517573,0.0 -97.394503,31.51728,0.0 -97.394045,31.517103,0.0 -97.393623,31.51681,0.0 -97.392518,31.515825,0.0 -97.391367,31.514462,0.0 -97.390299,31.513548,0.0 -97.38933,31.513039,0.0 -97.388699,31.512827,0.0 -97.38835,31.51257,0.0 -97.387989,31.512474,0.0 -97.387385,31.512219,0.0 -97.387218,31.512198,0.0 -97.386462,31.512147,0.0 -97.385417,31.512247,0.0 -97.38494,31.512389,0.0 -97.384223,31.512765,0.0 -97.381893,31.513599,0.0 -97.38078,31.51393,0.0 -97.379957,31.514087,0.0 -97.379124,31.514199,0.0 -97.378157,31.514252,0.0 -97.37677,31.514301,0.0 -97.37576,31.51427,0.0 -97.375152,31.51428,0.0 -97.374681,31.514428,0.0 -97.374429,31.514432,0.0 -97.373487,31.514265,0.0 -97.373378,31.514214,0.0 -97.372922,31.513792,0.0 -97.37183,31.512433,0.0 -97.371392,31.511581,0.0 -97.370634,31.510634,0.0 -97.369977,31.510081,0.0 -97.36946,31.509845,0.0 -97.368641,31.509616,0.0 -97.36726,31.50947,0.0 -97.365988,31.509281,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="91745">
+            <name>FM 185 Bridge</name>
+            <styleUrl>#91746</styleUrl>
+            <Point id="91744">
+                <coordinates>-97.413246,31.538891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91750">
+            <name>Chisolm Trail Rd (Low-Water Crossing)</name>
+            <styleUrl>#91751</styleUrl>
+            <Point id="91749">
+                <coordinates>-97.429604,31.5506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91755">
+            <name>Unnamed Rapid (II)</name>
+            <styleUrl>#91756</styleUrl>
+            <Point id="91754">
+                <coordinates>-97.371811,31.512445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91760">
+            <name>Take Out</name>
+            <styleUrl>#91761</styleUrl>
+            <Point id="91759">
+                <coordinates>-97.366,31.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91765">
+            <name>Put In</name>
+            <styleUrl>#91766</styleUrl>
+            <Point id="91764">
+                <coordinates>-97.4475,31.5523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91770">
+            <name>Confluence with Tonkawa Creek</name>
+            <styleUrl>#91771</styleUrl>
+            <Point id="91769">
+                <coordinates>-97.409904,31.534254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91775">
+            <name>Railroad bridge</name>
+            <styleUrl>#91776</styleUrl>
+            <Point id="91774">
+                <coordinates>-97.438477,31.553646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91780">
+            <name>Unnamed Rapid (III)</name>
+            <styleUrl>#91781</styleUrl>
+            <Point id="91779">
+                <coordinates>-97.405502,31.5317,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

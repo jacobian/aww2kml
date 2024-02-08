@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="74587">
+        <Style id="74592">
+            <IconStyle id="74593">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74594">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74597">
+            <IconStyle id="74598">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74599">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74602">
+            <IconStyle id="74603">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74604">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74607">
+            <IconStyle id="74608">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74609">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74612">
+            <IconStyle id="74613">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74614">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74617">
+            <IconStyle id="74618">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74619">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>White (Bayfield/Ashland) - B) Hwy. 112: Dam to Powerhouse (0.25-0.43 mile)</name>
+        <Placemark id="74589">
+            <name>White (Bayfield/Ashland) - B) Hwy. 112: Dam to Powerhouse (0.25-0.43 mile) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="74588">
+                <coordinates>-90.908033,46.49752,0.0 -90.90777,46.4975,0.0 -90.904559,46.497706,0.0 -90.903966,46.497897,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="74591">
+            <name>Possible Fourth Ledge</name>
+            <styleUrl>#74592</styleUrl>
+            <Point id="74590">
+                <coordinates>-90.900002,46.499001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74596">
+            <name>Take Out</name>
+            <styleUrl>#74597</styleUrl>
+            <Point id="74595">
+                <coordinates>-90.903999,46.498001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74601">
+            <name>First Ledges</name>
+            <styleUrl>#74602</styleUrl>
+            <Point id="74600">
+                <coordinates>-90.906998,46.498001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74606">
+            <name>Third Ledges</name>
+            <styleUrl>#74607</styleUrl>
+            <Point id="74605">
+                <coordinates>-90.904999,46.498001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74611">
+            <name>Second Ledges</name>
+            <styleUrl>#74612</styleUrl>
+            <Point id="74610">
+                <coordinates>-90.905998,46.498001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74616">
+            <name>Put in</name>
+            <styleUrl>#74617</styleUrl>
+            <Point id="74615">
+                <coordinates>-90.907997,46.498001,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

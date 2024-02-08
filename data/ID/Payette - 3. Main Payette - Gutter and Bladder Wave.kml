@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="14805">
+    <Document id="25058">
+        <Style id="25063">
+            <IconStyle id="25064">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="25065">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="25068">
+            <IconStyle id="25069">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="25070">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Payette - 3. Main Payette - Gutter and Bladder Wave</name>
-        <Placemark id="14807">
-            <name>Payette - 3. Main Payette - Gutter and Bladder Wave</name>
+        <Placemark id="25060">
+            <name>Payette - 3. Main Payette - Gutter and Bladder Wave (II+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="14806">
+            <LineString id="25059">
                 <coordinates>-116.190139,43.908747,0.0 -116.19014,43.908746,0.0 -116.190398,43.90856,0.0 -116.190398,43.90856,0.0 -116.190709,43.908328,0.0 -116.190988,43.908053,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="14809">
+        <Placemark id="25062">
             <name>Put In</name>
-            <Point id="14808">
+            <styleUrl>#25063</styleUrl>
+            <Point id="25061">
                 <coordinates>-116.189919,43.908687,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="14811">
+        <Placemark id="25067">
             <name>Take Out</name>
-            <Point id="14810">
+            <styleUrl>#25068</styleUrl>
+            <Point id="25066">
                 <coordinates>-116.190373,43.90775,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="14813">
-            <name>Put in</name>
-            <Point id="14812">
-                <coordinates>-116.190139,43.908747,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="14815">
-            <name>Take out</name>
-            <Point id="14814">
-                <coordinates>-116.190988,43.908053,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

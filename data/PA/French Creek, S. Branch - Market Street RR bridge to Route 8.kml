@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="112081">
+        <Style id="112086">
+            <IconStyle id="112087">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112088">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="112091">
+            <IconStyle id="112092">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112093">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>French Creek, S. Branch - Market Street RR bridge to Route 8</name>
+        <Placemark id="112083">
+            <name>French Creek, S. Branch - Market Street RR bridge to Route 8 (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="112082">
+                <coordinates>-79.839904,41.897609,0.0 -79.840339,41.897431,0.0 -79.840622,41.897334,0.0 -79.84121,41.897262,0.0 -79.842045,41.897051,0.0 -79.842409,41.896863,0.0 -79.842988,41.896496,0.0 -79.843255,41.896404,0.0 -79.843573,41.896384,0.0 -79.843817,41.896409,0.0 -79.844066,41.896521,0.0 -79.844284,41.896638,0.0 -79.844932,41.897279,0.0 -79.845278,41.897593,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="112085">
+            <name>Take Out</name>
+            <styleUrl>#112086</styleUrl>
+            <Point id="112084">
+                <coordinates>-79.845,41.8979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="112090">
+            <name>Put In</name>
+            <styleUrl>#112091</styleUrl>
+            <Point id="112089">
+                <coordinates>-79.8399,41.8976,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,42 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="11207">
+    <Document id="18930">
+        <Style id="18935">
+            <IconStyle id="18936">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18937">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="18940">
+            <IconStyle id="18941">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18942">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="18945">
+            <IconStyle id="18946">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18947">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Youghiogheny - 5. Ohiopyle Falls</name>
-        <Placemark id="11209">
-            <name>Youghiogheny - 5. Ohiopyle Falls</name>
+        <Placemark id="18932">
+            <name>Youghiogheny - 5. Ohiopyle Falls (IV)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="11208">
+            <LineString id="18931">
                 <coordinates>-79.494859,39.870089,0.0 -79.495152,39.869934,0.0 -79.495348,39.869707,0.0 -79.495465,39.869203,0.0 -79.495536,39.868895,0.0 -79.495552,39.868828,0.0 -79.495549,39.868428,0.0 -79.495439,39.86787,0.0 -79.495444,39.867849,0.0 -79.495471,39.86773,0.0 -79.495395,39.867647,0.0 -79.495415,39.86756,0.0 -79.495427,39.867506,0.0 -79.495307,39.8672,0.0 -79.495336,39.866661,0.0 -79.495177,39.866313,0.0 -79.495158,39.86608,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="11211">
+        <Placemark id="18934">
             <name>Take Out</name>
-            <Point id="11210">
+            <styleUrl>#18935</styleUrl>
+            <Point id="18933">
                 <coordinates>-79.494904,39.8661,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="11213">
+        <Placemark id="18939">
             <name>Put In</name>
-            <Point id="11212">
+            <styleUrl>#18940</styleUrl>
+            <Point id="18938">
                 <coordinates>-79.494598,39.869598,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="11215">
+        <Placemark id="18944">
             <name>Ohiopyle Falls (IV)</name>
-            <Point id="11214">
+            <styleUrl>#18945</styleUrl>
+            <Point id="18943">
                 <coordinates>-79.495443,39.867699,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="11217">
-            <name>Put in</name>
-            <Point id="11216">
-                <coordinates>-79.494598,39.869598,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="11219">
-            <name>Take out</name>
-            <Point id="11218">
-                <coordinates>-79.494904,39.8661,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="110262">
+        <Style id="110267">
+            <IconStyle id="110268">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110269">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110272">
+            <IconStyle id="110273">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110274">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Poteau River - Wister Wave (PnP)</name>
+        <Placemark id="110264">
+            <name>Poteau River - Wister Wave (PnP) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="110263">
+                <coordinates>-94.71512,34.938032,0.0 -94.714877,34.938292,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="110266">
+            <name>Take Out</name>
+            <styleUrl>#110267</styleUrl>
+            <Point id="110265">
+                <coordinates>-94.7151,34.9385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110271">
+            <name>Put In</name>
+            <styleUrl>#110272</styleUrl>
+            <Point id="110270">
+                <coordinates>-94.7153,34.9382,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

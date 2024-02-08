@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="89244">
+        <Style id="89249">
+            <IconStyle id="89250">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89251">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89254">
+            <IconStyle id="89255">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89256">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Crystal Creek - Lowville</name>
+        <Placemark id="89246">
+            <name>Crystal Creek - Lowville (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="89245">
+                <coordinates>-75.495851,43.760909,0.0 -75.495571,43.761367,0.0 -75.495256,43.761664,0.0 -75.495004,43.761985,0.0 -75.494816,43.762465,0.0 -75.494943,43.762785,0.0 -75.495007,43.763105,0.0 -75.495323,43.763585,0.0 -75.496113,43.764133,0.0 -75.498734,43.765137,0.0 -75.49924,43.765617,0.0 -75.499557,43.766051,0.0 -75.499526,43.766668,0.0 -75.499274,43.766897,0.0 -75.499275,43.767103,0.0 -75.499622,43.767308,0.0 -75.500072,43.7677,0.0 -75.501113,43.768182,0.0 -75.501302,43.768342,0.0 -75.501552,43.769326,0.0 -75.502245,43.770012,0.0 -75.50256,43.770447,0.0 -75.502401,43.770996,0.0 -75.502653,43.771294,0.0 -75.50423,43.77189,0.0 -75.504229,43.772073,0.0 -75.502807,43.773077,0.0 -75.502585,43.773443,0.0 -75.502489,43.774015,0.0 -75.501919,43.775226,0.0 -75.501033,43.776277,0.0 -75.500306,43.776871,0.0 -75.499643,43.777165,0.0 -75.498698,43.777807,0.0 -75.496683,43.78037,0.0 -75.496494,43.780691,0.0 -75.495864,43.781057,0.0 -75.493751,43.781837,0.0 -75.491732,43.782708,0.0 -75.491103,43.783967,0.0 -75.491,43.783967,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="89248">
+            <name>Take Out</name>
+            <styleUrl>#89249</styleUrl>
+            <Point id="89247">
+                <coordinates>-75.491,43.784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89253">
+            <name>Put In</name>
+            <styleUrl>#89254</styleUrl>
+            <Point id="89252">
+                <coordinates>-75.496,43.761,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

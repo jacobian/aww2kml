@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="51340">
+        <Style id="51345">
+            <IconStyle id="51346">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51347">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="51350">
+            <IconStyle id="51351">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="51352">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Rapid Lightning Creek - Near Sandpoint</name>
+        <Placemark id="51342">
+            <name>Rapid Lightning Creek - Near Sandpoint (III-IV(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="51341">
+                <coordinates>-116.377421,48.377851,0.0 -116.377476,48.377689,0.0 -116.377605,48.377518,0.0 -116.377798,48.377369,0.0 -116.378249,48.377205,0.0 -116.379064,48.377034,0.0 -116.379064,48.377034,0.0 -116.379231,48.377006,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="51344">
+            <name>Put In</name>
+            <styleUrl>#51345</styleUrl>
+            <Point id="51343">
+                <coordinates>-116.377421,48.377851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51349">
+            <name>Take Out</name>
+            <styleUrl>#51350</styleUrl>
+            <Point id="51348">
+                <coordinates>-116.379231,48.377006,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

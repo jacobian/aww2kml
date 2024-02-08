@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="62760">
+        <Style id="62765">
+            <IconStyle id="62766">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="62767">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="62770">
+            <IconStyle id="62771">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="62772">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Arkansas - Tulsa Wave (PnP)</name>
+        <Placemark id="62762">
+            <name>Arkansas - Tulsa Wave (PnP) (III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="62761">
+                <coordinates>-95.98782,36.120055,0.0 -95.987843,36.119893,0.0 -95.98791,36.11954,0.0 -95.987968,36.119294,0.0 -95.988016,36.119234,0.0 -95.98808,36.119056,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="62764">
+            <name>Take Out</name>
+            <styleUrl>#62765</styleUrl>
+            <Point id="62763">
+                <coordinates>-95.990204,36.119816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="62769">
+            <name>Put In</name>
+            <styleUrl>#62770</styleUrl>
+            <Point id="62768">
+                <coordinates>-95.990356,36.120426,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

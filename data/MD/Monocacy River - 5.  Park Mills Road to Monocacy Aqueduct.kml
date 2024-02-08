@@ -1,35 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="14605">
+    <Document id="24757">
+        <Style id="24762">
+            <IconStyle id="24763">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24764">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24767">
+            <IconStyle id="24768">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24769">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Monocacy River - 5.  Park Mills Road to Monocacy Aqueduct</name>
-        <Placemark id="14607">
-            <name>Monocacy River - 5.  Park Mills Road to Monocacy Aqueduct</name>
+        <Placemark id="24759">
+            <name>Monocacy River - 5.  Park Mills Road to Monocacy Aqueduct (I)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="14606">
+            <LineString id="24758">
                 <coordinates>-77.435794,39.263189,0.0 -77.435377,39.262947,0.0 -77.435377,39.262947,0.0 -77.434376,39.262719,0.0 -77.433611,39.262284,0.0 -77.430902,39.259747,0.0 -77.430902,39.259747,0.0 -77.430401,39.258603,0.0 -77.430401,39.258603,0.0 -77.429841,39.25762,0.0 -77.427426,39.255356,0.0 -77.427043,39.254647,0.0 -77.426866,39.254144,0.0 -77.426954,39.253321,0.0 -77.427424,39.252154,0.0 -77.428798,39.250105,0.0 -77.430268,39.248595,0.0 -77.431532,39.247679,0.0 -77.434442,39.245687,0.0 -77.435619,39.245206,0.0 -77.437295,39.244679,0.0 -77.439501,39.244288,0.0 -77.439501,39.244288,0.0 -77.440354,39.244242,0.0 -77.44106,39.244356,0.0 -77.44106,39.244356,0.0 -77.441091,39.244309,0.0 -77.441289,39.244318,0.0 -77.445168,39.24223,0.0 -77.447956,39.240167,0.0 -77.447956,39.240167,0.0 -77.449875,39.237592,0.0 -77.450226,39.236881,0.0 -77.450573,39.234896,0.0 -77.450185,39.233819,0.0 -77.446865,39.229243,0.0 -77.446991,39.228116,0.0 -77.448174,39.226767,0.0 -77.450673,39.224852,0.0 -77.452184,39.224079,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="14609">
+        <Placemark id="24761">
             <name>Put-in - Park Mills Road </name>
-            <Point id="14608">
+            <styleUrl>#24762</styleUrl>
+            <Point id="24760">
                 <coordinates>-77.435794,39.263189,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="14611">
+        <Placemark id="24766">
             <name>Take-out - Monocacy Aqueduct</name>
-            <Point id="14610">
-                <coordinates>-77.452184,39.224079,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="14613">
-            <name>Put in</name>
-            <Point id="14612">
-                <coordinates>-77.435794,39.263189,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="14615">
-            <name>Take out</name>
-            <Point id="14614">
+            <styleUrl>#24767</styleUrl>
+            <Point id="24765">
                 <coordinates>-77.452184,39.224079,0.0</coordinates>
             </Point>
         </Placemark>

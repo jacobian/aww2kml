@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="90873">
+        <Style id="90878">
+            <IconStyle id="90879">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="90880">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="90883">
+            <IconStyle id="90884">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="90885">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Oswegatchie, E. Branch - 1. Inlet to Wanakena</name>
+        <Placemark id="90875">
+            <name>Oswegatchie, E. Branch - 1. Inlet to Wanakena (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="90874">
+                <coordinates>-74.958903,44.123886,0.0 -74.958921,44.124141,0.0 -74.959144,44.124438,0.0 -74.959176,44.12485,0.0 -74.95905,44.125055,0.0 -74.958891,44.125193,0.0 -74.958574,44.125284,0.0 -74.957494,44.125354,0.0 -74.956129,44.125058,0.0 -74.955461,44.124715,0.0 -74.954826,44.12451,0.0 -74.95435,44.12451,0.0 -74.953684,44.125059,0.0 -74.95324,44.125311,0.0 -74.952954,44.125357,0.0 -74.952351,44.125357,0.0 -74.950573,44.12513,0.0 -74.94962,44.125199,0.0 -74.948383,44.125543,0.0 -74.947304,44.126047,0.0 -74.946574,44.126207,0.0 -74.945717,44.126299,0.0 -74.943559,44.126964,0.0 -74.94232,44.127033,0.0 -74.941114,44.1274,0.0 -74.93921,44.128178,0.0 -74.938195,44.128842,0.0 -74.937212,44.129574,0.0 -74.937021,44.129666,0.0 -74.936672,44.129735,0.0 -74.935053,44.129781,0.0 -74.934608,44.129965,0.0 -74.934006,44.130308,0.0 -74.931911,44.131384,0.0 -74.930324,44.131956,0.0 -74.929499,44.132117,0.0 -74.928006,44.132209,0.0 -74.926483,44.132507,0.0 -74.9249,44.132591,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="90877">
+            <name>Take Out</name>
+            <styleUrl>#90878</styleUrl>
+            <Point id="90876">
+                <coordinates>-74.9249,44.1326,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90882">
+            <name>Put In</name>
+            <styleUrl>#90883</styleUrl>
+            <Point id="90881">
+                <coordinates>-74.9587,44.1239,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

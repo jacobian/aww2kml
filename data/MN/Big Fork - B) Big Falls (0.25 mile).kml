@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="72862">
+        <Style id="72867">
+            <IconStyle id="72868">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72869">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72872">
+            <IconStyle id="72873">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72874">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Big Fork - B) Big Falls (0.25 mile)</name>
+        <Placemark id="72864">
+            <name>Big Fork - B) Big Falls (0.25 mile) (IV-V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="72863">
+                <coordinates>-93.799103,48.195859,0.0 -93.79939,48.195856,0.0 -93.800027,48.195869,0.0 -93.800073,48.19587,0.0 -93.800459,48.195868,0.0 -93.800639,48.195834,0.0 -93.801573,48.195925,0.0 -93.802032,48.195898,0.0 -93.80252,48.195861,0.0 -93.802988,48.196108,0.0 -93.803269,48.196431,0.0 -93.80387,48.196524,0.0 -93.804211,48.196565,0.0 -93.804565,48.196585,0.0 -93.804646,48.196614,0.0 -93.805015,48.196535,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="72866">
+            <name>Take Out</name>
+            <styleUrl>#72867</styleUrl>
+            <Point id="72865">
+                <coordinates>-93.805199,48.197399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72871">
+            <name>Put In</name>
+            <styleUrl>#72872</styleUrl>
+            <Point id="72870">
+                <coordinates>-93.799103,48.195801,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

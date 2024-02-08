@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="57913">
+        <Style id="57918">
+            <IconStyle id="57919">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="57920">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="57923">
+            <IconStyle id="57924">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="57925">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Tiekel - Tiekel Canyon</name>
+        <Placemark id="57915">
+            <name>Tiekel - Tiekel Canyon (V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="57914">
+                <coordinates>-145.265401,61.265278,0.0 -145.263068,61.265091,0.0 -145.261831,61.264202,0.0 -145.260959,61.262873,0.0 -145.257419,61.261946,0.0 -145.254736,61.262711,0.0 -145.252299,61.263006,0.0 -145.247794,61.26289,0.0 -145.243288,61.261896,0.0 -145.239536,61.261258,0.0 -145.238938,61.259886,0.0 -145.23517,61.25876,0.0 -145.230912,61.258988,0.0 -145.225924,61.257635,0.0 -145.202533,61.249861,0.0 -145.182065,61.251044,0.0 -145.161395,61.249106,0.0 -145.138826,61.248225,0.0 -145.122795,61.247433,0.0 -145.106744,61.247389,0.0 -145.098902,61.246488,0.0 -145.072339,61.249551,0.0 -145.062575,61.248222,0.0 -145.05732,61.248332,0.0 -145.053162,61.247211,0.0 -145.044114,61.244794,0.0 -145.040727,61.245627,0.0 -145.015794,61.246285,0.0 -144.997699,61.247951,0.0 -144.988286,61.247291,0.0 -144.981388,61.24661,0.0 -144.968283,61.245928,0.0 -144.962526,61.244895,0.0 -144.94691,61.240876,0.0 -144.944162,61.238986,0.0 -144.939771,61.237622,0.0 -144.937575,61.236765,0.0 -144.92534,61.235145,0.0 -144.919678,61.234052,0.0 -144.914198,61.233623,0.0 -144.903776,61.231693,0.0 -144.898831,61.229586,0.0 -144.893324,61.229592,0.0 -144.889249,61.228548,0.0 -144.889132,61.227515,0.0 -144.89036,61.226152,0.0 -144.888434,61.224832,0.0 -144.884682,61.225358,0.0 -144.860114,61.223599,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="57917">
+            <name>Take Out</name>
+            <styleUrl>#57918</styleUrl>
+            <Point id="57916">
+                <coordinates>-144.852749,61.222656,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57922">
+            <name>Put In</name>
+            <styleUrl>#57923</styleUrl>
+            <Point id="57921">
+                <coordinates>-145.280843,61.258466,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

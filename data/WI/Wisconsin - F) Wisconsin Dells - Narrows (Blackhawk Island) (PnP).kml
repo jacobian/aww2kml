@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="100533">
+        <Style id="100538">
+            <IconStyle id="100539">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100540">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100543">
+            <IconStyle id="100544">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100545">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Wisconsin - F) Wisconsin Dells - Narrows (Blackhawk Island) (PnP)</name>
+        <Placemark id="100535">
+            <name>Wisconsin - F) Wisconsin Dells - Narrows (Blackhawk Island) (PnP) (I(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="100534">
+                <coordinates>-89.785369,43.65178,0.0 -89.785366,43.651768,0.0 -89.785173,43.651019,0.0 -89.785126,43.650688,0.0 -89.785191,43.6505,0.0 -89.785419,43.650323,0.0 -89.785745,43.650147,0.0 -89.786136,43.649971,0.0 -89.786981,43.649724,0.0 -89.787323,43.649489,0.0 -89.78765,43.649059,0.0 -89.787846,43.648776,0.0 -89.7879,43.648655,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="100537">
+            <name>Take Out</name>
+            <styleUrl>#100538</styleUrl>
+            <Point id="100536">
+                <coordinates>-89.788,43.6487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100542">
+            <name>Put In</name>
+            <styleUrl>#100543</styleUrl>
+            <Point id="100541">
+                <coordinates>-89.7853,43.6518,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

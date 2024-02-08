@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="98912">
+        <Style id="98917">
+            <IconStyle id="98918">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98919">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98922">
+            <IconStyle id="98923">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98924">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98927">
+            <IconStyle id="98928">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98929">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98932">
+            <IconStyle id="98933">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98934">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98937">
+            <IconStyle id="98938">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98939">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98942">
+            <IconStyle id="98943">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98944">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98947">
+            <IconStyle id="98948">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98949">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98952">
+            <IconStyle id="98953">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98954">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98957">
+            <IconStyle id="98958">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98959">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98962">
+            <IconStyle id="98963">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98964">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Poplar - B) Barker Lake Road to Superior Hiking Trail (4.5-6.8 miles)</name>
+        <Placemark id="98914">
+            <name>Poplar - B) Barker Lake Road to Superior Hiking Trail (4.5-6.8 miles) (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="98913">
+                <coordinates>-90.721201,47.709494,0.0 -90.720609,47.709436,0.0 -90.720135,47.709299,0.0 -90.719559,47.708706,0.0 -90.719017,47.708706,0.0 -90.718408,47.708935,0.0 -90.718104,47.709484,0.0 -90.718646,47.70978,0.0 -90.718579,47.710032,0.0 -90.718681,47.710374,0.0 -90.718614,47.710831,0.0 -90.718276,47.7109,0.0 -90.716955,47.710535,0.0 -90.715872,47.710536,0.0 -90.715398,47.710856,0.0 -90.714959,47.711085,0.0 -90.714282,47.710971,0.0 -90.713097,47.711201,0.0 -90.71198,47.711201,0.0 -90.711134,47.711316,0.0 -90.710525,47.711728,0.0 -90.709679,47.711706,0.0 -90.708867,47.712163,0.0 -90.708359,47.712026,0.0 -90.708291,47.711775,0.0 -90.707782,47.710793,0.0 -90.707917,47.710176,0.0 -90.708017,47.709491,0.0 -90.707848,47.709285,0.0 -90.707374,47.709194,0.0 -90.706933,47.708875,0.0 -90.707034,47.708212,0.0 -90.706593,47.707732,0.0 -90.70622,47.707367,0.0 -90.705881,47.706751,0.0 -90.703612,47.705473,0.0 -90.703035,47.704742,0.0 -90.702797,47.704034,0.0 -90.702391,47.703806,0.0 -90.701138,47.703372,0.0 -90.70019,47.70319,0.0 -90.700596,47.702802,0.0 -90.700968,47.702619,0.0 -90.701103,47.702162,0.0 -90.700899,47.701476,0.0 -90.701034,47.701248,0.0 -90.701677,47.701179,0.0 -90.702354,47.701521,0.0 -90.703133,47.701978,0.0 -90.703607,47.701886,0.0 -90.703877,47.701589,0.0 -90.703843,47.700995,0.0 -90.702894,47.700013,0.0 -90.702318,47.699625,0.0 -90.702419,47.699168,0.0 -90.702825,47.698802,0.0 -90.704009,47.698527,0.0 -90.704381,47.698116,0.0 -90.704312,47.697522,0.0 -90.703635,47.697043,0.0 -90.701095,47.696085,0.0 -90.700181,47.695766,0.0 -90.699876,47.695355,0.0 -90.699366,47.693276,0.0 -90.699534,47.692362,0.0 -90.699296,47.691563,0.0 -90.699398,47.691311,0.0 -90.70021,47.691128,0.0 -90.701055,47.691059,0.0 -90.701766,47.690716,0.0 -90.702611,47.690327,0.0 -90.703931,47.690212,0.0 -90.704912,47.690074,0.0 -90.705216,47.6898,0.0 -90.705317,47.689206,0.0 -90.705147,47.688589,0.0 -90.704807,47.687927,0.0 -90.704232,47.68763,0.0 -90.703486,47.686443,0.0 -90.701995,47.685119,0.0 -90.701352,47.684297,0.0 -90.701079,47.683155,0.0 -90.701315,47.682309,0.0 -90.701991,47.681464,0.0 -90.702938,47.681006,0.0 -90.704561,47.680434,0.0 -90.70571,47.679497,0.0 -90.706487,47.679222,0.0 -90.706961,47.679404,0.0 -90.707469,47.679701,0.0 -90.708146,47.679792,0.0 -90.709499,47.679563,0.0 -90.711394,47.679836,0.0 -90.712882,47.680063,0.0 -90.717418,47.681225,0.0 -90.718805,47.681407,0.0 -90.71938,47.681246,0.0 -90.719346,47.681018,0.0 -90.718736,47.680721,0.0 -90.718161,47.680653,0.0 -90.718025,47.680448,0.0 -90.718734,47.679328,0.0 -90.719106,47.679099,0.0 -90.719613,47.67919,0.0 -90.719986,47.679418,0.0 -90.720493,47.679326,0.0 -90.720526,47.678915,0.0 -90.720052,47.678139,0.0 -90.720287,47.67743,0.0 -90.72049,47.677247,0.0 -90.721031,47.677178,0.0 -90.721877,47.677383,0.0 -90.723027,47.677291,0.0 -90.723669,47.677085,0.0 -90.72394,47.676788,0.0 -90.723736,47.676331,0.0 -90.721908,47.67535,0.0 -90.72167,47.674939,0.0 -90.721838,47.674231,0.0 -90.72221,47.673842,0.0 -90.723561,47.673156,0.0 -90.725421,47.672743,0.0 -90.727822,47.672284,0.0 -90.728397,47.672078,0.0 -90.728802,47.671644,0.0 -90.729173,47.671004,0.0 -90.7288,47.670776,0.0 -90.727549,47.670845,0.0 -90.726027,47.670961,0.0 -90.72464,47.67071,0.0 -90.723895,47.670414,0.0 -90.723556,47.669866,0.0 -90.723622,47.668861,0.0 -90.723249,47.668199,0.0 -90.722233,47.667628,0.0 -90.722112,47.667465,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="98916">
+            <name>First (SHT) bridge</name>
+            <styleUrl>#98917</styleUrl>
+            <Point id="98915">
+                <coordinates>-90.702599,47.680801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98921">
+            <name>Third (SHT) bridge</name>
+            <styleUrl>#98922</styleUrl>
+            <Point id="98920">
+                <coordinates>-90.722099,47.666901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98926">
+            <name>Second (road) bridge</name>
+            <styleUrl>#98927</styleUrl>
+            <Point id="98925">
+                <coordinates>-90.710098,47.679401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98931">
+            <name>End of lower rapids</name>
+            <styleUrl>#98932</styleUrl>
+            <Point id="98930">
+                <coordinates>-90.718399,47.681206,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98936">
+            <name>Take Out</name>
+            <styleUrl>#98937</styleUrl>
+            <Point id="98935">
+                <coordinates>-90.7222,47.6674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98941">
+            <name>Start of lower rapids (II)</name>
+            <styleUrl>#98942</styleUrl>
+            <Point id="98940">
+                <coordinates>-90.701683,47.681515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98946">
+            <name>Start of first gradient</name>
+            <styleUrl>#98947</styleUrl>
+            <Point id="98945">
+                <coordinates>-90.715805,47.710464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98951">
+            <name>Put In</name>
+            <styleUrl>#98952</styleUrl>
+            <Point id="98950">
+                <coordinates>-90.7212,47.7095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98956">
+            <name>End of first gradient</name>
+            <styleUrl>#98957</styleUrl>
+            <Point id="98955">
+                <coordinates>-90.712318,47.711166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98961">
+            <name>Minor Rips (I)</name>
+            <styleUrl>#98962</styleUrl>
+            <Point id="98960">
+                <coordinates>-90.707367,47.707893,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

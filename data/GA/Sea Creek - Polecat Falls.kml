@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="112620">
+        <Style id="112625">
+            <IconStyle id="112626">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112627">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="112630">
+            <IconStyle id="112631">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112632">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sea Creek - Polecat Falls</name>
+        <Placemark id="112622">
+            <name>Sea Creek - Polecat Falls (IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="112621">
+                <coordinates>-84.093976,34.770765,0.0 -84.094994,34.770069,0.0 -84.09526,34.769948,0.0 -84.095594,34.769688,0.0 -84.095813,34.769314,0.0 -84.096006,34.768859,0.0 -84.096013,34.768763,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="112624">
+            <name>Take Out</name>
+            <styleUrl>#112625</styleUrl>
+            <Point id="112623">
+                <coordinates>-84.0965,34.7688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="112629">
+            <name>Put In</name>
+            <styleUrl>#112630</styleUrl>
+            <Point id="112628">
+                <coordinates>-84.094,34.7708,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

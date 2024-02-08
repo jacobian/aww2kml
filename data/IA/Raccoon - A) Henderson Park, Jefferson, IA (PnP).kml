@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="26691">
+    <Document id="44731">
+        <Style id="44736">
+            <IconStyle id="44737">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44738">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44741">
+            <IconStyle id="44742">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44743">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Raccoon - A) Henderson Park, Jefferson, IA (PnP)</name>
-        <Placemark id="26693">
-            <name>Raccoon - A) Henderson Park, Jefferson, IA (PnP)</name>
+        <Placemark id="44733">
+            <name>Raccoon - A) Henderson Park, Jefferson, IA (PnP) (I-II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="26692">
+            <LineString id="44732">
                 <coordinates>-94.373992,41.988386,0.0 -94.374327,41.98836,0.0 -94.374347,41.987841,0.0 -94.373146,41.987941,0.0 -94.373874,41.988356,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="26695">
+        <Placemark id="44735">
             <name>Take Out</name>
-            <Point id="26694">
+            <styleUrl>#44736</styleUrl>
+            <Point id="44734">
                 <coordinates>-94.374802,41.988098,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26697">
+        <Placemark id="44740">
             <name>Put In</name>
-            <Point id="26696">
+            <styleUrl>#44741</styleUrl>
+            <Point id="44739">
                 <coordinates>-94.374802,41.988201,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="26699">
-            <name>Put in</name>
-            <Point id="26698">
-                <coordinates>-94.373992,41.988386,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="26701">
-            <name>Take out</name>
-            <Point id="26700">
-                <coordinates>-94.373874,41.988356,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

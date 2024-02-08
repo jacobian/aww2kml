@@ -1,66 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="27123">
+    <Document id="45415">
+        <Style id="45420">
+            <IconStyle id="45421">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45422">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45425">
+            <IconStyle id="45426">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45427">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45430">
+            <IconStyle id="45431">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45432">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45435">
+            <IconStyle id="45436">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45437">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45440">
+            <IconStyle id="45441">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45442">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45445">
+            <IconStyle id="45446">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45447">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45450">
+            <IconStyle id="45451">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45452">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Pike, S.Br. - A) USB Pike: Old County A to primitive camp off FR510 (4.9 miles)</name>
-        <Placemark id="27125">
-            <name>Pike, S.Br. - A) USB Pike: Old County A to primitive camp off FR510 (4.9 miles)</name>
+        <Placemark id="45417">
+            <name>Pike, S.Br. - A) USB Pike: Old County A to primitive camp off FR510 (4.9 miles) (II-III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="27124">
+            <LineString id="45416">
                 <coordinates>-88.192254,45.55043,0.0 -88.192235,45.550073,0.0 -88.192137,45.549868,0.0 -88.191844,45.549616,0.0 -88.191519,45.549525,0.0 -88.190315,45.54948,0.0 -88.189827,45.549366,0.0 -88.189501,45.549366,0.0 -88.189209,45.549664,0.0 -88.189079,45.550007,0.0 -88.188852,45.550098,0.0 -88.188136,45.550099,0.0 -88.187355,45.549871,0.0 -88.185858,45.549597,0.0 -88.18537,45.549552,0.0 -88.183906,45.549735,0.0 -88.18306,45.549919,0.0 -88.18267,45.550216,0.0 -88.18254,45.550399,0.0 -88.182313,45.550902,0.0 -88.181955,45.551245,0.0 -88.181858,45.551748,0.0 -88.1815,45.551954,0.0 -88.180101,45.552046,0.0 -88.179353,45.551864,0.0 -88.178702,45.55191,0.0 -88.178019,45.551727,0.0 -88.17623,45.552048,0.0 -88.174961,45.552346,0.0 -88.174343,45.552415,0.0 -88.173041,45.552118,0.0 -88.171316,45.551776,0.0 -88.17034,45.551479,0.0 -88.169754,45.551388,0.0 -88.168908,45.551343,0.0 -88.16816,45.551411,0.0 -88.166533,45.551229,0.0 -88.165915,45.551161,0.0 -88.165036,45.551298,0.0 -88.164418,45.551276,0.0 -88.163702,45.551459,0.0 -88.163539,45.551185,0.0 -88.162986,45.551093,0.0 -88.162628,45.550979,0.0 -88.161978,45.551071,0.0 -88.16175,45.550888,0.0 -88.16162,45.550888,0.0 -88.161392,45.551117,0.0 -88.161262,45.551483,0.0 -88.161588,45.551688,0.0 -88.161588,45.551757,0.0 -88.161523,45.551848,0.0 -88.161035,45.551871,0.0 -88.160709,45.55162,0.0 -88.160514,45.551574,0.0 -88.160286,45.551552,0.0 -88.160156,45.55178,0.0 -88.159831,45.551803,0.0 -88.159473,45.551826,0.0 -88.158789,45.551621,0.0 -88.158009,45.551689,0.0 -88.157488,45.55153,0.0 -88.155666,45.551759,0.0 -88.154332,45.551805,0.0 -88.153388,45.551645,0.0 -88.152184,45.551577,0.0 -88.151761,45.551508,0.0 -88.151241,45.551508,0.0 -88.15046,45.551417,0.0 -88.149679,45.551257,0.0 -88.149386,45.551212,0.0 -88.149093,45.55112,0.0 -88.1488,45.550869,0.0 -88.1488,45.550275,0.0 -88.148409,45.55016,0.0 -88.148149,45.550229,0.0 -88.147856,45.550366,0.0 -88.147531,45.550709,0.0 -88.147531,45.550801,0.0 -88.147141,45.551121,0.0 -88.146881,45.551212,0.0 -88.146588,45.551235,0.0 -88.145351,45.550961,0.0 -88.144928,45.55071,0.0 -88.144538,45.550596,0.0 -88.142813,45.550664,0.0 -88.142813,45.550664,0.0 -88.142065,45.550642,0.0 -88.141219,45.55039,0.0 -88.140926,45.550299,0.0 -88.140633,45.550002,0.0 -88.140536,45.549819,0.0 -88.140503,45.549659,0.0 -88.140438,45.549613,0.0 -88.140373,45.549362,0.0 -88.139657,45.548859,0.0 -88.139331,45.548699,0.0 -88.138974,45.548928,0.0 -88.138941,45.549659,0.0 -88.138746,45.550048,0.0 -88.138551,45.550231,0.0 -88.138258,45.550254,0.0 -88.138193,45.550185,0.0 -88.137998,45.549705,0.0 -88.137705,45.549499,0.0 -88.137542,45.549294,0.0 -88.137412,45.548791,0.0 -88.137217,45.548608,0.0 -88.137086,45.548356,0.0 -88.137184,45.548219,0.0 -88.137184,45.548219,0.0 -88.137347,45.548151,0.0 -88.138193,45.548173,0.0 -88.138778,45.547579,0.0 -88.138778,45.54719,0.0 -88.138517,45.547007,0.0 -88.137802,45.546779,0.0 -88.137476,45.546482,0.0 -88.137444,45.546253,0.0 -88.137476,45.546139,0.0 -88.138159,45.54591,0.0 -88.139135,45.545727,0.0 -88.139721,45.545521,0.0 -88.139721,45.545156,0.0 -88.139363,45.545041,0.0 -88.138842,45.545179,0.0 -88.138192,45.545224,0.0 -88.138029,45.545087,0.0 -88.138094,45.544836,0.0 -88.138647,45.544447,0.0 -88.13894,45.544058,0.0 -88.13972,45.543304,0.0 -88.13972,45.542961,0.0 -88.139362,45.54287,0.0 -88.138354,45.542961,0.0 -88.136857,45.54287,0.0 -88.135914,45.542184,0.0 -88.135686,45.541933,0.0 -88.135653,45.541544,0.0 -88.135523,45.541339,0.0 -88.135458,45.541041,0.0 -88.135588,45.540858,0.0 -88.136206,45.540836,0.0 -88.136564,45.540881,0.0 -88.136792,45.54079,0.0 -88.137019,45.540538,0.0 -88.137344,45.540378,0.0 -88.137507,45.540195,0.0 -88.137442,45.539875,0.0 -88.137149,45.539601,0.0 -88.137149,45.539395,0.0 -88.137279,45.539167,0.0 -88.137312,45.539007,0.0 -88.137312,45.539007,0.0 -88.137214,45.538938,0.0 -88.137246,45.538847,0.0 -88.135913,45.538275,0.0 -88.135067,45.537818,0.0 -88.134514,45.53759,0.0 -88.133733,45.537498,0.0 -88.133603,45.537384,0.0 -88.133609,45.537157,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="27127">
+        <Placemark id="45419">
             <name>Split Falls (III+)</name>
-            <Point id="27126">
+            <styleUrl>#45420</styleUrl>
+            <Point id="45418">
                 <coordinates>-88.142303,45.550499,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27129">
+        <Placemark id="45424">
             <name>Horseshoe Falls (IV)</name>
-            <Point id="27128">
+            <styleUrl>#45425</styleUrl>
+            <Point id="45423">
                 <coordinates>-88.137001,45.548401,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27131">
+        <Placemark id="45429">
             <name>Erratic Ledge (II+)</name>
-            <Point id="27130">
+            <styleUrl>#45430</styleUrl>
+            <Point id="45428">
                 <coordinates>-88.182404,45.550098,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27133">
+        <Placemark id="45434">
             <name>Double-drop Dells (II)</name>
-            <Point id="27132">
+            <styleUrl>#45435</styleUrl>
+            <Point id="45433">
                 <coordinates>-88.136002,45.542198,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27135">
+        <Placemark id="45439">
             <name>Logging dam</name>
-            <Point id="27134">
+            <styleUrl>#45440</styleUrl>
+            <Point id="45438">
                 <coordinates>-88.150307,45.551323,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27137">
+        <Placemark id="45444">
             <name>Take Out</name>
-            <Point id="27136">
+            <styleUrl>#45445</styleUrl>
+            <Point id="45443">
                 <coordinates>-88.133598,45.5368,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27139">
+        <Placemark id="45449">
             <name>Put In</name>
-            <Point id="27138">
+            <styleUrl>#45450</styleUrl>
+            <Point id="45448">
                 <coordinates>-88.194099,45.553299,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27141">
-            <name>Put in</name>
-            <Point id="27140">
-                <coordinates>-88.192254,45.55043,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27143">
-            <name>Take out</name>
-            <Point id="27142">
-                <coordinates>-88.133609,45.537157,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

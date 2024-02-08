@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="77881">
+        <Style id="77886">
+            <IconStyle id="77887">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77888">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="77891">
+            <IconStyle id="77892">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77893">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="77896">
+            <IconStyle id="77897">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77898">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="77901">
+            <IconStyle id="77902">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77903">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="77906">
+            <IconStyle id="77907">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77908">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="77911">
+            <IconStyle id="77912">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77913">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="77916">
+            <IconStyle id="77917">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77918">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="77921">
+            <IconStyle id="77922">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77923">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="77926">
+            <IconStyle id="77927">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77928">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="77931">
+            <IconStyle id="77932">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77933">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Hoosic - 3. Schaghticoke Dam to Powerhouse</name>
+        <Placemark id="77883">
+            <name>Hoosic - 3. Schaghticoke Dam to Powerhouse (III+(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="77882">
+                <coordinates>-73.588386,42.894782,0.0 -73.588453,42.894903,0.0 -73.588574,42.894987,0.0 -73.588719,42.895088,0.0 -73.588927,42.895206,0.0 -73.58911,42.895274,0.0 -73.589338,42.89534,0.0 -73.589368,42.895359,0.0 -73.589542,42.895468,0.0 -73.589654,42.895668,0.0 -73.589667,42.895682,0.0 -73.589957,42.895999,0.0 -73.590301,42.896473,0.0 -73.590459,42.896655,0.0 -73.590599,42.896819,0.0 -73.590601,42.896828,0.0 -73.590648,42.897034,0.0 -73.590645,42.897358,0.0 -73.59036,42.897859,0.0 -73.590289,42.897948,0.0 -73.590147,42.898127,0.0 -73.589898,42.898415,0.0 -73.589658,42.898852,0.0 -73.5896,42.899056,0.0 -73.5896,42.89906,0.0 -73.589604,42.899254,0.0 -73.589727,42.899398,0.0 -73.59016,42.899545,0.0 -73.590688,42.899816,0.0 -73.590919,42.899952,0.0 -73.59136,42.900126,0.0 -73.591812,42.900257,0.0 -73.592267,42.900381,0.0 -73.59265,42.900575,0.0 -73.5928,42.900867,0.0 -73.59295,42.901193,0.0 -73.593141,42.901503,0.0 -73.593468,42.901539,0.0 -73.593473,42.90154,0.0 -73.593835,42.901462,0.0 -73.594018,42.901124,0.0 -73.594027,42.90072,0.0 -73.594024,42.900692,0.0 -73.593974,42.90026,0.0 -73.594098,42.899977,0.0 -73.594551,42.899613,0.0 -73.595129,42.899332,0.0 -73.596153,42.898968,0.0 -73.596682,42.898857,0.0 -73.597141,42.898701,0.0 -73.597239,42.898533,0.0 -73.597252,42.89851,0.0 -73.597374,42.898301,0.0 -73.597359,42.898266,0.0 -73.597408,42.89815,0.0 -73.597294,42.897831,0.0 -73.597217,42.897622,0.0 -73.597125,42.89737,0.0 -73.597187,42.897023,0.0 -73.597235,42.896931,0.0 -73.597346,42.896715,0.0 -73.59744,42.896615,0.0 -73.59778,42.896254,0.0 -73.598182,42.895544,0.0 -73.598491,42.895,0.0 -73.598558,42.894881,0.0 -73.598712,42.894609,0.0 -73.59934,42.893869,0.0 -73.599708,42.893639,0.0 -73.599835,42.893559,0.0 -73.599878,42.893532,0.0 -73.600565,42.893365,0.0 -73.601356,42.893405,0.0 -73.601828,42.893616,0.0 -73.601916,42.893749,0.0 -73.601971,42.893834,0.0 -73.602067,42.893979,0.0 -73.60217,42.894383,0.0 -73.602162,42.894757,0.0 -73.601999,42.895581,0.0 -73.6017,42.89602,0.0 -73.601669,42.896067,0.0 -73.601168,42.896556,0.0 -73.600713,42.896972,0.0 -73.600632,42.897361,0.0 -73.600499,42.898287,0.0 -73.600348,42.899066,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="77885">
+            <name>What About Bob? (IV)</name>
+            <styleUrl>#77886</styleUrl>
+            <Point id="77884">
+                <coordinates>-73.591003,42.897999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77890">
+            <name>Big Eddy Playspot (III)</name>
+            <styleUrl>#77891</styleUrl>
+            <Point id="77889">
+                <coordinates>-73.589996,42.898998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77895">
+            <name>Under the Bridge (IV)</name>
+            <styleUrl>#77896</styleUrl>
+            <Point id="77894">
+                <coordinates>-73.588997,42.895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77900">
+            <name>Big Eddy</name>
+            <styleUrl>#77901</styleUrl>
+            <Point id="77899">
+                <coordinates>-73.589996,42.898998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77905">
+            <name>Unnamed Ledge (II+)</name>
+            <styleUrl>#77906</styleUrl>
+            <Point id="77904">
+                <coordinates>-73.601997,42.893002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77910">
+            <name>Powerhouse Take-out</name>
+            <styleUrl>#77911</styleUrl>
+            <Point id="77909">
+                <coordinates>-73.599998,42.897999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77915">
+            <name>Unnamed class I+ (II)</name>
+            <styleUrl>#77916</styleUrl>
+            <Point id="77914">
+                <coordinates>-73.601997,42.895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77920">
+            <name>Unnamed class II (II)</name>
+            <styleUrl>#77921</styleUrl>
+            <Point id="77919">
+                <coordinates>-73.594002,42.900002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77925">
+            <name>The Tube Rapids (III)</name>
+            <styleUrl>#77926</styleUrl>
+            <Point id="77924">
+                <coordinates>-73.597,42.896999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77930">
+            <name>The Big Drop (V)</name>
+            <styleUrl>#77931</styleUrl>
+            <Point id="77929">
+                <coordinates>-73.590248,42.896278,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

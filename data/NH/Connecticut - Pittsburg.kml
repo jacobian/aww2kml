@@ -1,35 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="12653">
+    <Document id="21410">
+        <Style id="21415">
+            <IconStyle id="21416">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21417">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="21420">
+            <IconStyle id="21421">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21422">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Connecticut - Pittsburg</name>
-        <Placemark id="12655">
-            <name>Connecticut - Pittsburg</name>
+        <Placemark id="21412">
+            <name>Connecticut - Pittsburg (III-IV(V))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="12654">
+            <LineString id="21411">
                 <coordinates>-71.390454,45.049068,0.0 -71.390497,45.049157,0.0 -71.390632,45.049242,0.0 -71.391111,45.049232,0.0 -71.391282,45.049244,0.0 -71.391421,45.049277,0.0 -71.391699,45.049278,0.0 -71.392024,45.049311,0.0 -71.392302,45.049499,0.0 -71.392471,45.049697,0.0 -71.392623,45.050245,0.0 -71.392731,45.050421,0.0 -71.392962,45.050597,0.0 -71.393363,45.05084,0.0 -71.393781,45.05095,0.0 -71.394044,45.050973,0.0 -71.39409,45.050995,0.0 -71.394353,45.051029,0.0 -71.394677,45.051139,0.0 -71.395511,45.051602,0.0 -71.396191,45.051878,0.0 -71.396655,45.051978,0.0 -71.396918,45.051967,0.0 -71.397197,45.051913,0.0 -71.397661,45.051914,0.0 -71.398001,45.051981,0.0 -71.398202,45.052047,0.0 -71.398712,45.052246,0.0 -71.399484,45.05261,0.0 -71.399978,45.052896,0.0 -71.401445,45.053601,0.0 -71.402124,45.054152,0.0 -71.402245,45.054219,0.0 -71.402818,45.054537,0.0 -71.403189,45.054681,0.0 -71.403467,45.054725,0.0 -71.405046,45.05474,0.0 -71.406255,45.054479,0.0 -71.406409,45.054471,0.0 -71.406657,45.054458,0.0 -71.406842,45.054459,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="12657">
+        <Placemark id="21414">
             <name>Put In Cedar Stream Rd</name>
-            <Point id="12656">
+            <styleUrl>#21415</styleUrl>
+            <Point id="21413">
                 <coordinates>-71.390709,45.048945,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12659">
+        <Placemark id="21419">
             <name>Take Out</name>
-            <Point id="12658">
-                <coordinates>-71.406842,45.054415,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="12661">
-            <name>Put in</name>
-            <Point id="12660">
-                <coordinates>-71.390709,45.048945,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="12663">
-            <name>Take out</name>
-            <Point id="12662">
+            <styleUrl>#21420</styleUrl>
+            <Point id="21418">
                 <coordinates>-71.406842,45.054415,0.0</coordinates>
             </Point>
         </Placemark>

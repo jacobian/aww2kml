@@ -1,101 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="20551">
+    <Document id="34623">
+        <Style id="34628">
+            <IconStyle id="34629">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34630">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34633">
+            <IconStyle id="34634">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34635">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34638">
+            <IconStyle id="34639">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34640">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34643">
+            <IconStyle id="34644">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34645">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34648">
+            <IconStyle id="34649">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34650">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34653">
+            <IconStyle id="34654">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34655">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34658">
+            <IconStyle id="34659">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34660">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34663">
+            <IconStyle id="34664">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34665">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34668">
+            <IconStyle id="34669">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34670">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34673">
+            <IconStyle id="34674">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34675">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34678">
+            <IconStyle id="34679">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34680">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34683">
+            <IconStyle id="34684">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34685">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34688">
+            <IconStyle id="34689">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34690">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34693">
+            <IconStyle id="34694">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34695">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>American, South Fork - 8. Greenwood Creek to Folsom Reservoir</name>
-        <Placemark id="20553">
-            <name>American, South Fork - 8. Greenwood Creek to Folsom Reservoir</name>
+        <Placemark id="34625">
+            <name>American, South Fork - 8. Greenwood Creek to Folsom Reservoir (III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="20552">
+            <LineString id="34624">
                 <coordinates>-120.945737,38.824041,0.0 -120.946218,38.823247,0.0 -120.946523,38.822068,0.0 -120.946653,38.820711,0.0 -120.94694,38.819355,0.0 -120.947344,38.818656,0.0 -120.947647,38.818549,0.0 -120.947869,38.818471,0.0 -120.948457,38.818428,0.0 -120.949094,38.818263,0.0 -120.949636,38.818255,0.0 -120.950672,38.818344,0.0 -120.951143,38.81844,0.0 -120.951549,38.818465,0.0 -120.952353,38.818779,0.0 -120.952822,38.818964,0.0 -120.953631,38.819084,0.0 -120.954304,38.819237,0.0 -120.954884,38.819495,0.0 -120.9554,38.819628,0.0 -120.955825,38.819759,0.0 -120.956988,38.820132,0.0 -120.957436,38.820281,0.0 -120.957926,38.820502,0.0 -120.958551,38.82076,0.0 -120.958816,38.820715,0.0 -120.959209,38.820648,0.0 -120.959982,38.82045,0.0 -120.960652,38.819949,0.0 -120.961054,38.819731,0.0 -120.961156,38.819675,0.0 -120.961559,38.818993,0.0 -120.962547,38.818428,0.0 -120.963105,38.818127,0.0 -120.963533,38.817897,0.0 -120.96442,38.817648,0.0 -120.965558,38.817332,0.0 -120.966523,38.816766,0.0 -120.966987,38.816332,0.0 -120.967669,38.81615,0.0 -120.968081,38.815963,0.0 -120.967946,38.815166,0.0 -120.967816,38.814756,0.0 -120.967738,38.814508,0.0 -120.96756,38.813622,0.0 -120.967218,38.812963,0.0 -120.966984,38.812075,0.0 -120.966766,38.811771,0.0 -120.96673,38.811453,0.0 -120.966628,38.811098,0.0 -120.966438,38.810635,0.0 -120.966387,38.810034,0.0 -120.966922,38.809495,0.0 -120.967299,38.809178,0.0 -120.967477,38.809028,0.0 -120.967709,38.808835,0.0 -120.967916,38.808665,0.0 -120.968417,38.808126,0.0 -120.96847,38.807844,0.0 -120.9688,38.807355,0.0 -120.969152,38.806884,0.0 -120.969362,38.806561,0.0 -120.969459,38.806413,0.0 -120.969986,38.806139,0.0 -120.97051,38.805972,0.0 -120.970916,38.805961,0.0 -120.971053,38.80593,0.0 -120.971484,38.80583,0.0 -120.972228,38.805878,0.0 -120.97306,38.806016,0.0 -120.973367,38.805987,0.0 -120.973852,38.805942,0.0 -120.974438,38.805969,0.0 -120.975157,38.806088,0.0 -120.97583,38.806223,0.0 -120.976557,38.806094,0.0 -120.97701,38.806014,0.0 -120.977508,38.805987,0.0 -120.97812,38.805892,0.0 -120.978421,38.805866,0.0 -120.978459,38.805862,0.0 -120.979147,38.805503,0.0 -120.979448,38.805244,0.0 -120.979842,38.804879,0.0 -120.980054,38.804565,0.0 -120.980097,38.803842,0.0 -120.980176,38.803437,0.0 -120.980647,38.802756,0.0 -120.980777,38.802122,0.0 -120.981038,38.801703,0.0 -120.981073,38.801262,0.0 -120.981365,38.80049,0.0 -120.98157,38.799628,0.0 -120.981772,38.798889,0.0 -120.981672,38.798411,0.0 -120.981971,38.798221,0.0 -120.982005,38.797833,0.0 -120.981574,38.797032,0.0 -120.981469,38.796835,0.0 -120.981023,38.795838,0.0 -120.980881,38.795253,0.0 -120.980881,38.795243,0.0 -120.980854,38.794634,0.0 -120.981551,38.793922,0.0 -120.981941,38.793681,0.0 -120.982507,38.793638,0.0 -120.982938,38.793557,0.0 -120.983173,38.793226,0.0 -120.98335,38.792557,0.0 -120.983358,38.792418,0.0 -120.983377,38.792087,0.0 -120.983393,38.791816,0.0 -120.983121,38.791052,0.0 -120.982596,38.79046,0.0 -120.982592,38.790404,0.0 -120.982528,38.789682,0.0 -120.982175,38.788616,0.0 -120.981849,38.788168,0.0 -120.981425,38.787984,0.0 -120.981274,38.787717,0.0 -120.981216,38.787398,0.0 -120.981301,38.785969,0.0 -120.98125,38.785385,0.0 -120.981271,38.784643,0.0 -120.98133,38.78415,0.0 -120.98141,38.783727,0.0 -120.981434,38.783657,0.0 -120.981473,38.783621,0.0 -120.981527,38.78357,0.0 -120.981732,38.783485,0.0 -120.982006,38.783402,0.0 -120.982267,38.782947,0.0 -120.982823,38.782444,0.0 -120.983261,38.782116,0.0 -120.983747,38.781683,0.0 -120.983933,38.781474,0.0 -120.98398,38.781422,0.0 -120.984328,38.781093,0.0 -120.984583,38.78085,0.0 -120.985178,38.780542,0.0 -120.985636,38.78032,0.0 -120.985913,38.780095,0.0 -120.986336,38.779502,0.0 -120.986777,38.77905,0.0 -120.987216,38.778705,0.0 -120.987742,38.778431,0.0 -120.98836,38.778141,0.0 -120.988953,38.777904,0.0 -120.989566,38.777774,0.0 -120.990268,38.777697,0.0 -120.990836,38.777548,0.0 -120.991679,38.77728,0.0 -120.991998,38.777162,0.0 -120.992551,38.776765,0.0 -120.992942,38.776507,0.0 -120.993172,38.776352,0.0 -120.993171,38.776348,0.0 -120.993134,38.776086,0.0 -120.993229,38.775911,0.0 -120.993692,38.775495,0.0 -120.994248,38.774957,0.0 -120.994704,38.774522,0.0 -120.995046,38.774312,0.0 -120.995326,38.774137,0.0 -120.995546,38.773938,0.0 -120.996133,38.77372,0.0 -120.997346,38.772999,0.0 -120.998121,38.772629,0.0 -120.998413,38.772513,0.0 -120.998613,38.772434,0.0 -120.998987,38.772285,0.0 -120.999406,38.772065,0.0 -120.999609,38.771386,0.0 -120.999789,38.770419,0.0 -120.999987,38.769908,0.0 -121.000476,38.769354,0.0 -121.000685,38.768998,0.0 -121.000925,38.768595,0.0 -121.001053,38.768521,0.0 -121.001439,38.767928,0.0 -121.001977,38.767471,0.0 -121.003547,38.766456,0.0 -121.004726,38.765626,0.0 -121.005333,38.765197,0.0 -121.005943,38.764687,0.0 -121.006799,38.764126,0.0 -121.00726,38.763941,0.0 -121.007639,38.763825,0.0 -121.007684,38.763812,0.0 -121.008039,38.763626,0.0 -121.008373,38.762946,0.0 -121.0087,38.76254,0.0 -121.009682,38.762474,0.0 -121.010519,38.762598,0.0 -121.010823,38.762729,0.0 -121.011385,38.76297,0.0 -121.011869,38.763197,0.0 -121.012137,38.763641,0.0 -121.012157,38.764189,0.0 -121.012147,38.764518,0.0 -121.012146,38.764573,0.0 -121.012383,38.764851,0.0 -121.012798,38.765078,0.0 -121.012963,38.76541,0.0 -121.013122,38.765988,0.0 -121.013317,38.766568,0.0 -121.013614,38.767203,0.0 -121.013683,38.767486,0.0 -121.013709,38.767589,0.0 -121.013902,38.768196,0.0 -121.014068,38.768527,0.0 -121.014094,38.768857,0.0 -121.014223,38.769243,0.0 -121.014273,38.769957,0.0 -121.01433,38.770452,0.0 -121.014343,38.77122,0.0 -121.014362,38.771823,0.0 -121.014485,38.772429,0.0 -121.014637,38.773254,0.0 -121.014765,38.773695,0.0 -121.014893,38.774136,0.0 -121.015236,38.774416,0.0 -121.015758,38.774535,0.0 -121.016092,38.77473,0.0 -121.016241,38.774817,0.0 -121.016932,38.77513,0.0 -121.017767,38.775364,0.0 -121.018406,38.775459,0.0 -121.018545,38.775479,0.0 -121.018604,38.775488,0.0 -121.019302,38.775582,0.0 -121.020075,38.775513,0.0 -121.020988,38.775446,0.0 -121.021691,38.775348,0.0 -121.022362,38.775168,0.0 -121.022897,38.774793,0.0 -121.023966,38.774153,0.0 -121.024931,38.773456,0.0 -121.025505,38.772972,0.0 -121.026218,38.772545,0.0 -121.026958,38.772366,0.0 -121.028152,38.772276,0.0 -121.02885,38.77237,0.0 -121.02962,38.772383,0.0 -121.030115,38.772227,0.0 -121.030715,38.772073,0.0 -121.031592,38.772005,0.0 -121.032222,38.772016,0.0 -121.032853,38.771999,0.0 -121.033239,38.772006,0.0 -121.033379,38.772008,0.0 -121.034354,38.772045,0.0 -121.03524,38.772235,0.0 -121.035263,38.772246,0.0 -121.035481,38.772357,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="20555">
+        <Placemark id="34627">
             <name>Recovery Room (III)</name>
-            <Point id="20554">
+            <styleUrl>#34628</styleUrl>
+            <Point id="34626">
                 <coordinates>-121.015982,38.774666,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20557">
+        <Placemark id="34632">
             <name>Hospital Bar (III+)</name>
-            <Point id="20556">
+            <styleUrl>#34633</styleUrl>
+            <Point id="34631">
                 <coordinates>-121.012512,38.765018,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20559">
+        <Placemark id="34637">
             <name>Salmon Falls (II+)</name>
-            <Point id="20558">
+            <styleUrl>#34638</styleUrl>
+            <Point id="34636">
                 <coordinates>-121.027359,38.772336,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20561">
+        <Placemark id="34642">
             <name>Surprise (III)</name>
-            <Point id="20560">
+            <styleUrl>#34643</styleUrl>
+            <Point id="34641">
                 <coordinates>-121.014775,38.773728,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20563">
+        <Placemark id="34647">
             <name>Swimmer's Rapid (II)</name>
-            <Point id="20562">
+            <styleUrl>#34648</styleUrl>
+            <Point id="34646">
                 <coordinates>-120.946587,38.823235,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20565">
+        <Placemark id="34652">
             <name>Cable Car Rapid (II)</name>
-            <Point id="20564">
+            <styleUrl>#34653</styleUrl>
+            <Point id="34651">
                 <coordinates>-120.947998,38.8186,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20567">
+        <Placemark id="34657">
             <name>Son of Satan's (II+)</name>
-            <Point id="20566">
+            <styleUrl>#34658</styleUrl>
+            <Point id="34656">
                 <coordinates>-120.993668,38.775475,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20569">
+        <Placemark id="34662">
             <name>Lower Haystack (II+)</name>
-            <Point id="20568">
+            <styleUrl>#34663</styleUrl>
+            <Point id="34661">
                 <coordinates>-121.001358,38.768188,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20571">
+        <Placemark id="34667">
             <name>Bouncing Rock (III)</name>
-            <Point id="20570">
+            <styleUrl>#34668</styleUrl>
+            <Point id="34666">
                 <coordinates>-121.007729,38.763905,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20573">
+        <Placemark id="34672">
             <name>Fowler's Rock (III)</name>
-            <Point id="20572">
+            <styleUrl>#34673</styleUrl>
+            <Point id="34671">
                 <coordinates>-120.981163,38.787735,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20575">
+        <Placemark id="34677">
             <name>Scissors (III)</name>
-            <Point id="20574">
+            <styleUrl>#34678</styleUrl>
+            <Point id="34676">
                 <coordinates>-120.999702,38.77145,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20577">
+        <Placemark id="34682">
             <name>Satan's Cesspool (III+)</name>
-            <Point id="20576">
+            <styleUrl>#34683</styleUrl>
+            <Point id="34681">
                 <coordinates>-120.991997,38.777,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20579">
+        <Placemark id="34687">
             <name>Greenwood Creek River Access</name>
-            <Point id="20578">
+            <styleUrl>#34688</styleUrl>
+            <Point id="34686">
                 <coordinates>-120.947693,38.826035,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20581">
-            <name>Put in</name>
-            <Point id="20580">
-                <coordinates>-120.946,38.8242,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="20583">
+        <Placemark id="34692">
             <name>Take out</name>
-            <Point id="20582">
+            <styleUrl>#34693</styleUrl>
+            <Point id="34691">
                 <coordinates>-121.035,38.7733,0.0</coordinates>
             </Point>
         </Placemark>

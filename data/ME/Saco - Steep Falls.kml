@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="107730">
+        <Style id="107735">
+            <IconStyle id="107736">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="107737">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="107740">
+            <IconStyle id="107741">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="107742">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Saco - Steep Falls</name>
+        <Placemark id="107732">
+            <name>Saco - Steep Falls (I-II+(V+))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="107731">
+                <coordinates>-70.663713,43.791248,0.0 -70.663651,43.791255,0.0 -70.662364,43.791186,0.0 -70.661912,43.791041,0.0 -70.66147,43.790816,0.0 -70.66073,43.790776,0.0 -70.660257,43.79052,0.0 -70.659934,43.790426,0.0 -70.659345,43.790383,0.0 -70.658508,43.789771,0.0 -70.657971,43.789725,0.0 -70.657601,43.789545,0.0 -70.657092,43.789154,0.0 -70.656739,43.788642,0.0 -70.656496,43.788464,0.0 -70.655776,43.78822,0.0 -70.655661,43.788197,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="107734">
+            <name>Take Out</name>
+            <styleUrl>#107735</styleUrl>
+            <Point id="107733">
+                <coordinates>-70.655701,43.787998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107739">
+            <name>Put In</name>
+            <styleUrl>#107740</styleUrl>
+            <Point id="107738">
+                <coordinates>-70.663696,43.7911,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

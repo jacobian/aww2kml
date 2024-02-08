@@ -1,42 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="14721">
+    <Document id="24929">
+        <Style id="24934">
+            <IconStyle id="24935">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24936">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24939">
+            <IconStyle id="24940">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24941">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24944">
+            <IconStyle id="24945">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24946">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Souhegan - 2) NH Rte. 101 Bridge to Wilton</name>
-        <Placemark id="14723">
-            <name>Souhegan - 2) NH Rte. 101 Bridge to Wilton</name>
+        <Placemark id="24931">
+            <name>Souhegan - 2) NH Rte. 101 Bridge to Wilton (III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="14722">
+            <LineString id="24930">
                 <coordinates>-71.749343,42.832693,0.0 -71.749772,42.833269,0.0 -71.750053,42.83363,0.0 -71.750356,42.834058,0.0 -71.750637,42.834187,0.0 -71.751118,42.834329,0.0 -71.751483,42.834396,0.0 -71.751799,42.834521,0.0 -71.752151,42.83477,0.0 -71.752454,42.835122,0.0 -71.752547,42.835438,0.0 -71.75257,42.835514,0.0 -71.752418,42.835786,0.0 -71.75212,42.836004,0.0 -71.751924,42.836138,0.0 -71.751727,42.836276,0.0 -71.751685,42.836366,0.0 -71.751617,42.836512,0.0 -71.751686,42.836935,0.0 -71.751642,42.837279,0.0 -71.751443,42.83771,0.0 -71.751145,42.837986,0.0 -71.750855,42.838418,0.0 -71.75057,42.83893,0.0 -71.750156,42.839393,0.0 -71.749808,42.839843,0.0 -71.749668,42.839945,0.0 -71.749302,42.840211,0.0 -71.748489,42.840675,0.0 -71.748087,42.840972,0.0 -71.747979,42.841643,0.0 -71.747966,42.841704,0.0 -71.747932,42.841861,0.0 -71.747887,42.84196,0.0 -71.747708,42.842091,0.0 -71.747603,42.842108,0.0 -71.747346,42.842068,0.0 -71.74647,42.842028,0.0 -71.745896,42.842068,0.0 -71.745321,42.842138,0.0 -71.74487,42.842085,0.0 -71.744429,42.841781,0.0 -71.744022,42.841504,0.0 -71.743598,42.84127,0.0 -71.74315,42.84118,0.0 -71.742886,42.84122,0.0 -71.742679,42.841394,0.0 -71.742516,42.841703,0.0 -71.742268,42.841888,0.0 -71.742093,42.842194,0.0 -71.741679,42.842522,0.0 -71.74149,42.842672,0.0 -71.741042,42.842837,0.0 -71.740841,42.842985,0.0 -71.740551,42.843347,0.0 -71.74035,42.843496,0.0 -71.739835,42.843809,0.0 -71.739528,42.843957,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="14725">
+        <Placemark id="24933">
             <name>Take Out</name>
-            <Point id="14724">
+            <styleUrl>#24934</styleUrl>
+            <Point id="24932">
                 <coordinates>-71.739531,42.843963,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="14727">
+        <Placemark id="24938">
             <name>Put In</name>
-            <Point id="14726">
+            <styleUrl>#24939</styleUrl>
+            <Point id="24937">
                 <coordinates>-71.749603,42.8325,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="14729">
+        <Placemark id="24943">
             <name>Trash Dump Rapid (aka Recycling Station or Recycler) (II+)</name>
-            <Point id="14728">
+            <styleUrl>#24944</styleUrl>
+            <Point id="24942">
                 <coordinates>-71.751974,42.834644,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="14731">
-            <name>Put in</name>
-            <Point id="14730">
-                <coordinates>-71.749603,42.8325,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="14733">
-            <name>Take out</name>
-            <Point id="14732">
-                <coordinates>-71.739531,42.843963,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

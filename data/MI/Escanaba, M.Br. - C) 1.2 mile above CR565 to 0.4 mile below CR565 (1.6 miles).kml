@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="86327">
+        <Style id="86332">
+            <IconStyle id="86333">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86334">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86337">
+            <IconStyle id="86338">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86339">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86342">
+            <IconStyle id="86343">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86344">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86347">
+            <IconStyle id="86348">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86349">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86352">
+            <IconStyle id="86353">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86354">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86357">
+            <IconStyle id="86358">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86359">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86362">
+            <IconStyle id="86363">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86364">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86367">
+            <IconStyle id="86368">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86369">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86372">
+            <IconStyle id="86373">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86374">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86377">
+            <IconStyle id="86378">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86379">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86382">
+            <IconStyle id="86383">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86384">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Escanaba, M.Br. - C) 1.2 mile above CR565 to 0.4 mile below CR565 (1.6 miles)</name>
+        <Placemark id="86329">
+            <name>Escanaba, M.Br. - C) 1.2 mile above CR565 to 0.4 mile below CR565 (1.6 miles) (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="86328">
+                <coordinates>-87.614688,46.360614,0.0 -87.614669,46.360609,0.0 -87.614306,46.360426,0.0 -87.614141,46.360129,0.0 -87.614108,46.359854,0.0 -87.613844,46.359191,0.0 -87.612788,46.357751,0.0 -87.612755,46.357385,0.0 -87.612887,46.357271,0.0 -87.613613,46.357157,0.0 -87.613679,46.356974,0.0 -87.614175,46.356265,0.0 -87.614175,46.355808,0.0 -87.614307,46.35558,0.0 -87.614769,46.355374,0.0 -87.615132,46.355123,0.0 -87.615264,46.354871,0.0 -87.615297,46.354483,0.0 -87.615165,46.354391,0.0 -87.615165,46.354323,0.0 -87.615033,46.354094,0.0 -87.614505,46.353728,0.0 -87.61434,46.35366,0.0 -87.613911,46.353637,0.0 -87.613383,46.353774,0.0 -87.613152,46.353774,0.0 -87.612756,46.353408,0.0 -87.61269,46.352905,0.0 -87.612591,46.352745,0.0 -87.612294,46.352494,0.0 -87.611898,46.352357,0.0 -87.611402,46.352334,0.0 -87.610445,46.352471,0.0 -87.609422,46.352311,0.0 -87.608002,46.352242,0.0 -87.607309,46.35215,0.0 -87.606352,46.351579,0.0 -87.605824,46.351373,0.0 -87.604834,46.351304,0.0 -87.603348,46.350961,0.0 -87.601038,46.350709,0.0 -87.600642,46.350595,0.0 -87.599651,46.35032,0.0 -87.599362,46.350175,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="86331">
+            <name>Boulder Garden (II+)</name>
+            <styleUrl>#86332</styleUrl>
+            <Point id="86330">
+                <coordinates>-87.60746,46.352104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86336">
+            <name>Lower 5-6-5 (III)</name>
+            <styleUrl>#86337</styleUrl>
+            <Point id="86335">
+                <coordinates>-87.601517,46.35062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86341">
+            <name>Hump Rock (II+)</name>
+            <styleUrl>#86342</styleUrl>
+            <Point id="86340">
+                <coordinates>-87.614731,46.355846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86346">
+            <name>5-6-5 Rapids (III+)</name>
+            <styleUrl>#86347</styleUrl>
+            <Point id="86345">
+                <coordinates>-87.604271,46.350979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86351">
+            <name>Hwy.35</name>
+            <styleUrl>#86352</styleUrl>
+            <Point id="86350">
+                <coordinates>-87.530998,46.314999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86356">
+            <name>Logjam Island (III+)</name>
+            <styleUrl>#86357</styleUrl>
+            <Point id="86355">
+                <coordinates>-87.612541,46.352787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86361">
+            <name>'Homme Side'/'Sweet Side' (IV)</name>
+            <styleUrl>#86362</styleUrl>
+            <Point id="86360">
+                <coordinates>-87.598,46.348,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86366">
+            <name>*Possible Alternate Exit*</name>
+            <styleUrl>#86367</styleUrl>
+            <Point id="86365">
+                <coordinates>-87.596001,46.342999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86371">
+            <name>Take Out</name>
+            <styleUrl>#86372</styleUrl>
+            <Point id="86370">
+                <coordinates>-87.5994,46.3501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86376">
+            <name>Put In</name>
+            <styleUrl>#86377</styleUrl>
+            <Point id="86375">
+                <coordinates>-87.6146,46.3609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86381">
+            <name>Three Mile Island (II+)</name>
+            <styleUrl>#86382</styleUrl>
+            <Point id="86380">
+                <coordinates>-87.558998,46.330002,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

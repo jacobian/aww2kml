@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55165">
+        <Style id="55170">
+            <IconStyle id="55171">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55172">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55175">
+            <IconStyle id="55176">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55177">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55180">
+            <IconStyle id="55181">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55182">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55185">
+            <IconStyle id="55186">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55187">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55190">
+            <IconStyle id="55191">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55192">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55195">
+            <IconStyle id="55196">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55197">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Mullet - Camp Evelyn to Woodland Road (1.25-2.34 miles)</name>
+        <Placemark id="55167">
+            <name>Mullet - Camp Evelyn to Woodland Road (1.25-2.34 miles) (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="55166">
+                <coordinates>-88.022247,43.794827,0.0 -88.021581,43.79437,0.0 -88.021045,43.794231,0.0 -88.020165,43.794231,0.0 -88.018931,43.794479,0.0 -88.017697,43.794502,0.0 -88.016056,43.794316,0.0 -88.015273,43.794084,0.0 -88.014071,43.793332,0.0 -88.012934,43.792806,0.0 -88.011829,43.792411,0.0 -88.011665,43.792398,0.0 -88.011665,43.792398,0.0 -88.009179,43.792209,0.0 -88.007226,43.792202,0.0 -88.006121,43.792434,0.0 -88.006003,43.792446,0.0 -88.004512,43.792589,0.0 -88.004475,43.792104,0.0 -88.004475,43.792104,0.0 -88.004447,43.791745,0.0 -88.004415,43.789661,0.0 -88.004329,43.789158,0.0 -88.004325,43.789143,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="55169">
+            <name>CTH.J&amp;C</name>
+            <styleUrl>#55170</styleUrl>
+            <Point id="55168">
+                <coordinates>-88.008003,43.792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55174">
+            <name>Confluence (LaBudde Creek)</name>
+            <styleUrl>#55175</styleUrl>
+            <Point id="55173">
+                <coordinates>-88.00444,43.792606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55179">
+            <name>Powerline</name>
+            <styleUrl>#55180</styleUrl>
+            <Point id="55178">
+                <coordinates>-88.011955,43.792297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55184">
+            <name>Take Out</name>
+            <styleUrl>#55185</styleUrl>
+            <Point id="55183">
+                <coordinates>-87.994003,43.775902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55189">
+            <name>Put In</name>
+            <styleUrl>#55190</styleUrl>
+            <Point id="55188">
+                <coordinates>-88.022202,43.794701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55194">
+            <name>CTH.J / USGS sampling site: Drainage area: 45.4 sq.mi.</name>
+            <styleUrl>#55195</styleUrl>
+            <Point id="55193">
+                <coordinates>-88.003998,43.789001,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

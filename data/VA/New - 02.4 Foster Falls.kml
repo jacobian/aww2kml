@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="62584">
+        <Style id="62589">
+            <IconStyle id="62590">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="62591">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="62594">
+            <IconStyle id="62595">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="62596">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>New - 02.4 Foster Falls</name>
+        <Placemark id="62586">
+            <name>New - 02.4 Foster Falls (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="62585">
+                <coordinates>-80.861663,36.883272,0.0 -80.860763,36.885115,0.0 -80.858603,36.886529,0.0 -80.856485,36.887916,0.0 -80.855946,36.889052,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="62588">
+            <name>Take Out</name>
+            <styleUrl>#62589</styleUrl>
+            <Point id="62587">
+                <coordinates>-80.855202,36.888699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="62593">
+            <name>Put In</name>
+            <styleUrl>#62594</styleUrl>
+            <Point id="62592">
+                <coordinates>-80.860901,36.8829,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

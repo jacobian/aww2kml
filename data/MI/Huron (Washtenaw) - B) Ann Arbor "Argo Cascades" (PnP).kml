@@ -1,42 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="8603">
+    <Document id="14482">
+        <Style id="14487">
+            <IconStyle id="14488">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14489">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14492">
+            <IconStyle id="14493">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14494">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14497">
+            <IconStyle id="14498">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14499">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Huron (Washtenaw) - B) Ann Arbor &quot;Argo Cascades&quot; (PnP)</name>
-        <Placemark id="8605">
-            <name>Huron (Washtenaw) - B) Ann Arbor &quot;Argo Cascades&quot; (PnP)</name>
+        <Placemark id="14484">
+            <name>Huron (Washtenaw) - B) Ann Arbor &quot;Argo Cascades&quot; (PnP) (I(II))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="8604">
+            <LineString id="14483">
                 <coordinates>-83.745179,42.291032,0.0 -83.745235,42.290717,0.0 -83.745102,42.290545,0.0 -83.745103,42.290545,0.0 -83.744917,42.290302,0.0 -83.744917,42.290302,0.0 -83.74482,42.290175,0.0 -83.742782,42.289985,0.0 -83.741344,42.289342,0.0 -83.741098,42.289107,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="8607">
+        <Placemark id="14486">
             <name>Put In</name>
-            <Point id="8606">
+            <styleUrl>#14487</styleUrl>
+            <Point id="14485">
                 <coordinates>-83.745,42.291,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8609">
+        <Placemark id="14491">
             <name>Snow White / Bridge Drop (II)</name>
-            <Point id="8608">
+            <styleUrl>#14492</styleUrl>
+            <Point id="14490">
                 <coordinates>-83.741144,42.289151,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8611">
+        <Placemark id="14496">
             <name>Take Out</name>
-            <Point id="8610">
+            <styleUrl>#14497</styleUrl>
+            <Point id="14495">
                 <coordinates>-83.741,42.289,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8613">
-            <name>Put in</name>
-            <Point id="8612">
-                <coordinates>-83.745179,42.291032,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8615">
-            <name>Take out</name>
-            <Point id="8614">
-                <coordinates>-83.741098,42.289107,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="114112">
+        <Style id="114117">
+            <IconStyle id="114118">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114119">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114122">
+            <IconStyle id="114123">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114124">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Cove Creek - Cascades</name>
+        <Placemark id="114114">
+            <name>Cove Creek - Cascades (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="114113">
+                <coordinates>-83.625654,35.754024,0.0 -83.625696,35.754293,0.0 -83.625783,35.754568,0.0 -83.625857,35.754925,0.0 -83.625796,35.755139,0.0 -83.625621,35.75537,0.0 -83.625391,35.755578,0.0 -83.625075,35.75576,0.0 -83.625,35.755775,0.0 -83.624893,35.755798,0.0 -83.624889,35.760241,0.0 -83.625002,35.760319,0.0 -83.625192,35.76045,0.0 -83.625381,35.760516,0.0 -83.62592,35.760594,0.0 -83.626109,35.760654,0.0 -83.626263,35.76083,0.0 -83.626405,35.761171,0.0 -83.626479,35.761462,0.0 -83.626451,35.761961,0.0 -83.626357,35.762324,0.0 -83.626141,35.762533,0.0 -83.625945,35.762697,0.0 -83.625723,35.762823,0.0 -83.625386,35.762884,0.0 -83.625062,35.762916,0.0 -83.625003,35.762917,0.0 -83.624887,35.762917,0.0 -83.624477,35.762934,0.0 -83.624113,35.762978,0.0 -83.623655,35.76316,0.0 -83.623265,35.763495,0.0 -83.623009,35.763792,0.0 -83.622699,35.764132,0.0 -83.622477,35.764347,0.0 -83.622039,35.765061,0.0 -83.621871,35.765325,0.0 -83.622046,35.765665,0.0 -83.62206,35.765687,0.0 -83.622424,35.766192,0.0 -83.622441,35.766228,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="114116">
+            <name>Take Out</name>
+            <styleUrl>#114117</styleUrl>
+            <Point id="114115">
+                <coordinates>-83.622498,35.766201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114121">
+            <name>Put In</name>
+            <styleUrl>#114122</styleUrl>
+            <Point id="114120">
+                <coordinates>-83.625801,35.754002,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

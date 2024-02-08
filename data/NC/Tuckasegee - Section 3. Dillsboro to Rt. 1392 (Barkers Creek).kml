@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="64944">
+        <Style id="64949">
+            <IconStyle id="64950">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64951">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64954">
+            <IconStyle id="64955">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64956">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64959">
+            <IconStyle id="64960">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64961">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64964">
+            <IconStyle id="64965">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64966">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64969">
+            <IconStyle id="64970">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64971">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64974">
+            <IconStyle id="64975">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64976">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64979">
+            <IconStyle id="64980">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64981">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64984">
+            <IconStyle id="64985">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64986">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64989">
+            <IconStyle id="64990">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64991">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64994">
+            <IconStyle id="64995">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="64996">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64999">
+            <IconStyle id="65000">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65001">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65004">
+            <IconStyle id="65005">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65006">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Tuckasegee - Section 3. Dillsboro to Rt. 1392 (Barkers Creek)</name>
+        <Placemark id="64946">
+            <name>Tuckasegee - Section 3. Dillsboro to Rt. 1392 (Barkers Creek) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="64945">
+                <coordinates>-83.247317,35.363968,0.0 -83.247415,35.364996,0.0 -83.247661,35.365484,0.0 -83.248005,35.365743,0.0 -83.248624,35.365992,0.0 -83.249236,35.366105,0.0 -83.249598,35.366378,0.0 -83.249809,35.366536,0.0 -83.251163,35.366895,0.0 -83.252719,35.36706,0.0 -83.252762,35.367021,0.0 -83.254082,35.366975,0.0 -83.254297,35.366877,0.0 -83.255172,35.366756,0.0 -83.256893,35.365974,0.0 -83.257723,35.366035,0.0 -83.25831,35.366217,0.0 -83.258502,35.366188,0.0 -83.259168,35.3663,0.0 -83.259728,35.366461,0.0 -83.261003,35.367419,0.0 -83.261046,35.367452,0.0 -83.261156,35.367448,0.0 -83.261761,35.367946,0.0 -83.262936,35.368829,0.0 -83.263982,35.369875,0.0 -83.264047,35.370053,0.0 -83.26463,35.370664,0.0 -83.2663,35.372049,0.0 -83.266311,35.372274,0.0 -83.266777,35.372754,0.0 -83.266968,35.373244,0.0 -83.267506,35.374037,0.0 -83.26788,35.375008,0.0 -83.267977,35.375198,0.0 -83.267926,35.37529,0.0 -83.267988,35.375423,0.0 -83.267948,35.375695,0.0 -83.267056,35.376539,0.0 -83.267063,35.376674,0.0 -83.266852,35.376862,0.0 -83.266876,35.377312,0.0 -83.266402,35.377735,0.0 -83.266409,35.37787,0.0 -83.26616,35.378375,0.0 -83.266148,35.379187,0.0 -83.266413,35.380035,0.0 -83.266769,35.380519,0.0 -83.266776,35.380524,0.0 -83.267228,35.380864,0.0 -83.267407,35.381128,0.0 -83.267497,35.381801,0.0 -83.267368,35.381964,0.0 -83.267413,35.382301,0.0 -83.267599,35.3827,0.0 -83.267625,35.384233,0.0 -83.267692,35.384456,0.0 -83.268179,35.385341,0.0 -83.268193,35.385612,0.0 -83.268423,35.385784,0.0 -83.268544,35.386005,0.0 -83.268559,35.386275,0.0 -83.268673,35.386362,0.0 -83.26875,35.386765,0.0 -83.269046,35.387161,0.0 -83.26945,35.387507,0.0 -83.269729,35.387588,0.0 -83.270231,35.387705,0.0 -83.270891,35.387682,0.0 -83.271757,35.387381,0.0 -83.27234,35.386954,0.0 -83.272608,35.386809,0.0 -83.272871,35.386575,0.0 -83.273354,35.386332,0.0 -83.274653,35.38588,0.0 -83.274865,35.385737,0.0 -83.275085,35.385729,0.0 -83.275298,35.385587,0.0 -83.275456,35.385446,0.0 -83.275602,35.38508,0.0 -83.275569,35.384449,0.0 -83.27539,35.384185,0.0 -83.27538,35.384005,0.0 -83.274979,35.383703,0.0 -83.274647,35.38367,0.0 -83.274532,35.383584,0.0 -83.274147,35.383597,0.0 -83.273588,35.383436,0.0 -83.272039,35.382273,0.0 -83.271803,35.381966,0.0 -83.271341,35.381576,0.0 -83.271325,35.381261,0.0 -83.271093,35.381043,0.0 -83.271026,35.38082,0.0 -83.271105,35.380231,0.0 -83.271469,35.379812,0.0 -83.271718,35.379307,0.0 -83.272086,35.378978,0.0 -83.272454,35.378649,0.0 -83.272617,35.378598,0.0 -83.273604,35.378518,0.0 -83.275065,35.379053,0.0 -83.275578,35.379396,0.0 -83.275908,35.379385,0.0 -83.276078,35.379469,0.0 -83.277938,35.379223,0.0 -83.279023,35.378914,0.0 -83.279683,35.37889,0.0 -83.280293,35.378959,0.0 -83.281189,35.379243,0.0 -83.281689,35.379316,0.0 -83.282422,35.379651,0.0 -83.282862,35.379635,0.0 -83.282977,35.379721,0.0 -83.284187,35.379679,0.0 -83.284416,35.379851,0.0 -83.284524,35.379802,0.0 -83.284975,35.380012,0.0 -83.2857,35.380166,0.0 -83.286211,35.380464,0.0 -83.286543,35.380497,0.0 -83.287911,35.381351,0.0 -83.288305,35.381518,0.0 -83.289337,35.382293,0.0 -83.290334,35.383431,0.0 -83.290401,35.383654,0.0 -83.291158,35.384439,0.0 -83.292939,35.38582,0.0 -83.293398,35.386165,0.0 -83.293463,35.386343,0.0 -83.293988,35.386911,0.0 -83.293993,35.387001,0.0 -83.294579,35.387657,0.0 -83.294758,35.387921,0.0 -83.294767,35.388101,0.0 -83.295283,35.388785,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="64948">
+            <name>Suprise Hole (II)</name>
+            <styleUrl>#64949</styleUrl>
+            <Point id="64947">
+                <coordinates>-83.271858,35.379288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64953">
+            <name>Surfing Rapid (II)</name>
+            <styleUrl>#64954</styleUrl>
+            <Point id="64952">
+                <coordinates>-83.274399,35.378601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64958">
+            <name>Railroad Bridge (II)</name>
+            <styleUrl>#64959</styleUrl>
+            <Point id="64957">
+                <coordinates>-83.267197,35.376301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64963">
+            <name>2nd Hole (II+)</name>
+            <styleUrl>#64964</styleUrl>
+            <Point id="64962">
+                <coordinates>-83.267502,35.3843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64968">
+            <name>1st Hole (II)</name>
+            <styleUrl>#64969</styleUrl>
+            <Point id="64967">
+                <coordinates>-83.266296,35.3778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64973">
+            <name>Sling Shot (II)</name>
+            <styleUrl>#64974</styleUrl>
+            <Point id="64972">
+                <coordinates>-83.273003,35.382702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64978">
+            <name>Double Drop (III)</name>
+            <styleUrl>#64979</styleUrl>
+            <Point id="64977">
+                <coordinates>-83.274498,35.3834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64983">
+            <name>Moonshot (II)</name>
+            <styleUrl>#64984</styleUrl>
+            <Point id="64982">
+                <coordinates>-83.269798,35.387299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64988">
+            <name>Shark Tooth (II)</name>
+            <styleUrl>#64989</styleUrl>
+            <Point id="64987">
+                <coordinates>-83.285004,35.3797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64993">
+            <name>Duke Put In</name>
+            <styleUrl>#64994</styleUrl>
+            <Point id="64992">
+                <coordinates>-83.245697,35.3638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="64998">
+            <name>Barkers Creek Bridge</name>
+            <styleUrl>#64999</styleUrl>
+            <Point id="64997">
+                <coordinates>-83.291,35.384899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65003">
+            <name>Dillsboro Drop (III)</name>
+            <styleUrl>#65004</styleUrl>
+            <Point id="65002">
+                <coordinates>-83.249199,35.366199,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

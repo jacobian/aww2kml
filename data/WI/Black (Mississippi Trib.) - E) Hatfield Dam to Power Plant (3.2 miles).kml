@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="65036">
+        <Style id="65041">
+            <IconStyle id="65042">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65043">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65046">
+            <IconStyle id="65047">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65048">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65051">
+            <IconStyle id="65052">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65053">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65056">
+            <IconStyle id="65057">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65058">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65061">
+            <IconStyle id="65062">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65063">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65066">
+            <IconStyle id="65067">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65068">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Black (Mississippi Trib.) - E) Hatfield Dam to Power Plant (3.2 miles)</name>
+        <Placemark id="65038">
+            <name>Black (Mississippi Trib.) - E) Hatfield Dam to Power Plant (3.2 miles) (II-III(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="65037">
+                <coordinates>-90.722204,44.410834,0.0 -90.722586,44.410743,0.0 -90.722932,44.41065,0.0 -90.723143,44.410573,0.0 -90.723387,44.410532,0.0 -90.723936,44.410409,0.0 -90.724378,44.410307,0.0 -90.724651,44.410058,0.0 -90.725158,44.409667,0.0 -90.725362,44.409418,0.0 -90.725557,44.409233,0.0 -90.725604,44.409085,0.0 -90.725954,44.408751,0.0 -90.726286,44.408509,0.0 -90.726639,44.408379,0.0 -90.727393,44.408043,0.0 -90.727972,44.407849,0.0 -90.728157,44.407699,0.0 -90.728546,44.407284,0.0 -90.7286,44.406895,0.0 -90.728725,44.406619,0.0 -90.72865,44.406168,0.0 -90.728743,44.405979,0.0 -90.728871,44.405718,0.0 -90.729281,44.405405,0.0 -90.729652,44.40512,0.0 -90.729786,44.404837,0.0 -90.730116,44.404425,0.0 -90.730163,44.404387,0.0 -90.730506,44.404112,0.0 -90.730585,44.404029,0.0 -90.730817,44.403785,0.0 -90.730872,44.403488,0.0 -90.730891,44.403382,0.0 -90.730911,44.403376,0.0 -90.731401,44.403224,0.0 -90.731791,44.402981,0.0 -90.731985,44.40274,0.0 -90.73241,44.402031,0.0 -90.732727,44.401507,0.0 -90.73295,44.401138,0.0 -90.733533,44.400485,0.0 -90.734289,44.399548,0.0 -90.735068,44.398859,0.0 -90.736202,44.398174,0.0 -90.73771,44.397543,0.0 -90.738379,44.397454,0.0 -90.739069,44.397562,0.0 -90.739685,44.397939,0.0 -90.740618,44.398555,0.0 -90.742223,44.399363,0.0 -90.743235,44.399949,0.0 -90.743571,44.400004,0.0 -90.744911,44.400129,0.0 -90.745817,44.400095,0.0 -90.746365,44.399823,0.0 -90.746812,44.399397,0.0 -90.74716,44.398844,0.0 -90.747292,44.398391,0.0 -90.747008,44.397715,0.0 -90.746484,44.396773,0.0 -90.746161,44.396182,0.0 -90.745636,44.395147,0.0 -90.745829,44.394821,0.0 -90.746337,44.39455,0.0 -90.747023,44.394305,0.0 -90.747787,44.393962,0.0 -90.74855,44.393575,0.0 -90.749414,44.393358,0.0 -90.750357,44.393225,0.0 -90.751025,44.393079,0.0 -90.751634,44.39299,0.0 -90.752184,44.392874,0.0 -90.752754,44.392828,0.0 -90.753306,44.392866,0.0 -90.753758,44.392765,0.0 -90.754425,44.392548,0.0 -90.754398,44.392054,0.0 -90.754295,44.391653,0.0 -90.754093,44.391301,0.0 -90.753932,44.39102,0.0 -90.753595,44.390824,0.0 -90.753316,44.3906,0.0 -90.753233,44.390262,0.0 -90.753349,44.390063,0.0 -90.753781,44.38999,0.0 -90.754273,44.389987,0.0 -90.754705,44.389871,0.0 -90.755177,44.389825,0.0 -90.755789,44.389963,0.0 -90.756323,44.390114,0.0 -90.756993,44.390181,0.0 -90.757328,44.390192,0.0 -90.757741,44.390119,0.0 -90.758113,44.389961,0.0 -90.758385,44.389663,0.0 -90.758792,44.389223,0.0 -90.759314,44.38863,0.0 -90.759431,44.388497,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="65040">
+            <name>Powerhouse Rapids (II)</name>
+            <styleUrl>#65041</styleUrl>
+            <Point id="65039">
+                <coordinates>-90.758797,44.389599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65045">
+            <name>minor rapids #2 (II)</name>
+            <styleUrl>#65046</styleUrl>
+            <Point id="65044">
+                <coordinates>-90.754204,44.3909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65050">
+            <name>minor rapids #1 (II)</name>
+            <styleUrl>#65051</styleUrl>
+            <Point id="65049">
+                <coordinates>-90.746902,44.394299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65055">
+            <name>Island Drop (II)</name>
+            <styleUrl>#65056</styleUrl>
+            <Point id="65054">
+                <coordinates>-90.729103,44.405602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65060">
+            <name>Take Out</name>
+            <styleUrl>#65061</styleUrl>
+            <Point id="65059">
+                <coordinates>-90.760002,44.389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65065">
+            <name>Put In</name>
+            <styleUrl>#65066</styleUrl>
+            <Point id="65064">
+                <coordinates>-90.722,44.41,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

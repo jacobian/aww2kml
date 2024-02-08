@@ -1,29 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="28327">
+    <Document id="47512">
+        <Style id="47517">
+            <IconStyle id="47518">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47519">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="47522">
+            <IconStyle id="47523">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47524">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Denton Creek - Just below Grapevine Dam (PnP)</name>
-        <Placemark id="28329">
-            <name>Denton Creek - Just below Grapevine Dam (PnP)</name>
+        <Placemark id="47514">
+            <name>Denton Creek - Just below Grapevine Dam (PnP) (II+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="28328">
+            <LineString id="47513">
                 <coordinates>-97.053822,32.973129,0.0 -97.053687,32.973092,0.0 -97.053491,32.973105,0.0 -97.053092,32.973175,0.0 -97.052848,32.973211,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="28331">
+        <Placemark id="47516">
             <name>Grapevine Wave (II)</name>
-            <Point id="28330">
+            <styleUrl>#47517</styleUrl>
+            <Point id="47515">
                 <coordinates>-97.053673,32.973101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28333">
-            <name>Put in</name>
-            <Point id="28332">
-                <coordinates>-97.053822,32.973129,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="28335">
+        <Placemark id="47521">
             <name>Take out</name>
-            <Point id="28334">
+            <styleUrl>#47522</styleUrl>
+            <Point id="47520">
                 <coordinates>-97.052848,32.973211,0.0</coordinates>
             </Point>
         </Placemark>

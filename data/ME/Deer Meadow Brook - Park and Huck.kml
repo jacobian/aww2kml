@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="10647">
+    <Document id="17997">
+        <Style id="18002">
+            <IconStyle id="18003">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18004">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="18007">
+            <IconStyle id="18008">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18009">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Deer Meadow Brook - Park and Huck</name>
-        <Placemark id="10649">
-            <name>Deer Meadow Brook - Park and Huck</name>
+        <Placemark id="17999">
+            <name>Deer Meadow Brook - Park and Huck (III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="10648">
+            <LineString id="17998">
                 <coordinates>-69.586625,44.039696,0.0 -69.586689,44.039421,0.0 -69.586582,44.039106,0.0 -69.586718,44.038796,0.0 -69.586769,44.038606,0.0 -69.586883,44.038445,0.0 -69.58719,44.038233,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="10651">
+        <Placemark id="18001">
             <name>Put in</name>
-            <Point id="10650">
+            <styleUrl>#18002</styleUrl>
+            <Point id="18000">
                 <coordinates>-69.586625,44.039696,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10653">
+        <Placemark id="18006">
             <name>Take out</name>
-            <Point id="10652">
+            <styleUrl>#18007</styleUrl>
+            <Point id="18005">
                 <coordinates>-69.58719,44.038233,0.0</coordinates>
             </Point>
         </Placemark>

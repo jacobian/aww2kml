@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55334">
+        <Style id="55339">
+            <IconStyle id="55340">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55341">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55344">
+            <IconStyle id="55345">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55346">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55349">
+            <IconStyle id="55350">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55351">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55354">
+            <IconStyle id="55355">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55356">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55359">
+            <IconStyle id="55360">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55361">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55364">
+            <IconStyle id="55365">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55366">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55369">
+            <IconStyle id="55370">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55371">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55374">
+            <IconStyle id="55375">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55376">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55379">
+            <IconStyle id="55380">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55381">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Goose Creek - Sycolin Road Bridge to Kephart Bridge Landing (&amp; the Potomac)</name>
+        <Placemark id="55336">
+            <name>Goose Creek - Sycolin Road Bridge to Kephart Bridge Landing (&amp; the Potomac) (I-II(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="55335">
+                <coordinates>-77.535348,39.039533,0.0 -77.535474,39.039653,0.0 -77.535689,39.039886,0.0 -77.536129,39.040595,0.0 -77.536225,39.041011,0.0 -77.536204,39.041336,0.0 -77.536086,39.04182,0.0 -77.535903,39.042111,0.0 -77.535388,39.042461,0.0 -77.535388,39.042461,0.0 -77.535142,39.042486,0.0 -77.534455,39.042411,0.0 -77.534455,39.042411,0.0 -77.533908,39.042378,0.0 -77.533543,39.042403,0.0 -77.53232,39.042636,0.0 -77.531955,39.042795,0.0 -77.531719,39.043011,0.0 -77.53143,39.043378,0.0 -77.531108,39.044044,0.0 -77.530893,39.044319,0.0 -77.530518,39.045236,0.0 -77.530239,39.045686,0.0 -77.529906,39.045978,0.0 -77.529906,39.045978,0.0 -77.529316,39.046478,0.0 -77.529285,39.046532,0.0 -77.529293,39.046535,0.0 -77.529144,39.046853,0.0 -77.529101,39.047086,0.0 -77.529187,39.047586,0.0 -77.529745,39.048652,0.0 -77.530174,39.049152,0.0 -77.530131,39.049985,0.0 -77.530003,39.050552,0.0 -77.529831,39.050952,0.0 -77.528844,39.051418,0.0 -77.528458,39.051552,0.0 -77.527642,39.052518,0.0 -77.527471,39.052952,0.0 -77.527342,39.053951,0.0 -77.52717,39.054251,0.0 -77.527041,39.054718,0.0 -77.526827,39.055084,0.0 -77.526569,39.055651,0.0 -77.526355,39.055884,0.0 -77.526355,39.055884,0.0 -77.525926,39.055951,0.0 -77.525539,39.056151,0.0 -77.52511,39.056584,0.0 -77.524939,39.057017,0.0 -77.524939,39.057317,0.0 -77.525024,39.057617,0.0 -77.525496,39.057884,0.0 -77.525754,39.05805,0.0 -77.525754,39.05805,0.0 -77.526054,39.058384,0.0 -77.526226,39.058717,0.0 -77.526484,39.059483,0.0 -77.526398,39.06045,0.0 -77.526269,39.061049,0.0 -77.526054,39.061416,0.0 -77.52584,39.061716,0.0 -77.525454,39.061982,0.0 -77.524767,39.062349,0.0 -77.524509,39.062549,0.0 -77.523952,39.063249,0.0 -77.523565,39.064048,0.0 -77.523222,39.065315,0.0 -77.522793,39.066048,0.0 -77.522106,39.066947,0.0 -77.521849,39.06778,0.0 -77.52142,39.068413,0.0 -77.520604,39.069113,0.0 -77.520003,39.069246,0.0 -77.519531,39.06948,0.0 -77.51863,39.069913,0.0 -77.51863,39.069913,0.0 -77.518158,39.070013,0.0 -77.517986,39.070113,0.0 -77.517686,39.070146,0.0 -77.516999,39.070412,0.0 -77.516699,39.070679,0.0 -77.516356,39.071212,0.0 -77.516055,39.071545,0.0 -77.515497,39.071878,0.0 -77.515025,39.072045,0.0 -77.515025,39.072045,0.0 -77.513866,39.072511,0.0 -77.513008,39.072911,0.0 -77.512622,39.073278,0.0 -77.512321,39.073711,0.0 -77.51215,39.074244,0.0 -77.512193,39.07451,0.0 -77.512064,39.075077,0.0 -77.511592,39.076176,0.0 -77.511334,39.077376,0.0 -77.510862,39.078542,0.0 -77.510476,39.081407,0.0 -77.510476,39.081407,0.0 -77.510433,39.081906,0.0 -77.510262,39.082106,0.0 -77.510004,39.083006,0.0 -77.510047,39.083339,0.0 -77.510176,39.083539,0.0 -77.510262,39.084005,0.0 -77.510433,39.084438,0.0 -77.510734,39.084971,0.0 -77.510862,39.085038,0.0 -77.510862,39.085038,0.0 -77.511377,39.085671,0.0 -77.511463,39.08597,0.0 -77.51142,39.086237,0.0 -77.510991,39.086836,0.0 -77.510176,39.087469,0.0 -77.50936,39.088002,0.0 -77.508202,39.088469,0.0 -77.507085,39.088822,0.0 -77.507085,39.088822,0.0 -77.507043,39.088835,0.0 -77.507043,39.088835,0.0 -77.507019,39.088844,0.0 -77.507005,39.088822,0.0 -77.507001,39.088823,0.0 -77.505091,39.089483,0.0 -77.503831,39.089975,0.0 -77.502547,39.090572,0.0 -77.502514,39.090587,0.0 -77.502226,39.09082,0.0 -77.502095,39.091008,0.0 -77.501992,39.091464,0.0 -77.501826,39.091871,0.0 -77.501276,39.092532,0.0 -77.500936,39.093157,0.0 -77.500707,39.093467,0.0 -77.500129,39.094113,0.0 -77.500004,39.094213,0.0 -77.498005,39.095811,0.0 -77.497763,39.096072,0.0 -77.497617,39.096333,0.0 -77.497493,39.096562,0.0 -77.497431,39.096879,0.0 -77.497473,39.09742,0.0 -77.497457,39.097827,0.0 -77.497276,39.098378,0.0 -77.496649,39.09889,0.0 -77.495696,39.099252,0.0 -77.495123,39.099384,0.0 -77.495043,39.099414,0.0 -77.495043,39.099414,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="55338">
+            <name>Route 7 Bridge Rapid</name>
+            <styleUrl>#55339</styleUrl>
+            <Point id="55337">
+                <coordinates>-77.511269,39.085705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55343">
+            <name>Old Mill Dam (Elizabeth's Mill) (II+)</name>
+            <styleUrl>#55344</styleUrl>
+            <Point id="55342">
+                <coordinates>-77.502571,39.090588,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55348">
+            <name>Sycolin Road Put In (None)</name>
+            <styleUrl>#55349</styleUrl>
+            <Point id="55347">
+                <coordinates>-77.535446,39.039542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55353">
+            <name>Golf Course Rapids (Cooke's Mill) (III)</name>
+            <styleUrl>#55354</styleUrl>
+            <Point id="55352">
+                <coordinates>-77.512299,39.073601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55358">
+            <name>Sycolin Creek Put In</name>
+            <styleUrl>#55359</styleUrl>
+            <Point id="55357">
+                <coordinates>-77.518608,39.071186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55363">
+            <name>Rock Garden (II)</name>
+            <styleUrl>#55364</styleUrl>
+            <Point id="55362">
+                <coordinates>-77.496788,39.098785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55368">
+            <name>Kephart Bridge Landing</name>
+            <styleUrl>#55369</styleUrl>
+            <Point id="55367">
+                <coordinates>-77.495102,39.099258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55373">
+            <name>Keep Loudon Beautiful Park</name>
+            <styleUrl>#55374</styleUrl>
+            <Point id="55372">
+                <coordinates>-77.512032,39.085896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55378">
+            <name>Sycolin Creek Rock Garden (I)</name>
+            <styleUrl>#55379</styleUrl>
+            <Point id="55377">
+                <coordinates>-77.517685,39.070145,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

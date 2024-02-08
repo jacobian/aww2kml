@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="107009">
+        <Style id="107014">
+            <IconStyle id="107015">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="107016">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="107019">
+            <IconStyle id="107020">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="107021">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Center Brook - Pisgah Mtn. Rd. to Sandy Brook</name>
+        <Placemark id="107011">
+            <name>Center Brook - Pisgah Mtn. Rd. to Sandy Brook (V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="107010">
+                <coordinates>-73.0906,41.992303,0.0 -73.090509,41.992288,0.0 -73.090295,41.992279,0.0 -73.090229,41.992251,0.0 -73.090126,41.992254,0.0 -73.090039,41.992293,0.0 -73.089715,41.9924,0.0 -73.089538,41.992722,0.0 -73.089251,41.992992,0.0 -73.089134,41.993305,0.0 -73.089134,41.993503,0.0 -73.089142,41.993764,0.0 -73.08909,41.9942,0.0 -73.088928,41.994562,0.0 -73.08873,41.99478,0.0 -73.088016,41.995407,0.0 -73.087582,41.995765,0.0 -73.087501,41.995867,0.0 -73.087456,41.996051,0.0 -73.08748,41.996182,0.0 -73.087531,41.996313,0.0 -73.087752,41.99661,0.0 -73.087927,41.996896,0.0 -73.087972,41.997055,0.0 -73.087988,41.997294,0.0 -73.087869,41.997481,0.0 -73.087671,41.997725,0.0 -73.087391,41.99795,0.0 -73.087259,41.998137,0.0 -73.087171,41.998455,0.0 -73.087105,41.998549,0.0 -73.086951,41.998623,0.0 -73.086833,41.99863,0.0 -73.086721,41.998668,0.0 -73.086296,41.998949,0.0 -73.086216,41.99898,0.0 -73.086098,41.999081,0.0 -73.085901,41.999155,0.0 -73.08529,41.999482,0.0 -73.084594,41.999768,0.0 -73.084113,41.999976,0.0 -73.083915,41.999999,0.0 -73.083628,42.000193,0.0 -73.083253,42.000295,0.0 -73.08273,42.000552,0.0 -73.082473,42.000853,0.0 -73.082318,42.001148,0.0 -73.08226,42.001192,0.0 -73.081877,42.001307,0.0 -73.081756,42.001259,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="107013">
+            <name>Take Out</name>
+            <styleUrl>#107014</styleUrl>
+            <Point id="107012">
+                <coordinates>-73.0817,42.0014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107018">
+            <name>Put In</name>
+            <styleUrl>#107019</styleUrl>
+            <Point id="107017">
+                <coordinates>-73.0906,41.9923,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

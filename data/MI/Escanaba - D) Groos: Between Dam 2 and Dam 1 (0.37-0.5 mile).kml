@@ -1,42 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="10437">
+    <Document id="17664">
+        <Style id="17669">
+            <IconStyle id="17670">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="17671">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="17674">
+            <IconStyle id="17675">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="17676">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="17679">
+            <IconStyle id="17680">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="17681">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Escanaba - D) Groos: Between Dam 2 and Dam 1 (0.37-0.5 mile)</name>
-        <Placemark id="10439">
-            <name>Escanaba - D) Groos: Between Dam 2 and Dam 1 (0.37-0.5 mile)</name>
+        <Placemark id="17666">
+            <name>Escanaba - D) Groos: Between Dam 2 and Dam 1 (0.37-0.5 mile) (II+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="10438">
+            <LineString id="17665">
                 <coordinates>-87.102483,45.813401,0.0 -87.101795,45.812598,0.0 -87.101762,45.812484,0.0 -87.101468,45.81221,0.0 -87.10137,45.811935,0.0 -87.100553,45.811066,0.0 -87.100226,45.810586,0.0 -87.100063,45.810426,0.0 -87.099932,45.81022,0.0 -87.099736,45.810037,0.0 -87.09954,45.809992,0.0 -87.099638,45.809031,0.0 -87.099442,45.808483,0.0 -87.099344,45.808391,0.0 -87.099345,45.808231,0.0 -87.099246,45.808208,0.0 -87.099247,45.808094,0.0 -87.099148,45.807957,0.0 -87.099083,45.80766,0.0 -87.098101,45.806992,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="10441">
+        <Placemark id="17668">
             <name>Take Out</name>
-            <Point id="10440">
+            <styleUrl>#17669</styleUrl>
+            <Point id="17667">
                 <coordinates>-87.0983,45.8067,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10443">
+        <Placemark id="17673">
             <name>Put In</name>
-            <Point id="10442">
+            <styleUrl>#17674</styleUrl>
+            <Point id="17672">
                 <coordinates>-87.1026,45.8133,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10445">
+        <Placemark id="17678">
             <name>USGS sampling site</name>
-            <Point id="10444">
+            <styleUrl>#17679</styleUrl>
+            <Point id="17677">
                 <coordinates>-87.097603,45.806099,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="10447">
-            <name>Put in</name>
-            <Point id="10446">
-                <coordinates>-87.1026,45.8133,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="10449">
-            <name>Take out</name>
-            <Point id="10448">
-                <coordinates>-87.0983,45.8067,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

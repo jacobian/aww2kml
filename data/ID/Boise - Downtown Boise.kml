@@ -1,96 +1,216 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="19817">
+    <Document id="33479">
+        <Style id="33484">
+            <IconStyle id="33485">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33486">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33489">
+            <IconStyle id="33490">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33491">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33494">
+            <IconStyle id="33495">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33496">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33499">
+            <IconStyle id="33500">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33501">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33504">
+            <IconStyle id="33505">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33506">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33509">
+            <IconStyle id="33510">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33511">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33514">
+            <IconStyle id="33515">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33516">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33519">
+            <IconStyle id="33520">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33521">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33524">
+            <IconStyle id="33525">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33526">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33529">
+            <IconStyle id="33530">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33531">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33534">
+            <IconStyle id="33535">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33536">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33539">
+            <IconStyle id="33540">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33541">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Boise - Downtown Boise</name>
-        <Placemark id="19819">
-            <name>Boise - Downtown Boise</name>
+        <Placemark id="33481">
+            <name>Boise - Downtown Boise (I-III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="19818">
+            <LineString id="33480">
                 <coordinates>-116.133594,43.566931,0.0 -116.133685,43.567037,0.0 -116.133842,43.56776,0.0 -116.133838,43.56776,0.0 -116.133952,43.568272,0.0 -116.134052,43.568763,0.0 -116.135197,43.569462,0.0 -116.136166,43.569886,0.0 -116.13686,43.570014,0.0 -116.136927,43.570023,0.0 -116.137689,43.570122,0.0 -116.139776,43.5699,0.0 -116.141343,43.569657,0.0 -116.142468,43.569348,0.0 -116.143798,43.569411,0.0 -116.144079,43.569623,0.0 -116.144281,43.569775,0.0 -116.144327,43.569886,0.0 -116.144451,43.570187,0.0 -116.144663,43.570897,0.0 -116.144879,43.571774,0.0 -116.145483,43.572778,0.0 -116.146248,43.573772,0.0 -116.147221,43.574364,0.0 -116.147829,43.574675,0.0 -116.149044,43.574823,0.0 -116.150624,43.575253,0.0 -116.151351,43.575647,0.0 -116.152356,43.576503,0.0 -116.153544,43.577951,0.0 -116.153608,43.57803,0.0 -116.154205,43.579085,0.0 -116.154256,43.579414,0.0 -116.154938,43.579815,0.0 -116.155557,43.580086,0.0 -116.155962,43.580263,0.0 -116.156537,43.58053,0.0 -116.157485,43.580972,0.0 -116.158451,43.581227,0.0 -116.158906,43.581494,0.0 -116.159134,43.581643,0.0 -116.159343,43.58178,0.0 -116.160441,43.582791,0.0 -116.160579,43.583149,0.0 -116.16065,43.583332,0.0 -116.160421,43.583975,0.0 -116.160162,43.584699,0.0 -116.160115,43.584833,0.0 -116.160007,43.585254,0.0 -116.160093,43.585544,0.0 -116.160334,43.585878,0.0 -116.160885,43.586468,0.0 -116.161171,43.586742,0.0 -116.161673,43.587223,0.0 -116.162934,43.588392,0.0 -116.164151,43.589038,0.0 -116.165535,43.589452,0.0 -116.166547,43.58974,0.0 -116.167338,43.590191,0.0 -116.168023,43.590287,0.0 -116.168283,43.590328,0.0 -116.168563,43.590372,0.0 -116.169667,43.590774,0.0 -116.170635,43.591501,0.0 -116.171391,43.592464,0.0 -116.171629,43.593102,0.0 -116.171908,43.593565,0.0 -116.172555,43.594004,0.0 -116.173307,43.594326,0.0 -116.174173,43.594884,0.0 -116.174719,43.595519,0.0 -116.175015,43.59623,0.0 -116.175119,43.597018,0.0 -116.175113,43.597387,0.0 -116.175782,43.598059,0.0 -116.176737,43.599058,0.0 -116.17766,43.599793,0.0 -116.178272,43.600271,0.0 -116.179325,43.600816,0.0 -116.17952,43.601148,0.0 -116.180201,43.60148,0.0 -116.181076,43.601683,0.0 -116.181647,43.601708,0.0 -116.1822,43.601633,0.0 -116.183174,43.601319,0.0 -116.183706,43.601002,0.0 -116.184992,43.599869,0.0 -116.185724,43.599654,0.0 -116.186325,43.599628,0.0 -116.186762,43.599636,0.0 -116.187422,43.599649,0.0 -116.187889,43.599795,0.0 -116.188313,43.600163,0.0 -116.188516,43.600361,0.0 -116.189239,43.601065,0.0 -116.189795,43.601487,0.0 -116.190459,43.601783,0.0 -116.19093,43.60194,0.0 -116.191355,43.602208,0.0 -116.19199,43.602447,0.0 -116.192755,43.602949,0.0 -116.19346,43.603582,0.0 -116.193668,43.603893,0.0 -116.194162,43.604319,0.0 -116.194924,43.604873,0.0 -116.195425,43.605088,0.0 -116.195731,43.60522,0.0 -116.196147,43.605358,0.0 -116.196646,43.605104,0.0 -116.19743,43.60526,0.0 -116.198016,43.605338,0.0 -116.199082,43.60566,0.0 -116.199709,43.605743,0.0 -116.200179,43.605743,0.0 -116.201131,43.605577,0.0 -116.202533,43.605243,0.0 -116.203278,43.605228,0.0 -116.203768,43.605456,0.0 -116.206366,43.607246,0.0 -116.208196,43.608817,0.0 -116.209272,43.609123,0.0 -116.21024,43.60985,0.0 -116.210941,43.610314,0.0 -116.212425,43.610809,0.0 -116.215822,43.611665,0.0 -116.216326,43.611865,0.0 -116.217897,43.612489,0.0 -116.219538,43.613584,0.0 -116.220718,43.614431,0.0 -116.220852,43.614527,0.0 -116.220862,43.614555,0.0 -116.221148,43.615359,0.0 -116.222164,43.616195,0.0 -116.222372,43.616316,0.0 -116.223092,43.616837,0.0 -116.224502,43.617244,0.0 -116.225244,43.617372,0.0 -116.226648,43.617912,0.0 -116.227099,43.618011,0.0 -116.22806,43.618282,0.0 -116.228715,43.618822,0.0 -116.22925,43.619667,0.0 -116.229541,43.619998,0.0 -116.229799,43.62029,0.0 -116.230769,43.620795,0.0 -116.231733,43.621127,0.0 -116.232063,43.621165,0.0 -116.232347,43.621198,0.0 -116.232824,43.621391,0.0 -116.233305,43.621585,0.0 -116.233792,43.622116,0.0 -116.234396,43.623035,0.0 -116.234639,43.624077,0.0 -116.234644,43.625073,0.0 -116.234644,43.625125,0.0 -116.234645,43.62519,0.0 -116.234512,43.626544,0.0 -116.234498,43.627745,0.0 -116.234513,43.62782,0.0 -116.234479,43.628315,0.0 -116.234521,43.628472,0.0 -116.235197,43.629243,0.0 -116.236135,43.629834,0.0 -116.236775,43.630245,0.0 -116.237647,43.630649,0.0 -116.238401,43.631221,0.0 -116.239088,43.632026,0.0 -116.239599,43.632698,0.0 -116.239915,43.63345,0.0 -116.240313,43.634045,0.0 -116.24056,43.634435,0.0 -116.240746,43.634764,0.0 -116.241322,43.636087,0.0 -116.241715,43.63631,0.0 -116.242492,43.636255,0.0 -116.243344,43.636558,0.0 -116.24379,43.636829,0.0 -116.244194,43.637627,0.0 -116.244359,43.638217,0.0 -116.2447,43.638729,0.0 -116.245,43.639181,0.0 -116.245793,43.639868,0.0 -116.245911,43.64003,0.0 -116.246684,43.640336,0.0 -116.246923,43.640389,0.0 -116.246923,43.640389,0.0 -116.2474,43.640493,0.0 -116.248187,43.640568,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="19821">
+        <Placemark id="33483">
             <name>The Weir (III)</name>
-            <Point id="19820">
+            <styleUrl>#33484</styleUrl>
+            <Point id="33482">
                 <coordinates>-116.161108,43.586682,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19823">
+        <Placemark id="33488">
             <name>Willow Lane Athletic Complex Take-Out</name>
-            <Point id="19822">
+            <styleUrl>#33489</styleUrl>
+            <Point id="33487">
                 <coordinates>-116.247968,43.640861,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19825">
+        <Placemark id="33493">
             <name>Settlers Canal Diversion Dam</name>
-            <Point id="19824">
+            <styleUrl>#33494</styleUrl>
+            <Point id="33492">
                 <coordinates>-116.220945,43.614789,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19827">
+        <Placemark id="33498">
             <name>Ridenbaugh Canal Diversion Dam</name>
-            <Point id="19826">
+            <styleUrl>#33499</styleUrl>
+            <Point id="33497">
                 <coordinates>-116.13191,43.565165,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19829">
+        <Placemark id="33503">
             <name>Julia Davis Park</name>
-            <Point id="19828">
+            <styleUrl>#33504</styleUrl>
+            <Point id="33502">
                 <coordinates>-116.205431,43.607231,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19831">
+        <Placemark id="33508">
             <name>Arrowrock Dam</name>
-            <Point id="19830">
+            <styleUrl>#33509</styleUrl>
+            <Point id="33507">
                 <coordinates>-115.923074,43.59552,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19833">
+        <Placemark id="33513">
             <name>Lucky Peak Dam</name>
-            <Point id="19832">
+            <styleUrl>#33514</styleUrl>
+            <Point id="33512">
                 <coordinates>-116.05515,43.528986,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19835">
+        <Placemark id="33518">
             <name>Boise River Park, Morrison Dam (III)</name>
-            <Point id="19834">
+            <styleUrl>#33519</styleUrl>
+            <Point id="33517">
                 <coordinates>-116.234619,43.625459,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19837">
+        <Placemark id="33523">
             <name>Ann Morrison Park</name>
-            <Point id="19836">
+            <styleUrl>#33524</styleUrl>
+            <Point id="33522">
                 <coordinates>-116.220344,43.613516,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19839">
+        <Placemark id="33528">
             <name>Boise River Diversion Dam</name>
-            <Point id="19838">
+            <styleUrl>#33529</styleUrl>
+            <Point id="33527">
                 <coordinates>-116.09331,43.537876,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19841">
+        <Placemark id="33533">
             <name>Barber Park Put-In</name>
-            <Point id="19840">
+            <styleUrl>#33534</styleUrl>
+            <Point id="33532">
                 <coordinates>-116.133944,43.566783,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19843">
+        <Placemark id="33538">
             <name>Barber Dam</name>
-            <Point id="19842">
+            <styleUrl>#33539</styleUrl>
+            <Point id="33537">
                 <coordinates>-116.121867,43.560444,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19845">
-            <name>Put in</name>
-            <Point id="19844">
-                <coordinates>-116.133594,43.566931,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19847">
-            <name>Take out</name>
-            <Point id="19846">
-                <coordinates>-116.248187,43.640568,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,66 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="16201">
+    <Document id="27546">
+        <Style id="27551">
+            <IconStyle id="27552">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27553">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="27556">
+            <IconStyle id="27557">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27558">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="27561">
+            <IconStyle id="27562">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27563">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="27566">
+            <IconStyle id="27567">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27568">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="27571">
+            <IconStyle id="27572">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27573">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="27576">
+            <IconStyle id="27577">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27578">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="27581">
+            <IconStyle id="27582">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27583">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Richland Creek - Lower</name>
-        <Placemark id="16203">
-            <name>Richland Creek - Lower</name>
+        <Placemark id="27548">
+            <name>Richland Creek - Lower (I-III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="16202">
+            <LineString id="27547">
                 <coordinates>-79.671899,35.612248,0.0 -79.670289,35.610497,0.0 -79.670064,35.610016,0.0 -79.670036,35.609741,0.0 -79.670036,35.609741,0.0 -79.66998,35.609237,0.0 -79.670372,35.608024,0.0 -79.6704,35.60752,0.0 -79.670119,35.607245,0.0 -79.66953,35.607131,0.0 -79.66953,35.607131,0.0 -79.669166,35.607337,0.0 -79.66883,35.607681,0.0 -79.668381,35.607841,0.0 -79.667652,35.607864,0.0 -79.666951,35.607567,0.0 -79.66625,35.607086,0.0 -79.665688,35.606514,0.0 -79.665436,35.606171,0.0 -79.664146,35.604935,0.0 -79.663416,35.604019,0.0 -79.663024,35.604042,0.0 -79.661734,35.604386,0.0 -79.660444,35.604409,0.0 -79.658818,35.603951,0.0 -79.657332,35.603792,0.0 -79.656687,35.603975,0.0 -79.655902,35.604135,0.0 -79.653659,35.605098,0.0 -79.652874,35.605304,0.0 -79.651725,35.605442,0.0 -79.650968,35.60535,0.0 -79.650127,35.60503,0.0 -79.648865,35.60503,0.0 -79.648556,35.605099,0.0 -79.64808,35.605419,0.0 -79.647715,35.605488,0.0 -79.647351,35.605465,0.0 -79.645865,35.604939,0.0 -79.645052,35.604825,0.0 -79.644827,35.604916,0.0 -79.644323,35.60526,0.0 -79.643902,35.60597,0.0 -79.643482,35.606359,0.0 -79.643033,35.606565,0.0 -79.641715,35.606703,0.0 -79.641575,35.607756,0.0 -79.641912,35.610115,0.0 -79.641912,35.610115,0.0 -79.64166,35.611122,0.0 -79.641352,35.611557,0.0 -79.640763,35.612038,0.0 -79.639865,35.612634,0.0 -79.639164,35.612863,0.0 -79.638071,35.612863,0.0 -79.637314,35.612497,0.0 -79.636641,35.611398,0.0 -79.636641,35.610962,0.0 -79.636753,35.610779,0.0 -79.637314,35.61039,0.0 -79.63737,35.610024,0.0 -79.637285,35.609863,0.0 -79.636753,35.60952,0.0 -79.635435,35.608398,0.0 -79.634537,35.607734,0.0 -79.633949,35.607391,0.0 -79.632575,35.607322,0.0 -79.632575,35.607322,0.0 -79.630304,35.606566,0.0 -79.628845,35.605857,0.0 -79.626995,35.604758,0.0 -79.626154,35.604643,0.0 -79.625425,35.604483,0.0 -79.624752,35.604506,0.0 -79.624023,35.604345,0.0 -79.622817,35.60375,0.0 -79.622004,35.603544,0.0 -79.620855,35.603658,0.0 -79.619789,35.604071,0.0 -79.619621,35.604254,0.0 -79.619677,35.604735,0.0 -79.620322,35.605902,0.0 -79.620518,35.606337,0.0 -79.620602,35.607093,0.0 -79.620462,35.607482,0.0 -79.620097,35.607894,0.0 -79.619424,35.608284,0.0 -79.619134,35.608356,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="16205">
+        <Placemark id="27550">
             <name>Little Beane Store Road Bridge Put-in</name>
-            <Point id="16204">
+            <styleUrl>#27551</styleUrl>
+            <Point id="27549">
                 <coordinates>-79.671899,35.612248,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="16207">
+        <Placemark id="27555">
             <name>Riverside Road Bridge Take-out</name>
-            <Point id="16206">
+            <styleUrl>#27556</styleUrl>
+            <Point id="27554">
                 <coordinates>-79.619134,35.608356,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="16209">
+        <Placemark id="27560">
             <name>Boulder Garden (II)</name>
-            <Point id="16208">
+            <styleUrl>#27561</styleUrl>
+            <Point id="27559">
                 <coordinates>-79.667098,35.607334,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="16211">
+        <Placemark id="27565">
             <name>Busted Dam #1 (II)</name>
-            <Point id="16210">
+            <styleUrl>#27566</styleUrl>
+            <Point id="27564">
                 <coordinates>-79.662398,35.604209,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="16213">
+        <Placemark id="27570">
             <name>Sharp Left Blind Turn (II)</name>
-            <Point id="16212">
+            <styleUrl>#27571</styleUrl>
+            <Point id="27569">
                 <coordinates>-79.654115,35.604902,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="16215">
+        <Placemark id="27575">
             <name>Class III Boulder Garden (III)</name>
-            <Point id="16214">
+            <styleUrl>#27576</styleUrl>
+            <Point id="27574">
                 <coordinates>-79.651849,35.605427,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="16217">
+        <Placemark id="27580">
             <name>Erect Rd Dam (II+)</name>
-            <Point id="16216">
+            <styleUrl>#27581</styleUrl>
+            <Point id="27579">
                 <coordinates>-79.646666,35.605223,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="16219">
-            <name>Put in</name>
-            <Point id="16218">
-                <coordinates>-79.671899,35.612248,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="16221">
-            <name>Take out</name>
-            <Point id="16220">
-                <coordinates>-79.619134,35.608356,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

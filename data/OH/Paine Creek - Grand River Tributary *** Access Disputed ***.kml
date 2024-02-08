@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="83223">
+        <Style id="83228">
+            <IconStyle id="83229">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="83230">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="83233">
+            <IconStyle id="83234">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="83235">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Paine Creek - Grand River Tributary *** Access Disputed ***</name>
+        <Placemark id="83225">
+            <name>Paine Creek - Grand River Tributary *** Access Disputed *** (II-III(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="83224">
+                <coordinates>-81.143279,41.716758,0.0 -81.143386,41.716882,0.0 -81.143661,41.716974,0.0 -81.144058,41.716905,0.0 -81.14415,41.716791,0.0 -81.144424,41.716722,0.0 -81.144546,41.715441,0.0 -81.144699,41.7148,0.0 -81.145065,41.713885,0.0 -81.145645,41.713725,0.0 -81.146561,41.713518,0.0 -81.147904,41.713495,0.0 -81.149187,41.713358,0.0 -81.149981,41.713632,0.0 -81.151232,41.713723,0.0 -81.152026,41.71354,0.0 -81.152393,41.713357,0.0 -81.152698,41.712693,0.0 -81.152942,41.711709,0.0 -81.153186,41.711458,0.0 -81.153735,41.711274,0.0 -81.154437,41.711206,0.0 -81.155109,41.711617,0.0 -81.155567,41.712143,0.0 -81.155476,41.712784,0.0 -81.155384,41.712807,0.0 -81.155385,41.713333,0.0 -81.156545,41.714362,0.0 -81.157065,41.715071,0.0 -81.157309,41.715597,0.0 -81.157798,41.715986,0.0 -81.158317,41.716009,0.0 -81.158836,41.715826,0.0 -81.159233,41.715253,0.0 -81.159263,41.714338,0.0 -81.15911,41.71411,0.0 -81.158499,41.713675,0.0 -81.158407,41.712806,0.0 -81.158804,41.712142,0.0 -81.159292,41.711684,0.0 -81.159322,41.711181,0.0 -81.159567,41.710975,0.0 -81.159963,41.710975,0.0 -81.160666,41.711249,0.0 -81.161185,41.711592,0.0 -81.161766,41.712301,0.0 -81.162102,41.713308,0.0 -81.162194,41.713948,0.0 -81.16195,41.714543,0.0 -81.162042,41.715115,0.0 -81.162592,41.715367,0.0 -81.163966,41.715755,0.0 -81.164333,41.715984,0.0 -81.164516,41.716304,0.0 -81.164516,41.716601,0.0 -81.164852,41.716853,0.0 -81.166593,41.71715,0.0 -81.169402,41.716942,0.0 -81.17041,41.717285,0.0 -81.170782,41.717461,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="83227">
+            <name>Take Out</name>
+            <styleUrl>#83228</styleUrl>
+            <Point id="83226">
+                <coordinates>-81.171,41.717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83232">
+            <name>Put In</name>
+            <styleUrl>#83233</styleUrl>
+            <Point id="83231">
+                <coordinates>-81.143,41.717,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

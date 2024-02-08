@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="99539">
+        <Style id="99544">
+            <IconStyle id="99545">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99546">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99549">
+            <IconStyle id="99550">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99551">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99554">
+            <IconStyle id="99555">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99556">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99559">
+            <IconStyle id="99560">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99561">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99564">
+            <IconStyle id="99565">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99566">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Cocheco - Watson Rd to Whittier St</name>
+        <Placemark id="99541">
+            <name>Cocheco - Watson Rd to Whittier St (II(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="99540">
+                <coordinates>-70.922585,43.213982,0.0 -70.922202,43.213744,0.0 -70.9222,43.213743,0.0 -70.921352,43.213145,0.0 -70.921107,43.212913,0.0 -70.920795,43.212681,0.0 -70.920729,43.212581,0.0 -70.920752,43.212532,0.0 -70.920733,43.212269,0.0 -70.920644,43.212186,0.0 -70.920511,43.211971,0.0 -70.920333,43.211822,0.0 -70.9202,43.211656,0.0 -70.919709,43.211291,0.0 -70.919664,43.21129,0.0 -70.919375,43.211042,0.0 -70.919196,43.210975,0.0 -70.918945,43.210871,0.0 -70.91877,43.210782,0.0 -70.918592,43.210561,0.0 -70.918471,43.210394,0.0 -70.918309,43.210068,0.0 -70.917954,43.209508,0.0 -70.917584,43.20904,0.0 -70.917205,43.208738,0.0 -70.916887,43.208586,0.0 -70.916542,43.208414,0.0 -70.916079,43.208205,0.0 -70.915899,43.208187,0.0 -70.91523,43.20801,0.0 -70.914985,43.207946,0.0 -70.914578,43.207803,0.0 -70.914281,43.207706,0.0 -70.914017,43.207618,0.0 -70.913611,43.207563,0.0 -70.913364,43.207529,0.0 -70.912801,43.207542,0.0 -70.911721,43.207518,0.0 -70.911227,43.207432,0.0 -70.91076,43.207422,0.0 -70.91017,43.207409,0.0 -70.909523,43.206944,0.0 -70.909082,43.20695,0.0 -70.908801,43.207025,0.0 -70.908643,43.207027,0.0 -70.908509,43.207045,0.0 -70.908166,43.207118,0.0 -70.907748,43.207138,0.0 -70.907418,43.207185,0.0 -70.90687,43.207257,0.0 -70.90633,43.207276,0.0 -70.905935,43.20739,0.0 -70.905503,43.207502,0.0 -70.905233,43.207492,0.0 -70.904876,43.207397,0.0 -70.904659,43.207241,0.0 -70.904712,43.207034,0.0 -70.90486,43.206958,0.0 -70.904996,43.206866,0.0 -70.905139,43.206724,0.0 -70.905212,43.206592,0.0 -70.905281,43.206442,0.0 -70.905199,43.20611,0.0 -70.905031,43.205896,0.0 -70.9047,43.205687,0.0 -70.904426,43.205567,0.0 -70.9042,43.205484,0.0 -70.904049,43.205393,0.0 -70.903798,43.205268,0.0 -70.903581,43.20519,0.0 -70.903218,43.205064,0.0 -70.902685,43.204937,0.0 -70.901761,43.204888,0.0 -70.901208,43.205052,0.0 -70.901057,43.205078,0.0 -70.900943,43.205104,0.0 -70.900693,43.205186,0.0 -70.90024,43.205306,0.0 -70.900069,43.20535,0.0 -70.899458,43.205469,0.0 -70.899153,43.205602,0.0 -70.898849,43.205735,0.0 -70.898236,43.206144,0.0 -70.8976,43.206584,0.0 -70.897465,43.206633,0.0 -70.897306,43.206747,0.0 -70.897215,43.206763,0.0 -70.896721,43.20671,0.0 -70.896341,43.206477,0.0 -70.896186,43.206262,0.0 -70.8961,43.205998,0.0 -70.896103,43.205735,0.0 -70.895925,43.205569,0.0 -70.89525,43.205548,0.0 -70.895004,43.205431,0.0 -70.894735,43.205396,0.0 -70.894623,43.205346,0.0 -70.89451,43.205345,0.0 -70.894399,43.205279,0.0 -70.893769,43.205258,0.0 -70.893254,43.205057,0.0 -70.893158,43.204986,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="99543">
+            <name>Hayes Falls (IV)</name>
+            <styleUrl>#99544</styleUrl>
+            <Point id="99542">
+                <coordinates>-70.904999,43.205898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99548">
+            <name>Kimballs Falls (IV)</name>
+            <styleUrl>#99549</styleUrl>
+            <Point id="99547">
+                <coordinates>-70.909798,43.207401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99553">
+            <name>Whittier Falls (IV)</name>
+            <styleUrl>#99554</styleUrl>
+            <Point id="99552">
+                <coordinates>-70.892899,43.204498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99558">
+            <name>Take Out</name>
+            <styleUrl>#99559</styleUrl>
+            <Point id="99557">
+                <coordinates>-70.892998,43.2052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99563">
+            <name>Put In</name>
+            <styleUrl>#99564</styleUrl>
+            <Point id="99562">
+                <coordinates>-70.922699,43.213799,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

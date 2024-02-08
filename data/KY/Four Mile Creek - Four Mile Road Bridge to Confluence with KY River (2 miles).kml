@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="121070">
+        <Style id="121075">
+            <IconStyle id="121076">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121077">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="121080">
+            <IconStyle id="121081">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121082">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Four Mile Creek - Four Mile Road Bridge to Confluence with KY River (2 miles)</name>
+        <Placemark id="121072">
+            <name>Four Mile Creek - Four Mile Road Bridge to Confluence with KY River (2 miles) (II-III+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="121071">
+                <coordinates>-84.206296,37.89382,0.0 -84.206388,37.893764,0.0 -84.206477,37.893701,0.0 -84.206905,37.893761,0.0 -84.207469,37.893708,0.0 -84.208488,37.893124,0.0 -84.208767,37.892827,0.0 -84.20883,37.892437,0.0 -84.20863,37.891663,0.0 -84.208322,37.890986,0.0 -84.207838,37.890255,0.0 -84.206533,37.888582,0.0 -84.206476,37.888361,0.0 -84.206516,37.888113,0.0 -84.206698,37.887843,0.0 -84.207364,37.88744,0.0 -84.208959,37.886731,0.0 -84.209887,37.886426,0.0 -84.211441,37.885677,0.0 -84.213338,37.885106,0.0 -84.21496,37.88422,0.0 -84.215416,37.883689,0.0 -84.215472,37.883335,0.0 -84.215296,37.882706,0.0 -84.214726,37.881932,0.0 -84.214167,37.881374,0.0 -84.213791,37.881122,0.0 -84.213057,37.880799,0.0 -84.21214,37.880458,0.0 -84.211206,37.880224,0.0 -84.210966,37.879985,0.0 -84.210964,37.879815,0.0 -84.210873,37.879768,0.0 -84.210968,37.879738,0.0 -84.211103,37.879423,0.0 -84.211427,37.87913,0.0 -84.211478,37.878812,0.0 -84.211421,37.87859,0.0 -84.211228,37.878356,0.0 -84.211324,37.878041,0.0 -84.211734,37.877793,0.0 -84.212178,37.877621,0.0 -84.213044,37.877417,0.0 -84.215305,37.877456,0.0 -84.217531,37.877708,0.0 -84.218107,37.877871,0.0 -84.219285,37.878022,0.0 -84.221473,37.878164,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="121074">
+            <name>Take Out</name>
+            <styleUrl>#121075</styleUrl>
+            <Point id="121073">
+                <coordinates>-84.221481,37.87804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121079">
+            <name>Put In</name>
+            <styleUrl>#121080</styleUrl>
+            <Point id="121078">
+                <coordinates>-84.206337,37.893887,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

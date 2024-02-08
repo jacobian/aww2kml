@@ -1,54 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="21759">
+    <Document id="36481">
+        <Style id="36486">
+            <IconStyle id="36487">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36488">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36491">
+            <IconStyle id="36492">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36493">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36496">
+            <IconStyle id="36497">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36498">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36501">
+            <IconStyle id="36502">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36503">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36506">
+            <IconStyle id="36507">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36508">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>McKenzie - 4. Frissell to Finn Rock</name>
-        <Placemark id="21761">
-            <name>McKenzie - 4. Frissell to Finn Rock</name>
+        <Placemark id="36483">
+            <name>McKenzie - 4. Frissell to Finn Rock (II+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="21760">
+            <LineString id="36482">
                 <coordinates>-122.039877,44.205169,0.0 -122.039621,44.204934,0.0 -122.039565,44.204756,0.0 -122.039529,44.204702,0.0 -122.039511,44.204668,0.0 -122.039518,44.204396,0.0 -122.039437,44.20412,0.0 -122.039484,44.204107,0.0 -122.03967,44.203571,0.0 -122.040317,44.203017,0.0 -122.040935,44.202545,0.0 -122.043278,44.201866,0.0 -122.043548,44.200921,0.0 -122.043427,44.200721,0.0 -122.043214,44.200013,0.0 -122.042731,44.199144,0.0 -122.04257,44.198274,0.0 -122.04257,44.19799,0.0 -122.04272,44.19779,0.0 -122.042806,44.197582,0.0 -122.043139,44.197121,0.0 -122.043375,44.195036,0.0 -122.043375,44.195036,0.0 -122.043782,44.193644,0.0 -122.043782,44.193644,0.0 -122.044415,44.192428,0.0 -122.045392,44.191505,0.0 -122.046432,44.191097,0.0 -122.047795,44.190982,0.0 -122.048439,44.191121,0.0 -122.048535,44.191174,0.0 -122.048664,44.191221,0.0 -122.049093,44.191328,0.0 -122.049329,44.191559,0.0 -122.049565,44.192605,0.0 -122.050059,44.193244,0.0 -122.050456,44.193244,0.0 -122.051668,44.192836,0.0 -122.052784,44.192605,0.0 -122.056088,44.192374,0.0 -122.056088,44.192374,0.0 -122.05906,44.192028,0.0 -122.06038,44.191498,0.0 -122.060916,44.191505,0.0 -122.061968,44.191451,0.0 -122.063255,44.191798,0.0 -122.063384,44.19189,0.0 -122.063974,44.192028,0.0 -122.065111,44.191967,0.0 -122.06582,44.191567,0.0 -122.06598,44.191359,0.0 -122.066174,44.191313,0.0 -122.066549,44.190705,0.0 -122.066871,44.189982,0.0 -122.066957,44.189367,0.0 -122.078362,44.189382,0.0 -122.079424,44.189474,0.0 -122.080078,44.189459,0.0 -122.080958,44.18942,0.0 -122.08128,44.189136,0.0 -122.082406,44.188551,0.0 -122.082406,44.188551,0.0 -122.083039,44.188136,0.0 -122.083308,44.187913,0.0 -122.083844,44.187389,0.0 -122.084413,44.187105,0.0 -122.085453,44.186812,0.0 -122.086666,44.186182,0.0 -122.087792,44.185835,0.0 -122.088758,44.185597,0.0 -122.090281,44.185481,0.0 -122.091322,44.185774,0.0 -122.092384,44.186289,0.0 -122.093264,44.187105,0.0 -122.0935,44.187566,0.0 -122.0935,44.187566,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="21763">
+        <Placemark id="36485">
             <name>Put In: Frissell Boat Launch</name>
-            <Point id="21762">
+            <styleUrl>#36486</styleUrl>
+            <Point id="36484">
                 <coordinates>-122.039877,44.205169,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21765">
+        <Placemark id="36490">
             <name>Belknap Rapids (II)</name>
-            <Point id="21764">
+            <styleUrl>#36491</styleUrl>
+            <Point id="36489">
                 <coordinates>-122.04868,44.191178,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21767">
+        <Placemark id="36495">
             <name>Lost Creek Rapids  (II)</name>
-            <Point id="21766">
+            <styleUrl>#36496</styleUrl>
+            <Point id="36494">
                 <coordinates>-122.064562,44.191944,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21769">
+        <Placemark id="36500">
             <name>Belknap Rapids (II) (II)</name>
-            <Point id="21768">
+            <styleUrl>#36501</styleUrl>
+            <Point id="36499">
                 <coordinates>-122.04868,44.191178,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21771">
+        <Placemark id="36505">
             <name>Take Out</name>
-            <Point id="21770">
+            <styleUrl>#36506</styleUrl>
+            <Point id="36504">
                 <coordinates>-122.38,44.129,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21773">
-            <name>Put in</name>
-            <Point id="21772">
-                <coordinates>-122.039877,44.205169,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21775">
-            <name>Take out</name>
-            <Point id="21774">
-                <coordinates>-122.0935,44.187566,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

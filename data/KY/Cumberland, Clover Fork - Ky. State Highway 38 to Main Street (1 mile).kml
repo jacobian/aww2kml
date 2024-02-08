@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55982">
+        <Style id="55987">
+            <IconStyle id="55988">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55989">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55992">
+            <IconStyle id="55993">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55994">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Cumberland, Clover Fork - Ky. State Highway 38 to Main Street (1 mile)</name>
+        <Placemark id="55984">
+            <name>Cumberland, Clover Fork - Ky. State Highway 38 to Main Street (1 mile) (II+(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="55983">
+                <coordinates>-83.302049,36.852804,0.0 -83.302016,36.852341,0.0 -83.301935,36.852008,0.0 -83.301988,36.851501,0.0 -83.302111,36.851379,0.0 -83.302125,36.851299,0.0 -83.302354,36.851161,0.0 -83.302603,36.851107,0.0 -83.302848,36.851079,0.0 -83.303554,36.851153,0.0 -83.305769,36.851226,0.0 -83.306344,36.851071,0.0 -83.307677,36.850888,0.0 -83.308035,36.850808,0.0 -83.308459,36.850727,0.0 -83.309011,36.850705,0.0 -83.309886,36.850798,0.0 -83.310213,36.850886,0.0 -83.310469,36.850994,0.0 -83.310957,36.851287,0.0 -83.31519,36.854801,0.0 -83.315523,36.855328,0.0 -83.316137,36.855569,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="55986">
+            <name>Put in</name>
+            <styleUrl>#55987</styleUrl>
+            <Point id="55985">
+                <coordinates>-83.3021,36.8528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55991">
+            <name>Take out</name>
+            <styleUrl>#55992</styleUrl>
+            <Point id="55990">
+                <coordinates>-83.3164,36.8549,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

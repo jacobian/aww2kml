@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="104035">
+        <Style id="104040">
+            <IconStyle id="104041">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104042">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104045">
+            <IconStyle id="104046">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104047">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Cow Creek - Above Smith Creek</name>
+        <Placemark id="104037">
+            <name>Cow Creek - Above Smith Creek (IV-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="104036">
+                <coordinates>-116.690012,48.91836,0.0 -116.688554,48.918238,0.0 -116.687287,48.918146,0.0 -116.686265,48.918127,0.0 -116.685616,48.918135,0.0 -116.685197,48.918196,0.0 -116.6848,48.918284,0.0 -116.684121,48.918497,0.0 -116.68377,48.918623,0.0 -116.683427,48.91865,0.0 -116.68303,48.918604,0.0 -116.682496,48.918547,0.0 -116.682183,48.918551,0.0 -116.681725,48.918585,0.0 -116.681275,48.918616,0.0 -116.680863,48.918528,0.0 -116.680642,48.918528,0.0 -116.679757,48.91881,0.0 -116.679444,48.918955,0.0 -116.679101,48.919253,0.0 -116.678696,48.919783,0.0 -116.678361,48.920176,0.0 -116.677826,48.920558,0.0 -116.677361,48.920672,0.0 -116.676995,48.920722,0.0 -116.67656,48.920874,0.0 -116.675454,48.920882,0.0 -116.674851,48.92081,0.0 -116.674424,48.920672,0.0 -116.674103,48.920508,0.0 -116.673867,48.92039,0.0 -116.673722,48.920359,0.0 -116.673493,48.920375,0.0 -116.673287,48.920424,0.0 -116.673065,48.920424,0.0 -116.672882,48.920386,0.0 -116.672722,48.920287,0.0 -116.672493,48.9201,0.0 -116.672013,48.920169,0.0 -116.671631,48.920295,0.0 -116.67099,48.920646,0.0 -116.670036,48.921164,0.0 -116.669457,48.921466,0.0 -116.668877,48.921843,0.0 -116.668579,48.92216,0.0 -116.6683,48.922499,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="104039">
+            <name>Take Out</name>
+            <styleUrl>#104040</styleUrl>
+            <Point id="104038">
+                <coordinates>-116.67,48.9239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104044">
+            <name>Put In</name>
+            <styleUrl>#104045</styleUrl>
+            <Point id="104043">
+                <coordinates>-116.69,48.9185,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

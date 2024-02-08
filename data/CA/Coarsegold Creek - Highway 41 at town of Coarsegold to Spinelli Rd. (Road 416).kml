@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="15993">
+    <Document id="27220">
+        <Style id="27225">
+            <IconStyle id="27226">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27227">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="27230">
+            <IconStyle id="27231">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27232">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Coarsegold Creek - Highway 41 at town of Coarsegold to Spinelli Rd. (Road 416)</name>
-        <Placemark id="15995">
-            <name>Coarsegold Creek - Highway 41 at town of Coarsegold to Spinelli Rd. (Road 416)</name>
+        <Placemark id="27222">
+            <name>Coarsegold Creek - Highway 41 at town of Coarsegold to Spinelli Rd. (Road 416) (IV-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="15994">
+            <LineString id="27221">
                 <coordinates>-119.702451,37.259914,0.0 -119.702826,37.259726,0.0 -119.70304,37.25941,0.0 -119.703126,37.259179,0.0 -119.70327,37.258509,0.0 -119.70327,37.258509,0.0 -119.70327,37.258509,0.0 -119.703319,37.258282,0.0 -119.703426,37.258129,0.0 -119.703662,37.257915,0.0 -119.703877,37.257813,0.0 -119.704115,37.257654,0.0 -119.704115,37.257654,0.0 -119.704115,37.257653,0.0 -119.704285,37.25754,0.0 -119.704628,37.257113,0.0 -119.704628,37.257113,0.0 -119.704918,37.256558,0.0 -119.705046,37.256113,0.0 -119.705411,37.255131,0.0 -119.705488,37.254582,0.0 -119.705577,37.254319,0.0 -119.705577,37.254319,0.0 -119.705658,37.254081,0.0 -119.705838,37.25378,0.0 -119.705838,37.25378,0.0 -119.705838,37.25378,0.0 -119.706076,37.253381,0.0 -119.706098,37.253184,0.0 -119.706117,37.253135,0.0 -119.706117,37.253135,0.0 -119.706117,37.253135,0.0 -119.706151,37.253048,0.0 -119.706248,37.252877,0.0 -119.706381,37.252733,0.0 -119.706381,37.252733,0.0 -119.706381,37.252733,0.0 -119.706398,37.252715,0.0 -119.706613,37.252561,0.0 -119.706935,37.252399,0.0 -119.707031,37.25233,0.0 -119.707131,37.252255,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="15997">
+        <Placemark id="27224">
             <name>Put-in</name>
-            <Point id="15996">
+            <styleUrl>#27225</styleUrl>
+            <Point id="27223">
                 <coordinates>-119.702447,37.259916,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="15999">
+        <Placemark id="27229">
             <name>Take-out</name>
-            <Point id="15998">
+            <styleUrl>#27230</styleUrl>
+            <Point id="27228">
                 <coordinates>-119.726,37.2066,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="16001">
-            <name>Put in</name>
-            <Point id="16000">
-                <coordinates>-119.702451,37.259914,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="16003">
-            <name>Take out</name>
-            <Point id="16002">
-                <coordinates>-119.707131,37.252255,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

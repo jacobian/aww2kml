@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="27205">
+    <Document id="45556">
+        <Style id="45561">
+            <IconStyle id="45562">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45563">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45566">
+            <IconStyle id="45567">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45568">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Lake Columbia - Lake Columbia (PnP)</name>
-        <Placemark id="27207">
-            <name>Lake Columbia - Lake Columbia (PnP)</name>
+        <Placemark id="45558">
+            <name>Lake Columbia - Lake Columbia (PnP) (I)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="27206">
+            <LineString id="45557">
                 <coordinates>-89.42072,43.460977,0.0 -89.418182,43.468362,0.0 -89.417434,43.470829,0.0 -89.419088,43.472687,0.0 -89.418408,43.474414,0.0 -89.416455,43.475645,0.0 -89.418223,43.4777,0.0 -89.420942,43.482058,0.0 -89.420523,43.483578,0.0 -89.421081,43.483711,0.0 -89.422225,43.482302,0.0 -89.421238,43.469434,0.0 -89.423958,43.461837,0.0 -89.424669,43.461945,0.0 -89.422063,43.469531,0.0 -89.422827,43.482554,0.0 -89.422661,43.484036,0.0 -89.423318,43.484278,0.0 -89.425257,43.461686,0.0 -89.4211,43.460715,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="27209">
+        <Placemark id="45560">
             <name>Take Out</name>
-            <Point id="27208">
+            <styleUrl>#45561</styleUrl>
+            <Point id="45559">
                 <coordinates>-89.4206,43.4609,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27211">
+        <Placemark id="45565">
             <name>Put In</name>
-            <Point id="27210">
+            <styleUrl>#45566</styleUrl>
+            <Point id="45564">
                 <coordinates>-89.4211,43.4606,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27213">
-            <name>Put in</name>
-            <Point id="27212">
-                <coordinates>-89.42072,43.460977,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27215">
-            <name>Take out</name>
-            <Point id="27214">
-                <coordinates>-89.4211,43.460715,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

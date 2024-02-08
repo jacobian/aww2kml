@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="87165">
+        <Style id="87170">
+            <IconStyle id="87171">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87172">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87175">
+            <IconStyle id="87176">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87177">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87180">
+            <IconStyle id="87181">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87182">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87185">
+            <IconStyle id="87186">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87187">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87190">
+            <IconStyle id="87191">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87192">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87195">
+            <IconStyle id="87196">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87197">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87200">
+            <IconStyle id="87201">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87202">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87205">
+            <IconStyle id="87206">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87207">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87210">
+            <IconStyle id="87211">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87212">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87215">
+            <IconStyle id="87216">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87217">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Owasco River (Outlet) - Canoga Rd to Turnpike Rd</name>
+        <Placemark id="87167">
+            <name>Owasco River (Outlet) - Canoga Rd to Turnpike Rd (II(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="87166">
+                <coordinates>-76.594102,42.93759,0.0 -76.594105,42.937633,0.0 -76.59423,42.938022,0.0 -76.594914,42.938914,0.0 -76.596439,42.939875,0.0 -76.597092,42.940721,0.0 -76.597403,42.941933,0.0 -76.597465,42.942848,0.0 -76.597309,42.943283,0.0 -76.596718,42.943854,0.0 -76.596655,42.94438,0.0 -76.596749,42.944654,0.0 -76.597309,42.945341,0.0 -76.597838,42.945821,0.0 -76.598553,42.946644,0.0 -76.599643,42.947605,0.0 -76.599892,42.947948,0.0 -76.599891,42.948725,0.0 -76.600203,42.948977,0.0 -76.600918,42.94916,0.0 -76.601728,42.949824,0.0 -76.602132,42.950029,0.0 -76.602911,42.95019,0.0 -76.604187,42.949984,0.0 -76.604779,42.950053,0.0 -76.604996,42.950144,0.0 -76.605339,42.950579,0.0 -76.605494,42.950922,0.0 -76.605494,42.951814,0.0 -76.603906,42.95378,0.0 -76.603906,42.954489,0.0 -76.604155,42.955015,0.0 -76.604808,42.95593,0.0 -76.605338,42.956387,0.0 -76.605618,42.956799,0.0 -76.605773,42.957188,0.0 -76.605711,42.957805,0.0 -76.605368,42.958217,0.0 -76.60431,42.959131,0.0 -76.603936,42.959589,0.0 -76.603686,42.960503,0.0 -76.603717,42.961281,0.0 -76.604247,42.962173,0.0 -76.605087,42.962836,0.0 -76.605336,42.963179,0.0 -76.605336,42.963591,0.0 -76.604713,42.964299,0.0 -76.603935,42.964574,0.0 -76.603904,42.964642,0.0 -76.602658,42.964871,0.0 -76.601724,42.964848,0.0 -76.600758,42.964871,0.0 -76.599886,42.965145,0.0 -76.599482,42.965488,0.0 -76.599232,42.965877,0.0 -76.599201,42.96654,0.0 -76.599294,42.966929,0.0 -76.60001,42.968004,0.0 -76.600415,42.968873,0.0 -76.600789,42.969307,0.0 -76.601785,42.970108,0.0 -76.601941,42.970382,0.0 -76.601878,42.970954,0.0 -76.601536,42.971663,0.0 -76.600199,42.972804,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="87169">
+            <name>Two Waves (II)</name>
+            <styleUrl>#87170</styleUrl>
+            <Point id="87168">
+                <coordinates>-76.605522,42.957363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87174">
+            <name>The Bend (II+)</name>
+            <styleUrl>#87175</styleUrl>
+            <Point id="87173">
+                <coordinates>-76.604599,42.950062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87179">
+            <name>Low Drop (II)</name>
+            <styleUrl>#87180</styleUrl>
+            <Point id="87178">
+                <coordinates>-76.598511,42.946827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87184">
+            <name>Hydro Plant</name>
+            <styleUrl>#87185</styleUrl>
+            <Point id="87183">
+                <coordinates>-76.584869,42.932209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87189">
+            <name>Low Dams</name>
+            <styleUrl>#87190</styleUrl>
+            <Point id="87188">
+                <coordinates>-76.593033,42.934811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87194">
+            <name>Grass Wave (II)</name>
+            <styleUrl>#87195</styleUrl>
+            <Point id="87193">
+                <coordinates>-76.60376,42.95969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87199">
+            <name>Division St Bridge (III)</name>
+            <styleUrl>#87200</styleUrl>
+            <Point id="87198">
+                <coordinates>-76.599167,42.9674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87204">
+            <name>Canoga Rd Bridge Drop (II+)</name>
+            <styleUrl>#87205</styleUrl>
+            <Point id="87203">
+                <coordinates>-76.593964,42.937817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87209">
+            <name>Mill Street Dam</name>
+            <styleUrl>#87210</styleUrl>
+            <Point id="87208">
+                <coordinates>-76.559082,42.928806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87214">
+            <name>Take out</name>
+            <styleUrl>#87215</styleUrl>
+            <Point id="87213">
+                <coordinates>-76.600197,42.972801,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

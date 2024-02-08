@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="74434">
+        <Style id="74439">
+            <IconStyle id="74440">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74441">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74444">
+            <IconStyle id="74445">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74446">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74449">
+            <IconStyle id="74450">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74451">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74454">
+            <IconStyle id="74455">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74456">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74459">
+            <IconStyle id="74460">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74461">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Fall Creek - End of Gorge Trail to Parking Lot (0.7 miles)</name>
+        <Placemark id="74436">
+            <name>Fall Creek - End of Gorge Trail to Parking Lot (0.7 miles) (I-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="74435">
+                <coordinates>-91.290932,39.794043,0.0 -91.290826,39.794032,0.0 -91.290562,39.79407,0.0 -91.290477,39.794053,0.0 -91.290398,39.793998,0.0 -91.290156,39.793707,0.0 -91.290085,39.793603,0.0 -91.290064,39.793493,0.0 -91.290093,39.793383,0.0 -91.290157,39.793263,0.0 -91.290328,39.793048,0.0 -91.290598,39.792686,0.0 -91.290741,39.792499,0.0 -91.290805,39.792395,0.0 -91.290812,39.792274,0.0 -91.290762,39.79217,0.0 -91.290591,39.791923,0.0 -91.290534,39.791824,0.0 -91.290527,39.79172,0.0 -91.290534,39.791632,0.0 -91.290641,39.791571,0.0 -91.290976,39.791495,0.0 -91.291211,39.791467,0.0 -91.291346,39.791412,0.0 -91.291424,39.791346,0.0 -91.29146,39.791226,0.0 -91.291424,39.791083,0.0 -91.291318,39.790946,0.0 -91.291147,39.790786,0.0 -91.29104,39.790622,0.0 -91.290955,39.790418,0.0 -91.290898,39.790122,0.0 -91.290912,39.789886,0.0 -91.290969,39.789688,0.0 -91.291076,39.789518,0.0 -91.29119,39.789425,0.0 -91.29129,39.789408,0.0 -91.291375,39.789408,0.0 -91.291503,39.789436,0.0 -91.291596,39.789496,0.0 -91.291633,39.78952,0.0 -91.291673,39.789534,0.0 -91.29186,39.789539,0.0 -91.292047,39.78953,0.0 -91.292139,39.789522,0.0 -91.292596,39.789462,0.0 -91.292684,39.789438,0.0 -91.292774,39.789423,0.0 -91.292861,39.789401,0.0 -91.292906,39.789381,0.0 -91.293169,39.78937,0.0 -91.293966,39.789211,0.0 -91.294358,39.789112,0.0 -91.294571,39.789024,0.0 -91.294685,39.788969,0.0 -91.294884,39.788838,0.0 -91.295034,39.788722,0.0 -91.295468,39.788305,0.0 -91.29598,39.787971,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="74438">
+            <name>Map showing trail to Upper Falls (Put-in)</name>
+            <styleUrl>#74439</styleUrl>
+            <Point id="74437">
+                <coordinates>-91.283997,39.796001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74443">
+            <name>Sidecreek Bonus Falls (II)</name>
+            <styleUrl>#74444</styleUrl>
+            <Point id="74442">
+                <coordinates>-91.289001,39.792999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74448">
+            <name>Take Out</name>
+            <styleUrl>#74449</styleUrl>
+            <Point id="74447">
+                <coordinates>-91.295998,39.787998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74453">
+            <name>Middle Falls (~4') (II)</name>
+            <styleUrl>#74454</styleUrl>
+            <Point id="74452">
+                <coordinates>-91.291,39.792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74458">
+            <name>Lower Falls (~6')</name>
+            <styleUrl>#74459</styleUrl>
+            <Point id="74457">
+                <coordinates>-91.292,39.790001,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

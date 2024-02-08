@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="15803">
+    <Document id="26927">
+        <Style id="26932">
+            <IconStyle id="26933">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26934">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="26937">
+            <IconStyle id="26938">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26939">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>San Antonio Creek - Mt. Baldy Road to San Antonio Dam</name>
-        <Placemark id="15805">
-            <name>San Antonio Creek - Mt. Baldy Road to San Antonio Dam</name>
+        <Placemark id="26929">
+            <name>San Antonio Creek - Mt. Baldy Road to San Antonio Dam (IV)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="15804">
+            <LineString id="26928">
                 <coordinates>-117.67508,34.177957,0.0 -117.675024,34.174627,0.0 -117.675473,34.172617,0.0 -117.675759,34.171078,0.0 -117.676411,34.170413,0.0 -117.676737,34.169647,0.0 -117.677226,34.16808,0.0 -117.677928,34.166303,0.0 -117.67777,34.165229,0.0 -117.678101,34.164526,0.0 -117.678198,34.164259,0.0 -117.678316,34.164002,0.0 -117.678412,34.163718,0.0 -117.678627,34.163194,0.0 -117.678788,34.162981,0.0 -117.679313,34.161818,0.0 -117.679536,34.16132,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="15807">
+        <Placemark id="26931">
             <name>Take Out</name>
-            <Point id="15806">
+            <styleUrl>#26932</styleUrl>
+            <Point id="26930">
                 <coordinates>-117.679863,34.161469,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="15809">
+        <Placemark id="26936">
             <name>Put In</name>
-            <Point id="15808">
+            <styleUrl>#26937</styleUrl>
+            <Point id="26935">
                 <coordinates>-117.675926,34.177341,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="15811">
-            <name>Put in</name>
-            <Point id="15810">
-                <coordinates>-117.67508,34.177957,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="15813">
-            <name>Take out</name>
-            <Point id="15812">
-                <coordinates>-117.679536,34.16132,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

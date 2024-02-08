@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="33867">
+        <Style id="33872">
+            <IconStyle id="33873">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33874">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33877">
+            <IconStyle id="33878">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33879">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33882">
+            <IconStyle id="33883">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33884">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Maple Creek - Unknown/unnamed logging road to Maple Creek Road (up to 1.8 miles)</name>
+        <Placemark id="33869">
+            <name>Maple Creek - Unknown/unnamed logging road to Maple Creek Road (up to 1.8 miles) (IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="33868">
+                <coordinates>-90.106367,46.628341,0.0 -90.106361,46.628471,0.0 -90.106466,46.628618,0.0 -90.106068,46.628604,0.0 -90.105955,46.628724,0.0 -90.105946,46.628941,0.0 -90.106003,46.629071,0.0 -90.106253,46.629296,0.0 -90.106234,46.629393,0.0 -90.105659,46.629758,0.0 -90.105227,46.629934,0.0 -90.105234,46.630045,0.0 -90.105413,46.630495,0.0 -90.10575,46.630524,0.0 -90.106335,46.630496,0.0 -90.106389,46.630539,0.0 -90.106416,46.630752,0.0 -90.10638,46.630831,0.0 -90.105815,46.631095,0.0 -90.105733,46.631223,0.0 -90.105758,46.631312,0.0 -90.106137,46.631653,0.0 -90.106254,46.631906,0.0 -90.106606,46.632202,0.0 -90.107088,46.632319,0.0 -90.107404,46.63272,0.0 -90.107775,46.632769,0.0 -90.10806,46.63302,0.0 -90.108756,46.633258,0.0 -90.108855,46.633572,0.0 -90.109109,46.633904,0.0 -90.109364,46.634337,0.0 -90.109395,46.634828,0.0 -90.109555,46.635093,0.0 -90.10956,46.635283,0.0 -90.109635,46.635401,0.0 -90.110247,46.635502,0.0 -90.11041,46.636148,0.0 -90.110695,46.636362,0.0 -90.110801,46.636516,0.0 -90.110685,46.636835,0.0 -90.110803,46.637231,0.0 -90.111233,46.637556,0.0 -90.111421,46.638005,0.0 -90.111623,46.638164,0.0 -90.111448,46.638985,0.0 -90.1116,46.639134,0.0 -90.112035,46.639225,0.0 -90.112102,46.639326,0.0 -90.11196,46.639747,0.0 -90.111923,46.64027,0.0 -90.11197,46.640793,0.0 -90.112261,46.641117,0.0 -90.112636,46.641364,0.0 -90.112714,46.641675,0.0 -90.112968,46.641982,0.0 -90.11299,46.642124,0.0 -90.112801,46.642589,0.0 -90.112829,46.642687,0.0 -90.113557,46.642977,0.0 -90.113495,46.643369,0.0 -90.113116,46.643819,0.0 -90.112921,46.644387,0.0 -90.112936,46.64458,0.0 -90.112951,46.645162,0.0 -90.113027,46.645305,0.0 -90.113343,46.645895,0.0 -90.113414,46.646143,0.0 -90.113337,46.647583,0.0 -90.113376,46.648401,0.0 -90.113514,46.649127,0.0 -90.113446,46.649611,0.0 -90.113373,46.649737,0.0 -90.113184,46.649885,0.0 -90.11314,46.650253,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="33871">
+            <name>Manakiki Falls (IV)</name>
+            <styleUrl>#33872</styleUrl>
+            <Point id="33870">
+                <coordinates>-90.1119,46.640701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33876">
+            <name>Take Out</name>
+            <styleUrl>#33877</styleUrl>
+            <Point id="33875">
+                <coordinates>-90.112999,46.644901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33881">
+            <name>Put In</name>
+            <styleUrl>#33882</styleUrl>
+            <Point id="33880">
+                <coordinates>-90.1063,46.628201,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

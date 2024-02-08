@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="127287">
+        <Style id="127292">
+            <IconStyle id="127293">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="127294">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="127297">
+            <IconStyle id="127298">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="127299">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Piscataquis - Medford to Maxfield</name>
+        <Placemark id="127289">
+            <name>Piscataquis - Medford to Maxfield (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="127288">
+                <coordinates>-68.846296,45.289448,0.0 -68.846063,45.289603,0.0 -68.845572,45.289699,0.0 -68.845114,45.289722,0.0 -68.844366,45.289624,0.0 -68.843806,45.289379,0.0 -68.843629,45.289122,0.0 -68.84357,45.288766,0.0 -68.843576,45.288658,0.0 -68.843813,45.288261,0.0 -68.843991,45.287666,0.0 -68.843991,45.287378,0.0 -68.843839,45.28696,0.0 -68.843409,45.28643,0.0 -68.842871,45.285999,0.0 -68.842198,45.285613,0.0 -68.841567,45.285378,0.0 -68.841202,45.285296,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="127291">
+            <name>Take Out</name>
+            <styleUrl>#127292</styleUrl>
+            <Point id="127290">
+                <coordinates>-68.845276,45.267223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127296">
+            <name>Put In</name>
+            <styleUrl>#127297</styleUrl>
+            <Point id="127295">
+                <coordinates>-68.846397,45.2896,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

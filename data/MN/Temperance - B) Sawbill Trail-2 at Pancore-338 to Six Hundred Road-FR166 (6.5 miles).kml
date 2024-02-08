@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="97795">
+        <Style id="97800">
+            <IconStyle id="97801">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97802">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97805">
+            <IconStyle id="97806">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97807">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97810">
+            <IconStyle id="97811">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97812">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97815">
+            <IconStyle id="97816">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97817">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97820">
+            <IconStyle id="97821">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97822">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97825">
+            <IconStyle id="97826">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97827">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97830">
+            <IconStyle id="97831">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97832">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97835">
+            <IconStyle id="97836">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97837">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97840">
+            <IconStyle id="97841">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97842">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97845">
+            <IconStyle id="97846">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97847">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Temperance - B) Sawbill Trail/2 at Pancore/338 to Six Hundred Road/FR166 (6.5 miles)</name>
+        <Placemark id="97797">
+            <name>Temperance - B) Sawbill Trail/2 at Pancore/338 to Six Hundred Road/FR166 (6.5 miles) (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="97796">
+                <coordinates>-90.880859,47.732488,0.0 -90.881764,47.732302,0.0 -90.882712,47.731845,0.0 -90.883762,47.730908,0.0 -90.884067,47.730337,0.0 -90.883999,47.72988,0.0 -90.883119,47.728623,0.0 -90.882239,47.727093,0.0 -90.880038,47.724305,0.0 -90.879191,47.72298,0.0 -90.879293,47.722523,0.0 -90.879937,47.722135,0.0 -90.880648,47.721747,0.0 -90.881088,47.72113,0.0 -90.881054,47.720673,0.0 -90.880749,47.720147,0.0 -90.881156,47.718137,0.0 -90.881088,47.71768,0.0 -90.880614,47.717543,0.0 -90.878854,47.717543,0.0 -90.878143,47.717291,0.0 -90.877568,47.716286,0.0 -90.877026,47.715075,0.0 -90.876959,47.71439,0.0 -90.877399,47.712722,0.0 -90.877128,47.711945,0.0 -90.87679,47.711283,0.0 -90.876824,47.710963,0.0 -90.877772,47.710346,0.0 -90.878482,47.710095,0.0 -90.879735,47.709684,0.0 -90.880141,47.708998,0.0 -90.879938,47.708473,0.0 -90.879397,47.708062,0.0 -90.87916,47.707262,0.0 -90.878652,47.706828,0.0 -90.877908,47.706394,0.0 -90.877738,47.706028,0.0 -90.878077,47.705046,0.0 -90.877773,47.704086,0.0 -90.877367,47.703515,0.0 -90.876351,47.702693,0.0 -90.876047,47.701847,0.0 -90.876115,47.700728,0.0 -90.875777,47.700111,0.0 -90.875134,47.699631,0.0 -90.874761,47.699517,0.0 -90.874525,47.698968,0.0 -90.87466,47.698397,0.0 -90.875134,47.697826,0.0 -90.875303,47.697187,0.0 -90.875473,47.696798,0.0 -90.875405,47.695862,0.0 -90.875135,47.694788,0.0 -90.874559,47.694102,0.0 -90.874492,47.693303,0.0 -90.874594,47.691977,0.0 -90.874391,47.690515,0.0 -90.874222,47.690196,0.0 -90.873951,47.689944,0.0 -90.873342,47.690104,0.0 -90.87253,47.690721,0.0 -90.871988,47.690835,0.0 -90.871346,47.690675,0.0 -90.870804,47.690104,0.0 -90.870636,47.688802,0.0 -90.869824,47.687545,0.0 -90.869351,47.686677,0.0 -90.868877,47.685877,0.0 -90.86864,47.685192,0.0 -90.867829,47.684438,0.0 -90.867795,47.683981,0.0 -90.868438,47.683432,0.0 -90.868472,47.68293,0.0 -90.867322,47.682541,0.0 -90.866848,47.682153,0.0 -90.866747,47.681559,0.0 -90.867018,47.681079,0.0 -90.866917,47.680439,0.0 -90.866004,47.678863,0.0 -90.866004,47.677835,0.0 -90.866038,47.676578,0.0 -90.866512,47.67555,0.0 -90.866614,47.674979,0.0 -90.867156,47.674225,0.0 -90.867257,47.673631,0.0 -90.867697,47.672877,0.0 -90.86763,47.67242,0.0 -90.867089,47.671963,0.0 -90.866717,47.671415,0.0 -90.866007,47.670752,0.0 -90.8655,47.66961,0.0 -90.86506,47.668833,0.0 -90.864925,47.668376,0.0 -90.865196,47.667965,0.0 -90.865839,47.667554,0.0 -90.866042,47.667234,0.0 -90.866312,47.66664,0.0 -90.867294,47.665886,0.0 -90.867564,47.665132,0.0 -90.867463,47.664424,0.0 -90.86699,47.663944,0.0 -90.866111,47.663373,0.0 -90.865739,47.662688,0.0 -90.865638,47.661797,0.0 -90.865469,47.66102,0.0 -90.8653,47.660563,0.0 -90.864692,47.660174,0.0 -90.862832,47.659489,0.0 -90.862088,47.658575,0.0 -90.861649,47.658232,0.0 -90.861074,47.657341,0.0 -90.860703,47.656427,0.0 -90.859892,47.655604,0.0 -90.859824,47.65501,0.0 -90.860129,47.654713,0.0 -90.861786,47.654485,0.0 -90.862192,47.654097,0.0 -90.862395,47.65332,0.0 -90.862193,47.652064,0.0 -90.861652,47.651287,0.0 -90.860165,47.650007,0.0 -90.858948,47.649321,0.0 -90.857798,47.649024,0.0 -90.856378,47.648864,0.0 -90.855669,47.648544,0.0 -90.854418,47.647653,0.0 -90.853708,47.647515,0.0 -90.852457,47.647492,0.0 -90.852018,47.647286,0.0 -90.852052,47.646715,0.0 -90.85256,47.645962,0.0 -90.852391,47.644933,0.0 -90.851986,47.644568,0.0 -90.851513,47.644476,0.0 -90.850837,47.644316,0.0 -90.850296,47.643859,0.0 -90.849181,47.642534,0.0 -90.847999,47.641391,0.0 -90.84756,47.640843,0.0 -90.847526,47.640249,0.0 -90.847825,47.639885,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="97799">
+            <name>Temperance River Campground (TRC)</name>
+            <styleUrl>#97800</styleUrl>
+            <Point id="97798">
+                <coordinates>-90.878601,47.7174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97804">
+            <name>Take Out</name>
+            <styleUrl>#97805</styleUrl>
+            <Point id="97803">
+                <coordinates>-90.8476,47.6397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97809">
+            <name>Light Boulderbed Rapids</name>
+            <styleUrl>#97810</styleUrl>
+            <Point id="97808">
+                <coordinates>-90.877502,47.7061,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97814">
+            <name>Put In</name>
+            <styleUrl>#97815</styleUrl>
+            <Point id="97813">
+                <coordinates>-90.8808,47.7322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97819">
+            <name>Island</name>
+            <styleUrl>#97820</styleUrl>
+            <Point id="97818">
+                <coordinates>-90.864899,47.6679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97824">
+            <name>Six Mile Creek</name>
+            <styleUrl>#97825</styleUrl>
+            <Point id="97823">
+                <coordinates>-90.848427,47.640999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97829">
+            <name>Light Boulderbed Rapids</name>
+            <styleUrl>#97830</styleUrl>
+            <Point id="97828">
+                <coordinates>-90.877296,47.712898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97834">
+            <name>Island</name>
+            <styleUrl>#97835</styleUrl>
+            <Point id="97833">
+                <coordinates>-90.879929,47.709091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97839">
+            <name>Confluence, Pancake Creek</name>
+            <styleUrl>#97840</styleUrl>
+            <Point id="97838">
+                <coordinates>-90.866989,47.680771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97844">
+            <name>Large Island</name>
+            <styleUrl>#97845</styleUrl>
+            <Point id="97843">
+                <coordinates>-90.860603,47.6544,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

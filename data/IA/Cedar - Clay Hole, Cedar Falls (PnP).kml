@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="5623">
+    <Document id="9591">
+        <Style id="9596">
+            <IconStyle id="9597">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9598">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9601">
+            <IconStyle id="9602">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9603">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Cedar - Clay Hole, Cedar Falls (PnP)</name>
-        <Placemark id="5625">
-            <name>Cedar - Clay Hole, Cedar Falls (PnP)</name>
+        <Placemark id="9593">
+            <name>Cedar - Clay Hole, Cedar Falls (PnP) (II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="5624">
+            <LineString id="9592">
                 <coordinates>-92.441829,42.538416,0.0 -92.442173,42.538267,0.0 -92.443341,42.53761,0.0 -92.4427,42.537374,0.0 -92.441574,42.538228,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="5627">
+        <Placemark id="9595">
             <name>Take Out</name>
-            <Point id="5626">
+            <styleUrl>#9596</styleUrl>
+            <Point id="9594">
                 <coordinates>-92.4422,42.538246,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5629">
+        <Placemark id="9600">
             <name>Put In</name>
-            <Point id="5628">
+            <styleUrl>#9601</styleUrl>
+            <Point id="9599">
                 <coordinates>-92.442398,42.538319,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5631">
-            <name>Put in</name>
-            <Point id="5630">
-                <coordinates>-92.441829,42.538416,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5633">
-            <name>Take out</name>
-            <Point id="5632">
-                <coordinates>-92.441574,42.538228,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

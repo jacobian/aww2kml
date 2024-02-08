@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="112523">
+        <Style id="112528">
+            <IconStyle id="112529">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112530">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="112533">
+            <IconStyle id="112534">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112535">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Spruce Flats Prong - Honey Cove Branch confluence to Middle Prong Little River</name>
+        <Placemark id="112525">
+            <name>Spruce Flats Prong - Honey Cove Branch confluence to Middle Prong Little River (V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="112524">
+                <coordinates>-83.680847,35.633805,0.0 -83.680898,35.633831,0.0 -83.680967,35.633862,0.0 -83.681035,35.633886,0.0 -83.681101,35.633913,0.0 -83.681159,35.633978,0.0 -83.681202,35.634054,0.0 -83.681273,35.634099,0.0 -83.681306,35.634098,0.0 -83.681382,35.634119,0.0 -83.681446,35.634165,0.0 -83.681508,35.634215,0.0 -83.681576,35.634254,0.0 -83.681669,35.634283,0.0 -83.681765,35.634304,0.0 -83.681852,35.634315,0.0 -83.68194,35.634319,0.0 -83.682028,35.634325,0.0 -83.682118,35.634338,0.0 -83.682192,35.634347,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="112527">
+            <name>Put In</name>
+            <styleUrl>#112528</styleUrl>
+            <Point id="112526">
+                <coordinates>-83.680901,35.633701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="112532">
+            <name>Take out</name>
+            <styleUrl>#112533</styleUrl>
+            <Point id="112531">
+                <coordinates>-83.682198,35.6343,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

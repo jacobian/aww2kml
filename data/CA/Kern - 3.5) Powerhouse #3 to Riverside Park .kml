@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="61402">
+        <Style id="61407">
+            <IconStyle id="61408">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61409">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="61412">
+            <IconStyle id="61413">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61414">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="61417">
+            <IconStyle id="61418">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61419">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="61422">
+            <IconStyle id="61423">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61424">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="61427">
+            <IconStyle id="61428">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61429">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Kern - 3.5) Powerhouse #3 to Riverside Park </name>
+        <Placemark id="61404">
+            <name>Kern - 3.5) Powerhouse #3 to Riverside Park  (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="61403">
+                <coordinates>-118.436257,35.775538,0.0 -118.435824,35.775113,0.0 -118.434917,35.773929,0.0 -118.434796,35.773708,0.0 -118.434658,35.773317,0.0 -118.434415,35.772492,0.0 -118.434319,35.772106,0.0 -118.434225,35.771679,0.0 -118.434096,35.77089,0.0 -118.434069,35.770344,0.0 -118.434056,35.769933,0.0 -118.434047,35.769895,0.0 -118.433983,35.769579,0.0 -118.433782,35.769031,0.0 -118.433633,35.768738,0.0 -118.433419,35.768485,0.0 -118.431991,35.7674,0.0 -118.431531,35.766938,0.0 -118.431544,35.766678,0.0 -118.431527,35.7665,0.0 -118.43144,35.76633,0.0 -118.431141,35.765947,0.0 -118.430802,35.765277,0.0 -118.430119,35.76438,0.0 -118.429723,35.763978,0.0 -118.429402,35.763673,0.0 -118.428918,35.763435,0.0 -118.428529,35.763363,0.0 -118.427741,35.763464,0.0 -118.427228,35.763467,0.0 -118.426938,35.76342,0.0 -118.426171,35.763156,0.0 -118.425544,35.763056,0.0 -118.425188,35.762941,0.0 -118.424435,35.762571,0.0 -118.423705,35.761977,0.0 -118.423342,35.761617,0.0 -118.423069,35.76139,0.0 -118.42288,35.761217,0.0 -118.422302,35.760596,0.0 -118.422183,35.760429,0.0 -118.422121,35.76035,0.0 -118.421961,35.760144,0.0 -118.421703,35.759726,0.0 -118.421546,35.759391,0.0 -118.42136,35.758754,0.0 -118.421359,35.757835,0.0 -118.421528,35.757325,0.0 -118.42217,35.756152,0.0 -118.422978,35.754527,0.0 -118.423279,35.753681,0.0 -118.423522,35.753267,0.0 -118.423687,35.753051,0.0 -118.42378,35.752814,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="61406">
+            <name>Cemetary Take Out</name>
+            <styleUrl>#61407</styleUrl>
+            <Point id="61405">
+                <coordinates>-118.434334,35.720367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61411">
+            <name>Kernville Park</name>
+            <styleUrl>#61412</styleUrl>
+            <Point id="61410">
+                <coordinates>-118.423477,35.754436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61416">
+            <name>Ewings (II)</name>
+            <styleUrl>#61417</styleUrl>
+            <Point id="61415">
+                <coordinates>-118.421097,35.757969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61421">
+            <name>Put In</name>
+            <styleUrl>#61422</styleUrl>
+            <Point id="61420">
+                <coordinates>-118.436,35.7758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61426">
+            <name>Powerhouse rapid (III)</name>
+            <styleUrl>#61427</styleUrl>
+            <Point id="61425">
+                <coordinates>-118.431053,35.767006,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

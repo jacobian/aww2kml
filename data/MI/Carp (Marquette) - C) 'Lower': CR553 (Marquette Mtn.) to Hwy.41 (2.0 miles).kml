@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="70695">
+        <Style id="70700">
+            <IconStyle id="70701">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="70702">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="70705">
+            <IconStyle id="70706">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="70707">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Carp (Marquette) - C) 'Lower': CR553 (Marquette Mtn.) to Hwy.41 (2.0 miles)</name>
+        <Placemark id="70697">
+            <name>Carp (Marquette) - C) 'Lower': CR553 (Marquette Mtn.) to Hwy.41 (2.0 miles) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="70696">
+                <coordinates>-87.419096,46.509309,0.0 -87.41811,46.508829,0.0 -87.416256,46.508852,0.0 -87.414832,46.50867,0.0 -87.413111,46.508762,0.0 -87.412217,46.508922,0.0 -87.411389,46.508877,0.0 -87.410793,46.508808,0.0 -87.410429,46.508626,0.0 -87.409734,46.508649,0.0 -87.408741,46.508786,0.0 -87.40841,46.508763,0.0 -87.407946,46.508558,0.0 -87.407052,46.508604,0.0 -87.406423,46.508627,0.0 -87.405562,46.508239,0.0 -87.404966,46.508033,0.0 -87.403576,46.507942,0.0 -87.402318,46.508011,0.0 -87.400166,46.508628,0.0 -87.398842,46.50872,0.0 -87.397982,46.50904,0.0 -87.397319,46.509132,0.0 -87.394969,46.509201,0.0 -87.393711,46.50959,0.0 -87.392586,46.510093,0.0 -87.391361,46.510207,0.0 -87.389606,46.510253,0.0 -87.388613,46.51055,0.0 -87.388116,46.510802,0.0 -87.387785,46.511076,0.0 -87.387587,46.511396,0.0 -87.38709,46.511625,0.0 -87.385665,46.511908,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="70699">
+            <name>Take Out</name>
+            <styleUrl>#70700</styleUrl>
+            <Point id="70698">
+                <coordinates>-87.385902,46.5131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="70704">
+            <name>Put In</name>
+            <styleUrl>#70705</styleUrl>
+            <Point id="70703">
+                <coordinates>-87.419197,46.509102,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="20061">
+    <Document id="33853">
+        <Style id="33858">
+            <IconStyle id="33859">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33860">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33863">
+            <IconStyle id="33864">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33865">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Snake  - Auger Falls Park</name>
-        <Placemark id="20063">
-            <name>Snake  - Auger Falls Park</name>
+        <Placemark id="33855">
+            <name>Snake  - Auger Falls Park (III-IV+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="20062">
+            <LineString id="33854">
                 <coordinates>-114.505643,42.618743,0.0 -114.507725,42.619946,0.0 -114.510075,42.620617,0.0 -114.511158,42.621335,0.0 -114.511181,42.62188,0.0 -114.510136,42.624623,0.0 -114.509915,42.626233,0.0 -114.509915,42.626233,0.0 -114.513836,42.627179,0.0 -114.514492,42.627659,0.0 -114.518429,42.630051,0.0 -114.518429,42.630051,0.0 -114.522358,42.631482,0.0 -114.523015,42.631478,0.0 -114.527593,42.631939,0.0 -114.532508,42.632938,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="20065">
+        <Placemark id="33857">
             <name>Auger Falls Park Take-Out</name>
-            <Point id="20064">
+            <styleUrl>#33858</styleUrl>
+            <Point id="33856">
                 <coordinates>-114.532603,42.632656,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20067">
+        <Placemark id="33862">
             <name>Auger Falls Park Put-In</name>
-            <Point id="20066">
+            <styleUrl>#33863</styleUrl>
+            <Point id="33861">
                 <coordinates>-114.506071,42.618183,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="20069">
-            <name>Put in</name>
-            <Point id="20068">
-                <coordinates>-114.505643,42.618743,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="20071">
-            <name>Take out</name>
-            <Point id="20070">
-                <coordinates>-114.532508,42.632938,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

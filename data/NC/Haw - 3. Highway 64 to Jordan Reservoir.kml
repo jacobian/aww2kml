@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="18893">
+    <Document id="31921">
+        <Style id="31926">
+            <IconStyle id="31927">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31928">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31931">
+            <IconStyle id="31932">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31933">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Haw - 3. Highway 64 to Jordan Reservoir</name>
-        <Placemark id="18895">
-            <name>Haw - 3. Highway 64 to Jordan Reservoir</name>
+        <Placemark id="31923">
+            <name>Haw - 3. Highway 64 to Jordan Reservoir (II-III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="18894">
+            <LineString id="31922">
                 <coordinates>-79.106524,35.730666,0.0 -79.106476,35.730611,0.0 -79.106477,35.730608,0.0 -79.105878,35.730041,0.0 -79.105714,35.729885,0.0 -79.105474,35.729674,0.0 -79.105208,35.72944,0.0 -79.105055,35.729304,0.0 -79.104531,35.728645,0.0 -79.103713,35.727816,0.0 -79.103687,35.72779,0.0 -79.102919,35.727028,0.0 -79.102659,35.726781,0.0 -79.10234,35.726479,0.0 -79.101515,35.725772,0.0 -79.101475,35.72552,0.0 -79.101356,35.72528,0.0 -79.100951,35.724874,0.0 -79.100399,35.72445,0.0 -79.100388,35.724441,0.0 -79.099682,35.724125,0.0 -79.099047,35.723767,0.0 -79.098833,35.723647,0.0 -79.098564,35.723234,0.0 -79.098563,35.722685,0.0 -79.098554,35.722674,0.0 -79.098341,35.722415,0.0 -79.098231,35.722325,0.0 -79.097789,35.72219,0.0 -79.096516,35.72111,0.0 -79.096239,35.720749,0.0 -79.095742,35.720434,0.0 -79.095576,35.720389,0.0 -79.095325,35.720185,0.0 -79.095133,35.720029,0.0 -79.09494,35.719778,0.0 -79.094856,35.719669,0.0 -79.094697,35.719394,0.0 -79.094358,35.718813,0.0 -79.094136,35.718317,0.0 -79.094136,35.718137,0.0 -79.094046,35.717916,0.0 -79.0939,35.717561,0.0 -79.093803,35.717326,0.0 -79.093752,35.715982,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="18897">
+        <Placemark id="31925">
             <name>Put in</name>
-            <Point id="18896">
+            <styleUrl>#31926</styleUrl>
+            <Point id="31924">
                 <coordinates>-79.1066,35.7306,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18899">
+        <Placemark id="31930">
             <name>Take out</name>
-            <Point id="18898">
+            <styleUrl>#31931</styleUrl>
+            <Point id="31929">
                 <coordinates>-79.0959,35.7159,0.0</coordinates>
             </Point>
         </Placemark>

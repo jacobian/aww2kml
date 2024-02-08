@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="79239">
+        <Style id="79244">
+            <IconStyle id="79245">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="79246">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79249">
+            <IconStyle id="79250">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="79251">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Stony Brook - 2) Route 31 to Wilton</name>
+        <Placemark id="79241">
+            <name>Stony Brook - 2) Route 31 to Wilton (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="79240">
+                <coordinates>-71.762254,42.85351,0.0 -71.762251,42.853503,0.0 -71.762176,42.853294,0.0 -71.762042,42.853135,0.0 -71.761915,42.853025,0.0 -71.761774,42.852957,0.0 -71.761289,42.852869,0.0 -71.759395,42.852555,0.0 -71.758963,42.852475,0.0 -71.757986,42.852481,0.0 -71.757464,42.852565,0.0 -71.757203,42.852549,0.0 -71.755146,42.851973,0.0 -71.754706,42.851844,0.0 -71.754646,42.851809,0.0 -71.754586,42.851739,0.0 -71.754065,42.851279,0.0 -71.753566,42.850976,0.0 -71.753283,42.850852,0.0 -71.752791,42.85067,0.0 -71.752343,42.850537,0.0 -71.751799,42.850325,0.0 -71.751456,42.850148,0.0 -71.75133,42.850039,0.0 -71.75124,42.849937,0.0 -71.751099,42.849774,0.0 -71.750711,42.849428,0.0 -71.750272,42.849132,0.0 -71.750018,42.849066,0.0 -71.749519,42.848993,0.0 -71.74947,42.848983,0.0 -71.749164,42.848922,0.0 -71.748683,42.848818,0.0 -71.748192,42.848718,0.0 -71.747992,42.848691,0.0 -71.747617,42.848661,0.0 -71.747213,42.848628,0.0 -71.746779,42.848608,0.0 -71.746315,42.848578,0.0 -71.74594,42.848561,0.0 -71.74558,42.848467,0.0 -71.745239,42.848384,0.0 -71.744898,42.848234,0.0 -71.744648,42.84804,0.0 -71.744477,42.847763,0.0 -71.744332,42.847589,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="79243">
+            <name>Take Out</name>
+            <styleUrl>#79244</styleUrl>
+            <Point id="79242">
+                <coordinates>-71.744202,42.847698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79248">
+            <name>Put In</name>
+            <styleUrl>#79249</styleUrl>
+            <Point id="79247">
+                <coordinates>-71.762255,42.85351,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

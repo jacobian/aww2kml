@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="79295">
+        <Style id="79300">
+            <IconStyle id="79301">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="79302">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79305">
+            <IconStyle id="79306">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="79307">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Pemigewasset - 5) Ayers Island Dam (Bristol) to Coolidge</name>
+        <Placemark id="79297">
+            <name>Pemigewasset - 5) Ayers Island Dam (Bristol) to Coolidge (II(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="79296">
+                <coordinates>-71.717936,43.597465,0.0 -71.718206,43.597015,0.0 -71.718555,43.596199,0.0 -71.718995,43.595699,0.0 -71.719704,43.595271,0.0 -71.720478,43.595223,0.0 -71.721469,43.595161,0.0 -71.721708,43.595171,0.0 -71.722739,43.595215,0.0 -71.723345,43.595415,0.0 -71.724182,43.595691,0.0 -71.724959,43.595772,0.0 -71.725203,43.595772,0.0 -71.72591,43.595773,0.0 -71.726517,43.595653,0.0 -71.726801,43.595597,0.0 -71.727178,43.595476,0.0 -71.727739,43.595112,0.0 -71.728144,43.59485,0.0 -71.728989,43.594004,0.0 -71.72922,43.593813,0.0 -71.730573,43.592697,0.0 -71.730636,43.592617,0.0 -71.730829,43.592368,0.0 -71.731133,43.591729,0.0 -71.731341,43.591292,0.0 -71.731433,43.590947,0.0 -71.731574,43.590415,0.0 -71.731725,43.589847,0.0 -71.731727,43.589833,0.0 -71.731732,43.589792,0.0 -71.731712,43.589257,0.0 -71.731435,43.588337,0.0 -71.73139,43.588187,0.0 -71.731107,43.587913,0.0 -71.731021,43.587851,0.0 -71.73046,43.587444,0.0 -71.730219,43.587269,0.0 -71.7301,43.587199,0.0 -71.728633,43.586337,0.0 -71.728105,43.5862,0.0 -71.727482,43.586022,0.0 -71.727048,43.585913,0.0 -71.726348,43.585907,0.0 -71.725481,43.5859,0.0 -71.725179,43.585859,0.0 -71.724745,43.585763,0.0 -71.724719,43.585754,0.0 -71.7245,43.585681,0.0 -71.72399,43.585407,0.0 -71.72365,43.585187,0.0 -71.723405,43.584913,0.0 -71.723008,43.584543,0.0 -71.722814,43.584464,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="79299">
+            <name>Put in</name>
+            <styleUrl>#79300</styleUrl>
+            <Point id="79298">
+                <coordinates>-71.719863,43.598622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79304">
+            <name>Take out</name>
+            <styleUrl>#79305</styleUrl>
+            <Point id="79303">
+                <coordinates>-71.722493,43.585255,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

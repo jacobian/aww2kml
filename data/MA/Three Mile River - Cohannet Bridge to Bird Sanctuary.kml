@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="53099">
+        <Style id="53104">
+            <IconStyle id="53105">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53106">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53109">
+            <IconStyle id="53110">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53111">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53114">
+            <IconStyle id="53115">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53116">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53119">
+            <IconStyle id="53120">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53121">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53124">
+            <IconStyle id="53125">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53126">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53129">
+            <IconStyle id="53130">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53131">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Three Mile River - Cohannet Bridge to Bird Sanctuary</name>
+        <Placemark id="53101">
+            <name>Three Mile River - Cohannet Bridge to Bird Sanctuary (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="53100">
+                <coordinates>-71.134089,41.885954,0.0 -71.134125,41.885945,0.0 -71.134189,41.885945,0.0 -71.134425,41.885905,0.0 -71.134586,41.885849,0.0 -71.134801,41.885753,0.0 -71.134908,41.885649,0.0 -71.134908,41.885554,0.0 -71.134855,41.885482,0.0 -71.134704,41.885338,0.0 -71.134651,41.885162,0.0 -71.134661,41.885066,0.0 -71.134747,41.884915,0.0 -71.134747,41.884915,0.0 -71.134583,41.884427,0.0 -71.134583,41.884427,0.0 -71.134468,41.884084,0.0 -71.134382,41.883924,0.0 -71.134166,41.883634,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="53103">
+            <name>Wood Stock (I)</name>
+            <styleUrl>#53104</styleUrl>
+            <Point id="53102">
+                <coordinates>-71.134689,41.885016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53108">
+            <name>Bridge Wave (I)</name>
+            <styleUrl>#53109</styleUrl>
+            <Point id="53107">
+                <coordinates>-71.13409,41.88587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53113">
+            <name>Bird House &quot;Rapid&quot; (I)</name>
+            <styleUrl>#53114</styleUrl>
+            <Point id="53112">
+                <coordinates>-71.134664,41.885773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53118">
+            <name>Sore Gap (II)</name>
+            <styleUrl>#53119</styleUrl>
+            <Point id="53117">
+                <coordinates>-71.134762,41.885345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53123">
+            <name>Put in</name>
+            <styleUrl>#53124</styleUrl>
+            <Point id="53122">
+                <coordinates>-71.134089,41.885954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53128">
+            <name>Take out</name>
+            <styleUrl>#53129</styleUrl>
+            <Point id="53127">
+                <coordinates>-71.134166,41.883634,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="94224">
+        <Style id="94229">
+            <IconStyle id="94230">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94231">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94234">
+            <IconStyle id="94235">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94236">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94239">
+            <IconStyle id="94240">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94241">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94244">
+            <IconStyle id="94245">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94246">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94249">
+            <IconStyle id="94250">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94251">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94254">
+            <IconStyle id="94255">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94256">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94259">
+            <IconStyle id="94260">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94261">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94264">
+            <IconStyle id="94265">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94266">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94269">
+            <IconStyle id="94270">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94271">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Bull Creek - Spicewood Springs Road to RM 2222 (3.3 miles)</name>
+        <Placemark id="94226">
+            <name>Bull Creek - Spicewood Springs Road to RM 2222 (3.3 miles) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="94225">
+                <coordinates>-97.775054,30.390349,0.0 -97.774396,30.390758,0.0 -97.774193,30.390829,0.0 -97.773939,30.390884,0.0 -97.773844,30.390895,0.0 -97.773457,30.390829,0.0 -97.773095,30.390725,0.0 -97.772772,30.390532,0.0 -97.772194,30.390031,0.0 -97.772042,30.389844,0.0 -97.771795,30.389575,0.0 -97.771281,30.389112,0.0 -97.771078,30.388892,0.0 -97.770907,30.388601,0.0 -97.770799,30.388315,0.0 -97.770666,30.387886,0.0 -97.770331,30.386599,0.0 -97.77021,30.386048,0.0 -97.770191,30.38585,0.0 -97.770084,30.385108,0.0 -97.77011,30.384497,0.0 -97.770167,30.384294,0.0 -97.770351,30.383865,0.0 -97.770402,30.383617,0.0 -97.770408,30.383529,0.0 -97.770364,30.383392,0.0 -97.77025,30.382985,0.0 -97.770041,30.382523,0.0 -97.770231,30.382407,0.0 -97.77131,30.381847,0.0 -97.772503,30.381077,0.0 -97.772966,30.380654,0.0 -97.773175,30.380434,0.0 -97.773328,30.380241,0.0 -97.77348,30.38012,0.0 -97.773861,30.379906,0.0 -97.774032,30.379713,0.0 -97.774146,30.379565,0.0 -97.774254,30.379054,0.0 -97.774381,30.378652,0.0 -97.774363,30.378465,0.0 -97.774369,30.377959,0.0 -97.77449,30.377679,0.0 -97.774674,30.377459,0.0 -97.774877,30.377327,0.0 -97.775479,30.37714,0.0 -97.775797,30.377079,0.0 -97.775974,30.377079,0.0 -97.776418,30.377135,0.0 -97.776938,30.3773,0.0 -97.777814,30.377833,0.0 -97.778936,30.378351,0.0 -97.779418,30.378494,0.0 -97.779881,30.378758,0.0 -97.779995,30.378896,0.0 -97.780154,30.378967,0.0 -97.780484,30.378978,0.0 -97.780719,30.378945,0.0 -97.781049,30.37894,0.0 -97.781302,30.378907,0.0 -97.781658,30.378792,0.0 -97.782222,30.378506,0.0 -97.783244,30.377818,0.0 -97.783618,30.377472,0.0 -97.783707,30.37734,0.0 -97.783821,30.377257,0.0 -97.783878,30.377136,0.0 -97.78391,30.377092,0.0 -97.784037,30.376988,0.0 -97.784081,30.376922,0.0 -97.7841,30.376834,0.0 -97.784126,30.376422,0.0 -97.78412,30.376042,0.0 -97.784209,30.375751,0.0 -97.784285,30.375739,0.0 -97.784367,30.375662,0.0 -97.78438,30.375613,0.0 -97.784418,30.375519,0.0 -97.784412,30.375475,0.0 -97.784374,30.375431,0.0 -97.784374,30.375376,0.0 -97.784437,30.374999,0.0 -97.78446,30.374911,0.0 -97.784517,30.374812,0.0 -97.784536,30.374741,0.0 -97.784625,30.373987,0.0 -97.784657,30.373212,0.0 -97.784937,30.371578,0.0 -97.785038,30.370891,0.0 -97.785057,30.370792,0.0 -97.785254,30.370088,0.0 -97.785553,30.369329,0.0 -97.78561,30.369059,0.0 -97.785616,30.36879,0.0 -97.785578,30.36857,0.0 -97.785509,30.368427,0.0 -97.785071,30.367756,0.0 -97.784932,30.367481,0.0 -97.784919,30.36725,0.0 -97.784925,30.366997,0.0 -97.784957,30.366777,0.0 -97.784989,30.366722,0.0 -97.785052,30.366672,0.0 -97.78509,30.366628,0.0 -97.785312,30.36654,0.0 -97.785344,30.366507,0.0 -97.785541,30.366221,0.0 -97.785486,30.366158,0.0 -97.785688,30.366131,0.0 -97.78593,30.366262,0.0 -97.7866,30.36637,0.0 -97.786702,30.366398,0.0 -97.786949,30.366442,0.0 -97.787076,30.366442,0.0 -97.787241,30.36642,0.0 -97.787824,30.366348,0.0 -97.78823,30.366228,0.0 -97.788364,30.366134,0.0 -97.788973,30.36537,0.0 -97.789239,30.364963,0.0 -97.789303,30.36482,0.0 -97.789328,30.364633,0.0 -97.789328,30.364369,0.0 -97.78929,30.364028,0.0 -97.789005,30.363164,0.0 -97.78884,30.361981,0.0 -97.788422,30.361041,0.0 -97.788251,30.360507,0.0 -97.788232,30.360221,0.0 -97.788245,30.360056,0.0 -97.788251,30.359539,0.0 -97.788201,30.359424,0.0 -97.788131,30.359314,0.0 -97.788112,30.359259,0.0 -97.788112,30.359193,0.0 -97.78822,30.359072,0.0 -97.788232,30.359028,0.0 -97.788187,30.358921,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="94228">
+            <name>Lakewood Drive Bridge</name>
+            <styleUrl>#94229</styleUrl>
+            <Point id="94227">
+                <coordinates>-97.787003,30.366301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94233">
+            <name>Spicewood Springs Road Low-Water Crossing</name>
+            <styleUrl>#94234</styleUrl>
+            <Point id="94232">
+                <coordinates>-97.774902,30.3904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94238">
+            <name>RM 2222 Bridge</name>
+            <styleUrl>#94239</styleUrl>
+            <Point id="94237">
+                <coordinates>-97.7883,30.3592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94243">
+            <name>Low-Water Crossing</name>
+            <styleUrl>#94244</styleUrl>
+            <Point id="94242">
+                <coordinates>-97.778999,30.377899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94248">
+            <name>Old Spicewood Springs Road (Low-Water Crossing)</name>
+            <styleUrl>#94249</styleUrl>
+            <Point id="94247">
+                <coordinates>-97.770401,30.382299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94253">
+            <name>BORES (III)</name>
+            <styleUrl>#94254</styleUrl>
+            <Point id="94252">
+                <coordinates>-97.785004,30.370701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94258">
+            <name>Loop 360, 1st Crossing</name>
+            <styleUrl>#94259</styleUrl>
+            <Point id="94257">
+                <coordinates>-97.770401,30.382799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94263">
+            <name>Loop 360, 2nd Crossing</name>
+            <styleUrl>#94264</styleUrl>
+            <Point id="94262">
+                <coordinates>-97.778099,30.377701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94268">
+            <name>Loop 360, 3rd Crossing</name>
+            <styleUrl>#94269</styleUrl>
+            <Point id="94267">
+                <coordinates>-97.784698,30.3722,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

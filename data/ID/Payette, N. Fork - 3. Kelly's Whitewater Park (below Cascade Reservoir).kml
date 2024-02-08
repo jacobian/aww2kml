@@ -1,60 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="23061">
+    <Document id="38705">
+        <Style id="38710">
+            <IconStyle id="38711">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="38712">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="38715">
+            <IconStyle id="38716">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="38717">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="38720">
+            <IconStyle id="38721">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="38722">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="38725">
+            <IconStyle id="38726">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="38727">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="38730">
+            <IconStyle id="38731">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="38732">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="38735">
+            <IconStyle id="38736">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="38737">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Payette, N. Fork - 3. Kelly's Whitewater Park (below Cascade Reservoir)</name>
-        <Placemark id="23063">
-            <name>Payette, N. Fork - 3. Kelly's Whitewater Park (below Cascade Reservoir)</name>
+        <Placemark id="38707">
+            <name>Payette, N. Fork - 3. Kelly's Whitewater Park (below Cascade Reservoir) (III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="23062">
+            <LineString id="38706">
                 <coordinates>-116.032555,44.512926,0.0 -116.032508,44.512816,0.0 -116.031561,44.51241,0.0 -116.030945,44.511733,0.0 -116.030346,44.511457,0.0 -116.029979,44.511479,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="23065">
+        <Placemark id="38709">
             <name>Put In</name>
-            <Point id="23064">
+            <styleUrl>#38710</styleUrl>
+            <Point id="38708">
                 <coordinates>-116.032603,44.511434,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23067">
+        <Placemark id="38714">
             <name>Right Channel Wave (II)</name>
-            <Point id="23066">
+            <styleUrl>#38715</styleUrl>
+            <Point id="38713">
                 <coordinates>-116.031346,44.511483,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23069">
+        <Placemark id="38719">
             <name>Top Wave (III)</name>
-            <Point id="23068">
+            <styleUrl>#38720</styleUrl>
+            <Point id="38718">
                 <coordinates>-116.032439,44.512786,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23071">
+        <Placemark id="38724">
             <name>Middle Wave (II)</name>
-            <Point id="23070">
+            <styleUrl>#38725</styleUrl>
+            <Point id="38723">
                 <coordinates>-116.031266,44.512086,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23073">
+        <Placemark id="38729">
             <name>Bottom Wave (III)</name>
-            <Point id="23072">
+            <styleUrl>#38730</styleUrl>
+            <Point id="38728">
                 <coordinates>-116.030287,44.511461,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23075">
+        <Placemark id="38734">
             <name>Take Out</name>
-            <Point id="23074">
+            <styleUrl>#38735</styleUrl>
+            <Point id="38733">
                 <coordinates>-116.031563,44.51041,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="23077">
-            <name>Put in</name>
-            <Point id="23076">
-                <coordinates>-116.032815,44.512815,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="23079">
-            <name>Take out</name>
-            <Point id="23078">
-                <coordinates>-116.029975,44.511422,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

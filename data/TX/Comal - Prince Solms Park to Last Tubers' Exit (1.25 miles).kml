@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="94195">
+        <Style id="94200">
+            <IconStyle id="94201">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94202">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94205">
+            <IconStyle id="94206">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94207">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94210">
+            <IconStyle id="94211">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94212">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94215">
+            <IconStyle id="94216">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94217">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94220">
+            <IconStyle id="94221">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94222">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Comal - Prince Solms Park to Last Tubers' Exit (1.25 miles)</name>
+        <Placemark id="94197">
+            <name>Comal - Prince Solms Park to Last Tubers' Exit (1.25 miles) (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="94196">
+                <coordinates>-98.122902,29.707559,0.0 -98.122664,29.707334,0.0 -98.122332,29.707018,0.0 -98.122009,29.706371,0.0 -98.122006,29.706364,0.0 -98.121575,29.706091,0.0 -98.121052,29.706009,0.0 -98.119691,29.705959,0.0 -98.118958,29.706,0.0 -98.118692,29.705842,0.0 -98.118469,29.705541,0.0 -98.118282,29.705142,0.0 -98.118242,29.70493,0.0 -98.118305,29.704612,0.0 -98.118613,29.70419,0.0 -98.118797,29.704059,0.0 -98.119184,29.703783,0.0 -98.119452,29.703469,0.0 -98.119652,29.703119,0.0 -98.119685,29.70291,0.0 -98.118623,29.70146,0.0 -98.118101,29.701007,0.0 -98.117159,29.700498,0.0 -98.116849,29.700501,0.0 -98.11657,29.70056,0.0 -98.116429,29.700633,0.0 -98.1162,29.700836,0.0 -98.11603,29.701236,0.0 -98.116038,29.701342,0.0 -98.116107,29.701431,0.0 -98.11698,29.701964,0.0 -98.117209,29.702168,0.0 -98.117276,29.702446,0.0 -98.117108,29.702689,0.0 -98.116494,29.703268,0.0 -98.116352,29.703353,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="94199">
+            <name>Take Out</name>
+            <styleUrl>#94200</styleUrl>
+            <Point id="94198">
+                <coordinates>-98.1165,29.7036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94204">
+            <name>San Antonio St. Dam (II)</name>
+            <styleUrl>#94205</styleUrl>
+            <Point id="94203">
+                <coordinates>-98.122101,29.7064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94209">
+            <name>Put In</name>
+            <styleUrl>#94210</styleUrl>
+            <Point id="94208">
+                <coordinates>-98.1222,29.7083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94214">
+            <name>Schlitterbahn Dam (II)</name>
+            <styleUrl>#94215</styleUrl>
+            <Point id="94213">
+                <coordinates>-98.118797,29.704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94219">
+            <name>Clemens Dam / Tube Chute (II+)</name>
+            <styleUrl>#94220</styleUrl>
+            <Point id="94218">
+                <coordinates>-98.123001,29.7073,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

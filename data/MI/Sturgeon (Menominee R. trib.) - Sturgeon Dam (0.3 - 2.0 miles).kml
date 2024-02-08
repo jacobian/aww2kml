@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="72948">
+        <Style id="72953">
+            <IconStyle id="72954">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72955">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72958">
+            <IconStyle id="72959">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72960">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72963">
+            <IconStyle id="72964">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72965">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72968">
+            <IconStyle id="72969">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72970">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72973">
+            <IconStyle id="72974">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72975">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72978">
+            <IconStyle id="72979">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72980">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sturgeon (Menominee R. trib.) - Sturgeon Dam (0.3 - 2.0 miles)</name>
+        <Placemark id="72950">
+            <name>Sturgeon (Menominee R. trib.) - Sturgeon Dam (0.3 - 2.0 miles) (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="72949">
+                <coordinates>-87.762357,45.801242,0.0 -87.763604,45.801392,0.0 -87.76514,45.802118,0.0 -87.766543,45.802456,0.0 -87.768515,45.802576,0.0 -87.769489,45.802003,0.0 -87.770385,45.802057,0.0 -87.771702,45.801631,0.0 -87.773456,45.800599,0.0 -87.773892,45.799993,0.0 -87.774063,45.798611,0.0 -87.773424,45.79794,0.0 -87.773502,45.797312,0.0 -87.773922,45.796831,0.0 -87.777896,45.793909,0.0 -87.779368,45.792227,0.0 -87.783263,45.789858,0.0 -87.783465,45.789837,0.0 -87.783791,45.789746,0.0 -87.784085,45.789495,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="72952">
+            <name>Rapids?</name>
+            <styleUrl>#72953</styleUrl>
+            <Point id="72951">
+                <coordinates>-87.751342,45.804428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72957">
+            <name>Take Out</name>
+            <styleUrl>#72958</styleUrl>
+            <Point id="72956">
+                <coordinates>-87.78376,45.789114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72962">
+            <name>Put In</name>
+            <styleUrl>#72963</styleUrl>
+            <Point id="72961">
+                <coordinates>-87.762665,45.798675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72967">
+            <name>Sturgeon Rapids</name>
+            <styleUrl>#72968</styleUrl>
+            <Point id="72966">
+                <coordinates>-87.783514,45.789964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72972">
+            <name>Possible alternate put-in</name>
+            <styleUrl>#72973</styleUrl>
+            <Point id="72971">
+                <coordinates>-87.773008,45.797478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72977">
+            <name>Head of gradient</name>
+            <styleUrl>#72978</styleUrl>
+            <Point id="72976">
+                <coordinates>-87.776709,45.794793,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

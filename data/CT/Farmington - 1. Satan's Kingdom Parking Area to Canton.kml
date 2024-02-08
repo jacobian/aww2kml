@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="92557">
+        <Style id="92562">
+            <IconStyle id="92563">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="92564">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="92567">
+            <IconStyle id="92568">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="92569">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="92572">
+            <IconStyle id="92573">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="92574">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Farmington - 1. Satan's Kingdom Parking Area to Canton</name>
+        <Placemark id="92559">
+            <name>Farmington - 1. Satan's Kingdom Parking Area to Canton (I-II+(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="92558">
+                <coordinates>-72.958122,41.857888,0.0 -72.957934,41.85751,0.0 -72.957488,41.85698,0.0 -72.956943,41.856466,0.0 -72.956579,41.855956,0.0 -72.95658,41.855695,0.0 -72.956606,41.855127,0.0 -72.956932,41.854617,0.0 -72.956948,41.854096,0.0 -72.956942,41.853806,0.0 -72.956839,41.85363,0.0 -72.95683,41.853422,0.0 -72.95681,41.853074,0.0 -72.956688,41.852538,0.0 -72.956287,41.851511,0.0 -72.955994,41.850949,0.0 -72.955598,41.849772,0.0 -72.955401,41.84913,0.0 -72.954956,41.848995,0.0 -72.954622,41.848769,0.0 -72.954058,41.848469,0.0 -72.953743,41.848139,0.0 -72.953388,41.847588,0.0 -72.953223,41.846936,0.0 -72.953182,41.846529,0.0 -72.953138,41.845972,0.0 -72.95264,41.844572,0.0 -72.952411,41.843965,0.0 -72.952237,41.843105,0.0 -72.952028,41.842846,0.0 -72.951732,41.842667,0.0 -72.951007,41.842549,0.0 -72.949736,41.842793,0.0 -72.948794,41.842916,0.0 -72.947794,41.84317,0.0 -72.946363,41.843544,0.0 -72.9458,41.843476,0.0 -72.943911,41.84353,0.0 -72.942969,41.843408,0.0 -72.941338,41.843014,0.0 -72.939656,41.8423,0.0 -72.938887,41.842118,0.0 -72.938296,41.84169,0.0 -72.937891,41.841266,0.0 -72.936248,41.840297,0.0 -72.935083,41.839668,0.0 -72.933576,41.838806,0.0 -72.931932,41.837159,0.0 -72.930231,41.835807,0.0 -72.929322,41.834442,0.0 -72.929261,41.834353,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="92561">
+            <name>putin</name>
+            <styleUrl>#92562</styleUrl>
+            <Point id="92560">
+                <coordinates>-72.958,41.858002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92566">
+            <name>Take Out</name>
+            <styleUrl>#92567</styleUrl>
+            <Point id="92565">
+                <coordinates>-72.9289,41.8346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="92571">
+            <name>Put In</name>
+            <styleUrl>#92572</styleUrl>
+            <Point id="92570">
+                <coordinates>-72.9583,41.8578,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

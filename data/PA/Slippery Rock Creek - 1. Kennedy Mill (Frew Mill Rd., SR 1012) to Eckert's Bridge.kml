@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="102716">
+        <Style id="102721">
+            <IconStyle id="102722">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102723">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="102726">
+            <IconStyle id="102727">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102728">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="102731">
+            <IconStyle id="102732">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102733">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="102736">
+            <IconStyle id="102737">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102738">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="102741">
+            <IconStyle id="102742">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102743">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="102746">
+            <IconStyle id="102747">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102748">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="102751">
+            <IconStyle id="102752">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102753">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="102756">
+            <IconStyle id="102757">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102758">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="102761">
+            <IconStyle id="102762">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102763">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="102766">
+            <IconStyle id="102767">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102768">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="102771">
+            <IconStyle id="102772">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102773">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Slippery Rock Creek - 1. Kennedy Mill (Frew Mill Rd., SR 1012) to Eckert's Bridge</name>
+        <Placemark id="102718">
+            <name>Slippery Rock Creek - 1. Kennedy Mill (Frew Mill Rd., SR 1012) to Eckert's Bridge (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="102717">
+                <coordinates>-80.184349,40.991624,0.0 -80.184141,40.99137,0.0 -80.184046,40.991264,0.0 -80.183832,40.991054,0.0 -80.183702,40.990891,0.0 -80.183596,40.990775,0.0 -80.18353,40.990679,0.0 -80.183509,40.990515,0.0 -80.183587,40.9904,0.0 -80.183575,40.989907,0.0 -80.183551,40.98972,0.0 -80.183327,40.989302,0.0 -80.183137,40.98905,0.0 -80.183015,40.988771,0.0 -80.182598,40.988431,0.0 -80.182306,40.988134,0.0 -80.181904,40.987705,0.0 -80.181726,40.987187,0.0 -80.181641,40.986823,0.0 -80.181619,40.985723,0.0 -80.181298,40.984837,0.0 -80.181074,40.984075,0.0 -80.18067,40.983406,0.0 -80.180569,40.982944,0.0 -80.180485,40.98244,0.0 -80.180365,40.981978,0.0 -80.180226,40.981637,0.0 -80.180035,40.981174,0.0 -80.179944,40.980974,0.0 -80.179778,40.980731,0.0 -80.179745,40.980449,0.0 -80.179743,40.980226,0.0 -80.179755,40.980059,0.0 -80.179837,40.979963,0.0 -80.18013,40.979776,0.0 -80.180192,40.979638,0.0 -80.180556,40.978573,0.0 -80.180539,40.978309,0.0 -80.180247,40.977479,0.0 -80.180106,40.977139,0.0 -80.180109,40.976847,0.0 -80.180079,40.975941,0.0 -80.180103,40.974861,0.0 -80.180361,40.974169,0.0 -80.180848,40.973511,0.0 -80.181529,40.972207,0.0 -80.181683,40.971531,0.0 -80.181666,40.971237,0.0 -80.181584,40.970935,0.0 -80.181508,40.970774,0.0 -80.181281,40.970289,0.0 -80.181111,40.969846,0.0 -80.180858,40.969408,0.0 -80.180511,40.968993,0.0 -80.179915,40.968717,0.0 -80.179744,40.968637,0.0 -80.179372,40.968593,0.0 -80.179105,40.96846,0.0 -80.178842,40.96849,0.0 -80.178607,40.968566,0.0 -80.178454,40.968685,0.0 -80.178012,40.968735,0.0 -80.177308,40.968824,0.0 -80.176748,40.968901,0.0 -80.176218,40.968844,0.0 -80.175612,40.968772,0.0 -80.174959,40.968595,0.0 -80.174409,40.968529,0.0 -80.1741,40.968453,0.0 -80.173867,40.968316,0.0 -80.173416,40.968015,0.0 -80.172706,40.967424,0.0 -80.172339,40.967003,0.0 -80.171987,40.966457,0.0 -80.171564,40.966078,0.0 -80.171431,40.965732,0.0 -80.171372,40.964906,0.0 -80.171365,40.964384,0.0 -80.171316,40.963876,0.0 -80.171087,40.963467,0.0 -80.170884,40.963121,0.0 -80.170614,40.96268,0.0 -80.17033,40.96226,0.0 -80.170155,40.961934,0.0 -80.170075,40.961683,0.0 -80.170123,40.961192,0.0 -80.170211,40.960764,0.0 -80.17001,40.960261,0.0 -80.169932,40.959916,0.0 -80.169867,40.959586,0.0 -80.170025,40.959054,0.0 -80.170223,40.9587,0.0 -80.170577,40.957919,0.0 -80.171056,40.957117,0.0 -80.171132,40.956533,0.0 -80.170837,40.955914,0.0 -80.170513,40.955352,0.0 -80.170275,40.954577,0.0 -80.170158,40.953949,0.0 -80.170166,40.95348,0.0 -80.170166,40.953196,0.0 -80.170244,40.952937,0.0 -80.170331,40.95279,0.0 -80.170409,40.952675,0.0 -80.170618,40.952404,0.0 -80.170835,40.952053,0.0 -80.170957,40.951761,0.0 -80.171455,40.95046,0.0 -80.171544,40.95025,0.0 -80.171692,40.950041,0.0 -80.171823,40.949884,0.0 -80.172012,40.949684,0.0 -80.172194,40.949462,0.0 -80.172482,40.949134,0.0 -80.172672,40.948893,0.0 -80.172804,40.948657,0.0 -80.173222,40.947842,0.0 -80.173348,40.947563,0.0 -80.173499,40.947028,0.0 -80.173632,40.946475,0.0 -80.173833,40.946099,0.0 -80.173887,40.945727,0.0 -80.173933,40.945418,0.0 -80.17412,40.945031,0.0 -80.174349,40.944697,0.0 -80.174698,40.944277,0.0 -80.174902,40.943746,0.0 -80.175123,40.943391,0.0 -80.175409,40.942999,0.0 -80.175793,40.942608,0.0 -80.175844,40.942443,0.0 -80.176163,40.941655,0.0 -80.176282,40.941139,0.0 -80.176267,40.940655,0.0 -80.17641,40.940443,0.0 -80.176534,40.940329,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="102720">
+            <name>Rose Point Putin (I)</name>
+            <styleUrl>#102721</styleUrl>
+            <Point id="102719">
+                <coordinates>-80.181992,40.971729,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102725">
+            <name>Triple Drop (II+)</name>
+            <styleUrl>#102726</styleUrl>
+            <Point id="102724">
+                <coordinates>-80.172211,40.94949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102730">
+            <name>Maytag (II+)</name>
+            <styleUrl>#102731</styleUrl>
+            <Point id="102729">
+                <coordinates>-80.170731,40.955559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102735">
+            <name>Rte. 422 putin (None)</name>
+            <styleUrl>#102736</styleUrl>
+            <Point id="102734">
+                <coordinates>-80.180061,40.96983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102740">
+            <name>Gib's Nemesis (II)</name>
+            <styleUrl>#102741</styleUrl>
+            <Point id="102739">
+                <coordinates>-80.174393,40.944469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102745">
+            <name>Airport (II+)</name>
+            <styleUrl>#102746</styleUrl>
+            <Point id="102744">
+                <coordinates>-80.170067,40.961411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102750">
+            <name>McConnell's Mill (Dam) (None)</name>
+            <styleUrl>#102751</styleUrl>
+            <Point id="102749">
+                <coordinates>-80.169579,40.954151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102755">
+            <name>Ranger Station (None)</name>
+            <styleUrl>#102756</styleUrl>
+            <Point id="102754">
+                <coordinates>-80.171318,40.966301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102760">
+            <name>Frew Mill (aka Kennedy Mill) (III)</name>
+            <styleUrl>#102761</styleUrl>
+            <Point id="102759">
+                <coordinates>-80.184662,40.991982,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102765">
+            <name>Eckert's Bridge (None)</name>
+            <styleUrl>#102766</styleUrl>
+            <Point id="102764">
+                <coordinates>-80.17617,40.940449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="102770">
+            <name>Martin's Ledge (II)</name>
+            <styleUrl>#102771</styleUrl>
+            <Point id="102769">
+                <coordinates>-80.176201,40.9422,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

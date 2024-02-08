@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="58622">
+        <Style id="58627">
+            <IconStyle id="58628">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58629">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58632">
+            <IconStyle id="58633">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58634">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58637">
+            <IconStyle id="58638">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58639">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58642">
+            <IconStyle id="58643">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58644">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58647">
+            <IconStyle id="58648">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58649">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58652">
+            <IconStyle id="58653">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58654">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58657">
+            <IconStyle id="58658">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58659">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58662">
+            <IconStyle id="58663">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58664">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58667">
+            <IconStyle id="58668">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58669">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58672">
+            <IconStyle id="58673">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58674">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58677">
+            <IconStyle id="58678">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58679">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58682">
+            <IconStyle id="58683">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58684">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58687">
+            <IconStyle id="58688">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58689">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58692">
+            <IconStyle id="58693">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58694">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58697">
+            <IconStyle id="58698">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58699">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58702">
+            <IconStyle id="58703">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58704">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58707">
+            <IconStyle id="58708">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58709">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58712">
+            <IconStyle id="58713">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58714">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58717">
+            <IconStyle id="58718">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58719">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58722">
+            <IconStyle id="58723">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58724">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Tyler Forks - A) Moore Park to Vogues Rd (up to 8.5 miles)</name>
+        <Placemark id="58624">
+            <name>Tyler Forks - A) Moore Park to Vogues Rd (up to 8.5 miles) (II-III+(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="58623">
+                <coordinates>-90.486268,46.335816,0.0 -90.486286,46.336081,0.0 -90.48655,46.33631,0.0 -90.487111,46.336309,0.0 -90.488067,46.336125,0.0 -90.488595,46.336148,0.0 -90.488793,46.336239,0.0 -90.489454,46.336695,0.0 -90.489851,46.337198,0.0 -90.489852,46.337632,0.0 -90.489456,46.337746,0.0 -90.488764,46.33793,0.0 -90.488665,46.338158,0.0 -90.488666,46.338524,0.0 -90.488897,46.338638,0.0 -90.48959,46.338797,0.0 -90.490053,46.339185,0.0 -90.489987,46.339345,0.0 -90.489822,46.339391,0.0 -90.489064,46.33946,0.0 -90.488075,46.340033,0.0 -90.48768,46.34033,0.0 -90.48768,46.340627,0.0 -90.487945,46.34081,0.0 -90.488177,46.341312,0.0 -90.488244,46.341906,0.0 -90.488509,46.342477,0.0 -90.488839,46.342797,0.0 -90.489368,46.343184,0.0 -90.49158,46.343891,0.0 -90.492208,46.344347,0.0 -90.492373,46.344667,0.0 -90.492408,46.345238,0.0 -90.49254,46.345352,0.0 -90.493398,46.34542,0.0 -90.493662,46.345671,0.0 -90.493828,46.345899,0.0 -90.493862,46.346402,0.0 -90.494391,46.347132,0.0 -90.494394,46.348458,0.0 -90.494164,46.348801,0.0 -90.494131,46.349075,0.0 -90.494297,46.349235,0.0 -90.494396,46.349554,0.0 -90.494727,46.350034,0.0 -90.494859,46.350102,0.0 -90.495223,46.350536,0.0 -90.49529,46.35097,0.0 -90.494995,46.351679,0.0 -90.494995,46.352022,0.0 -90.495128,46.352113,0.0 -90.49592,46.352135,0.0 -90.49658,46.352248,0.0 -90.496811,46.352385,0.0 -90.496977,46.352682,0.0 -90.496977,46.352796,0.0 -90.497076,46.352842,0.0 -90.497109,46.352933,0.0 -90.497803,46.353115,0.0 -90.497902,46.353207,0.0 -90.497804,46.353527,0.0 -90.497771,46.353801,0.0 -90.498036,46.354006,0.0 -90.49929,46.354188,0.0 -90.499653,46.354393,0.0 -90.500181,46.354392,0.0 -90.500449,46.354404,0.0 -90.500977,46.354656,0.0 -90.501075,46.354748,0.0 -90.501041,46.355342,0.0 -90.500809,46.355707,0.0 -90.500412,46.356072,0.0 -90.500313,46.356255,0.0 -90.500345,46.35678,0.0 -90.500187,46.356814,0.0 -90.499989,46.356929,0.0 -90.499396,46.357592,0.0 -90.499464,46.358346,0.0 -90.499135,46.358712,0.0 -90.498476,46.359147,0.0 -90.497685,46.359582,0.0 -90.497124,46.359742,0.0 -90.496233,46.359743,0.0 -90.496002,46.359812,0.0 -90.496036,46.360132,0.0 -90.496135,46.360292,0.0 -90.496168,46.360566,0.0 -90.495906,46.361069,0.0 -90.495907,46.361617,0.0 -90.496304,46.362302,0.0 -90.497131,46.363284,0.0 -90.497562,46.363763,0.0 -90.498124,46.364448,0.0 -90.498885,46.365178,0.0 -90.498853,46.365521,0.0 -90.498754,46.365796,0.0 -90.499217,46.366046,0.0 -90.499547,46.366343,0.0 -90.500174,46.366205,0.0 -90.500455,46.366126,0.0 -90.50095,46.366149,0.0 -90.50128,46.366241,0.0 -90.501676,46.366196,0.0 -90.501841,46.366059,0.0 -90.501841,46.36599,0.0 -90.502007,46.365739,0.0 -90.502667,46.365854,0.0 -90.503063,46.365763,0.0 -90.503327,46.365695,0.0 -90.503657,46.365718,0.0 -90.503789,46.36581,0.0 -90.503755,46.366358,0.0 -90.504217,46.366473,0.0 -90.504447,46.366633,0.0 -90.505173,46.366679,0.0 -90.50547,46.366931,0.0 -90.505998,46.367069,0.0 -90.506658,46.367092,0.0 -90.506955,46.367001,0.0 -90.50712,46.367001,0.0 -90.507219,46.367139,0.0 -90.507152,46.367527,0.0 -90.507416,46.36771,0.0 -90.50824,46.368008,0.0 -90.508504,46.368191,0.0 -90.508668,46.368397,0.0 -90.508767,46.368671,0.0 -90.508733,46.369082,0.0 -90.508368,46.369722,0.0 -90.508433,46.370179,0.0 -90.508598,46.37043,0.0 -90.509026,46.370842,0.0 -90.509092,46.371002,0.0 -90.509058,46.371368,0.0 -90.508429,46.372281,0.0 -90.508065,46.372509,0.0 -90.507503,46.372737,0.0 -90.507305,46.373034,0.0 -90.507303,46.373628,0.0 -90.507237,46.373788,0.0 -90.506113,46.374449,0.0 -90.505914,46.374746,0.0 -90.505881,46.374951,0.0 -90.506078,46.375363,0.0 -90.505977,46.376094,0.0 -90.505812,46.376414,0.0 -90.505744,46.376916,0.0 -90.505513,46.377076,0.0 -90.504885,46.377167,0.0 -90.504258,46.377395,0.0 -90.503893,46.377874,0.0 -90.503794,46.378125,0.0 -90.50409,46.378423,0.0 -90.504553,46.378332,0.0 -90.505247,46.377898,0.0 -90.505577,46.377944,0.0 -90.506039,46.378105,0.0 -90.506105,46.378219,0.0 -90.50607,46.37879,0.0 -90.505937,46.379384,0.0 -90.505705,46.379932,0.0 -90.50544,46.380161,0.0 -90.505109,46.380503,0.0 -90.504745,46.3808,0.0 -90.503952,46.381301,0.0 -90.503687,46.381598,0.0 -90.503585,46.382718,0.0 -90.503386,46.383266,0.0 -90.503418,46.383791,0.0 -90.503648,46.384248,0.0 -90.503614,46.38466,0.0 -90.503216,46.385208,0.0 -90.503149,46.385573,0.0 -90.503676,46.386145,0.0 -90.503808,46.386351,0.0 -90.503841,46.386396,0.0 -90.503939,46.386671,0.0 -90.503873,46.386853,0.0 -90.503542,46.387104,0.0 -90.502287,46.387354,0.0 -90.502088,46.387583,0.0 -90.501989,46.387788,0.0 -90.501986,46.388794,0.0 -90.502118,46.388931,0.0 -90.502117,46.389159,0.0 -90.502249,46.389365,0.0 -90.503271,46.390212,0.0 -90.503369,46.390395,0.0 -90.503369,46.390669,0.0 -90.502939,46.390805,0.0 -90.502443,46.390942,0.0 -90.502443,46.391102,0.0 -90.502937,46.391582,0.0 -90.502936,46.392062,0.0 -90.502903,46.392313,0.0 -90.502637,46.392724,0.0 -90.502637,46.393067,0.0 -90.502735,46.39325,0.0 -90.502768,46.39357,0.0 -90.502765,46.394484,0.0 -90.502632,46.394963,0.0 -90.502466,46.395352,0.0 -90.5023,46.395626,0.0 -90.502101,46.396037,0.0 -90.5021,46.396539,0.0 -90.502265,46.3967,0.0 -90.502892,46.3967,0.0 -90.503619,46.396587,0.0 -90.504313,46.39661,0.0 -90.504775,46.396725,0.0 -90.505137,46.396931,0.0 -90.50517,46.397091,0.0 -90.505168,46.398005,0.0 -90.505465,46.398303,0.0 -90.505993,46.398212,0.0 -90.507415,46.397459,0.0 -90.507679,46.39746,0.0 -90.507943,46.397528,0.0 -90.508141,46.397666,0.0 -90.508073,46.398374,0.0 -90.507974,46.398465,0.0 -90.507907,46.398854,0.0 -90.508002,46.400636,0.0 -90.508266,46.400956,0.0 -90.508233,46.401025,0.0 -90.509057,46.401665,0.0 -90.510376,46.402375,0.0 -90.511861,46.402993,0.0 -90.512125,46.403131,0.0 -90.513775,46.403772,0.0 -90.514237,46.404184,0.0 -90.514335,46.404435,0.0 -90.514302,46.404755,0.0 -90.514401,46.404801,0.0 -90.514499,46.405007,0.0 -90.514796,46.405464,0.0 -90.515026,46.405716,0.0 -90.515422,46.406196,0.0 -90.516114,46.406836,0.0 -90.516543,46.40718,0.0 -90.517037,46.407431,0.0 -90.517499,46.407775,0.0 -90.517598,46.407935,0.0 -90.517563,46.408711,0.0 -90.517397,46.409465,0.0 -90.517264,46.409739,0.0 -90.516735,46.410013,0.0 -90.516305,46.410172,0.0 -90.51614,46.410355,0.0 -90.51604,46.410606,0.0 -90.515643,46.41088,0.0 -90.514585,46.411267,0.0 -90.514452,46.411473,0.0 -90.514485,46.411816,0.0 -90.51488,46.412433,0.0 -90.515276,46.412571,0.0 -90.516201,46.412617,0.0 -90.516531,46.412892,0.0 -90.516695,46.413098,0.0 -90.516716,46.413404,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="58626">
+            <name>Wren Falls (IV)</name>
+            <styleUrl>#58627</styleUrl>
+            <Point id="58625">
+                <coordinates>-90.506836,46.397774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58631">
+            <name>Dells (III+)</name>
+            <styleUrl>#58632</styleUrl>
+            <Point id="58630">
+                <coordinates>-90.486397,46.335701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58636">
+            <name>Take Out</name>
+            <styleUrl>#58637</styleUrl>
+            <Point id="58635">
+                <coordinates>-90.5168,46.413399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58641">
+            <name>Confluence, Erickson Creek</name>
+            <styleUrl>#58642</styleUrl>
+            <Point id="58640">
+                <coordinates>-90.498596,46.3657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58646">
+            <name>Prelude to Third Movement</name>
+            <styleUrl>#58647</styleUrl>
+            <Point id="58645">
+                <coordinates>-90.501137,46.35527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58651">
+            <name>Third Movement</name>
+            <styleUrl>#58652</styleUrl>
+            <Point id="58650">
+                <coordinates>-90.499458,46.357811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58656">
+            <name>Light boulderbed</name>
+            <styleUrl>#58657</styleUrl>
+            <Point id="58655">
+                <coordinates>-90.502701,46.393291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58661">
+            <name>Hwy.77 / USGS sampling site</name>
+            <styleUrl>#58662</styleUrl>
+            <Point id="58660">
+                <coordinates>-90.494446,46.347221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58666">
+            <name>First ledge (III)</name>
+            <styleUrl>#58667</styleUrl>
+            <Point id="58665">
+                <coordinates>-90.494598,46.348202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58671">
+            <name>Second ledge/slide (III)</name>
+            <styleUrl>#58672</styleUrl>
+            <Point id="58670">
+                <coordinates>-90.494202,46.347301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58676">
+            <name>Slide (III)</name>
+            <styleUrl>#58677</styleUrl>
+            <Point id="58675">
+                <coordinates>-90.496323,46.36071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58681">
+            <name>Zig-Zag Chutes (II+)</name>
+            <styleUrl>#58682</styleUrl>
+            <Point id="58680">
+                <coordinates>-90.495796,46.361599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58686">
+            <name>Chute (II+)</name>
+            <styleUrl>#58687</styleUrl>
+            <Point id="58685">
+                <coordinates>-90.509102,46.371498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58691">
+            <name>Tripping Ledges (II+)</name>
+            <styleUrl>#58692</styleUrl>
+            <Point id="58690">
+                <coordinates>-90.506203,46.375401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58696">
+            <name>Confluence, Javorsky Creek</name>
+            <styleUrl>#58697</styleUrl>
+            <Point id="58695">
+                <coordinates>-90.507301,46.367001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58701">
+            <name>Rocky Outcropping</name>
+            <styleUrl>#58702</styleUrl>
+            <Point id="58700">
+                <coordinates>-90.505798,46.3979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58706">
+            <name>Tailfeathers (II+)</name>
+            <styleUrl>#58707</styleUrl>
+            <Point id="58705">
+                <coordinates>-90.507858,46.397518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58711">
+            <name>Rocky Chute (III)</name>
+            <styleUrl>#58712</styleUrl>
+            <Point id="58710">
+                <coordinates>-90.508217,46.401279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58716">
+            <name>Last Hurrah</name>
+            <styleUrl>#58717</styleUrl>
+            <Point id="58715">
+                <coordinates>-90.510147,46.40234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58721">
+            <name>Moore Road</name>
+            <styleUrl>#58722</styleUrl>
+            <Point id="58720">
+                <coordinates>-90.488899,46.338001,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

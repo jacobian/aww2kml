@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55151">
+        <Style id="55156">
+            <IconStyle id="55157">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55158">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55161">
+            <IconStyle id="55162">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55163">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Menominee - C) Pemene Falls (0.2 miles) *Fee Area*</name>
+        <Placemark id="55153">
+            <name>Menominee - C) Pemene Falls (0.2 miles) *Fee Area* (IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="55152">
+                <coordinates>-87.777155,45.594332,0.0 -87.777178,45.594146,0.0 -87.777178,45.594146,0.0 -87.77724,45.593642,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="55155">
+            <name>Put In</name>
+            <styleUrl>#55156</styleUrl>
+            <Point id="55154">
+                <coordinates>-87.776398,45.5933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55160">
+            <name>Take Out</name>
+            <styleUrl>#55161</styleUrl>
+            <Point id="55159">
+                <coordinates>-87.776398,45.5933,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

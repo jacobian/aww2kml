@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="89639">
+        <Style id="89644">
+            <IconStyle id="89645">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89646">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89649">
+            <IconStyle id="89650">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89651">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Hudson - 4. Spier Falls to Sherman Island</name>
+        <Placemark id="89641">
+            <name>Hudson - 4. Spier Falls to Sherman Island (I-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="89640">
+                <coordinates>-73.76331,43.226292,0.0 -73.761503,43.229986,0.0 -73.761031,43.23095,0.0 -73.756816,43.233923,0.0 -73.756364,43.234035,0.0 -73.756242,43.234075,0.0 -73.756043,43.234154,0.0 -73.755883,43.234218,0.0 -73.755311,43.234637,0.0 -73.754074,43.235424,0.0 -73.753472,43.235806,0.0 -73.749563,43.238417,0.0 -73.749566,43.238718,0.0 -73.747663,43.24031,0.0 -73.745617,43.241639,0.0 -73.745196,43.241913,0.0 -73.744358,43.242764,0.0 -73.743088,43.244087,0.0 -73.742985,43.244209,0.0 -73.742323,43.244994,0.0 -73.741238,43.24685,0.0 -73.741222,43.246864,0.0 -73.740953,43.247378,0.0 -73.741074,43.247508,0.0 -73.741118,43.247765,0.0 -73.74116,43.248095,0.0 -73.741228,43.248334,0.0 -73.741123,43.248571,0.0 -73.74104,43.248972,0.0 -73.740984,43.249247,0.0 -73.740831,43.24941,0.0 -73.740491,43.249641,0.0 -73.74044,43.250072,0.0 -73.740336,43.250074,0.0 -73.740279,43.250498,0.0 -73.739977,43.250963,0.0 -73.739714,43.25137,0.0 -73.737924,43.253837,0.0 -73.737517,43.256432,0.0 -73.73923,43.259348,0.0 -73.739958,43.262032,0.0 -73.740062,43.263938,0.0 -73.739835,43.26518,0.0 -73.738913,43.266523,0.0 -73.738983,43.266557,0.0 -73.737755,43.267351,0.0 -73.736408,43.267809,0.0 -73.736158,43.267952,0.0 -73.734726,43.268886,0.0 -73.733699,43.269385,0.0 -73.732321,43.270118,0.0 -73.731894,43.270271,0.0 -73.7306,43.270736,0.0 -73.728958,43.271117,0.0 -73.726369,43.271816,0.0 -73.72473,43.27205,0.0 -73.722187,43.272719,0.0 -73.720865,43.272171,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="89643">
+            <name>Take Out</name>
+            <styleUrl>#89644</styleUrl>
+            <Point id="89642">
+                <coordinates>-73.7207,43.2707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89648">
+            <name>Put In</name>
+            <styleUrl>#89649</styleUrl>
+            <Point id="89647">
+                <coordinates>-73.7621,43.2257,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56668">
+        <Style id="56673">
+            <IconStyle id="56674">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56675">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56678">
+            <IconStyle id="56679">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56680">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Malad (aka Big Wood) - 3. Devil's Washbowl</name>
+        <Placemark id="56670">
+            <name>Malad (aka Big Wood) - 3. Devil's Washbowl (V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="56669">
+                <coordinates>-114.849997,42.867817,0.0 -114.850277,42.867845,0.0 -114.850523,42.86784,0.0 -114.850605,42.867845,0.0 -114.850687,42.867834,0.0 -114.850859,42.86784,0.0 -114.852022,42.867779,0.0 -114.852716,42.867729,0.0 -114.852798,42.867735,0.0 -114.853015,42.867724,0.0 -114.854007,42.867745,0.0 -114.854283,42.867712,0.0 -114.854633,42.867657,0.0 -114.855473,42.867498,0.0 -114.856413,42.867169,0.0 -114.856834,42.867006,0.0 -114.858596,42.866709,0.0 -114.859007,42.866605,0.0 -114.859471,42.866411,0.0 -114.860123,42.865925,0.0 -114.860888,42.865605,0.0 -114.86174,42.865361,0.0 -114.862595,42.864927,0.0 -114.862775,42.864853,0.0 -114.863233,42.864797,0.0 -114.864101,42.864878,0.0 -114.865946,42.865065,0.0 -114.86785,42.865008,0.0 -114.868451,42.865033,0.0 -114.868954,42.865204,0.0 -114.869046,42.865376,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="56672">
+            <name>Take Out</name>
+            <styleUrl>#56673</styleUrl>
+            <Point id="56671">
+                <coordinates>-114.869003,42.865398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56677">
+            <name>Put In</name>
+            <styleUrl>#56678</styleUrl>
+            <Point id="56676">
+                <coordinates>-114.849998,42.867802,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

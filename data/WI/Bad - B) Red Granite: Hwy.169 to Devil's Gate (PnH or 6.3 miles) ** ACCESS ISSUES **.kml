@@ -1,84 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="25251">
+    <Document id="42381">
+        <Style id="42386">
+            <IconStyle id="42387">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42388">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42391">
+            <IconStyle id="42392">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42393">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42396">
+            <IconStyle id="42397">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42398">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42401">
+            <IconStyle id="42402">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42403">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42406">
+            <IconStyle id="42407">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42408">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42411">
+            <IconStyle id="42412">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42413">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42416">
+            <IconStyle id="42417">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42418">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42421">
+            <IconStyle id="42422">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42423">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42426">
+            <IconStyle id="42427">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42428">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42431">
+            <IconStyle id="42432">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42433">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Bad - B) Red Granite: Hwy.169 to Devil's Gate (PnH or 6.3 miles) ** ACCESS ISSUES **</name>
-        <Placemark id="25253">
-            <name>Bad - B) Red Granite: Hwy.169 to Devil's Gate (PnH or 6.3 miles) ** ACCESS ISSUES **</name>
+        <Placemark id="42383">
+            <name>Bad - B) Red Granite: Hwy.169 to Devil's Gate (PnH or 6.3 miles) ** ACCESS ISSUES ** (III-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="25252">
+            <LineString id="42382">
                 <coordinates>-90.660337,46.349579,0.0 -90.6601,46.349743,0.0 -90.659902,46.349972,0.0 -90.659605,46.350657,0.0 -90.658847,46.351937,0.0 -90.658517,46.352691,0.0 -90.658551,46.353445,0.0 -90.658881,46.353628,0.0 -90.659277,46.353559,0.0 -90.659574,46.353285,0.0 -90.659705,46.352965,0.0 -90.660002,46.352668,0.0 -90.660233,46.352599,0.0 -90.660695,46.352599,0.0 -90.66152,46.352736,0.0 -90.661784,46.352987,0.0 -90.661752,46.353581,0.0 -90.661587,46.35413,0.0 -90.661488,46.354518,0.0 -90.661456,46.355113,0.0 -90.661324,46.355318,0.0 -90.661324,46.355592,0.0 -90.661192,46.356027,0.0 -90.660995,46.356758,0.0 -90.660863,46.357626,0.0 -90.661127,46.358243,0.0 -90.66159,46.358951,0.0 -90.661821,46.359591,0.0 -90.661854,46.359682,0.0 -90.661954,46.359865,0.0 -90.662086,46.359979,0.0 -90.662251,46.360322,0.0 -90.662581,46.360299,0.0 -90.662911,46.360185,0.0 -90.663373,46.359613,0.0 -90.6639,46.359225,0.0 -90.664692,46.358653,0.0 -90.665187,46.358493,0.0 -90.665715,46.358653,0.0 -90.666475,46.359224,0.0 -90.666508,46.359453,0.0 -90.667069,46.359704,0.0 -90.667696,46.359818,0.0 -90.668026,46.360046,0.0 -90.668225,46.36032,0.0 -90.66839,46.360686,0.0 -90.668357,46.361097,0.0 -90.668127,46.361668,0.0 -90.667863,46.362057,0.0 -90.667368,46.362491,0.0 -90.666675,46.362743,0.0 -90.66618,46.36272,0.0 -90.665751,46.362515,0.0 -90.665124,46.362492,0.0 -90.663804,46.362835,0.0 -90.663375,46.363087,0.0 -90.663375,46.363407,0.0 -90.66529,46.365074,0.0 -90.665918,46.365759,0.0 -90.665918,46.366125,0.0 -90.665753,46.366239,0.0 -90.665192,46.366239,0.0 -90.663014,46.365897,0.0 -90.662386,46.365943,0.0 -90.661693,46.366126,0.0 -90.660142,46.366172,0.0 -90.65694,46.366653,0.0 -90.656181,46.366973,0.0 -90.655819,46.367293,0.0 -90.655357,46.367887,0.0 -90.654202,46.368162,0.0 -90.653772,46.36823,0.0 -90.653046,46.368116,0.0 -90.65265,46.367774,0.0 -90.652518,46.367659,0.0 -90.652484,46.366928,0.0 -90.652286,46.366585,0.0 -90.652055,46.366357,0.0 -90.651395,46.366197,0.0 -90.649976,46.366243,0.0 -90.649316,46.36638,0.0 -90.648358,46.366769,0.0 -90.648028,46.367089,0.0 -90.64783,46.367386,0.0 -90.647765,46.367706,0.0 -90.647633,46.368231,0.0 -90.647336,46.369237,0.0 -90.647039,46.369831,0.0 -90.646676,46.370242,0.0 -90.646148,46.370562,0.0 -90.645422,46.370768,0.0 -90.645191,46.371179,0.0 -90.645092,46.371385,0.0 -90.645059,46.371819,0.0 -90.644828,46.372253,0.0 -90.644663,46.372413,0.0 -90.643303,46.372414,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="25255">
+        <Placemark id="42385">
             <name>Bad River Canyon</name>
-            <Point id="25254">
+            <styleUrl>#42386</styleUrl>
+            <Point id="42384">
                 <coordinates>-90.639,46.374001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25257">
+        <Placemark id="42390">
             <name>Red Granite Falls (IV+)</name>
-            <Point id="25256">
+            <styleUrl>#42391</styleUrl>
+            <Point id="42389">
                 <coordinates>-90.662262,46.345493,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25259">
+        <Placemark id="42395">
             <name>Devil's Gate Footbridge: 213 sq.mi.</name>
-            <Point id="25258">
+            <styleUrl>#42396</styleUrl>
+            <Point id="42394">
                 <coordinates>-90.641998,46.376999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25261">
+        <Placemark id="42400">
             <name>Put-in (actually, parking for access)</name>
-            <Point id="25260">
+            <styleUrl>#42401</styleUrl>
+            <Point id="42399">
                 <coordinates>-90.660004,46.348999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25263">
+        <Placemark id="42405">
             <name>Copper Falls (IV+)</name>
-            <Point id="25262">
+            <styleUrl>#42406</styleUrl>
+            <Point id="42404">
                 <coordinates>-90.639999,46.373001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25265">
+        <Placemark id="42410">
             <name>Take Out</name>
-            <Point id="25264">
+            <styleUrl>#42411</styleUrl>
+            <Point id="42409">
                 <coordinates>-90.643303,46.372002,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25267">
+        <Placemark id="42415">
             <name>Put In</name>
-            <Point id="25266">
+            <styleUrl>#42416</styleUrl>
+            <Point id="42414">
                 <coordinates>-90.660004,46.349098,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25269">
+        <Placemark id="42420">
             <name>Footbridge</name>
-            <Point id="25268">
+            <styleUrl>#42421</styleUrl>
+            <Point id="42419">
                 <coordinates>-90.640999,46.372002,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25271">
+        <Placemark id="42425">
             <name>Hwy.169: 105.5 sq.mi.</name>
-            <Point id="25270">
+            <styleUrl>#42426</styleUrl>
+            <Point id="42424">
                 <coordinates>-90.652,46.334999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25273">
+        <Placemark id="42430">
             <name>Confluence, Tyler Forks</name>
-            <Point id="25272">
+            <styleUrl>#42431</styleUrl>
+            <Point id="42429">
                 <coordinates>-90.638,46.375,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25275">
-            <name>Put in</name>
-            <Point id="25274">
-                <coordinates>-90.660004,46.349098,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25277">
-            <name>Take out</name>
-            <Point id="25276">
-                <coordinates>-90.643303,46.372002,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

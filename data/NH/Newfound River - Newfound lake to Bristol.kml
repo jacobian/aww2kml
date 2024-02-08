@@ -1,60 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="20585">
+    <Document id="34697">
+        <Style id="34702">
+            <IconStyle id="34703">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34704">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34707">
+            <IconStyle id="34708">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34709">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34712">
+            <IconStyle id="34713">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34714">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34717">
+            <IconStyle id="34718">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34719">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34722">
+            <IconStyle id="34723">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34724">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34727">
+            <IconStyle id="34728">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34729">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Newfound River - Newfound lake to Bristol</name>
-        <Placemark id="20587">
-            <name>Newfound River - Newfound lake to Bristol</name>
+        <Placemark id="34699">
+            <name>Newfound River - Newfound lake to Bristol (II-III+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="20586">
+            <LineString id="34698">
                 <coordinates>-71.740688,43.61728,0.0 -71.740853,43.617169,0.0 -71.74114,43.61704,0.0 -71.741359,43.616986,0.0 -71.741578,43.616832,0.0 -71.741698,43.61668,0.0 -71.741834,43.616457,0.0 -71.742136,43.616157,0.0 -71.742347,43.615972,0.0 -71.742588,43.615678,0.0 -71.742702,43.615486,0.0 -71.742701,43.61536,0.0 -71.742542,43.615188,0.0 -71.741674,43.614624,0.0 -71.741568,43.614473,0.0 -71.741469,43.61425,0.0 -71.741424,43.614004,0.0 -71.741439,43.613805,0.0 -71.741597,43.613459,0.0 -71.7418,43.613103,0.0 -71.742065,43.612805,0.0 -71.742313,43.612479,0.0 -71.742736,43.612163,0.0 -71.744125,43.611994,0.0 -71.744298,43.611932,0.0 -71.744487,43.611832,0.0 -71.744676,43.61167,0.0 -71.744781,43.611533,0.0 -71.744857,43.611342,0.0 -71.744879,43.611026,0.0 -71.745128,43.610548,0.0 -71.745173,43.610317,0.0 -71.74515,43.610227,0.0 -71.745063,43.609779,0.0 -71.744968,43.609615,0.0 -71.744722,43.609437,0.0 -71.744344,43.609245,0.0 -71.744061,43.609039,0.0 -71.744061,43.609012,0.0 -71.743721,43.608614,0.0 -71.743305,43.608313,0.0 -71.743211,43.608258,0.0 -71.743097,43.608258,0.0 -71.742927,43.608148,0.0 -71.742776,43.608149,0.0 -71.742209,43.607765,0.0 -71.742153,43.607655,0.0 -71.742134,43.607532,0.0 -71.742058,43.607463,0.0 -71.742001,43.607148,0.0 -71.741869,43.607011,0.0 -71.741877,43.606795,0.0 -71.741953,43.606518,0.0 -71.74202,43.605967,0.0 -71.742065,43.605786,0.0 -71.742193,43.605518,0.0 -71.742495,43.605105,0.0 -71.742864,43.604664,0.0 -71.743158,43.604427,0.0 -71.74392,43.604067,0.0 -71.744072,43.603978,0.0 -71.744735,43.603431,0.0 -71.744893,43.603278,0.0 -71.744991,43.603204,0.0 -71.74512,43.602998,0.0 -71.745081,43.602806,0.0 -71.745134,43.602471,0.0 -71.745126,43.602314,0.0 -71.745285,43.602022,0.0 -71.745616,43.601654,0.0 -71.746039,43.60136,0.0 -71.746378,43.601172,0.0 -71.746567,43.600978,0.0 -71.746618,43.600944,0.0 -71.746674,43.600848,0.0 -71.746712,43.600615,0.0 -71.746787,43.600396,0.0 -71.746862,43.600286,0.0 -71.746994,43.60019,0.0 -71.747183,43.600135,0.0 -71.747542,43.600134,0.0 -71.747774,43.600278,0.0 -71.748151,43.600422,0.0 -71.748287,43.600437,0.0 -71.748702,43.600576,0.0 -71.749019,43.600581,0.0 -71.749291,43.600494,0.0 -71.749336,43.600367,0.0 -71.749374,43.600123,0.0 -71.749306,43.599827,0.0 -71.748663,43.599226,0.0 -71.748452,43.598934,0.0 -71.748179,43.5984,0.0 -71.747967,43.597811,0.0 -71.74799,43.597626,0.0 -71.748133,43.597497,0.0 -71.748525,43.597393,0.0 -71.74888,43.597362,0.0 -71.749272,43.597235,0.0 -71.749333,43.597144,0.0 -71.749385,43.596989,0.0 -71.749287,43.596672,0.0 -71.749324,43.596446,0.0 -71.749324,43.596298,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="20589">
+        <Placemark id="34701">
             <name>Riverdale (II)</name>
-            <Point id="20588">
+            <styleUrl>#34702</styleUrl>
+            <Point id="34700">
                 <coordinates>-71.741539,43.613911,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20591">
+        <Placemark id="34706">
             <name>Put in (None)</name>
-            <Point id="20590">
+            <styleUrl>#34707</styleUrl>
+            <Point id="34705">
                 <coordinates>-71.740761,43.61734,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20593">
+        <Placemark id="34711">
             <name>Old Nate (II+)</name>
-            <Point id="20592">
+            <styleUrl>#34712</styleUrl>
+            <Point id="34710">
                 <coordinates>-71.749283,43.595959,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20595">
+        <Placemark id="34716">
             <name>First dam (III)</name>
-            <Point id="20594">
+            <styleUrl>#34717</styleUrl>
+            <Point id="34715">
                 <coordinates>-71.742043,43.606758,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20597">
+        <Placemark id="34721">
             <name>Broken Paddle (III)</name>
-            <Point id="20596">
+            <styleUrl>#34722</styleUrl>
+            <Point id="34720">
                 <coordinates>-71.742401,43.605339,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20599">
+        <Placemark id="34726">
             <name>Old Mill (III+)</name>
-            <Point id="20598">
+            <styleUrl>#34727</styleUrl>
+            <Point id="34725">
                 <coordinates>-71.744682,43.603561,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="20601">
-            <name>Put in</name>
-            <Point id="20600">
-                <coordinates>-71.7407,43.617298,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="20603">
-            <name>Take out</name>
-            <Point id="20602">
-                <coordinates>-71.748596,43.596298,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

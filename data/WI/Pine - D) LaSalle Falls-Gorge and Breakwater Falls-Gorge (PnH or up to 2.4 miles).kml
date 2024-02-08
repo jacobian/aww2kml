@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56261">
+        <Style id="56266">
+            <IconStyle id="56267">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56268">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56271">
+            <IconStyle id="56272">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56273">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56276">
+            <IconStyle id="56277">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56278">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56281">
+            <IconStyle id="56282">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56283">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56286">
+            <IconStyle id="56287">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56288">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56291">
+            <IconStyle id="56292">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56293">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56296">
+            <IconStyle id="56297">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56298">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56301">
+            <IconStyle id="56302">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56303">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56306">
+            <IconStyle id="56307">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56308">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56311">
+            <IconStyle id="56312">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56313">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56316">
+            <IconStyle id="56317">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56318">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56321">
+            <IconStyle id="56322">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56323">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Pine - D) LaSalle Falls/Gorge and Breakwater Falls/Gorge (PnH or up to 2.4 miles)</name>
+        <Placemark id="56263">
+            <name>Pine - D) LaSalle Falls/Gorge and Breakwater Falls/Gorge (PnH or up to 2.4 miles) (IV(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="56262">
+                <coordinates>-88.290695,45.831712,0.0 -88.290502,45.831587,0.0 -88.290273,45.831289,0.0 -88.290306,45.831221,0.0 -88.289979,45.830786,0.0 -88.289555,45.830512,0.0 -88.288313,45.830145,0.0 -88.287398,45.829916,0.0 -88.284391,45.829205,0.0 -88.281678,45.828677,0.0 -88.279192,45.828903,0.0 -88.278146,45.828788,0.0 -88.276414,45.828444,0.0 -88.275074,45.828168,0.0 -88.274649,45.828236,0.0 -88.274092,45.828625,0.0 -88.273438,45.828944,0.0 -88.272718,45.829012,0.0 -88.272359,45.828943,0.0 -88.272236,45.828828,0.0 -88.271807,45.828707,0.0 -88.270478,45.829264,0.0 -88.270211,45.830007,0.0 -88.268076,45.831277,0.0 -88.267164,45.831351,0.0 -88.265846,45.830264,0.0 -88.263557,45.829754,0.0 -88.26254,45.82919,0.0 -88.258025,45.829185,0.0 -88.257516,45.828903,0.0 -88.254783,45.828575,0.0 -88.254703,45.828629,0.0 -88.254212,45.82872,0.0 -88.253983,45.828902,0.0 -88.253753,45.829199,0.0 -88.253066,45.829427,0.0 -88.252151,45.829495,0.0 -88.250941,45.829242,0.0 -88.250131,45.828984,0.0 -88.249509,45.828687,0.0 -88.24869,45.828094,0.0 -88.248526,45.827911,0.0 -88.248296,45.827317,0.0 -88.247772,45.827021,0.0 -88.247543,45.826929,0.0 -88.2474,45.82693,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="56265">
+            <name>LaSalle Falls Access Options</name>
+            <styleUrl>#56266</styleUrl>
+            <Point id="56264">
+                <coordinates>-88.2921,45.831951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56270">
+            <name>Campsite Landings on Flowage</name>
+            <styleUrl>#56271</styleUrl>
+            <Point id="56269">
+                <coordinates>-88.258621,45.828686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56275">
+            <name>Beyond Breakwater Gorge Rapids</name>
+            <styleUrl>#56276</styleUrl>
+            <Point id="56274">
+                <coordinates>-88.225107,45.837238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56280">
+            <name>Access and Portage Options for Breakwater Falls and Pine River Dam WP146</name>
+            <styleUrl>#56281</styleUrl>
+            <Point id="56279">
+                <coordinates>-88.254669,45.828571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56285">
+            <name>Breakwater Gorge Rapids and Takeout (II+)</name>
+            <styleUrl>#56286</styleUrl>
+            <Point id="56284">
+                <coordinates>-88.251887,45.829386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56290">
+            <name>Put In</name>
+            <styleUrl>#56291</styleUrl>
+            <Point id="56289">
+                <coordinates>-88.290703,45.831699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56295">
+            <name>LaSalle Falls (IV+)</name>
+            <styleUrl>#56296</styleUrl>
+            <Point id="56294">
+                <coordinates>-88.289719,45.830666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56300">
+            <name>Breakwater Falls, Third Pitch (IV+)</name>
+            <styleUrl>#56301</styleUrl>
+            <Point id="56299">
+                <coordinates>-88.252457,45.829502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56305">
+            <name>1st Ledge  of 5-Ledges near Halls Creek (II)</name>
+            <styleUrl>#56306</styleUrl>
+            <Point id="56304">
+                <coordinates>-88.273109,45.829033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56310">
+            <name>LaSalle Gorge Rapids (II+)</name>
+            <styleUrl>#56311</styleUrl>
+            <Point id="56309">
+                <coordinates>-88.289697,45.830697,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56315">
+            <name>Breakwater Falls, First Pitch (IV+)</name>
+            <styleUrl>#56316</styleUrl>
+            <Point id="56314">
+                <coordinates>-88.253815,45.829071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56320">
+            <name>Breakwater Falls, Second Pitch (IV+)</name>
+            <styleUrl>#56321</styleUrl>
+            <Point id="56319">
+                <coordinates>-88.252914,45.829479,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

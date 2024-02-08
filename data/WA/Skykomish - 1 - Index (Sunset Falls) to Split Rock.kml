@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="53972">
+        <Style id="53977">
+            <IconStyle id="53978">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53979">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53982">
+            <IconStyle id="53983">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53984">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53987">
+            <IconStyle id="53988">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53989">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53992">
+            <IconStyle id="53993">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53994">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53997">
+            <IconStyle id="53998">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53999">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54002">
+            <IconStyle id="54003">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54004">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54007">
+            <IconStyle id="54008">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54009">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54012">
+            <IconStyle id="54013">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54014">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54017">
+            <IconStyle id="54018">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54019">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54022">
+            <IconStyle id="54023">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54024">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54027">
+            <IconStyle id="54028">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54029">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54032">
+            <IconStyle id="54033">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54034">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Skykomish - 1 - Index (Sunset Falls) to Split Rock</name>
+        <Placemark id="53974">
+            <name>Skykomish - 1 - Index (Sunset Falls) to Split Rock (III+(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="53973">
+                <coordinates>-121.550981,47.803581,0.0 -121.55149,47.803546,0.0 -121.551814,47.80342,0.0 -121.552127,47.803557,0.0 -121.55235,47.803685,0.0 -121.553234,47.803893,0.0 -121.553431,47.803942,0.0 -121.553634,47.804132,0.0 -121.553744,47.804206,0.0 -121.553796,47.804271,0.0 -121.553884,47.804347,0.0 -121.554033,47.804446,0.0 -121.554172,47.804727,0.0 -121.554252,47.804933,0.0 -121.554287,47.805039,0.0 -121.554392,47.805196,0.0 -121.554506,47.805449,0.0 -121.554666,47.805637,0.0 -121.554999,47.805769,0.0 -121.555289,47.805744,0.0 -121.555466,47.805756,0.0 -121.556067,47.805696,0.0 -121.556484,47.805692,0.0 -121.556576,47.80563,0.0 -121.556807,47.805602,0.0 -121.556946,47.805567,0.0 -121.557131,47.805538,0.0 -121.55727,47.805508,0.0 -121.557639,47.805414,0.0 -121.557732,47.805384,0.0 -121.558333,47.805288,0.0 -121.558565,47.805165,0.0 -121.558889,47.80507,0.0 -121.559397,47.804946,0.0 -121.559674,47.804945,0.0 -121.560275,47.804759,0.0 -121.560599,47.804758,0.0 -121.560831,47.804604,0.0 -121.562495,47.804449,0.0 -121.562587,47.804419,0.0 -121.565176,47.804294,0.0 -121.565639,47.804354,0.0 -121.565962,47.804542,0.0 -121.566148,47.804697,0.0 -121.566148,47.804855,0.0 -121.566194,47.80504,0.0 -121.566055,47.805196,0.0 -121.565963,47.805415,0.0 -121.565778,47.806101,0.0 -121.565593,47.806319,0.0 -121.565824,47.806938,0.0 -121.566471,47.807594,0.0 -121.566887,47.807968,0.0 -121.567443,47.808061,0.0 -121.567951,47.808153,0.0 -121.568691,47.80831,0.0 -121.569616,47.808529,0.0 -121.56994,47.808744,0.0 -121.570495,47.809183,0.0 -121.570495,47.809714,0.0 -121.570402,47.810023,0.0 -121.570356,47.810117,0.0 -121.570264,47.810804,0.0 -121.570357,47.811021,0.0 -121.570449,47.811207,0.0 -121.57068,47.811457,0.0 -121.570773,47.811548,0.0 -121.570866,47.811707,0.0 -121.571004,47.81183,0.0 -121.571051,47.811894,0.0 -121.571143,47.812016,0.0 -121.571975,47.812702,0.0 -121.572253,47.812764,0.0 -121.572531,47.812825,0.0 -121.573363,47.812858,0.0 -121.573918,47.812766,0.0 -121.574057,47.812732,0.0 -121.574612,47.812608,0.0 -121.575213,47.812391,0.0 -121.575583,47.812391,0.0 -121.575906,47.812296,0.0 -121.575999,47.812392,0.0 -121.576647,47.812391,0.0 -121.57734,47.812453,0.0 -121.577526,47.812577,0.0 -121.577756,47.812575,0.0 -121.577988,47.812731,0.0 -121.578172,47.812733,0.0 -121.578404,47.812858,0.0 -121.578635,47.812856,0.0 -121.578959,47.813013,0.0 -121.57904,47.813067,0.0 -121.579144,47.813137,0.0 -121.579283,47.813139,0.0 -121.579451,47.81312,0.0 -121.580489,47.813225,0.0 -121.581327,47.813467,0.0 -121.582019,47.813734,0.0 -121.582407,47.813912,0.0 -121.582873,47.814181,0.0 -121.583191,47.814315,0.0 -121.583598,47.814379,0.0 -121.583993,47.814444,0.0 -121.585073,47.814654,0.0 -121.585747,47.814787,0.0 -121.585858,47.814819,0.0 -121.586586,47.815025,0.0 -121.586803,47.815085,0.0 -121.587319,47.815229,0.0 -121.58811,47.815677,0.0 -121.589008,47.816335,0.0 -121.589487,47.816822,0.0 -121.589897,47.81715,0.0 -121.589964,47.817204,0.0 -121.590335,47.817516,0.0 -121.590704,47.817723,0.0 -121.591123,47.817824,0.0 -121.59159,47.81775,0.0 -121.592419,47.817532,0.0 -121.593605,47.816959,0.0 -121.594582,47.816319,0.0 -121.594831,47.816121,0.0 -121.5953,47.815751,0.0 -121.59571,47.815466,0.0 -121.595813,47.815395,0.0 -121.596278,47.815215,0.0 -121.597269,47.815276,0.0 -121.597424,47.815303,0.0 -121.59821,47.815443,0.0 -121.598865,47.815625,0.0 -121.598943,47.815646,0.0 -121.599681,47.81606,0.0 -121.600105,47.816372,0.0 -121.600179,47.816398,0.0 -121.600786,47.816611,0.0 -121.601367,47.8168,0.0 -121.601625,47.816884,0.0 -121.602568,47.817121,0.0 -121.603354,47.817392,0.0 -121.60346,47.817428,0.0 -121.604562,47.817839,0.0 -121.605037,47.818115,0.0 -121.60573,47.81888,0.0 -121.606313,47.819401,0.0 -121.606945,47.819675,0.0 -121.607785,47.819984,0.0 -121.608673,47.82015,0.0 -121.609403,47.820208,0.0 -121.609874,47.820244,0.0 -121.610606,47.820413,0.0 -121.611394,47.820721,0.0 -121.611606,47.820894,0.0 -121.612081,47.82117,0.0 -121.61266,47.821481,0.0 -121.613297,47.822036,0.0 -121.613346,47.822096,0.0 -121.613778,47.822628,0.0 -121.613943,47.823012,0.0 -121.614367,47.823394,0.0 -121.614845,47.823811,0.0 -121.615481,47.824331,0.0 -121.615536,47.82437,0.0 -121.616169,47.824815,0.0 -121.616803,47.825265,0.0 -121.617384,47.825675,0.0 -121.617491,47.82575,0.0 -121.617973,47.826412,0.0 -121.618068,47.826624,0.0 -121.618302,47.827146,0.0 -121.618238,47.82767,0.0 -121.618213,47.827883,0.0 -121.617755,47.828414,0.0 -121.617141,47.828911,0.0 -121.616954,47.82904,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="53976">
+            <name>Cable Drop Rapid (aka Powerline) (III+)</name>
+            <styleUrl>#53977</styleUrl>
+            <Point id="53975">
+                <coordinates>-121.570999,47.8097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53981">
+            <name>Lunch Hole (III)</name>
+            <styleUrl>#53982</styleUrl>
+            <Point id="53980">
+                <coordinates>-121.611,47.820202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53986">
+            <name>Cable Drop Access [Forest Service] (None)</name>
+            <styleUrl>#53987</styleUrl>
+            <Point id="53985">
+                <coordinates>-121.571667,47.80891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53991">
+            <name>Railroad Bridge Access (None)</name>
+            <styleUrl>#53992</styleUrl>
+            <Point id="53990">
+                <coordinates>-121.617186,47.830867,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53996">
+            <name>Sunset Falls - Put-in [closed to public] (None)</name>
+            <styleUrl>#53997</styleUrl>
+            <Point id="53995">
+                <coordinates>-121.551003,47.803799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54001">
+            <name>Split Rock - Access [Private]</name>
+            <styleUrl>#54002</styleUrl>
+            <Point id="54000">
+                <coordinates>-121.619387,47.826624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54006">
+            <name>Anderson Hole (III)</name>
+            <styleUrl>#54007</styleUrl>
+            <Point id="54005">
+                <coordinates>-121.596752,47.815235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54011">
+            <name>Confluence</name>
+            <styleUrl>#54012</styleUrl>
+            <Point id="54010">
+                <coordinates>-121.579159,47.813137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54016">
+            <name>Aguagasm (III)</name>
+            <styleUrl>#54017</styleUrl>
+            <Point id="54015">
+                <coordinates>-121.612309,47.821292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54021">
+            <name>Maze (aka Garbage) (III)</name>
+            <styleUrl>#54022</styleUrl>
+            <Point id="54020">
+                <coordinates>-121.59273,47.817382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54026">
+            <name>Boulder Drop (IV)</name>
+            <styleUrl>#54027</styleUrl>
+            <Point id="54025">
+                <coordinates>-121.599998,47.816002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54031">
+            <name>Last Wave - play wave at Split Rock (III)</name>
+            <styleUrl>#54032</styleUrl>
+            <Point id="54030">
+                <coordinates>-121.616997,47.8255,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

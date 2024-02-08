@@ -1,35 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="5611">
+    <Document id="9577">
+        <Style id="9582">
+            <IconStyle id="9583">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9584">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9587">
+            <IconStyle id="9588">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9589">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Black Creek (Lehigh trib.) - 1.) Hazel Creek to Weatherly</name>
-        <Placemark id="5613">
-            <name>Black Creek (Lehigh trib.) - 1.) Hazel Creek to Weatherly</name>
+        <Placemark id="9579">
+            <name>Black Creek (Lehigh trib.) - 1.) Hazel Creek to Weatherly (II-IV)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="5612">
+            <LineString id="9578">
                 <coordinates>-75.850465,40.948472,0.0 -75.850201,40.948324,0.0 -75.849357,40.947386,0.0 -75.849357,40.947065,0.0 -75.849146,40.946699,0.0 -75.848724,40.94615,0.0 -75.847577,40.945463,0.0 -75.847487,40.945326,0.0 -75.847487,40.945326,0.0 -75.847185,40.945258,0.0 -75.845525,40.945349,0.0 -75.84471,40.945577,0.0 -75.841904,40.946698,0.0 -75.839067,40.947132,0.0 -75.836894,40.947841,0.0 -75.834811,40.948137,0.0 -75.831944,40.948914,0.0 -75.830676,40.949097,0.0 -75.830103,40.948937,0.0 -75.829741,40.948525,0.0 -75.829651,40.94793,0.0 -75.830346,40.94658,0.0 -75.830407,40.946237,0.0 -75.829532,40.945344,0.0 -75.829322,40.944337,0.0 -75.829262,40.943262,0.0 -75.829413,40.94253,0.0 -75.829408,40.941961,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="5615">
+        <Placemark id="9581">
             <name>Put-in - Hazel Creek</name>
-            <Point id="5614">
+            <styleUrl>#9582</styleUrl>
+            <Point id="9580">
                 <coordinates>-75.850465,40.948472,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5617">
+        <Placemark id="9586">
             <name>Take-out - Weatherly</name>
-            <Point id="5616">
-                <coordinates>-75.829408,40.941961,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5619">
-            <name>Put in</name>
-            <Point id="5618">
-                <coordinates>-75.850465,40.948472,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5621">
-            <name>Take out</name>
-            <Point id="5620">
+            <styleUrl>#9587</styleUrl>
+            <Point id="9585">
                 <coordinates>-75.829408,40.941961,0.0</coordinates>
             </Point>
         </Placemark>

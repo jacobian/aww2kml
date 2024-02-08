@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="91809">
+        <Style id="91814">
+            <IconStyle id="91815">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91816">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91819">
+            <IconStyle id="91820">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91821">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91824">
+            <IconStyle id="91825">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91826">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91829">
+            <IconStyle id="91830">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91831">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91834">
+            <IconStyle id="91835">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91836">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91839">
+            <IconStyle id="91840">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91841">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91844">
+            <IconStyle id="91845">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91846">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91849">
+            <IconStyle id="91850">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91851">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Housatonic - 3. Bulls Bridge Dam to Power Plant</name>
+        <Placemark id="91811">
+            <name>Housatonic - 3. Bulls Bridge Dam to Power Plant (IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="91810">
+                <coordinates>-73.509454,41.675907,0.0 -73.509503,41.675529,0.0 -73.50974,41.674988,0.0 -73.50997,41.674535,0.0 -73.509915,41.674512,0.0 -73.509805,41.674394,0.0 -73.509613,41.674126,0.0 -73.50907,41.673356,0.0 -73.508484,41.672953,0.0 -73.507714,41.672646,0.0 -73.506718,41.672426,0.0 -73.506325,41.672291,0.0 -73.504857,41.671586,0.0 -73.504073,41.671162,0.0 -73.503803,41.6709,0.0 -73.503675,41.670432,0.0 -73.503781,41.669579,0.0 -73.50397,41.668883,0.0 -73.504305,41.668228,0.0 -73.505207,41.667256,0.0 -73.506325,41.666087,0.0 -73.506392,41.666016,0.0 -73.506736,41.665607,0.0 -73.506619,41.66541,0.0 -73.506884,41.664033,0.0 -73.50654,41.663482,0.0 -73.505946,41.663021,0.0 -73.504008,41.661852,0.0 -73.502672,41.661113,0.0 -73.501081,41.660382,0.0 -73.500526,41.660014,0.0 -73.5,41.659673,0.0 -73.498719,41.65894,0.0 -73.49832,41.658853,0.0 -73.497964,41.658883,0.0 -73.497515,41.65897,0.0 -73.495958,41.660279,0.0 -73.494856,41.661271,0.0 -73.494531,41.661336,0.0 -73.494317,41.661249,0.0 -73.494179,41.661193,0.0 -73.493923,41.660946,0.0 -73.493357,41.660107,0.0 -73.492955,41.658806,0.0 -73.492879,41.658504,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="91813">
+            <name>George's (III)</name>
+            <styleUrl>#91814</styleUrl>
+            <Point id="91812">
+                <coordinates>-73.493896,41.660999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91818">
+            <name>Take Out</name>
+            <styleUrl>#91819</styleUrl>
+            <Point id="91817">
+                <coordinates>-73.4921,41.6587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91823">
+            <name>Put In</name>
+            <styleUrl>#91824</styleUrl>
+            <Point id="91822">
+                <coordinates>-73.5094,41.6759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91828">
+            <name>Surfing Rapid (II+)</name>
+            <styleUrl>#91829</styleUrl>
+            <Point id="91827">
+                <coordinates>-73.509583,41.675072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91833">
+            <name>S-Turn (III+)</name>
+            <styleUrl>#91834</styleUrl>
+            <Point id="91832">
+                <coordinates>-73.503998,41.671299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91838">
+            <name>The Flume (IV)</name>
+            <styleUrl>#91839</styleUrl>
+            <Point id="91837">
+                <coordinates>-73.509804,41.6744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91843">
+            <name>Staircase (V)</name>
+            <styleUrl>#91844</styleUrl>
+            <Point id="91842">
+                <coordinates>-73.509384,41.676434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91848">
+            <name>Pencil Sharpener (III+)</name>
+            <styleUrl>#91849</styleUrl>
+            <Point id="91847">
+                <coordinates>-73.503799,41.6707,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

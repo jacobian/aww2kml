@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55679">
+        <Style id="55684">
+            <IconStyle id="55685">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55686">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55689">
+            <IconStyle id="55690">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55691">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55694">
+            <IconStyle id="55695">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55696">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55699">
+            <IconStyle id="55700">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55701">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55704">
+            <IconStyle id="55705">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55706">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55709">
+            <IconStyle id="55710">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55711">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55714">
+            <IconStyle id="55715">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55716">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Menominee - A) Piers Gorge: Niagara to Hwy.8 (0.5-2.9 miles) *Fee Area*</name>
+        <Placemark id="55681">
+            <name>Menominee - A) Piers Gorge: Niagara to Hwy.8 (0.5-2.9 miles) *Fee Area* (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="55680">
+                <coordinates>-87.988456,45.770189,0.0 -87.987382,45.769789,0.0 -87.982112,45.768591,0.0 -87.977082,45.766901,0.0 -87.972289,45.766237,0.0 -87.968841,45.764894,0.0 -87.966023,45.762829,0.0 -87.96574,45.76218,0.0 -87.964459,45.760839,0.0 -87.964764,45.760088,0.0 -87.964988,45.759537,0.0 -87.965021,45.759456,0.0 -87.964,45.758661,0.0 -87.962971,45.75822,0.0 -87.960016,45.757285,0.0 -87.958209,45.757305,0.0 -87.953921,45.758441,0.0 -87.952129,45.758334,0.0 -87.950741,45.757872,0.0 -87.94877,45.757755,0.0 -87.94707,45.756895,0.0 -87.945652,45.756684,0.0 -87.943917,45.757593,0.0 -87.941843,45.757757,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="55683">
+            <name>Put In</name>
+            <styleUrl>#55684</styleUrl>
+            <Point id="55682">
+                <coordinates>-87.988602,45.769798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55688">
+            <name>Take Out</name>
+            <styleUrl>#55689</styleUrl>
+            <Point id="55687">
+                <coordinates>-87.941902,45.758499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55693">
+            <name>Terminal Surfer (&quot;First Pier&quot;) (III+)</name>
+            <styleUrl>#55694</styleUrl>
+            <Point id="55692">
+                <coordinates>-87.942596,45.757599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55698">
+            <name>The Sisters (&quot;Second Pier&quot;) (III)</name>
+            <styleUrl>#55699</styleUrl>
+            <Point id="55697">
+                <coordinates>-87.947304,45.757198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55703">
+            <name>Sand Portage (&quot;Fourth Pier&quot;) (II+)</name>
+            <styleUrl>#55704</styleUrl>
+            <Point id="55702">
+                <coordinates>-87.964401,45.759899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55708">
+            <name>Misicot Falls (&quot;Third Pier&quot;) (III+)</name>
+            <styleUrl>#55709</styleUrl>
+            <Point id="55707">
+                <coordinates>-87.949303,45.757801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55713">
+            <name>Volkswagen Rock (III)</name>
+            <styleUrl>#55714</styleUrl>
+            <Point id="55712">
+                <coordinates>-87.948906,45.757924,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

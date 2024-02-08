@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="60729">
+        <Style id="60734">
+            <IconStyle id="60735">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60736">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60739">
+            <IconStyle id="60740">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60741">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60744">
+            <IconStyle id="60745">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60746">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60749">
+            <IconStyle id="60750">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60751">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60754">
+            <IconStyle id="60755">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60756">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60759">
+            <IconStyle id="60760">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60761">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60764">
+            <IconStyle id="60765">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60766">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60769">
+            <IconStyle id="60770">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60771">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60774">
+            <IconStyle id="60775">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60776">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60779">
+            <IconStyle id="60780">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60781">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60784">
+            <IconStyle id="60785">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60786">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60789">
+            <IconStyle id="60790">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60791">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Tuckasegee, West Fork - Thorpe Dam to Thorpe Powerhouse on Tuckasegee Reservoir</name>
+        <Placemark id="60731">
+            <name>Tuckasegee, West Fork - Thorpe Dam to Thorpe Powerhouse on Tuckasegee Reservoir (III-IV+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="60730">
+                <coordinates>-83.160101,35.204248,0.0 -83.160194,35.204359,0.0 -83.161047,35.204917,0.0 -83.162387,35.205322,0.0 -83.163221,35.205413,0.0 -83.163604,35.205564,0.0 -83.163833,35.205691,0.0 -83.164459,35.206062,0.0 -83.164623,35.206227,0.0 -83.164633,35.206237,0.0 -83.164761,35.206593,0.0 -83.16493,35.20776,0.0 -83.16523,35.208246,0.0 -83.165244,35.208516,0.0 -83.165486,35.208959,0.0 -83.1655,35.209229,0.0 -83.165621,35.209451,0.0 -83.16564,35.209811,0.0 -83.165303,35.210462,0.0 -83.165075,35.210597,0.0 -83.164856,35.210605,0.0 -83.164408,35.21044,0.0 -83.163356,35.210296,0.0 -83.162848,35.210043,0.0 -83.162627,35.210005,0.0 -83.1616,35.209274,0.0 -83.161328,35.209328,0.0 -83.16101,35.209564,0.0 -83.160791,35.209572,0.0 -83.159334,35.209036,0.0 -83.158399,35.209023,0.0 -83.15823,35.208938,0.0 -83.157574,35.209006,0.0 -83.156792,35.209845,0.0 -83.156934,35.210472,0.0 -83.157231,35.210913,0.0 -83.157341,35.211991,0.0 -83.157579,35.212344,0.0 -83.158036,35.212689,0.0 -83.158654,35.212939,0.0 -83.158931,35.212974,0.0 -83.160117,35.21361,0.0 -83.160975,35.214257,0.0 -83.161211,35.214565,0.0 -83.161222,35.21479,0.0 -83.16085,35.215029,0.0 -83.160084,35.2151,0.0 -83.159924,35.215196,0.0 -83.158554,35.215288,0.0 -83.158449,35.215382,0.0 -83.158229,35.21539,0.0 -83.157429,35.215868,0.0 -83.156993,35.215928,0.0 -83.156019,35.216232,0.0 -83.15547,35.216251,0.0 -83.155134,35.216128,0.0 -83.154843,35.215822,0.0 -83.154775,35.215553,0.0 -83.154415,35.214979,0.0 -83.153901,35.214591,0.0 -83.152597,35.213824,0.0 -83.151813,35.213535,0.0 -83.151128,35.213436,0.0 -83.150441,35.213582,0.0 -83.150123,35.213818,0.0 -83.149826,35.21446,0.0 -83.149415,35.216098,0.0 -83.14859,35.217164,0.0 -83.148553,35.217526,0.0 -83.148617,35.217705,0.0 -83.149013,35.217917,0.0 -83.149454,35.217947,0.0 -83.149857,35.218294,0.0 -83.149887,35.218879,0.0 -83.149793,35.218991,0.0 -83.149665,35.219099,0.0 -83.149508,35.219222,0.0 -83.149417,35.219279,0.0 -83.149199,35.219399,0.0 -83.148924,35.219408,0.0 -83.148819,35.219502,0.0 -83.148435,35.219515,0.0 -83.147147,35.219063,0.0 -83.146322,35.219047,0.0 -83.146009,35.219373,0.0 -83.146029,35.219778,0.0 -83.14621,35.220088,0.0 -83.146185,35.220492,0.0 -83.145895,35.221452,0.0 -83.145534,35.221916,0.0 -83.145159,35.222109,0.0 -83.143633,35.222387,0.0 -83.143528,35.222481,0.0 -83.143199,35.222492,0.0 -83.142225,35.222796,0.0 -83.140908,35.222841,0.0 -83.140569,35.223096,0.0 -83.14029,35.223674,0.0 -83.140119,35.224544,0.0 -83.139816,35.225786,0.0 -83.139557,35.22617,0.0 -83.139446,35.226272,0.0 -83.139382,35.226316,0.0 -83.13906,35.226513,0.0 -83.138024,35.226684,0.0 -83.137181,35.22739,0.0 -83.136966,35.227487,0.0 -83.136602,35.227906,0.0 -83.136591,35.228763,0.0 -83.136714,35.22903,0.0 -83.136815,35.229929,0.0 -83.137698,35.231071,0.0 -83.137785,35.2317,0.0 -83.137739,35.231882,0.0 -83.137211,35.232306,0.0 -83.136387,35.232334,0.0 -83.135912,35.232711,0.0 -83.135813,35.232891,0.0 -83.13561,35.233263,0.0 -83.135043,35.234004,0.0 -83.13486,35.234732,0.0 -83.133963,35.235485,0.0 -83.13381,35.235716,0.0 -83.133771,35.236033,0.0 -83.13413,35.236607,0.0 -83.134471,35.236821,0.0 -83.135479,35.237192,0.0 -83.135765,35.237408,0.0 -83.135839,35.237505,0.0 -83.135784,35.237768,0.0 -83.135521,35.238003,0.0 -83.13477,35.238389,0.0 -83.132735,35.238369,0.0 -83.1323,35.238474,0.0 -83.131765,35.238763,0.0 -83.131438,35.238819,0.0 -83.13067,35.238845,0.0 -83.130391,35.238765,0.0 -83.130109,35.238639,0.0 -83.129476,35.238074,0.0 -83.128886,35.237282,0.0 -83.128339,35.236263,0.0 -83.127244,35.235263,0.0 -83.126331,35.234618,0.0 -83.125828,35.234454,0.0 -83.125,35.234342,0.0 -83.124928,35.234331,0.0 -83.124703,35.234294,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="60733">
+            <name>Breakbone Falls (aka, Flight Simulator) (IV+)</name>
+            <styleUrl>#60734</styleUrl>
+            <Point id="60732">
+                <coordinates>-83.157997,35.213001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60738">
+            <name>Cauldron (aka, Second Boulder Garden) (IV)</name>
+            <styleUrl>#60739</styleUrl>
+            <Point id="60737">
+                <coordinates>-83.163235,35.205418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60743">
+            <name>Two Mile Runout (III)</name>
+            <styleUrl>#60744</styleUrl>
+            <Point id="60742">
+                <coordinates>-83.144131,35.222296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60748">
+            <name>Mini Gorge's First Rapid: High Turnover (aka, The Crux) (IV)</name>
+            <styleUrl>#60749</styleUrl>
+            <Point id="60747">
+                <coordinates>-83.146004,35.220001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60753">
+            <name>Thorpe Dam</name>
+            <styleUrl>#60754</styleUrl>
+            <Point id="60752">
+                <coordinates>-83.153015,35.197395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60758">
+            <name>High Falls (VI)</name>
+            <styleUrl>#60759</styleUrl>
+            <Point id="60757">
+                <coordinates>-83.159767,35.203762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60763">
+            <name>First Falls (VI)</name>
+            <styleUrl>#60764</styleUrl>
+            <Point id="60762">
+                <coordinates>-83.1595,35.202801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60768">
+            <name>Thorpe Powerhouse - Take Out (II)</name>
+            <styleUrl>#60769</styleUrl>
+            <Point id="60767">
+                <coordinates>-83.124702,35.234299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60773">
+            <name>Mini Gorge's Second Rapid: Center Boof (III+)</name>
+            <styleUrl>#60774</styleUrl>
+            <Point id="60772">
+                <coordinates>-83.1462,35.2201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60778">
+            <name>Kornegay's Cascade (III+)</name>
+            <styleUrl>#60779</styleUrl>
+            <Point id="60777">
+                <coordinates>-83.148697,35.217602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60783">
+            <name>Mini Gorge's Fourth Rapid: Swirly Gneiss (III+)</name>
+            <styleUrl>#60784</styleUrl>
+            <Point id="60782">
+                <coordinates>-83.146004,35.222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60788">
+            <name>Put in</name>
+            <styleUrl>#60789</styleUrl>
+            <Point id="60787">
+                <coordinates>-83.1604,35.203999,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="68193">
+        <Style id="68198">
+            <IconStyle id="68199">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68200">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="68203">
+            <IconStyle id="68204">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="68205">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Canadaway Creek - Freedonia to Willow Road</name>
+        <Placemark id="68195">
+            <name>Canadaway Creek - Freedonia to Willow Road (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="68194">
+                <coordinates>-79.333688,42.437819,0.0 -79.334626,42.438149,0.0 -79.336416,42.438333,0.0 -79.336787,42.438516,0.0 -79.337034,42.438768,0.0 -79.337188,42.439362,0.0 -79.337373,42.439637,0.0 -79.337959,42.440026,0.0 -79.340336,42.441307,0.0 -79.342682,42.442177,0.0 -79.34438,42.443138,0.0 -79.345676,42.444191,0.0 -79.346046,42.445014,0.0 -79.345922,42.446249,0.0 -79.346261,42.446592,0.0 -79.346755,42.446775,0.0 -79.346724,42.447164,0.0 -79.346446,42.447553,0.0 -79.346415,42.447987,0.0 -79.34694,42.448193,0.0 -79.348669,42.448262,0.0 -79.349379,42.448583,0.0 -79.349965,42.44904,0.0 -79.350243,42.449589,0.0 -79.350243,42.450184,0.0 -79.351014,42.45119,0.0 -79.351755,42.451419,0.0 -79.353361,42.45126,0.0 -79.354967,42.451649,0.0 -79.356511,42.452953,0.0 -79.357715,42.453365,0.0 -79.358363,42.453822,0.0 -79.360246,42.456018,0.0 -79.36108,42.456773,0.0 -79.361296,42.457253,0.0 -79.36179,42.457711,0.0 -79.362284,42.458649,0.0 -79.362469,42.459609,0.0 -79.362994,42.460318,0.0 -79.363117,42.460913,0.0 -79.363735,42.461668,0.0 -79.363982,42.461714,0.0 -79.363896,42.46236,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="68197">
+            <name>Put In</name>
+            <styleUrl>#68198</styleUrl>
+            <Point id="68196">
+                <coordinates>-79.3338,42.4375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68202">
+            <name>Take Out</name>
+            <styleUrl>#68203</styleUrl>
+            <Point id="68201">
+                <coordinates>-79.3642,42.4624,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

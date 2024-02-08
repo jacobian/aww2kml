@@ -1,29 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="22845">
+    <Document id="38296">
+        <Style id="38301">
+            <IconStyle id="38302">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="38303">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="38306">
+            <IconStyle id="38307">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="38308">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="38311">
+            <IconStyle id="38312">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="38313">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>South Poplar Run - Blue Knob Claysburg Area</name>
-        <Placemark id="22847">
-            <name>South Poplar Run - Blue Knob Claysburg Area</name>
+        <Placemark id="38298">
+            <name>South Poplar Run - Blue Knob Claysburg Area (III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="22846">
+            <LineString id="38297">
                 <coordinates>-78.545946,40.311419,0.0 -78.545683,40.311259,0.0 -78.54526,40.311005,0.0 -78.545206,40.310812,0.0 -78.545066,40.310535,0.0 -78.544811,40.310575,0.0 -78.544576,40.310484,0.0 -78.544443,40.310433,0.0 -78.544384,40.310342,0.0 -78.544182,40.310059,0.0 -78.543783,40.309951,0.0 -78.54373,40.309934,0.0 -78.543697,40.309923,0.0 -78.543669,40.30992,0.0 -78.543665,40.309803,0.0 -78.543671,40.309597,0.0 -78.543668,40.309519,0.0 -78.54336,40.30937,0.0 -78.543132,40.309257,0.0 -78.542893,40.309175,0.0 -78.542742,40.309127,0.0 -78.542559,40.309072,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="22849">
+        <Placemark id="38300">
             <name>South Poplar Falls (III)</name>
-            <Point id="22848">
+            <styleUrl>#38301</styleUrl>
+            <Point id="38299">
                 <coordinates>-78.528603,40.312901,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="22851">
+        <Placemark id="38305">
             <name>Put in</name>
-            <Point id="22850">
+            <styleUrl>#38306</styleUrl>
+            <Point id="38304">
                 <coordinates>-78.545946,40.311419,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="22853">
+        <Placemark id="38310">
             <name>Take out</name>
-            <Point id="22852">
+            <styleUrl>#38311</styleUrl>
+            <Point id="38309">
                 <coordinates>-78.542559,40.309072,0.0</coordinates>
             </Point>
         </Placemark>

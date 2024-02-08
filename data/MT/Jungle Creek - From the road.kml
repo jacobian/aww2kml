@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="110103">
+        <Style id="110108">
+            <IconStyle id="110109">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110110">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="110113">
+            <IconStyle id="110114">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="110115">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Jungle Creek - From the road</name>
+        <Placemark id="110105">
+            <name>Jungle Creek - From the road (V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="110104">
+                <coordinates>-113.489733,47.884453,0.0 -113.489722,47.884487,0.0 -113.489717,47.884659,0.0 -113.489682,47.884776,0.0 -113.489622,47.884913,0.0 -113.489507,47.885023,0.0 -113.489377,47.885098,0.0 -113.489247,47.885164,0.0 -113.489143,47.885238,0.0 -113.489068,47.885339,0.0 -113.48902,47.885413,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="110107">
+            <name>Put In</name>
+            <styleUrl>#110108</styleUrl>
+            <Point id="110106">
+                <coordinates>-113.489,47.8842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="110112">
+            <name>Take Out</name>
+            <styleUrl>#110113</styleUrl>
+            <Point id="110111">
+                <coordinates>-113.489,47.8854,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

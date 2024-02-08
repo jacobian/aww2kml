@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="58994">
+        <Style id="58999">
+            <IconStyle id="59000">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59001">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59004">
+            <IconStyle id="59005">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59006">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59009">
+            <IconStyle id="59010">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59011">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59014">
+            <IconStyle id="59015">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59016">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59019">
+            <IconStyle id="59020">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59021">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59024">
+            <IconStyle id="59025">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59026">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59029">
+            <IconStyle id="59030">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59031">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Red Cedar - Hwy.12 in Menomonie to CTH.D in Irvington (0.5 - 3.9 miles)</name>
+        <Placemark id="58996">
+            <name>Red Cedar - Hwy.12 in Menomonie to CTH.D in Irvington (0.5 - 3.9 miles) (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="58995">
+                <coordinates>-91.932158,44.883411,0.0 -91.933693,44.883202,0.0 -91.934662,44.882978,0.0 -91.935462,44.882594,0.0 -91.936003,44.882238,0.0 -91.936409,44.881746,0.0 -91.936584,44.881141,0.0 -91.936521,44.880217,0.0 -91.936552,44.879222,0.0 -91.936881,44.878361,0.0 -91.937273,44.877429,0.0 -91.937507,44.876662,0.0 -91.937667,44.875407,0.0 -91.9377,44.875144,0.0 -91.93774,44.87438,0.0 -91.93782,44.873847,0.0 -91.938154,44.873147,0.0 -91.9384,44.872727,0.0 -91.938881,44.872523,0.0 -91.938913,44.87251,0.0 -91.939429,44.872385,0.0 -91.940077,44.872305,0.0 -91.940658,44.872179,0.0 -91.941176,44.871834,0.0 -91.941263,44.871776,0.0 -91.941606,44.871354,0.0 -91.941842,44.870633,0.0 -91.942265,44.869654,0.0 -91.942434,44.868888,0.0 -91.94251,44.868382,0.0 -91.942593,44.867822,0.0 -91.942626,44.86685,0.0 -91.942571,44.865706,0.0 -91.94267,44.864779,0.0 -91.942936,44.863988,0.0 -91.943528,44.863215,0.0 -91.944388,44.862691,0.0 -91.944676,44.862548,0.0 -91.945284,44.86226,0.0 -91.946185,44.861967,0.0 -91.94705,44.861582,0.0 -91.94785,44.861198,0.0 -91.948322,44.860728,0.0 -91.948846,44.859886,0.0 -91.948936,44.859411,0.0 -91.949039,44.858865,0.0 -91.949206,44.85803,0.0 -91.948791,44.8568,0.0 -91.948542,44.856156,0.0 -91.947914,44.854895,0.0 -91.947454,44.853793,0.0 -91.946957,44.852552,0.0 -91.946495,44.851381,0.0 -91.946473,44.851047,0.0 -91.946427,44.850341,0.0 -91.946466,44.849554,0.0 -91.94658,44.849133,0.0 -91.946668,44.84881,0.0 -91.947165,44.847634,0.0 -91.947838,44.846374,0.0 -91.948728,44.844809,0.0 -91.949909,44.843216,0.0 -91.951038,44.841994,0.0 -91.95201,44.840937,0.0 -91.952813,44.839674,0.0 -91.953629,44.83833,0.0 -91.953905,44.83784,0.0 -91.954013,44.83719,0.0 -91.953929,44.836637,0.0 -91.953835,44.836173,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="58998">
+            <name>Railroad Rips (II)</name>
+            <styleUrl>#58999</styleUrl>
+            <Point id="58997">
+                <coordinates>-91.933609,44.883114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59003">
+            <name>Con-Agra Wave (II)</name>
+            <styleUrl>#59004</styleUrl>
+            <Point id="59002">
+                <coordinates>-91.9366,44.880901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59008">
+            <name>Hwy.29/Hudson Road</name>
+            <styleUrl>#59009</styleUrl>
+            <Point id="59007">
+                <coordinates>-91.938202,44.8755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59013">
+            <name>Stout Wave (II)</name>
+            <styleUrl>#59014</styleUrl>
+            <Point id="59012">
+                <coordinates>-91.936798,44.8801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59018">
+            <name>Tainter Wave (II)</name>
+            <styleUrl>#59019</styleUrl>
+            <Point id="59017">
+                <coordinates>-91.936501,44.880402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59023">
+            <name>Take Out</name>
+            <styleUrl>#59024</styleUrl>
+            <Point id="59022">
+                <coordinates>-91.953697,44.836201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59028">
+            <name>Put In</name>
+            <styleUrl>#59029</styleUrl>
+            <Point id="59027">
+                <coordinates>-91.932198,44.883701,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

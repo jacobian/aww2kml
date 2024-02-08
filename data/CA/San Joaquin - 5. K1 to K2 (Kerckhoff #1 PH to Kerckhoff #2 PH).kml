@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="63271">
+        <Style id="63276">
+            <IconStyle id="63277">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63278">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="63281">
+            <IconStyle id="63282">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63283">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="63286">
+            <IconStyle id="63287">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63288">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="63291">
+            <IconStyle id="63292">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63293">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="63296">
+            <IconStyle id="63297">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63298">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="63301">
+            <IconStyle id="63302">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63303">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="63306">
+            <IconStyle id="63307">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63308">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="63311">
+            <IconStyle id="63312">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63313">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="63316">
+            <IconStyle id="63317">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63318">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="63321">
+            <IconStyle id="63322">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63323">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="63326">
+            <IconStyle id="63327">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="63328">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>San Joaquin - 5. K1 to K2 (Kerckhoff #1 PH to Kerckhoff #2 PH)</name>
+        <Placemark id="63273">
+            <name>San Joaquin - 5. K1 to K2 (Kerckhoff #1 PH to Kerckhoff #2 PH) (IV+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="63272">
+                <coordinates>-119.553064,37.092651,0.0 -119.553242,37.092578,0.0 -119.553748,37.092356,0.0 -119.554313,37.091999,0.0 -119.554759,37.091761,0.0 -119.554997,37.091493,0.0 -119.555406,37.091186,0.0 -119.55591,37.090777,0.0 -119.556543,37.090198,0.0 -119.556644,37.090115,0.0 -119.557054,37.089781,0.0 -119.557131,37.089718,0.0 -119.557265,37.089563,0.0 -119.557385,37.089423,0.0 -119.557679,37.089203,0.0 -119.558103,37.088988,0.0 -119.558462,37.088666,0.0 -119.558718,37.0884,0.0 -119.559002,37.088058,0.0 -119.559039,37.087956,0.0 -119.559166,37.087602,0.0 -119.559238,37.087415,0.0 -119.559336,37.087163,0.0 -119.559381,37.086951,0.0 -119.559439,37.086683,0.0 -119.559571,37.086269,0.0 -119.55962,37.085782,0.0 -119.559618,37.085294,0.0 -119.559617,37.085139,0.0 -119.559574,37.084653,0.0 -119.55955,37.084454,0.0 -119.559538,37.08435,0.0 -119.559627,37.084016,0.0 -119.559709,37.08373,0.0 -119.559777,37.083491,0.0 -119.559932,37.083072,0.0 -119.559996,37.082899,0.0 -119.560242,37.082343,0.0 -119.560251,37.082324,0.0 -119.560598,37.081611,0.0 -119.560708,37.081011,0.0 -119.560769,37.080749,0.0 -119.56081,37.080573,0.0 -119.560912,37.080296,0.0 -119.560976,37.080123,0.0 -119.560987,37.08005,0.0 -119.56111,37.079291,0.0 -119.561195,37.079042,0.0 -119.561341,37.078619,0.0 -119.561478,37.078055,0.0 -119.56197,37.077415,0.0 -119.56247,37.076755,0.0 -119.562748,37.076276,0.0 -119.562964,37.075768,0.0 -119.56313,37.075246,0.0 -119.563199,37.074755,0.0 -119.563287,37.074368,0.0 -119.563236,37.074021,0.0 -119.56321,37.073752,0.0 -119.563127,37.073541,0.0 -119.563001,37.07334,0.0 -119.562736,37.07313,0.0 -119.562422,37.072954,0.0 -119.562111,37.07279,0.0 -119.561818,37.072633,0.0 -119.56166,37.072521,0.0 -119.561378,37.072256,0.0 -119.561138,37.071982,0.0 -119.560872,37.071534,0.0 -119.560664,37.071265,0.0 -119.560384,37.070629,0.0 -119.560385,37.070348,0.0 -119.560386,37.070211,0.0 -119.560595,37.069967,0.0 -119.560707,37.069869,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="63275">
+            <name>8th Rapid (III)</name>
+            <styleUrl>#63276</styleUrl>
+            <Point id="63274">
+                <coordinates>-119.564003,37.074501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63280">
+            <name>Second rapid (IV)</name>
+            <styleUrl>#63281</styleUrl>
+            <Point id="63279">
+                <coordinates>-119.556999,37.090099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63285">
+            <name>First rapid (III)</name>
+            <styleUrl>#63286</styleUrl>
+            <Point id="63284">
+                <coordinates>-119.555,37.091599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63290">
+            <name>3rd rapid (III)</name>
+            <styleUrl>#63291</styleUrl>
+            <Point id="63289">
+                <coordinates>-119.559998,37.0863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63295">
+            <name>5th rapid (III)</name>
+            <styleUrl>#63296</styleUrl>
+            <Point id="63294">
+                <coordinates>-119.560997,37.080799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63300">
+            <name>6th rapid (III)</name>
+            <styleUrl>#63301</styleUrl>
+            <Point id="63299">
+                <coordinates>-119.561996,37.078899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63305">
+            <name>Slalom (III+)</name>
+            <styleUrl>#63306</styleUrl>
+            <Point id="63304">
+                <coordinates>-119.560997,37.071201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63310">
+            <name>Upper Falls (V)</name>
+            <styleUrl>#63311</styleUrl>
+            <Point id="63309">
+                <coordinates>-119.559998,37.0844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63315">
+            <name>Lower Falls (V)</name>
+            <styleUrl>#63316</styleUrl>
+            <Point id="63314">
+                <coordinates>-119.559998,37.083199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63320">
+            <name>Put in</name>
+            <styleUrl>#63321</styleUrl>
+            <Point id="63319">
+                <coordinates>-119.553001,37.092499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63325">
+            <name>Take out</name>
+            <styleUrl>#63326</styleUrl>
+            <Point id="63324">
+                <coordinates>-119.560997,37.070202,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="125112">
+        <Style id="125117">
+            <IconStyle id="125118">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="125119">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="125122">
+            <IconStyle id="125123">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="125124">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sandusky - 2. Ballville Dam to golf course</name>
+        <Placemark id="125114">
+            <name>Sandusky - 2. Ballville Dam to golf course (II(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="125113">
+                <coordinates>-83.134147,41.325916,0.0 -83.130358,41.326987,0.0 -83.12681,41.327322,0.0 -83.125007,41.328339,0.0 -83.123936,41.328609,0.0 -83.121022,41.328393,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="125116">
+            <name>Take Out</name>
+            <styleUrl>#125117</styleUrl>
+            <Point id="125115">
+                <coordinates>-83.121109,41.327221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125121">
+            <name>Put In</name>
+            <styleUrl>#125122</styleUrl>
+            <Point id="125120">
+                <coordinates>-83.133888,41.325001,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

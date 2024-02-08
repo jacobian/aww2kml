@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="103769">
+        <Style id="103774">
+            <IconStyle id="103775">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103776">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="103779">
+            <IconStyle id="103780">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103781">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="103784">
+            <IconStyle id="103785">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103786">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Linden Creek - Unknown road to 4th Street / Main / Front Street (2-3 miles)</name>
+        <Placemark id="103771">
+            <name>Linden Creek - Unknown road to 4th Street / Main / Front Street (2-3 miles) (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="103770">
+                <coordinates>-88.40251,46.757537,0.0 -88.402593,46.757594,0.0 -88.402859,46.757662,0.0 -88.403125,46.757662,0.0 -88.403724,46.757708,0.0 -88.404423,46.758187,0.0 -88.404855,46.758622,0.0 -88.405022,46.758964,0.0 -88.404989,46.759924,0.0 -88.405188,46.760358,0.0 -88.405255,46.760953,0.0 -88.405389,46.761272,0.0 -88.405422,46.76157,0.0 -88.405622,46.761752,0.0 -88.406187,46.761889,0.0 -88.406819,46.761935,0.0 -88.407351,46.762095,0.0 -88.40765,46.762323,0.0 -88.407917,46.762666,0.0 -88.408349,46.762849,0.0 -88.408882,46.762963,0.0 -88.409347,46.762963,0.0 -88.409846,46.763031,0.0 -88.410545,46.763259,0.0 -88.411842,46.763373,0.0 -88.41274,46.763761,0.0 -88.413405,46.763738,0.0 -88.41427,46.763601,0.0 -88.415101,46.763349,0.0 -88.417728,46.763325,0.0 -88.417928,46.763371,0.0 -88.419757,46.763142,0.0 -88.421087,46.763164,0.0 -88.421919,46.763255,0.0 -88.422584,46.763209,0.0 -88.423282,46.762935,0.0 -88.424213,46.7625,0.0 -88.424645,46.762386,0.0 -88.425044,46.762408,0.0 -88.425643,46.76282,0.0 -88.426076,46.762911,0.0 -88.427073,46.762933,0.0 -88.427406,46.76307,0.0 -88.427872,46.763344,0.0 -88.428271,46.763504,0.0 -88.429602,46.763823,0.0 -88.432562,46.763662,0.0 -88.433293,46.763433,0.0 -88.433692,46.763227,0.0 -88.433958,46.76293,0.0 -88.434057,46.76277,0.0 -88.43419,46.76213,0.0 -88.434223,46.762016,0.0 -88.43562,46.762038,0.0 -88.435819,46.761923,0.0 -88.435852,46.761603,0.0 -88.435985,46.761238,0.0 -88.43625,46.761055,0.0 -88.437913,46.760551,0.0 -88.439043,46.760322,0.0 -88.440639,46.76007,0.0 -88.441437,46.760069,0.0 -88.442369,46.760457,0.0 -88.443799,46.760708,0.0 -88.444298,46.760707,0.0 -88.44596,46.760432,0.0 -88.446293,46.760226,0.0 -88.446691,46.759837,0.0 -88.447157,46.759563,0.0 -88.447455,46.759357,0.0 -88.448021,46.759105,0.0 -88.448552,46.758945,0.0 -88.451379,46.758646,0.0 -88.452476,46.758577,0.0 -88.454306,46.759055,0.0 -88.454791,46.759261,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="103773">
+            <name>Take Out</name>
+            <styleUrl>#103774</styleUrl>
+            <Point id="103772">
+                <coordinates>-88.454903,46.758999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103778">
+            <name>Put In</name>
+            <styleUrl>#103779</styleUrl>
+            <Point id="103777">
+                <coordinates>-88.402397,46.757702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103783">
+            <name>USGS sampling site</name>
+            <styleUrl>#103784</styleUrl>
+            <Point id="103782">
+                <coordinates>-88.448196,46.758801,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

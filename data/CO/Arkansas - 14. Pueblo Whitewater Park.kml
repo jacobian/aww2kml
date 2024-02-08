@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="16141">
+    <Document id="27466">
+        <Style id="27471">
+            <IconStyle id="27472">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27473">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="27476">
+            <IconStyle id="27477">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27478">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Arkansas - 14. Pueblo Whitewater Park</name>
-        <Placemark id="16143">
-            <name>Arkansas - 14. Pueblo Whitewater Park</name>
+        <Placemark id="27468">
+            <name>Arkansas - 14. Pueblo Whitewater Park (II+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="16142">
+            <LineString id="27467">
                 <coordinates>-104.622731,38.26707,0.0 -104.622713,38.267,0.0 -104.622609,38.266694,0.0 -104.622155,38.266187,0.0 -104.621793,38.265822,0.0 -104.621105,38.26506,0.0 -104.62088,38.264812,0.0 -104.620036,38.263847,0.0 -104.619984,38.263755,0.0 -104.619222,38.262911,0.0 -104.619054,38.262764,0.0 -104.618062,38.261862,0.0 -104.617921,38.261745,0.0 -104.617608,38.261499,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="16145">
+        <Placemark id="27470">
             <name>Take Out</name>
-            <Point id="16144">
+            <styleUrl>#27471</styleUrl>
+            <Point id="27469">
                 <coordinates>-104.618,38.261,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="16147">
+        <Placemark id="27475">
             <name>Put In</name>
-            <Point id="16146">
+            <styleUrl>#27476</styleUrl>
+            <Point id="27474">
                 <coordinates>-104.623,38.267,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="16149">
-            <name>Put in</name>
-            <Point id="16148">
-                <coordinates>-104.623,38.267,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="16151">
-            <name>Take out</name>
-            <Point id="16150">
-                <coordinates>-104.618,38.261,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

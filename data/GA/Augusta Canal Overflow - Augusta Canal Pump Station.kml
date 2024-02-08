@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="99071">
+        <Style id="99076">
+            <IconStyle id="99077">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99078">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99081">
+            <IconStyle id="99082">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="99083">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Augusta Canal Overflow - Augusta Canal Pump Station</name>
+        <Placemark id="99073">
+            <name>Augusta Canal Overflow - Augusta Canal Pump Station (III-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="99072">
+                <coordinates>-81.997082,33.498318,0.0 -81.997073,33.498264,0.0 -81.997006,33.497991,0.0 -81.996968,33.497855,0.0 -81.996962,33.497821,0.0 -81.996943,33.497753,0.0 -81.996933,33.497685,0.0 -81.996866,33.497412,0.0 -81.996854,33.497378,0.0 -81.996842,33.49731,0.0 -81.996795,33.497139,0.0 -81.996751,33.497005,0.0 -81.996749,33.496969,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="99075">
+            <name>Put In</name>
+            <styleUrl>#99076</styleUrl>
+            <Point id="99074">
+                <coordinates>-81.9972,33.4983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99080">
+            <name>Take out</name>
+            <styleUrl>#99081</styleUrl>
+            <Point id="99079">
+                <coordinates>-81.997,33.4969,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

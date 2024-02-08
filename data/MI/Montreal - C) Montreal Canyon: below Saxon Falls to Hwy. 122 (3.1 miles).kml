@@ -1,54 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="17091">
+    <Document id="28932">
+        <Style id="28937">
+            <IconStyle id="28938">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28939">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="28942">
+            <IconStyle id="28943">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28944">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="28947">
+            <IconStyle id="28948">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28949">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="28952">
+            <IconStyle id="28953">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28954">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="28957">
+            <IconStyle id="28958">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="28959">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Montreal - C) Montreal Canyon: below Saxon Falls to Hwy. 122 (3.1 miles)</name>
-        <Placemark id="17093">
-            <name>Montreal - C) Montreal Canyon: below Saxon Falls to Hwy. 122 (3.1 miles)</name>
+        <Placemark id="28934">
+            <name>Montreal - C) Montreal Canyon: below Saxon Falls to Hwy. 122 (3.1 miles) (II-III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="17092">
+            <LineString id="28933">
                 <coordinates>-90.379619,46.536523,0.0 -90.379661,46.536554,0.0 -90.380058,46.536695,0.0 -90.38052,46.536739,0.0 -90.380917,46.536643,0.0 -90.381882,46.536163,0.0 -90.38288,46.535846,0.0 -90.383406,46.535595,0.0 -90.383946,46.535232,0.0 -90.383946,46.535232,0.0 -90.384865,46.534613,0.0 -90.387247,46.533654,0.0 -90.388373,46.533403,0.0 -90.389897,46.533336,0.0 -90.389897,46.533336,0.0 -90.391088,46.533536,0.0 -90.391581,46.533447,0.0 -90.392278,46.532945,0.0 -90.392472,46.532716,0.0 -90.392901,46.532554,0.0 -90.393341,46.532598,0.0 -90.393802,46.532761,0.0 -90.394499,46.533174,0.0 -90.395089,46.53372,0.0 -90.395293,46.533927,0.0 -90.395218,46.534244,0.0 -90.394864,46.534517,0.0 -90.394231,46.534613,0.0 -90.392944,46.534658,0.0 -90.392547,46.534798,0.0 -90.392278,46.535071,0.0 -90.392214,46.535204,0.0 -90.392246,46.535757,0.0 -90.392375,46.535868,0.0 -90.392375,46.535986,0.0 -90.39274,46.536215,0.0 -90.392976,46.536259,0.0 -90.394328,46.536119,0.0 -90.395025,46.536141,0.0 -90.395583,46.536303,0.0 -90.395755,46.536554,0.0 -90.395883,46.53699,0.0 -90.396055,46.537263,0.0 -90.396549,46.537698,0.0 -90.396817,46.538355,0.0 -90.397042,46.538636,0.0 -90.397342,46.539182,0.0 -90.397439,46.539226,0.0 -90.397407,46.539314,0.0 -90.397578,46.539477,0.0 -90.397611,46.539661,0.0 -90.397739,46.539868,0.0 -90.398072,46.541078,0.0 -90.398276,46.541624,0.0 -90.398276,46.541787,0.0 -90.398405,46.541809,0.0 -90.398469,46.542126,0.0 -90.398769,46.542724,0.0 -90.399231,46.54341,0.0 -90.399263,46.543521,0.0 -90.400025,46.544392,0.0 -90.400454,46.544392,0.0 -90.401022,46.544251,0.0 -90.401752,46.544274,0.0 -90.402052,46.544392,0.0 -90.402149,46.54448,0.0 -90.40231,46.544687,0.0 -90.402514,46.545373,0.0 -90.402578,46.545462,0.0 -90.403243,46.545875,0.0 -90.405067,46.547107,0.0 -90.405593,46.547587,0.0 -90.405958,46.548229,0.0 -90.406923,46.550376,0.0 -90.407288,46.551106,0.0 -90.40732,46.551313,0.0 -90.407385,46.551379,0.0 -90.407782,46.55225,0.0 -90.40791,46.55298,0.0 -90.407943,46.553637,0.0 -90.408018,46.553733,0.0 -90.408018,46.553733,0.0 -90.408082,46.554168,0.0 -90.408243,46.554552,0.0 -90.408243,46.554603,0.0 -90.408779,46.554876,0.0 -90.410002,46.554921,0.0 -90.410303,46.554965,0.0 -90.411226,46.555489,0.0 -90.41262,46.555902,0.0 -90.412985,46.556086,0.0 -90.41394,46.556839,0.0 -90.414067,46.556962,0.0 -90.414067,46.556962,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="17095">
+        <Placemark id="28936">
             <name>Saxon Falls</name>
-            <Point id="17094">
+            <styleUrl>#28937</styleUrl>
+            <Point id="28935">
                 <coordinates>-90.378502,46.5359,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17097">
+        <Placemark id="28941">
             <name>Saxon Falls Powerhouse Put In</name>
-            <Point id="17096">
+            <styleUrl>#28942</styleUrl>
+            <Point id="28940">
                 <coordinates>-90.379893,46.536478,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17099">
+        <Placemark id="28946">
             <name>USGS site</name>
-            <Point id="17098">
+            <styleUrl>#28947</styleUrl>
+            <Point id="28945">
                 <coordinates>-90.379791,46.5366,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17101">
+        <Placemark id="28951">
             <name>Hwy 122 Take Out</name>
-            <Point id="17100">
+            <styleUrl>#28952</styleUrl>
+            <Point id="28950">
                 <coordinates>-90.414705,46.556934,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17103">
+        <Placemark id="28956">
             <name>Superior Falls</name>
-            <Point id="17102">
+            <styleUrl>#28957</styleUrl>
+            <Point id="28955">
                 <coordinates>-90.41497,46.562962,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="17105">
-            <name>Put in</name>
-            <Point id="17104">
-                <coordinates>-90.379619,46.536523,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="17107">
-            <name>Take out</name>
-            <Point id="17106">
-                <coordinates>-90.414067,46.556962,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

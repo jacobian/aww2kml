@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="24177">
+    <Document id="40542">
+        <Style id="40547">
+            <IconStyle id="40548">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40549">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40552">
+            <IconStyle id="40553">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40554">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Canadian River - US 287 Bridge (PnP)</name>
-        <Placemark id="24179">
-            <name>Canadian River - US 287 Bridge (PnP)</name>
+        <Placemark id="40544">
+            <name>Canadian River - US 287 Bridge (PnP) (II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="24178">
+            <LineString id="40543">
                 <coordinates>-101.881616,35.469702,0.0 -101.881295,35.469758,0.0 -101.881199,35.469828,0.0 -101.880995,35.469871,0.0 -101.880566,35.469819,0.0 -101.880126,35.469994,0.0 -101.880126,35.469994,0.0 -101.879933,35.470055,0.0 -101.879493,35.470064,0.0 -101.879236,35.470125,0.0 -101.879236,35.470125,0.0 -101.878527,35.470265,0.0 -101.878527,35.470265,0.0 -101.878506,35.470267,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="24181">
+        <Placemark id="40546">
             <name>Take Out</name>
-            <Point id="24180">
+            <styleUrl>#40547</styleUrl>
+            <Point id="40545">
                 <coordinates>-101.881,35.4698,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="24183">
+        <Placemark id="40551">
             <name>Put In</name>
-            <Point id="24182">
+            <styleUrl>#40552</styleUrl>
+            <Point id="40550">
                 <coordinates>-101.881,35.4698,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="24185">
-            <name>Put in</name>
-            <Point id="24184">
-                <coordinates>-101.881616,35.469702,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="24187">
-            <name>Take out</name>
-            <Point id="24186">
-                <coordinates>-101.878506,35.470267,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

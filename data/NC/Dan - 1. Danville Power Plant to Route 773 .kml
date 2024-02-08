@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="125714">
+        <Style id="125719">
+            <IconStyle id="125720">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="125721">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="125724">
+            <IconStyle id="125725">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="125726">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Dan - 1. Danville Power Plant to Route 773 </name>
+        <Placemark id="125716">
+            <name>Dan - 1. Danville Power Plant to Route 773  (I-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="125715">
+                <coordinates>-79.433586,36.576998,0.0 -79.433637,36.577193,0.0 -79.433692,36.577366,0.0 -79.433827,36.5777,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="125718">
+            <name>Take Out</name>
+            <styleUrl>#125719</styleUrl>
+            <Point id="125717">
+                <coordinates>-79.447899,36.5961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125723">
+            <name>Put In</name>
+            <styleUrl>#125724</styleUrl>
+            <Point id="125722">
+                <coordinates>-79.433197,36.577099,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="111786">
+        <Style id="111791">
+            <IconStyle id="111792">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111793">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="111796">
+            <IconStyle id="111797">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111798">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>St. Croix - C) Taylors Falls (PnP)</name>
+        <Placemark id="111788">
+            <name>St. Croix - C) Taylors Falls (PnP) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="111787">
+                <coordinates>-92.650273,45.401887,0.0 -92.650267,45.401765,0.0 -92.650241,45.401219,0.0 -92.650233,45.401041,0.0 -92.650257,45.400936,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="111790">
+            <name>Put In</name>
+            <styleUrl>#111791</styleUrl>
+            <Point id="111789">
+                <coordinates>-92.65,45.4019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111795">
+            <name>Take Out</name>
+            <styleUrl>#111796</styleUrl>
+            <Point id="111794">
+                <coordinates>-92.6501,45.4009,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

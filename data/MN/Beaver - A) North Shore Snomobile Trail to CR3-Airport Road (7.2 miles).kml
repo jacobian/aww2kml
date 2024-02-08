@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="95260">
+        <Style id="95265">
+            <IconStyle id="95266">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95267">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95270">
+            <IconStyle id="95271">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95272">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95275">
+            <IconStyle id="95276">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95277">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95280">
+            <IconStyle id="95281">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95282">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95285">
+            <IconStyle id="95286">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95287">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95290">
+            <IconStyle id="95291">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95292">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95295">
+            <IconStyle id="95296">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95297">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Beaver - A) North Shore Snomobile Trail to CR3/Airport Road (7.2 miles)</name>
+        <Placemark id="95262">
+            <name>Beaver - A) North Shore Snomobile Trail to CR3/Airport Road (7.2 miles) (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="95261">
+                <coordinates>-91.429004,47.300834,0.0 -91.428516,47.300643,0.0 -91.427205,47.300301,0.0 -91.426298,47.300256,0.0 -91.425626,47.300416,0.0 -91.424686,47.300828,0.0 -91.423981,47.300874,0.0 -91.423174,47.300577,0.0 -91.422301,47.299983,0.0 -91.421629,47.299801,0.0 -91.420755,47.299938,0.0 -91.419815,47.30035,0.0 -91.418807,47.300441,0.0 -91.418337,47.300282,0.0 -91.4179,47.299825,0.0 -91.417631,47.299345,0.0 -91.417227,47.29898,0.0 -91.416891,47.298226,0.0 -91.415916,47.297198,0.0 -91.415681,47.296992,0.0 -91.414539,47.296855,0.0 -91.413128,47.29697,0.0 -91.411952,47.296765,0.0 -91.409835,47.295806,0.0 -91.409029,47.295577,0.0 -91.407752,47.294755,0.0 -91.407719,47.294412,0.0 -91.408289,47.293658,0.0 -91.408994,47.293064,0.0 -91.409128,47.292493,0.0 -91.409228,47.291875,0.0 -91.4099,47.29119,0.0 -91.410269,47.290961,0.0 -91.410504,47.290915,0.0 -91.411143,47.291623,0.0 -91.411815,47.291989,0.0 -91.412722,47.291989,0.0 -91.413024,47.291829,0.0 -91.413158,47.291463,0.0 -91.413191,47.290777,0.0 -91.413594,47.290206,0.0 -91.413627,47.289452,0.0 -91.413425,47.288881,0.0 -91.413425,47.288766,0.0 -91.413828,47.288698,0.0 -91.414298,47.28888,0.0 -91.414836,47.288926,0.0 -91.415238,47.288697,0.0 -91.415641,47.288057,0.0 -91.416111,47.287692,0.0 -91.417219,47.287303,0.0 -91.417487,47.287211,0.0 -91.417017,47.286389,0.0 -91.417016,47.285955,0.0 -91.417184,47.285383,0.0 -91.416948,47.285064,0.0 -91.416646,47.284812,0.0 -91.416679,47.28431,0.0 -91.417048,47.284035,0.0 -91.41688,47.283532,0.0 -91.416477,47.28335,0.0 -91.415906,47.283121,0.0 -91.41557,47.282825,0.0 -91.415234,47.282848,0.0 -91.414529,47.283031,0.0 -91.413455,47.283099,0.0 -91.412716,47.283168,0.0 -91.412313,47.282734,0.0 -91.411943,47.282094,0.0 -91.410834,47.281501,0.0 -91.410565,47.281204,0.0 -91.410767,47.280838,0.0 -91.411807,47.279947,0.0 -91.412277,47.278918,0.0 -91.412209,47.278507,0.0 -91.411873,47.278416,0.0 -91.410631,47.278416,0.0 -91.409489,47.278096,0.0 -91.408851,47.277754,0.0 -91.408548,47.277411,0.0 -91.408212,47.276908,0.0 -91.407809,47.276657,0.0 -91.40744,47.276634,0.0 -91.406701,47.276932,0.0 -91.405862,47.276886,0.0 -91.405425,47.276681,0.0 -91.405325,47.276452,0.0 -91.405492,47.275812,0.0 -91.405324,47.275424,0.0 -91.405055,47.27531,0.0 -91.404619,47.27547,0.0 -91.40425,47.275927,0.0 -91.404149,47.276018,0.0 -91.403645,47.275904,0.0 -91.40351,47.274693,0.0 -91.403208,47.274396,0.0 -91.402369,47.274214,0.0 -91.40079,47.27346,0.0 -91.399917,47.272912,0.0 -91.398641,47.272775,0.0 -91.396895,47.273026,0.0 -91.395821,47.272912,0.0 -91.395552,47.272707,0.0 -91.395216,47.271724,0.0 -91.394746,47.271222,0.0 -91.39441,47.271107,0.0 -91.393,47.271268,0.0 -91.392497,47.271131,0.0 -91.391791,47.270514,0.0 -91.391589,47.269257,0.0 -91.391858,47.26896,0.0 -91.3931,47.267977,0.0 -91.393234,47.267474,0.0 -91.392395,47.26672,0.0 -91.392159,47.266241,0.0 -91.390749,47.264847,0.0 -91.389876,47.263247,0.0 -91.388667,47.262539,0.0 -91.388667,47.262151,0.0 -91.388667,47.262013,0.0 -91.387123,47.26126,0.0 -91.386015,47.261305,0.0 -91.384203,47.261694,0.0 -91.383666,47.261648,0.0 -91.383196,47.261054,0.0 -91.382961,47.259843,0.0 -91.382725,47.259615,0.0 -91.381383,47.259249,0.0 -91.379772,47.258792,0.0 -91.376851,47.257924,0.0 -91.376617,47.257673,0.0 -91.376784,47.25749,0.0 -91.377456,47.257376,0.0 -91.377456,47.257124,0.0 -91.377019,47.256713,0.0 -91.376986,47.25637,0.0 -91.37769,47.256027,0.0 -91.377892,47.255684,0.0 -91.377925,47.255296,0.0 -91.378429,47.254908,0.0 -91.378899,47.254611,0.0 -91.379268,47.254382,0.0 -91.379242,47.253898,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="95264">
+            <name>First mile</name>
+            <styleUrl>#95265</styleUrl>
+            <Point id="95263">
+                <coordinates>-91.411797,47.2971,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95269">
+            <name>Take Out</name>
+            <styleUrl>#95270</styleUrl>
+            <Point id="95268">
+                <coordinates>-91.3792,47.2539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95274">
+            <name>Put In</name>
+            <styleUrl>#95275</styleUrl>
+            <Point id="95273">
+                <coordinates>-91.4289,47.3011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95279">
+            <name>Head of gradient</name>
+            <styleUrl>#95280</styleUrl>
+            <Point id="95278">
+                <coordinates>-91.4123,47.282902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95284">
+            <name>Confluence, Thirtynine Creek</name>
+            <styleUrl>#95285</styleUrl>
+            <Point id="95283">
+                <coordinates>-91.407097,47.2952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95289">
+            <name>Railroad</name>
+            <styleUrl>#95290</styleUrl>
+            <Point id="95288">
+                <coordinates>-91.392059,47.268761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95294">
+            <name>Head of gradient</name>
+            <styleUrl>#95295</styleUrl>
+            <Point id="95293">
+                <coordinates>-91.4394,47.302502,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

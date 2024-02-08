@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="17161">
+    <Document id="29043">
+        <Style id="29048">
+            <IconStyle id="29049">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="29050">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29053">
+            <IconStyle id="29054">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="29055">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Truckee - 4.5. Truckee River Whitewater Park at Wingfield (Reno)</name>
-        <Placemark id="17163">
-            <name>Truckee - 4.5. Truckee River Whitewater Park at Wingfield (Reno)</name>
+        <Placemark id="29045">
+            <name>Truckee - 4.5. Truckee River Whitewater Park at Wingfield (Reno) (II-III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="17162">
+            <LineString id="29044">
                 <coordinates>-119.818934,39.523642,0.0 -119.817989,39.524158,0.0 -119.81778,39.524412,0.0 -119.817457,39.524485,0.0 -119.817215,39.524444,0.0 -119.816925,39.524724,0.0 -119.81665,39.524584,0.0 -119.815706,39.524531,0.0 -119.815244,39.524531,0.0 -119.815012,39.524441,0.0 -119.814575,39.524479,0.0 -119.814062,39.524529,0.0 -119.81387,39.524444,0.0 -119.81382,39.524567,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="17165">
+        <Placemark id="29047">
             <name>Take Out</name>
-            <Point id="17164">
+            <styleUrl>#29048</styleUrl>
+            <Point id="29046">
                 <coordinates>-119.813904,39.524601,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17167">
+        <Placemark id="29052">
             <name>Put In</name>
-            <Point id="17166">
+            <styleUrl>#29053</styleUrl>
+            <Point id="29051">
                 <coordinates>-119.818802,39.523399,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="17169">
-            <name>Put in</name>
-            <Point id="17168">
-                <coordinates>-119.818802,39.523399,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="17171">
-            <name>Take out</name>
-            <Point id="17170">
-                <coordinates>-119.813904,39.524601,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

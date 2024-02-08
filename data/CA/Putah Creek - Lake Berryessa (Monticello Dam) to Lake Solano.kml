@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="66587">
+        <Style id="66592">
+            <IconStyle id="66593">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66594">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66597">
+            <IconStyle id="66598">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66599">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66602">
+            <IconStyle id="66603">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66604">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66607">
+            <IconStyle id="66608">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66609">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66612">
+            <IconStyle id="66613">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66614">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66617">
+            <IconStyle id="66618">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66619">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66622">
+            <IconStyle id="66623">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66624">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66627">
+            <IconStyle id="66628">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66629">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66632">
+            <IconStyle id="66633">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66634">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66637">
+            <IconStyle id="66638">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66639">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66642">
+            <IconStyle id="66643">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66644">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66647">
+            <IconStyle id="66648">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66649">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66652">
+            <IconStyle id="66653">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66654">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="66657">
+            <IconStyle id="66658">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66659">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Putah Creek - Lake Berryessa (Monticello Dam) to Lake Solano</name>
+        <Placemark id="66589">
+            <name>Putah Creek - Lake Berryessa (Monticello Dam) to Lake Solano (I-II(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="66588">
+                <coordinates>-122.097016,38.512866,0.0 -122.096965,38.512879,0.0 -122.095016,38.513058,0.0 -122.094059,38.513484,0.0 -122.093164,38.513963,0.0 -122.092913,38.51428,0.0 -122.092441,38.515072,0.0 -122.092267,38.515531,0.0 -122.09162,38.515976,0.0 -122.090775,38.515996,0.0 -122.089716,38.515644,0.0 -122.089254,38.515424,0.0 -122.088565,38.515119,0.0 -122.087888,38.514889,0.0 -122.087353,38.514688,0.0 -122.086855,38.514477,0.0 -122.086127,38.514462,0.0 -122.085423,38.514466,0.0 -122.084037,38.514605,0.0 -122.083305,38.51489,0.0 -122.082731,38.514989,0.0 -122.082134,38.514994,0.0 -122.081705,38.514915,0.0 -122.081217,38.514808,0.0 -122.081182,38.514789,0.0 -122.080933,38.514637,0.0 -122.080472,38.514306,0.0 -122.080306,38.514192,0.0 -122.080283,38.514182,0.0 -122.07998,38.51403,0.0 -122.079324,38.514034,0.0 -122.078786,38.514086,0.0 -122.078092,38.51423,0.0 -122.077223,38.514064,0.0 -122.076042,38.513989,0.0 -122.075494,38.51391,0.0 -122.074958,38.513868,0.0 -122.074672,38.513819,0.0 -122.074267,38.513731,0.0 -122.071384,38.513849,0.0 -122.070509,38.514095,0.0 -122.069411,38.514115,0.0 -122.068462,38.514107,0.0 -122.067553,38.514297,0.0 -122.067205,38.514416,0.0 -122.066856,38.514695,0.0 -122.066088,38.514989,0.0 -122.065214,38.515188,0.0 -122.06452,38.515342,0.0 -122.063708,38.515363,0.0 -122.063253,38.515463,0.0 -122.062553,38.515617,0.0 -122.061621,38.515675,0.0 -122.061118,38.51584,0.0 -122.05979,38.516073,0.0 -122.05925,38.516359,0.0 -122.05895,38.516469,0.0 -122.05894,38.516788,0.0 -122.058685,38.517086,0.0 -122.058289,38.517279,0.0 -122.057858,38.517379,0.0 -122.057415,38.517441,0.0 -122.05694,38.517269,0.0 -122.056621,38.517003,0.0 -122.056432,38.516852,0.0 -122.056171,38.516728,0.0 -122.055463,38.516141,0.0 -122.055111,38.515688,0.0 -122.054863,38.515461,0.0 -122.05334,38.51422,0.0 -122.05234,38.513124,0.0 -122.052009,38.512887,0.0 -122.050951,38.5121,0.0 -122.050215,38.511785,0.0 -122.04784,38.510031,0.0 -122.047189,38.509594,0.0 -122.046558,38.509017,0.0 -122.046183,38.508498,0.0 -122.045641,38.508016,0.0 -122.045523,38.507893,0.0 -122.045308,38.507788,0.0 -122.044874,38.507794,0.0 -122.044456,38.507812,0.0 -122.044183,38.507723,0.0 -122.043942,38.507546,0.0 -122.04349,38.507004,0.0 -122.042867,38.506568,0.0 -122.042627,38.506422,0.0 -122.042229,38.506228,0.0 -122.041568,38.505713,0.0 -122.041345,38.50544,0.0 -122.041226,38.505123,0.0 -122.041143,38.504644,0.0 -122.041115,38.504322,0.0 -122.041179,38.504038,0.0 -122.040807,38.503497,0.0 -122.04021,38.502362,0.0 -122.039714,38.501318,0.0 -122.03887,38.500173,0.0 -122.038692,38.499908,0.0 -122.03839,38.499776,0.0 -122.037697,38.498984,0.0 -122.037458,38.498807,0.0 -122.03665,38.497828,0.0 -122.035621,38.497157,0.0 -122.034488,38.496575,0.0 -122.034249,38.496451,0.0 -122.034091,38.496397,0.0 -122.033841,38.496284,0.0 -122.033455,38.496052,0.0 -122.033003,38.495766,0.0 -122.032116,38.495209,0.0 -122.031721,38.494982,0.0 -122.029827,38.494049,0.0 -122.028475,38.493354,0.0 -122.028165,38.493221,0.0 -122.027945,38.493116,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="66591">
+            <name>River Access</name>
+            <styleUrl>#66592</styleUrl>
+            <Point id="66590">
+                <coordinates>-122.078133,38.514343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66596">
+            <name>Rapid (II)</name>
+            <styleUrl>#66597</styleUrl>
+            <Point id="66595">
+                <coordinates>-122.088264,38.514603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66601">
+            <name>Rapid (II)</name>
+            <styleUrl>#66602</styleUrl>
+            <Point id="66600">
+                <coordinates>-122.063736,38.515526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66606">
+            <name>Rapid (I)</name>
+            <styleUrl>#66607</styleUrl>
+            <Point id="66605">
+                <coordinates>-122.04715,38.50975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66611">
+            <name>Tree hazard</name>
+            <styleUrl>#66612</styleUrl>
+            <Point id="66610">
+                <coordinates>-122.089218,38.514874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66616">
+            <name>Trees</name>
+            <styleUrl>#66617</styleUrl>
+            <Point id="66615">
+                <coordinates>-122.087196,38.51458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66621">
+            <name>Take Out</name>
+            <styleUrl>#66622</styleUrl>
+            <Point id="66620">
+                <coordinates>-122.028,38.493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66626">
+            <name>Right side channel</name>
+            <styleUrl>#66627</styleUrl>
+            <Point id="66625">
+                <coordinates>-122.08989,38.515755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66631">
+            <name>Bend (I)</name>
+            <styleUrl>#66632</styleUrl>
+            <Point id="66630">
+                <coordinates>-122.044998,38.5079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66636">
+            <name>Highway 128 Bridge</name>
+            <styleUrl>#66637</styleUrl>
+            <Point id="66635">
+                <coordinates>-122.095261,38.513371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66641">
+            <name>Rapid (I)</name>
+            <styleUrl>#66642</styleUrl>
+            <Point id="66640">
+                <coordinates>-122.080933,38.514748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66646">
+            <name>Trees </name>
+            <styleUrl>#66647</styleUrl>
+            <Point id="66645">
+                <coordinates>-122.071823,38.513824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66651">
+            <name>Rapid (II)</name>
+            <styleUrl>#66652</styleUrl>
+            <Point id="66650">
+                <coordinates>-122.094376,38.513294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="66656">
+            <name>Put in</name>
+            <styleUrl>#66657</styleUrl>
+            <Point id="66655">
+                <coordinates>-122.097,38.5128,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56612">
+        <Style id="56617">
+            <IconStyle id="56618">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56619">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56622">
+            <IconStyle id="56623">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56624">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>White Oak Creek - Bethel-New Hope Bridge to Georgetown Dam</name>
+        <Placemark id="56614">
+            <name>White Oak Creek - Bethel-New Hope Bridge to Georgetown Dam (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="56613">
+                <coordinates>-83.915694,38.959505,0.0 -83.915469,38.95891,0.0 -83.914809,38.95775,0.0 -83.913583,38.956271,0.0 -83.912964,38.955011,0.0 -83.913859,38.953952,0.0 -83.914531,38.95278,0.0 -83.910478,38.950278,0.0 -83.90794,38.946863,0.0 -83.910418,38.945067,0.0 -83.909039,38.943118,0.0 -83.904769,38.942053,0.0 -83.906861,38.939668,0.0 -83.909947,38.940679,0.0 -83.912671,38.940531,0.0 -83.916538,38.937464,0.0 -83.917133,38.935463,0.0 -83.912434,38.93373,0.0 -83.911683,38.931706,0.0 -83.915359,38.929752,0.0 -83.918808,38.92944,0.0 -83.920217,38.925563,0.0 -83.921225,38.922529,0.0 -83.92385,38.926079,0.0 -83.929879,38.925897,0.0 -83.934909,38.927576,0.0 -83.937172,38.925953,0.0 -83.929664,38.920931,0.0 -83.926201,38.915526,0.0 -83.930128,38.911771,0.0 -83.934134,38.910485,0.0 -83.932389,38.906047,0.0 -83.923351,38.90041,0.0 -83.922312,38.896158,0.0 -83.923119,38.892737,0.0 -83.91746,38.890245,0.0 -83.916412,38.887264,0.0 -83.922276,38.88353,0.0 -83.919721,38.880171,0.0 -83.912667,38.881202,0.0 -83.91348,38.877812,0.0 -83.919589,38.874736,0.0 -83.922982,38.87314,0.0 -83.920143,38.870721,0.0 -83.915521,38.869413,0.0 -83.915535,38.866975,0.0 -83.91994,38.865263,0.0 -83.92121,38.867636,0.0 -83.922118,38.86923,0.0 -83.92587,38.868811,0.0 -83.926979,38.866428,0.0 -83.924905,38.862956,0.0 -83.925635,38.859552,0.0 -83.929154,38.857066,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="56616">
+            <name>Take Out</name>
+            <styleUrl>#56617</styleUrl>
+            <Point id="56615">
+                <coordinates>-83.929703,38.918511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56621">
+            <name>Put in</name>
+            <styleUrl>#56622</styleUrl>
+            <Point id="56620">
+                <coordinates>-83.915694,38.959505,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

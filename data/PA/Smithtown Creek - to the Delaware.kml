@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="113118">
+        <Style id="113123">
+            <IconStyle id="113124">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="113125">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="113128">
+            <IconStyle id="113129">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="113130">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Smithtown Creek - to the Delaware</name>
+        <Placemark id="113120">
+            <name>Smithtown Creek - to the Delaware (IV-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="113119">
+                <coordinates>-75.083498,40.457904,0.0 -75.083483,40.457912,0.0 -75.083174,40.45805,0.0 -75.082777,40.458053,0.0 -75.082381,40.458088,0.0 -75.082059,40.458142,0.0 -75.081771,40.458256,0.0 -75.081571,40.458384,0.0 -75.081343,40.458591,0.0 -75.081153,40.458786,0.0 -75.080969,40.458918,0.0 -75.080774,40.459013,0.0 -75.080534,40.459111,0.0 -75.080344,40.459217,0.0 -75.080223,40.459356,0.0 -75.079907,40.459586,0.0 -75.079566,40.459812,0.0 -75.079235,40.459978,0.0 -75.078868,40.460096,0.0 -75.078537,40.460232,0.0 -75.078121,40.460328,0.0 -75.077676,40.460401,0.0 -75.07729,40.4605,0.0 -75.076964,40.460647,0.0 -75.076594,40.4609,0.0 -75.07636,40.461107,0.0 -75.076132,40.461321,0.0 -75.07588,40.461554,0.0 -75.075691,40.461776,0.0 -75.075467,40.46199,0.0 -75.075295,40.462137,0.0 -75.074507,40.462442,0.0 -75.074168,40.462531,0.0 -75.073591,40.462523,0.0 -75.073299,40.462603,0.0 -75.073078,40.462655,0.0 -75.072841,40.462577,0.0 -75.072646,40.462495,0.0 -75.072122,40.46249,0.0 -75.072018,40.462491,0.0 -75.071913,40.462474,0.0 -75.071865,40.462439,0.0 -75.071829,40.462415,0.0 -75.071772,40.462409,0.0 -75.071602,40.462448,0.0 -75.071443,40.462472,0.0 -75.071311,40.462497,0.0 -75.071225,40.462514,0.0 -75.071146,40.462521,0.0 -75.071064,40.462513,0.0 -75.070586,40.462335,0.0 -75.070418,40.462273,0.0 -75.070229,40.462273,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="113122">
+            <name>Take Out</name>
+            <styleUrl>#113123</styleUrl>
+            <Point id="113121">
+                <coordinates>-75.070229,40.462238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113127">
+            <name>Put In</name>
+            <styleUrl>#113128</styleUrl>
+            <Point id="113126">
+                <coordinates>-75.083458,40.457829,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

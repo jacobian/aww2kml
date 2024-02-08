@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="84995">
+        <Style id="85000">
+            <IconStyle id="85001">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85002">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85005">
+            <IconStyle id="85006">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85007">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85010">
+            <IconStyle id="85011">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85012">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85015">
+            <IconStyle id="85016">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85017">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85020">
+            <IconStyle id="85021">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85022">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85025">
+            <IconStyle id="85026">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85027">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85030">
+            <IconStyle id="85031">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85032">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85035">
+            <IconStyle id="85036">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85037">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85040">
+            <IconStyle id="85041">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85042">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85045">
+            <IconStyle id="85046">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85047">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85050">
+            <IconStyle id="85051">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85052">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85055">
+            <IconStyle id="85056">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85057">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Long Branch - Wayton to Murray (2+3.5 miles)</name>
+        <Placemark id="84997">
+            <name>Long Branch - Wayton to Murray (2+3.5 miles) (III-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="84996">
+                <coordinates>-93.254713,35.876668,0.0 -93.254763,35.876688,0.0 -93.254952,35.87671,0.0 -93.255189,35.876672,0.0 -93.255641,35.876639,0.0 -93.255986,35.876584,0.0 -93.256344,35.876469,0.0 -93.256641,35.876469,0.0 -93.256877,35.87653,0.0 -93.257107,35.876519,0.0 -93.25733,35.876541,0.0 -93.257715,35.876651,0.0 -93.258059,35.876822,0.0 -93.258261,35.876976,0.0 -93.258471,35.87708,0.0 -93.258984,35.877284,0.0 -93.259889,35.877614,0.0 -93.2603,35.877741,0.0 -93.260483,35.877768,0.0 -93.260773,35.877878,0.0 -93.260955,35.878137,0.0 -93.261036,35.878285,0.0 -93.261137,35.878697,0.0 -93.261346,35.879214,0.0 -93.261576,35.879489,0.0 -93.261643,35.879703,0.0 -93.261569,35.879967,0.0 -93.261589,35.880159,0.0 -93.261744,35.880533,0.0 -93.262129,35.880946,0.0 -93.262236,35.881171,0.0 -93.26225,35.881352,0.0 -93.262385,35.881583,0.0 -93.2625,35.881748,0.0 -93.262607,35.882078,0.0 -93.262708,35.882512,0.0 -93.262904,35.882666,0.0 -93.263107,35.882771,0.0 -93.263384,35.882881,0.0 -93.263593,35.882991,0.0 -93.264059,35.883304,0.0 -93.264977,35.883596,0.0 -93.2652,35.883739,0.0 -93.265416,35.883816,0.0 -93.266348,35.884091,0.0 -93.266577,35.88419,0.0 -93.266679,35.884262,0.0 -93.267097,35.884641,0.0 -93.267468,35.884883,0.0 -93.267975,35.885268,0.0 -93.268252,35.88551,0.0 -93.268427,35.885647,0.0 -93.268663,35.885785,0.0 -93.268859,35.88584,0.0 -93.269082,35.885862,0.0 -93.26946,35.885917,0.0 -93.269636,35.885983,0.0 -93.270156,35.886104,0.0 -93.270352,35.886099,0.0 -93.27071,35.88594,0.0 -93.271142,35.885648,0.0 -93.271298,35.885659,0.0 -93.271534,35.885769,0.0 -93.271635,35.885923,0.0 -93.271669,35.886341,0.0 -93.271723,35.886479,0.0 -93.271932,35.886578,0.0 -93.272405,35.886677,0.0 -93.272574,35.886776,0.0 -93.272796,35.886853,0.0 -93.273026,35.886836,0.0 -93.273323,35.886666,0.0 -93.273796,35.886243,0.0 -93.274161,35.886084,0.0 -93.274458,35.886012,0.0 -93.274965,35.885765,0.0 -93.275201,35.885683,0.0 -93.275336,35.885683,0.0 -93.275559,35.885732,0.0 -93.275843,35.885727,0.0 -93.276127,35.88554,0.0 -93.27641,35.885447,0.0 -93.276937,35.885337,0.0 -93.277147,35.885277,0.0 -93.277545,35.885315,0.0 -93.277775,35.885249,0.0 -93.278065,35.885112,0.0 -93.278295,35.885063,0.0 -93.278511,35.884925,0.0 -93.27866,35.884689,0.0 -93.279106,35.884464,0.0 -93.27945,35.884271,0.0 -93.279788,35.884211,0.0 -93.280058,35.884211,0.0 -93.280328,35.884316,0.0 -93.280612,35.884464,0.0 -93.280814,35.884591,0.0 -93.281355,35.884734,0.0 -93.281557,35.884893,0.0 -93.281854,35.88502,0.0 -93.282394,35.885415,0.0 -93.283164,35.885762,0.0 -93.284353,35.886394,0.0 -93.284684,35.886581,0.0 -93.285062,35.886878,0.0 -93.285345,35.887186,0.0 -93.285474,35.887422,0.0 -93.285609,35.88778,0.0 -93.285825,35.887972,0.0 -93.28598,35.888247,0.0 -93.286061,35.888357,0.0 -93.286311,35.888533,0.0 -93.2865,35.888731,0.0 -93.286702,35.889049,0.0 -93.287391,35.889467,0.0 -93.287688,35.889753,0.0 -93.287776,35.889874,0.0 -93.288039,35.890001,0.0 -93.288411,35.890325,0.0 -93.288843,35.890913,0.0 -93.289106,35.891105,0.0 -93.289174,35.891215,0.0 -93.289275,35.891573,0.0 -93.289086,35.892018,0.0 -93.289086,35.892375,0.0 -93.288937,35.892694,0.0 -93.2887,35.893771,0.0 -93.288734,35.893963,0.0 -93.288856,35.894156,0.0 -93.288909,35.89431,0.0 -93.28897,35.89492,0.0 -93.289058,35.895085,0.0 -93.289409,35.895294,0.0 -93.289997,35.895563,0.0 -93.291266,35.89602,0.0 -93.291503,35.896069,0.0 -93.291618,35.896075,0.0 -93.291793,35.896421,0.0 -93.292192,35.896855,0.0 -93.292556,35.897636,0.0 -93.292543,35.897949,0.0 -93.292955,35.898273,0.0 -93.293367,35.898488,0.0 -93.293617,35.89868,0.0 -93.29413,35.899356,0.0 -93.294575,35.900016,0.0 -93.294852,35.900571,0.0 -93.29496,35.901461,0.0 -93.294886,35.901994,0.0 -93.29475,35.902451,0.0 -93.294764,35.90311,0.0 -93.294926,35.903325,0.0 -93.295325,35.903583,0.0 -93.295595,35.904155,0.0 -93.296175,35.904666,0.0 -93.296331,35.904963,0.0 -93.29629,35.905721,0.0 -93.296168,35.906331,0.0 -93.29583,35.907051,0.0 -93.295675,35.907672,0.0 -93.295722,35.907788,0.0 -93.295844,35.907804,0.0 -93.296918,35.907733,0.0 -93.297107,35.907727,0.0 -93.297499,35.907453,0.0 -93.297688,35.907343,0.0 -93.297965,35.907244,0.0 -93.298296,35.907238,0.0 -93.298985,35.907304,0.0 -93.299877,35.907502,0.0 -93.300614,35.907695,0.0 -93.301438,35.908036,0.0 -93.301688,35.908113,0.0 -93.302147,35.908085,0.0 -93.30262,35.908344,0.0 -93.303323,35.908673,0.0 -93.303931,35.909003,0.0 -93.304444,35.909251,0.0 -93.305011,35.909328,0.0 -93.305248,35.909388,0.0 -93.30639,35.909503,0.0 -93.307031,35.909608,0.0 -93.307781,35.909712,0.0 -93.3082,35.909828,0.0 -93.308423,35.909899,0.0 -93.308822,35.909938,0.0 -93.30916,35.909982,0.0 -93.309545,35.910136,0.0 -93.310011,35.910202,0.0 -93.311416,35.91074,0.0 -93.312369,35.911169,0.0 -93.312957,35.9114,0.0 -93.31345,35.91179,0.0 -93.313896,35.912092,0.0 -93.314112,35.912114,0.0 -93.314821,35.912752,0.0 -93.315321,35.913455,0.0 -93.315558,35.913868,0.0 -93.316267,35.914857,0.0 -93.316666,35.915566,0.0 -93.318043,35.916431,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="84999">
+            <name>EFLB Confluence (None)</name>
+            <styleUrl>#85000</styleUrl>
+            <Point id="84998">
+                <coordinates>-93.281303,35.884602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85004">
+            <name>Duck and Cover (IV+)</name>
+            <styleUrl>#85005</styleUrl>
+            <Point id="85003">
+                <coordinates>-93.261002,35.879002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85009">
+            <name>The Waterpark (IV)</name>
+            <styleUrl>#85010</styleUrl>
+            <Point id="85008">
+                <coordinates>-93.258003,35.876999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85014">
+            <name>Long Branch Saloon (IV+)</name>
+            <styleUrl>#85015</styleUrl>
+            <Point id="85013">
+                <coordinates>-93.278,35.884998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85019">
+            <name>Switchback (IV)</name>
+            <styleUrl>#85020</styleUrl>
+            <Point id="85018">
+                <coordinates>-93.266434,35.884079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85024">
+            <name>Take Out</name>
+            <styleUrl>#85025</styleUrl>
+            <Point id="85023">
+                <coordinates>-93.318,35.9165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85029">
+            <name>Put In</name>
+            <styleUrl>#85030</styleUrl>
+            <Point id="85028">
+                <coordinates>-93.2547,35.8767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85034">
+            <name>Baby Zwicks (IV)</name>
+            <styleUrl>#85035</styleUrl>
+            <Point id="85033">
+                <coordinates>-93.262794,35.882465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85039">
+            <name>Put-in Parking</name>
+            <styleUrl>#85040</styleUrl>
+            <Point id="85038">
+                <coordinates>-93.248001,35.877998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85044">
+            <name>Entrance to Lower Gorge (V)</name>
+            <styleUrl>#85045</styleUrl>
+            <Point id="85043">
+                <coordinates>-93.274597,35.885899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85049">
+            <name>Particle Separator (V)</name>
+            <styleUrl>#85050</styleUrl>
+            <Point id="85048">
+                <coordinates>-93.277,35.884998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85054">
+            <name>Freeride (V+)</name>
+            <styleUrl>#85055</styleUrl>
+            <Point id="85053">
+                <coordinates>-93.278999,35.884998,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,84 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="17929">
+    <Document id="30245">
+        <Style id="30250">
+            <IconStyle id="30251">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30252">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30255">
+            <IconStyle id="30256">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30257">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30260">
+            <IconStyle id="30261">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30262">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30265">
+            <IconStyle id="30266">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30267">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30270">
+            <IconStyle id="30271">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30272">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30275">
+            <IconStyle id="30276">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30277">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30280">
+            <IconStyle id="30281">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30282">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30285">
+            <IconStyle id="30286">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30287">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30290">
+            <IconStyle id="30291">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30292">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30295">
+            <IconStyle id="30296">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30297">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Snoqualmie, S. Fork - 2. Tinkham Road to SE Homestead Valley Road</name>
-        <Placemark id="17931">
-            <name>Snoqualmie, S. Fork - 2. Tinkham Road to SE Homestead Valley Road</name>
+        <Placemark id="30247">
+            <name>Snoqualmie, S. Fork - 2. Tinkham Road to SE Homestead Valley Road (IV-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="17930">
+            <LineString id="30246">
                 <coordinates>-121.587225,47.414845,0.0 -121.587228,47.414854,0.0 -121.587228,47.414854,0.0 -121.58727,47.414977,0.0 -121.58727,47.415021,0.0 -121.58727,47.415021,0.0 -121.587324,47.415137,0.0 -121.587389,47.415173,0.0 -121.587435,47.415674,0.0 -121.587435,47.415674,0.0 -121.587507,47.416451,0.0 -121.58756,47.416611,0.0 -121.587625,47.416647,0.0 -121.587614,47.416727,0.0 -121.587678,47.416923,0.0 -121.587914,47.417126,0.0 -121.58815,47.417286,0.0 -121.588558,47.417482,0.0 -121.589084,47.417678,0.0 -121.589556,47.417881,0.0 -121.58962,47.417881,0.0 -121.589792,47.417997,0.0 -121.590028,47.418201,0.0 -121.590081,47.418201,0.0 -121.590081,47.418201,0.0 -121.590908,47.418556,0.0 -121.591712,47.418716,0.0 -121.59197,47.418716,0.0 -121.592206,47.418665,0.0 -121.592399,47.418593,0.0 -121.592399,47.418593,0.0 -121.592925,47.418426,0.0 -121.593332,47.418382,0.0 -121.594459,47.418339,0.0 -121.595178,47.418542,0.0 -121.595392,47.418818,0.0 -121.595446,47.419028,0.0 -121.595296,47.419202,0.0 -121.594534,47.419522,0.0 -121.59433,47.419667,0.0 -121.594384,47.419805,0.0 -121.594963,47.420182,0.0 -121.595004,47.420207,0.0 -121.595004,47.420207,0.0 -121.595004,47.420207,0.0 -121.595532,47.420524,0.0 -121.595896,47.420763,0.0 -121.596369,47.421141,0.0 -121.596787,47.4217,0.0 -121.597098,47.421867,0.0 -121.598911,47.422585,0.0 -121.599684,47.422818,0.0 -121.600145,47.422919,0.0 -121.600714,47.422912,0.0 -121.601175,47.422876,0.0 -121.602913,47.42244,0.0 -121.603364,47.422367,0.0 -121.603675,47.422397,0.0 -121.60404,47.422571,0.0 -121.604608,47.422803,0.0 -121.604823,47.423014,0.0 -121.604834,47.4235,0.0 -121.605349,47.42395,0.0 -121.60566,47.424015,0.0 -121.60566,47.424015,0.0 -121.606025,47.423979,0.0 -121.606432,47.424146,0.0 -121.607763,47.423957,0.0 -121.608278,47.423819,0.0 -121.608278,47.423819,0.0 -121.608932,47.423638,0.0 -121.609501,47.423529,0.0 -121.610059,47.423485,0.0 -121.61037,47.423623,0.0 -121.610466,47.423689,0.0 -121.610466,47.423689,0.0 -121.610638,47.423827,0.0 -121.611528,47.425002,0.0 -121.611689,47.42514,0.0 -121.612151,47.425315,0.0 -121.613438,47.42554,0.0 -121.614007,47.425605,0.0 -121.614779,47.425598,0.0 -121.615959,47.425445,0.0 -121.617086,47.425155,0.0 -121.617086,47.425155,0.0 -121.617386,47.425104,0.0 -121.617655,47.425104,0.0 -121.617655,47.425104,0.0 -121.617773,47.425177,0.0 -121.617815,47.425235,0.0 -121.617858,47.425438,0.0 -121.617934,47.425547,0.0 -121.618212,47.425837,0.0 -121.61833,47.425939,0.0 -121.618545,47.426077,0.0 -121.618545,47.426077,0.0 -121.618738,47.426186,0.0 -121.619103,47.426338,0.0 -121.62039,47.426795,0.0 -121.621538,47.427325,0.0 -121.622461,47.427717,0.0 -121.623019,47.428007,0.0 -121.623019,47.428007,0.0 -121.623148,47.428073,0.0 -121.623974,47.428225,0.0 -121.625036,47.428276,0.0 -121.627096,47.428414,0.0 -121.62921,47.428704,0.0 -121.629274,47.428726,0.0 -121.629274,47.428726,0.0 -121.629456,47.428799,0.0 -121.629478,47.428995,0.0 -121.629478,47.428995,0.0 -121.629487,47.429123,0.0 -121.629487,47.429123,0.0 -121.629487,47.429123,0.0 -121.629499,47.429299,0.0 -121.629682,47.430236,0.0 -121.629757,47.430519,0.0 -121.629757,47.430519,0.0 -121.62995,47.431215,0.0 -121.629978,47.431348,0.0 -121.629978,47.431348,0.0 -121.629978,47.431348,0.0 -121.630046,47.431665,0.0 -121.630046,47.431665,0.0 -121.630175,47.432086,0.0 -121.630175,47.432086,0.0 -121.630186,47.432137,0.0 -121.630304,47.432282,0.0 -121.630433,47.432369,0.0 -121.630754,47.432442,0.0 -121.630754,47.432442,0.0 -121.630926,47.432478,0.0 -121.631495,47.432558,0.0 -121.631794,47.432563,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="17933">
+        <Placemark id="30249">
             <name>SoDo Slide (IV)</name>
-            <Point id="17932">
+            <styleUrl>#30250</styleUrl>
+            <Point id="30248">
                 <coordinates>-121.617697,47.425531,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17935">
+        <Placemark id="30254">
             <name>Pike Place (IV)</name>
-            <Point id="17934">
+            <styleUrl>#30255</styleUrl>
+            <Point id="30253">
                 <coordinates>-121.616897,47.425286,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17937">
+        <Placemark id="30259">
             <name>Short put-in</name>
-            <Point id="17936">
+            <styleUrl>#30260</styleUrl>
+            <Point id="30258">
                 <coordinates>-121.612867,47.42544,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17939">
+        <Placemark id="30264">
             <name>Coffee Corner Boof (IV)</name>
-            <Point id="17938">
+            <styleUrl>#30265</styleUrl>
+            <Point id="30263">
                 <coordinates>-121.618181,47.425804,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17941">
+        <Placemark id="30269">
             <name>Emerald City Entrance (III)</name>
-            <Point id="17940">
+            <styleUrl>#30270</styleUrl>
+            <Point id="30268">
                 <coordinates>-121.615896,47.425453,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17943">
+        <Placemark id="30274">
             <name>Ballard Boof (IV)</name>
-            <Point id="17942">
+            <styleUrl>#30275</styleUrl>
+            <Point id="30273">
                 <coordinates>-121.617504,47.425104,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17945">
+        <Placemark id="30279">
             <name>SE Homestead Valley Road Take-out</name>
-            <Point id="17944">
+            <styleUrl>#30280</styleUrl>
+            <Point id="30278">
                 <coordinates>-121.631767,47.432343,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17947">
+        <Placemark id="30284">
             <name>Tinkham Road Put-in</name>
-            <Point id="17946">
+            <styleUrl>#30285</styleUrl>
+            <Point id="30283">
                 <coordinates>-121.587145,47.414862,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17949">
+        <Placemark id="30289">
             <name>Fremont Falls (V)</name>
-            <Point id="17948">
+            <styleUrl>#30290</styleUrl>
+            <Point id="30288">
                 <coordinates>-121.620116,47.426698,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17951">
+        <Placemark id="30294">
             <name>Space Needle (V)</name>
-            <Point id="17950">
+            <styleUrl>#30295</styleUrl>
+            <Point id="30293">
                 <coordinates>-121.618767,47.426198,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="17953">
-            <name>Put in</name>
-            <Point id="17952">
-                <coordinates>-121.587225,47.414845,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="17955">
-            <name>Take out</name>
-            <Point id="17954">
-                <coordinates>-121.631794,47.432563,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

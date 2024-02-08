@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="87695">
+        <Style id="87700">
+            <IconStyle id="87701">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87702">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87705">
+            <IconStyle id="87706">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87707">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87710">
+            <IconStyle id="87711">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87712">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87715">
+            <IconStyle id="87716">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87717">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87720">
+            <IconStyle id="87721">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87722">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87725">
+            <IconStyle id="87726">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87727">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87730">
+            <IconStyle id="87731">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87732">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87735">
+            <IconStyle id="87736">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87737">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87740">
+            <IconStyle id="87741">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87742">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87745">
+            <IconStyle id="87746">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87747">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87750">
+            <IconStyle id="87751">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87752">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>San Gabriel - Georgetown to Jonah (10 miles)</name>
+        <Placemark id="87697">
+            <name>San Gabriel - Georgetown to Jonah (10 miles) (II+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="87696">
+                <coordinates>-97.664325,30.652153,0.0 -97.663437,30.652604,0.0 -97.661317,30.653536,0.0 -97.661094,30.653526,0.0 -97.660739,30.65371,0.0 -97.660379,30.654007,0.0 -97.660142,30.654297,0.0 -97.659809,30.654508,0.0 -97.658647,30.654782,0.0 -97.658146,30.654774,0.0 -97.657825,30.654701,0.0 -97.656977,30.654613,0.0 -97.656591,30.654272,0.0 -97.656228,30.654031,0.0 -97.655603,30.653742,0.0 -97.654941,30.653366,0.0 -97.652588,30.652278,0.0 -97.652087,30.651899,0.0 -97.651388,30.651576,0.0 -97.650905,30.651235,0.0 -97.650199,30.650934,0.0 -97.6491,30.650741,0.0 -97.648225,30.650697,0.0 -97.64779,30.650815,0.0 -97.647637,30.650981,0.0 -97.646614,30.651284,0.0 -97.646404,30.6514,0.0 -97.645742,30.651448,0.0 -97.645343,30.651542,0.0 -97.640823,30.652292,0.0 -97.640517,30.652294,0.0 -97.640238,30.652223,0.0 -97.640074,30.65225,0.0 -97.638898,30.652607,0.0 -97.638349,30.652931,0.0 -97.638118,30.653086,0.0 -97.637846,30.653358,0.0 -97.636699,30.654543,0.0 -97.636603,30.654699,0.0 -97.636209,30.654965,0.0 -97.63569,30.655192,0.0 -97.633697,30.656433,0.0 -97.632302,30.657564,0.0 -97.631962,30.657794,0.0 -97.631478,30.658241,0.0 -97.629833,30.659961,0.0 -97.629344,30.660586,0.0 -97.628943,30.660831,0.0 -97.628801,30.661206,0.0 -97.628695,30.66188,0.0 -97.628552,30.662252,0.0 -97.628551,30.662716,0.0 -97.628612,30.662887,0.0 -97.628511,30.663574,0.0 -97.628189,30.664985,0.0 -97.628156,30.665485,0.0 -97.628168,30.666022,0.0 -97.628432,30.666342,0.0 -97.628531,30.666721,0.0 -97.628434,30.667388,0.0 -97.627572,30.668883,0.0 -97.626847,30.669714,0.0 -97.626479,30.67,0.0 -97.62582,30.670223,0.0 -97.625449,30.670192,0.0 -97.624339,30.670307,0.0 -97.623812,30.670235,0.0 -97.623688,30.670253,0.0 -97.623495,30.670072,0.0 -97.623468,30.669826,0.0 -97.623361,30.669675,0.0 -97.623009,30.669426,0.0 -97.622771,30.669407,0.0 -97.622388,30.669267,0.0 -97.621937,30.669197,0.0 -97.621605,30.66922,0.0 -97.621273,30.669189,0.0 -97.620809,30.669335,0.0 -97.62056,30.669355,0.0 -97.620284,30.669275,0.0 -97.620077,30.669155,0.0 -97.618948,30.668901,0.0 -97.617099,30.668637,0.0 -97.61614,30.668638,0.0 -97.615824,30.668722,0.0 -97.615412,30.668963,0.0 -97.615049,30.669341,0.0 -97.613642,30.669887,0.0 -97.612768,30.670441,0.0 -97.612346,30.670788,0.0 -97.61176,30.670974,0.0 -97.610718,30.671425,0.0 -97.610256,30.671568,0.0 -97.607822,30.671227,0.0 -97.605156,30.670623,0.0 -97.602885,30.67004,0.0 -97.601828,30.669703,0.0 -97.599767,30.668354,0.0 -97.599112,30.667802,0.0 -97.598201,30.667243,0.0 -97.597286,30.666567,0.0 -97.597067,30.666468,0.0 -97.59665,30.66581,0.0 -97.596376,30.665173,0.0 -97.596237,30.664611,0.0 -97.596234,30.664074,0.0 -97.596307,30.663612,0.0 -97.596495,30.663136,0.0 -97.597271,30.661548,0.0 -97.598113,30.660027,0.0 -97.598458,30.659718,0.0 -97.599081,30.659433,0.0 -97.599091,30.65929,0.0 -97.599362,30.659025,0.0 -97.599404,30.658706,0.0 -97.599652,30.658422,0.0 -97.599909,30.657891,0.0 -97.600061,30.657443,0.0 -97.600133,30.657052,0.0 -97.60006,30.656773,0.0 -97.600105,30.656059,0.0 -97.599902,30.655558,0.0 -97.599961,30.655099,0.0 -97.599813,30.654321,0.0 -97.599628,30.65263,0.0 -97.599418,30.651653,0.0 -97.59923,30.651332,0.0 -97.598995,30.651081,0.0 -97.598555,30.651005,0.0 -97.597903,30.650451,0.0 -97.597108,30.650058,0.0 -97.596538,30.649842,0.0 -97.595964,30.649749,0.0 -97.595216,30.649701,0.0 -97.594313,30.649557,0.0 -97.593101,30.649287,0.0 -97.59149,30.64879,0.0 -97.590995,30.648773,0.0 -97.590514,30.648659,0.0 -97.589675,30.648578,0.0 -97.588935,30.648272,0.0 -97.586704,30.646957,0.0 -97.585297,30.646053,0.0 -97.584711,30.645541,0.0 -97.583378,30.644679,0.0 -97.581709,30.64332,0.0 -97.580501,30.642228,0.0 -97.579921,30.641619,0.0 -97.579374,30.641127,0.0 -97.578247,30.640198,0.0 -97.57734,30.639584,0.0 -97.575515,30.638795,0.0 -97.575111,30.638707,0.0 -97.574369,30.63839,0.0 -97.571005,30.636686,0.0 -97.570255,30.636472,0.0 -97.570125,30.636383,0.0 -97.568068,30.636049,0.0 -97.567867,30.636086,0.0 -97.567418,30.636391,0.0 -97.567133,30.636403,0.0 -97.565766,30.636089,0.0 -97.563985,30.635815,0.0 -97.563427,30.635666,0.0 -97.562759,30.635382,0.0 -97.561479,30.635063,0.0 -97.560906,30.634973,0.0 -97.559871,30.635019,0.0 -97.559004,30.634982,0.0 -97.556506,30.635371,0.0 -97.55565,30.635542,0.0 -97.552246,30.636227,0.0 -97.549045,30.636314,0.0 -97.547717,30.636385,0.0 -97.547432,30.636434,0.0 -97.546809,30.636398,0.0 -97.545531,30.636317,0.0 -97.544235,30.635918,0.0 -97.543471,30.635705,0.0 -97.543021,30.635633,0.0 -97.542312,30.635679,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="87699">
+            <name>FM 1660 Bridge</name>
+            <styleUrl>#87700</styleUrl>
+            <Point id="87698">
+                <coordinates>-97.542397,30.6357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87704">
+            <name>NE Inner Loop</name>
+            <styleUrl>#87705</styleUrl>
+            <Point id="87703">
+                <coordinates>-97.643105,30.651918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87709">
+            <name>San Gabriel Park</name>
+            <styleUrl>#87710</styleUrl>
+            <Point id="87708">
+                <coordinates>-97.664398,30.6523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87714">
+            <name>CR 100 (Low-Water Crossing)</name>
+            <styleUrl>#87715</styleUrl>
+            <Point id="87713">
+                <coordinates>-97.584488,30.645418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87719">
+            <name>SH 29 Bridge</name>
+            <styleUrl>#87720</styleUrl>
+            <Point id="87718">
+                <coordinates>-97.585297,30.646099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87724">
+            <name>FM 971 Bridge (Berry Creek)</name>
+            <styleUrl>#87725</styleUrl>
+            <Point id="87723">
+                <coordinates>-97.614304,30.6763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87729">
+            <name>Railroad bridge</name>
+            <styleUrl>#87730</styleUrl>
+            <Point id="87728">
+                <coordinates>-97.655914,30.653891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87734">
+            <name>SH 130 bridges</name>
+            <styleUrl>#87735</styleUrl>
+            <Point id="87733">
+                <coordinates>-97.636597,30.654699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87739">
+            <name>Berry Creek Confluence</name>
+            <styleUrl>#87740</styleUrl>
+            <Point id="87738">
+                <coordinates>-97.610275,30.671555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87744">
+            <name>Low-Head Dam</name>
+            <styleUrl>#87745</styleUrl>
+            <Point id="87743">
+                <coordinates>-97.654671,30.653221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87749">
+            <name>College St. Bridge</name>
+            <styleUrl>#87750</styleUrl>
+            <Point id="87748">
+                <coordinates>-97.663719,30.652479,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

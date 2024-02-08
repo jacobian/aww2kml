@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="127469">
+        <Style id="127474">
+            <IconStyle id="127475">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="127476">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="127479">
+            <IconStyle id="127480">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="127481">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Great Works - Brattle Street to Leighs Mill Pond</name>
+        <Placemark id="127471">
+            <name>Great Works - Brattle Street to Leighs Mill Pond (IV-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="127470">
+                <coordinates>-70.791878,43.215779,0.0 -70.791966,43.215691,0.0 -70.792645,43.215403,0.0 -70.792882,43.21538,0.0 -70.793093,43.215525,0.0 -70.793204,43.21591,0.0 -70.793253,43.216625,0.0 -70.793113,43.216947,0.0 -70.79326,43.217549,0.0 -70.793383,43.217703,0.0 -70.79379,43.2179,0.0 -70.794812,43.217986,0.0 -70.7959,43.218317,0.0 -70.796269,43.218552,0.0 -70.796984,43.219359,0.0 -70.797314,43.219405,0.0 -70.797973,43.219288,0.0 -70.799067,43.219756,0.0 -70.800304,43.219978,0.0 -70.801031,43.22003,0.0 -70.801703,43.219961,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="127473">
+            <name>Take Out</name>
+            <styleUrl>#127474</styleUrl>
+            <Point id="127472">
+                <coordinates>-70.801697,43.219898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127478">
+            <name>Put In</name>
+            <styleUrl>#127479</styleUrl>
+            <Point id="127477">
+                <coordinates>-70.792,43.2159,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

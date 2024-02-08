@@ -1,60 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="21561">
+    <Document id="36201">
+        <Style id="36206">
+            <IconStyle id="36207">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36208">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36211">
+            <IconStyle id="36212">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36213">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36216">
+            <IconStyle id="36217">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36218">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36221">
+            <IconStyle id="36222">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36223">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36226">
+            <IconStyle id="36227">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36228">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36231">
+            <IconStyle id="36232">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36233">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Mineral Springs Creek - **TOTAL BLOCKAGE** S.Ravine St. to S.Division St.  (0.5  mile)</name>
-        <Placemark id="21563">
-            <name>Mineral Springs Creek - **TOTAL BLOCKAGE** S.Ravine St. to S.Division St.  (0.5  mile)</name>
+        <Placemark id="36203">
+            <name>Mineral Springs Creek - **TOTAL BLOCKAGE** S.Ravine St. to S.Division St.  (0.5  mile) (II+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="21562">
+            <LineString id="36202">
                 <coordinates>-87.879114,43.381529,0.0 -87.878494,43.381712,0.0 -87.87824,43.381945,0.0 -87.877845,43.38209,0.0 -87.877496,43.382168,0.0 -87.87731,43.382243,0.0 -87.877171,43.382357,0.0 -87.876811,43.382511,0.0 -87.876456,43.382593,0.0 -87.876226,43.382582,0.0 -87.876137,43.382522,0.0 -87.876001,43.382561,0.0 -87.875992,43.382629,0.0 -87.875874,43.382715,0.0 -87.875536,43.3826,0.0 -87.875353,43.382609,0.0 -87.875279,43.3828,0.0 -87.875102,43.382965,0.0 -87.875046,43.383111,0.0 -87.875034,43.383253,0.0 -87.875161,43.383502,0.0 -87.875385,43.383755,0.0 -87.875498,43.383845,0.0 -87.875524,43.384039,0.0 -87.875368,43.384223,0.0 -87.87522,43.384309,0.0 -87.875043,43.384333,0.0 -87.874659,43.384513,0.0 -87.87413,43.38447,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="21565">
+        <Placemark id="36205">
             <name>Put In</name>
-            <Point id="21564">
+            <styleUrl>#36206</styleUrl>
+            <Point id="36204">
                 <coordinates>-87.878899,43.381599,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21567">
+        <Placemark id="36210">
             <name>Former Dam Location (II)</name>
-            <Point id="21566">
+            <styleUrl>#36211</styleUrl>
+            <Point id="36209">
                 <coordinates>-87.877998,43.382,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21569">
+        <Placemark id="36215">
             <name>Upstream of S.Ravine Street</name>
-            <Point id="21568">
+            <styleUrl>#36216</styleUrl>
+            <Point id="36214">
                 <coordinates>-87.8789,43.3816,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21571">
+        <Placemark id="36220">
             <name>No Good Choices!</name>
-            <Point id="21570">
+            <styleUrl>#36221</styleUrl>
+            <Point id="36219">
                 <coordinates>-87.872002,43.384998,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21573">
+        <Placemark id="36225">
             <name>Take Out</name>
-            <Point id="21572">
+            <styleUrl>#36226</styleUrl>
+            <Point id="36224">
                 <coordinates>-87.874496,43.384399,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21575">
+        <Placemark id="36230">
             <name>Oakland Avenue (old post-pile) (II+)</name>
-            <Point id="21574">
+            <styleUrl>#36231</styleUrl>
+            <Point id="36229">
                 <coordinates>-87.875,43.382999,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21577">
-            <name>Put in</name>
-            <Point id="21576">
-                <coordinates>-87.879114,43.381529,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21579">
-            <name>Take out</name>
-            <Point id="21578">
-                <coordinates>-87.87413,43.38447,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

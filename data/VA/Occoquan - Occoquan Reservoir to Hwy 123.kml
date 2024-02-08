@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="76919">
+        <Style id="76924">
+            <IconStyle id="76925">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76926">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="76929">
+            <IconStyle id="76930">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="76931">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Occoquan - Occoquan Reservoir to Hwy 123</name>
+        <Placemark id="76921">
+            <name>Occoquan - Occoquan Reservoir to Hwy 123 (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="76920">
+                <coordinates>-77.268478,38.689297,0.0 -77.267756,38.688997,0.0 -77.267181,38.688739,0.0 -77.266178,38.687819,0.0 -77.264894,38.68708,0.0 -77.264539,38.686911,0.0 -77.263806,38.686557,0.0 -77.262815,38.686252,0.0 -77.26225,38.686103,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="76923">
+            <name>Take Out</name>
+            <styleUrl>#76924</styleUrl>
+            <Point id="76922">
+                <coordinates>-77.262383,38.6856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="76928">
+            <name>Put In</name>
+            <styleUrl>#76929</styleUrl>
+            <Point id="76927">
+                <coordinates>-77.268375,38.689545,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="34447">
+        <Style id="34452">
+            <IconStyle id="34453">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34454">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34457">
+            <IconStyle id="34458">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34459">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34462">
+            <IconStyle id="34463">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34464">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34467">
+            <IconStyle id="34468">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34469">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34472">
+            <IconStyle id="34473">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34474">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34477">
+            <IconStyle id="34478">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34479">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Fox (Illinois R. trib.) - B) Waterford/Rochester/Burlington (PnP)</name>
+        <Placemark id="34449">
+            <name>Fox (Illinois R. trib.) - B) Waterford/Rochester/Burlington (PnP) (I(II))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="34448">
+                <coordinates>-88.221961,42.737653,0.0 -88.223132,42.737165,0.0 -88.224071,42.737165,0.0 -88.224458,42.737064,0.0 -88.224725,42.736346,0.0 -88.224504,42.73615,0.0 -88.22484,42.735645,0.0 -88.225087,42.735552,0.0 -88.225269,42.735439,0.0 -88.225455,42.735528,0.0 -88.225729,42.735354,0.0 -88.225904,42.735368,0.0 -88.226253,42.735397,0.0 -88.226173,42.735579,0.0 -88.226121,42.735564,0.0 -88.226154,42.735439,0.0 -88.226034,42.735433,0.0 -88.226021,42.735564,0.0 -88.226073,42.735557,0.0 -88.226093,42.735341,0.0 -88.225844,42.735327,0.0 -88.225468,42.73526,0.0 -88.22481,42.735637,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="34451">
+            <name>Calumet Street Channels/Burlington Shoals (I)</name>
+            <styleUrl>#34452</styleUrl>
+            <Point id="34450">
+                <coordinates>-88.265396,42.668843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34456">
+            <name>Waterford Rock Dam (Left Channel)</name>
+            <styleUrl>#34457</styleUrl>
+            <Point id="34455">
+                <coordinates>-88.210602,42.766701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34461">
+            <name>Rochester Dam (Case Eagle Park)</name>
+            <styleUrl>#34462</styleUrl>
+            <Point id="34460">
+                <coordinates>-88.22603,42.735724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34466">
+            <name>Waterford Dam (Main, Right Channel)</name>
+            <styleUrl>#34467</styleUrl>
+            <Point id="34465">
+                <coordinates>-88.212892,42.76503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34471">
+            <name>Take Out</name>
+            <styleUrl>#34472</styleUrl>
+            <Point id="34470">
+                <coordinates>-88.225869,42.73536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34476">
+            <name>Put In</name>
+            <styleUrl>#34477</styleUrl>
+            <Point id="34475">
+                <coordinates>-88.224826,42.735693,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

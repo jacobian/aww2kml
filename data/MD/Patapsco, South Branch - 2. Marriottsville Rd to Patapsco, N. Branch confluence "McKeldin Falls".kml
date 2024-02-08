@@ -1,29 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="28967">
+    <Document id="48472">
+        <Style id="48477">
+            <IconStyle id="48478">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48479">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48482">
+            <IconStyle id="48483">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48484">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48487">
+            <IconStyle id="48488">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48489">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Patapsco, South Branch - 2. Marriottsville Rd to Patapsco, N. Branch confluence &quot;McKeldin Falls&quot;</name>
-        <Placemark id="28969">
-            <name>Patapsco, South Branch - 2. Marriottsville Rd to Patapsco, N. Branch confluence &quot;McKeldin Falls&quot;</name>
+        <Placemark id="48474">
+            <name>Patapsco, South Branch - 2. Marriottsville Rd to Patapsco, N. Branch confluence &quot;McKeldin Falls&quot; (I-III(IV))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="28968">
+            <LineString id="48473">
                 <coordinates>-76.898134,39.351753,0.0 -76.897901,39.35163,0.0 -76.89757,39.351623,0.0 -76.897045,39.351793,0.0 -76.896269,39.352036,0.0 -76.895951,39.352165,0.0 -76.895602,39.352218,0.0 -76.895061,39.352159,0.0 -76.894621,39.352203,0.0 -76.894166,39.352348,0.0 -76.893652,39.352546,0.0 -76.893188,39.352704,0.0 -76.892768,39.352758,0.0 -76.891643,39.352903,0.0 -76.891132,39.353077,0.0 -76.89083,39.353106,0.0 -76.890514,39.353161,0.0 -76.890181,39.35329,0.0 -76.889354,39.353704,0.0 -76.889029,39.353805,0.0 -76.888831,39.353755,0.0 -76.888536,39.353554,0.0 -76.888105,39.353153,0.0 -76.888055,39.35294,0.0 -76.88813,39.352778,0.0 -76.888562,39.352151,0.0 -76.888592,39.352024,0.0 -76.888406,39.351743,0.0 -76.887606,39.351154,0.0 -76.887093,39.350844,0.0 -76.886714,39.350613,0.0 -76.886526,39.350563,0.0 -76.886421,39.350588,0.0 -76.886324,39.350636,0.0 -76.886126,39.350788,0.0 -76.886142,39.351397,0.0 -76.886175,39.352237,0.0 -76.886097,39.352552,0.0 -76.885753,39.352629,0.0 -76.885261,39.352526,0.0 -76.884656,39.352399,0.0 -76.884252,39.352258,0.0 -76.883778,39.351992,0.0 -76.883393,39.35156,0.0 -76.883043,39.351041,0.0 -76.88244,39.350149,0.0 -76.882352,39.35004,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="28971">
+        <Placemark id="48476">
             <name>McKeldin Falls (IV)</name>
-            <Point id="28970">
+            <styleUrl>#48477</styleUrl>
+            <Point id="48475">
                 <coordinates>-76.887001,39.351002,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28973">
+        <Placemark id="48481">
             <name>Put in</name>
-            <Point id="28972">
+            <styleUrl>#48482</styleUrl>
+            <Point id="48480">
                 <coordinates>-76.898003,39.352001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28975">
+        <Placemark id="48486">
             <name>Take out</name>
-            <Point id="28974">
+            <styleUrl>#48487</styleUrl>
+            <Point id="48485">
                 <coordinates>-76.882336,39.350053,0.0</coordinates>
             </Point>
         </Placemark>

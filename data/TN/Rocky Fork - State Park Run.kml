@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="15523">
+    <Document id="26538">
+        <Style id="26543">
+            <IconStyle id="26544">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26545">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="26548">
+            <IconStyle id="26549">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26550">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Rocky Fork - State Park Run</name>
-        <Placemark id="15525">
-            <name>Rocky Fork - State Park Run</name>
+        <Placemark id="26540">
+            <name>Rocky Fork - State Park Run (IV(V))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="15524">
+            <LineString id="26539">
                 <coordinates>-82.55908,36.047521,0.0 -82.559059,36.04752,0.0 -82.558149,36.047885,0.0 -82.55731,36.048227,0.0 -82.556973,36.048238,0.0 -82.556747,36.048102,0.0 -82.556578,36.047862,0.0 -82.556157,36.045847,0.0 -82.555765,36.045209,0.0 -82.555815,36.045194,0.0 -82.555808,36.045178,0.0 -82.555625,36.045039,0.0 -82.555475,36.044831,0.0 -82.555475,36.044831,0.0 -82.555443,36.044632,0.0 -82.555475,36.044475,0.0 -82.555454,36.044189,0.0 -82.555336,36.043747,0.0 -82.555218,36.043469,0.0 -82.555035,36.043209,0.0 -82.554896,36.043044,0.0 -82.554896,36.043044,0.0 -82.554553,36.042836,0.0 -82.554274,36.042706,0.0 -82.554188,36.04268,0.0 -82.554048,36.042593,0.0 -82.553748,36.042497,0.0 -82.553651,36.042437,0.0 -82.55348,36.042411,0.0 -82.55334,36.042359,0.0 -82.553254,36.04235,0.0 -82.553018,36.042246,0.0 -82.552772,36.042107,0.0 -82.552707,36.042107,0.0 -82.552321,36.041942,0.0 -82.552321,36.041942,0.0 -82.551892,36.041725,0.0 -82.55172,36.041578,0.0 -82.551613,36.041309,0.0 -82.551613,36.041222,0.0 -82.551645,36.041083,0.0 -82.551645,36.04091,0.0 -82.551581,36.040736,0.0 -82.551527,36.04065,0.0 -82.551527,36.04065,0.0 -82.55142,36.040563,0.0 -82.551409,36.04052,0.0 -82.551355,36.040459,0.0 -82.551323,36.04045,0.0 -82.551152,36.040294,0.0 -82.550819,36.040068,0.0 -82.55039,36.039878,0.0 -82.550229,36.039791,0.0 -82.550089,36.03967,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="15527">
+        <Placemark id="26542">
             <name>Take Out</name>
-            <Point id="15526">
+            <styleUrl>#26543</styleUrl>
+            <Point id="26541">
                 <coordinates>-82.549662,36.039437,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="15529">
+        <Placemark id="26547">
             <name>Put In</name>
-            <Point id="15528">
+            <styleUrl>#26548</styleUrl>
+            <Point id="26546">
                 <coordinates>-82.565444,36.050463,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="15531">
-            <name>Put in</name>
-            <Point id="15530">
-                <coordinates>-82.55908,36.047521,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="15533">
-            <name>Take out</name>
-            <Point id="15532">
-                <coordinates>-82.550089,36.03967,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

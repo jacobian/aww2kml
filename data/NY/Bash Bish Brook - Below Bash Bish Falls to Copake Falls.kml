@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="81429">
+        <Style id="81434">
+            <IconStyle id="81435">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81436">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81439">
+            <IconStyle id="81440">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81441">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Bash Bish Brook - Below Bash Bish Falls to Copake Falls</name>
+        <Placemark id="81431">
+            <name>Bash Bish Brook - Below Bash Bish Falls to Copake Falls (IV-V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="81430">
+                <coordinates>-73.498598,42.115259,0.0 -73.500007,42.115211,0.0 -73.500221,42.115288,0.0 -73.500737,42.115404,0.0 -73.501769,42.115783,0.0 -73.502366,42.115992,0.0 -73.502661,42.116113,0.0 -73.502926,42.116196,0.0 -73.503272,42.116328,0.0 -73.503766,42.116553,0.0 -73.504039,42.11659,0.0 -73.504385,42.11662,0.0 -73.504837,42.116601,0.0 -73.505144,42.116594,0.0 -73.505441,42.116592,0.0 -73.505998,42.116602,0.0 -73.50631,42.116613,0.0 -73.506736,42.116642,0.0 -73.50682,42.116646,0.0 -73.507441,42.116675,0.0 -73.507874,42.116684,0.0 -73.508174,42.116711,0.0 -73.50846,42.116747,0.0 -73.508765,42.116834,0.0 -73.509183,42.117194,0.0 -73.509338,42.117357,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="81433">
+            <name>Take Out</name>
+            <styleUrl>#81434</styleUrl>
+            <Point id="81432">
+                <coordinates>-73.509399,42.117298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81438">
+            <name>Put In</name>
+            <styleUrl>#81439</styleUrl>
+            <Point id="81437">
+                <coordinates>-73.498596,42.1152,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

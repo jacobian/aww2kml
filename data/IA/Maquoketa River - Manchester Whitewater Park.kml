@@ -1,78 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="5647">
+    <Document id="9619">
+        <Style id="9624">
+            <IconStyle id="9625">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9626">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9629">
+            <IconStyle id="9630">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9631">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9634">
+            <IconStyle id="9635">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9636">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9639">
+            <IconStyle id="9640">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9641">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9644">
+            <IconStyle id="9645">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9646">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9649">
+            <IconStyle id="9650">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9651">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9654">
+            <IconStyle id="9655">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9656">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9659">
+            <IconStyle id="9660">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9661">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9664">
+            <IconStyle id="9665">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9666">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Maquoketa River - Manchester Whitewater Park</name>
-        <Placemark id="5649">
-            <name>Maquoketa River - Manchester Whitewater Park</name>
+        <Placemark id="9621">
+            <name>Maquoketa River - Manchester Whitewater Park (I-II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="5648">
+            <LineString id="9620">
                 <coordinates>-91.458888,42.482622,0.0 -91.458769,42.482542,0.0 -91.458715,42.482482,0.0 -91.458644,42.482389,0.0 -91.458587,42.48229,0.0 -91.458553,42.482223,0.0 -91.45852,42.482155,0.0 -91.458495,42.482086,0.0 -91.458449,42.481948,0.0 -91.458426,42.481842,0.0 -91.45838,42.481594,0.0 -91.45837,42.481452,0.0 -91.458346,42.48131,0.0 -91.458334,42.481251,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="5651">
+        <Placemark id="9623">
             <name>#2 (I)</name>
-            <Point id="5650">
+            <styleUrl>#9624</styleUrl>
+            <Point id="9622">
                 <coordinates>-91.458649,42.482396,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5653">
+        <Placemark id="9628">
             <name>#1 (I)</name>
-            <Point id="5652">
+            <styleUrl>#9629</styleUrl>
+            <Point id="9627">
                 <coordinates>-91.45875,42.48252,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5655">
+        <Placemark id="9633">
             <name>#3 (I)</name>
-            <Point id="5654">
+            <styleUrl>#9634</styleUrl>
+            <Point id="9632">
                 <coordinates>-91.458649,42.482396,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5657">
+        <Placemark id="9638">
             <name>#4 (I)</name>
-            <Point id="5656">
+            <styleUrl>#9639</styleUrl>
+            <Point id="9637">
                 <coordinates>-91.458509,42.482126,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5659">
+        <Placemark id="9643">
             <name>High Stakes Wave (II)</name>
-            <Point id="5658">
+            <styleUrl>#9644</styleUrl>
+            <Point id="9642">
                 <coordinates>-91.458485,42.482056,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5661">
+        <Placemark id="9648">
             <name>#5 (II)</name>
-            <Point id="5660">
+            <styleUrl>#9649</styleUrl>
+            <Point id="9647">
                 <coordinates>-91.458462,42.481986,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5663">
+        <Placemark id="9653">
             <name>#6 (II)</name>
-            <Point id="5662">
+            <styleUrl>#9654</styleUrl>
+            <Point id="9652">
                 <coordinates>-91.458426,42.481843,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5665">
+        <Placemark id="9658">
             <name>Take Out</name>
-            <Point id="5664">
+            <styleUrl>#9659</styleUrl>
+            <Point id="9657">
                 <coordinates>-91.458099,42.4813,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5667">
+        <Placemark id="9663">
             <name>Put In</name>
-            <Point id="5666">
+            <styleUrl>#9664</styleUrl>
+            <Point id="9662">
                 <coordinates>-91.458702,42.482899,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5669">
-            <name>Put in</name>
-            <Point id="5668">
-                <coordinates>-91.458702,42.482899,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5671">
-            <name>Take out</name>
-            <Point id="5670">
-                <coordinates>-91.458099,42.4813,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="60362">
+        <Style id="60367">
+            <IconStyle id="60368">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60369">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60372">
+            <IconStyle id="60373">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60374">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60377">
+            <IconStyle id="60378">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60379">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60382">
+            <IconStyle id="60383">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60384">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60387">
+            <IconStyle id="60388">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60389">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60392">
+            <IconStyle id="60393">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60394">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60397">
+            <IconStyle id="60398">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60399">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60402">
+            <IconStyle id="60403">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60404">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60407">
+            <IconStyle id="60408">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60409">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60412">
+            <IconStyle id="60413">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60414">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60417">
+            <IconStyle id="60418">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60419">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60422">
+            <IconStyle id="60423">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60424">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60427">
+            <IconStyle id="60428">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60429">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60432">
+            <IconStyle id="60433">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60434">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60437">
+            <IconStyle id="60438">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60439">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60442">
+            <IconStyle id="60443">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60444">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60447">
+            <IconStyle id="60448">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60449">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="60452">
+            <IconStyle id="60453">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60454">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Bad - C) Devil's Gate to Elm Hoist Rd (4.3 to 19.5 miles) ** ACCESS ISSUES **</name>
+        <Placemark id="60364">
+            <name>Bad - C) Devil's Gate to Elm Hoist Rd (4.3 to 19.5 miles) ** ACCESS ISSUES ** (I-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="60363">
+                <coordinates>-90.641218,46.376412,0.0 -90.642485,46.376709,0.0 -90.643872,46.376938,0.0 -90.644136,46.377052,0.0 -90.645424,46.377829,0.0 -90.645523,46.378263,0.0 -90.645358,46.378606,0.0 -90.645226,46.378766,0.0 -90.644665,46.378971,0.0 -90.643972,46.378949,0.0 -90.643542,46.378766,0.0 -90.642189,46.377761,0.0 -90.641792,46.377601,0.0 -90.641231,46.377486,0.0 -90.640505,46.377532,0.0 -90.640241,46.377669,0.0 -90.639746,46.378263,0.0 -90.639481,46.378698,0.0 -90.639382,46.378949,0.0 -90.639251,46.379703,0.0 -90.63892,46.380206,0.0 -90.63826,46.380617,0.0 -90.637963,46.381006,0.0 -90.637732,46.381394,0.0 -90.637732,46.382285,0.0 -90.637963,46.382674,0.0 -90.63902,46.38377,0.0 -90.63935,46.384227,0.0 -90.639317,46.384661,0.0 -90.639218,46.384821,0.0 -90.638393,46.385256,0.0 -90.637039,46.386101,0.0 -90.63694,46.386238,0.0 -90.636907,46.386535,0.0 -90.637205,46.386695,0.0 -90.638294,46.386832,0.0 -90.639021,46.387106,0.0 -90.639813,46.387518,0.0 -90.64021,46.387838,0.0 -90.640606,46.388226,0.0 -90.641464,46.388751,0.0 -90.642191,46.389048,0.0 -90.643248,46.389231,0.0 -90.645658,46.389139,0.0 -90.646253,46.389368,0.0 -90.646649,46.389688,0.0 -90.646715,46.390008,0.0 -90.646517,46.390487,0.0 -90.646154,46.390853,0.0 -90.645626,46.391059,0.0 -90.645296,46.391379,0.0 -90.644833,46.391699,0.0 -90.643942,46.391927,0.0 -90.643579,46.391905,0.0 -90.643314,46.391768,0.0 -90.643149,46.391516,0.0 -90.643116,46.391379,0.0 -90.643017,46.391333,0.0 -90.642885,46.390991,0.0 -90.642555,46.390785,0.0 -90.641465,46.39026,0.0 -90.640738,46.39026,0.0 -90.640507,46.390351,0.0 -90.640243,46.390488,0.0 -90.640111,46.39074,0.0 -90.639913,46.391219,0.0 -90.639418,46.391562,0.0 -90.638559,46.391814,0.0 -90.637271,46.392134,0.0 -90.636974,46.392362,0.0 -90.636842,46.392476,0.0 -90.636875,46.392842,0.0 -90.637271,46.393185,0.0 -90.639154,46.393779,0.0 -90.639847,46.39419,0.0 -90.64031,46.39467,0.0 -90.640475,46.395264,0.0 -90.640541,46.396109,0.0 -90.640145,46.396681,0.0 -90.639815,46.397046,0.0 -90.639254,46.397366,0.0 -90.638791,46.397366,0.0 -90.638329,46.397275,0.0 -90.637635,46.396955,0.0 -90.637305,46.396863,0.0 -90.636479,46.397001,0.0 -90.636182,46.397298,0.0 -90.636083,46.39748,0.0 -90.636083,46.397778,0.0 -90.636413,46.398189,0.0 -90.637371,46.398966,0.0 -90.637801,46.399445,0.0 -90.638065,46.399811,0.0 -90.638065,46.400679,0.0 -90.637438,46.401159,0.0 -90.636975,46.401136,0.0 -90.636447,46.400771,0.0 -90.635423,46.399811,0.0 -90.635059,46.399628,0.0 -90.634663,46.399537,0.0 -90.633771,46.399628,0.0 -90.633243,46.399811,0.0 -90.632615,46.400108,0.0 -90.632516,46.400291,0.0 -90.632384,46.400428,0.0 -90.631988,46.400999,0.0 -90.632021,46.401822,0.0 -90.63245,46.402302,0.0 -90.632748,46.402827,0.0 -90.633144,46.40333,0.0 -90.633276,46.403741,0.0 -90.633573,46.404176,0.0 -90.634201,46.404884,0.0 -90.634387,46.40509,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="60366">
+            <name>Indian Reservation Boundary</name>
+            <styleUrl>#60367</styleUrl>
+            <Point id="60365">
+                <coordinates>-90.6492,46.414501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60371">
+            <name>Possble 'best' egress</name>
+            <styleUrl>#60372</styleUrl>
+            <Point id="60370">
+                <coordinates>-90.634598,46.4049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60376">
+            <name>Confluence, Potato River</name>
+            <styleUrl>#60377</styleUrl>
+            <Point id="60375">
+                <coordinates>-90.676041,46.45116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60381">
+            <name>High Wall</name>
+            <styleUrl>#60382</styleUrl>
+            <Point id="60380">
+                <coordinates>-90.635941,46.397419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60386">
+            <name>Put In</name>
+            <styleUrl>#60387</styleUrl>
+            <Point id="60385">
+                <coordinates>-90.641197,46.376499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60391">
+            <name>Railroad</name>
+            <styleUrl>#60392</styleUrl>
+            <Point id="60390">
+                <coordinates>-90.67794,46.455002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60396">
+            <name>Ledge/wave</name>
+            <styleUrl>#60397</styleUrl>
+            <Point id="60395">
+                <coordinates>-90.63784,46.386822,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60401">
+            <name>Ledge/wave</name>
+            <styleUrl>#60402</styleUrl>
+            <Point id="60400">
+                <coordinates>-90.641296,46.388901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60406">
+            <name>High Wall</name>
+            <styleUrl>#60407</styleUrl>
+            <Point id="60405">
+                <coordinates>-90.636703,46.39238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60411">
+            <name>Slim Islands</name>
+            <styleUrl>#60412</styleUrl>
+            <Point id="60410">
+                <coordinates>-90.640518,46.396091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60416">
+            <name>Ledge/wave</name>
+            <styleUrl>#60417</styleUrl>
+            <Point id="60415">
+                <coordinates>-90.643303,46.378601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60421">
+            <name>Ledge/wave</name>
+            <styleUrl>#60422</styleUrl>
+            <Point id="60420">
+                <coordinates>-90.639503,46.41,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60426">
+            <name>Last evident possible egress</name>
+            <styleUrl>#60427</styleUrl>
+            <Point id="60425">
+                <coordinates>-90.644272,46.413349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60431">
+            <name>Longer Boulderbed Rapids</name>
+            <styleUrl>#60432</styleUrl>
+            <Point id="60430">
+                <coordinates>-90.655403,46.4259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60436">
+            <name>Boulderbed Resumes</name>
+            <styleUrl>#60437</styleUrl>
+            <Point id="60435">
+                <coordinates>-90.656601,46.4189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60441">
+            <name>Confluence, Marengo River</name>
+            <styleUrl>#60442</styleUrl>
+            <Point id="60440">
+                <coordinates>-90.692101,46.433399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60446">
+            <name>Possible ledge/wave/hole</name>
+            <styleUrl>#60447</styleUrl>
+            <Point id="60445">
+                <coordinates>-90.659203,46.43,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="60451">
+            <name>Elm Hoist Road: 597 sq.mi.</name>
+            <styleUrl>#60452</styleUrl>
+            <Point id="60450">
+                <coordinates>-90.695,46.487,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

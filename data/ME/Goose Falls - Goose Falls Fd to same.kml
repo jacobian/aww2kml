@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="127483">
+        <Style id="127488">
+            <IconStyle id="127489">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="127490">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="127493">
+            <IconStyle id="127494">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="127495">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Goose Falls - Goose Falls Fd to same</name>
+        <Placemark id="127485">
+            <name>Goose Falls - Goose Falls Fd to same (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="127484">
+                <coordinates>-68.809853,44.353431,0.0 -68.809787,44.353521,0.0 -68.809695,44.353967,0.0 -68.809626,44.354066,0.0 -68.809526,44.354052,0.0 -68.809676,44.354422,0.0 -68.809522,44.354777,0.0 -68.809492,44.355242,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="127487">
+            <name>Take Out</name>
+            <styleUrl>#127488</styleUrl>
+            <Point id="127486">
+                <coordinates>-68.810402,44.355301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127492">
+            <name>Put In</name>
+            <styleUrl>#127493</styleUrl>
+            <Point id="127491">
+                <coordinates>-68.809402,44.3531,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

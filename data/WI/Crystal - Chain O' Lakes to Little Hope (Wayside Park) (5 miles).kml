@@ -1,84 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="27277">
+    <Document id="45672">
+        <Style id="45677">
+            <IconStyle id="45678">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45679">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45682">
+            <IconStyle id="45683">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45684">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45687">
+            <IconStyle id="45688">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45689">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45692">
+            <IconStyle id="45693">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45694">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45697">
+            <IconStyle id="45698">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45699">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45702">
+            <IconStyle id="45703">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45704">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45707">
+            <IconStyle id="45708">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45709">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45712">
+            <IconStyle id="45713">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45714">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45717">
+            <IconStyle id="45718">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45719">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45722">
+            <IconStyle id="45723">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45724">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Crystal - Chain O' Lakes to Little Hope (Wayside Park) (5 miles)</name>
-        <Placemark id="27279">
-            <name>Crystal - Chain O' Lakes to Little Hope (Wayside Park) (5 miles)</name>
+        <Placemark id="45674">
+            <name>Crystal - Chain O' Lakes to Little Hope (Wayside Park) (5 miles) (I-II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="27278">
+            <LineString id="45673">
                 <coordinates>-89.162393,44.313206,0.0 -89.161816,44.312771,0.0 -89.161657,44.312702,0.0 -89.161052,44.312657,0.0 -89.16067,44.312702,0.0 -89.160001,44.312703,0.0 -89.159587,44.312497,0.0 -89.159269,44.312086,0.0 -89.159078,44.311926,0.0 -89.158823,44.311903,0.0 -89.158377,44.312132,0.0 -89.157868,44.312246,0.0 -89.157581,44.312063,0.0 -89.157422,44.311789,0.0 -89.157327,44.311515,0.0 -89.157072,44.311241,0.0 -89.156912,44.311012,0.0 -89.156912,44.310806,0.0 -89.156498,44.310532,0.0 -89.156052,44.310487,0.0 -89.155288,44.31067,0.0 -89.154779,44.310464,0.0 -89.153888,44.310464,0.0 -89.153537,44.310259,0.0 -89.153537,44.310259,0.0 -89.153445,44.310116,0.0 -89.152519,44.309267,0.0 -89.151209,44.309136,0.0 -89.151209,44.309136,0.0 -89.149668,44.309903,0.0 -89.149558,44.310031,0.0 -89.149558,44.310031,0.0 -89.149176,44.31026,0.0 -89.148635,44.310283,0.0 -89.14787,44.310032,0.0 -89.147075,44.310032,0.0 -89.146088,44.309735,0.0 -89.145769,44.309598,0.0 -89.14526,44.309164,0.0 -89.145259,44.308386,0.0 -89.144941,44.308181,0.0 -89.143858,44.307815,0.0 -89.142298,44.307038,0.0 -89.14198,44.307107,0.0 -89.141853,44.307313,0.0 -89.14163,44.307541,0.0 -89.141471,44.307587,0.0 -89.140389,44.307633,0.0 -89.13972,44.307862,0.0 -89.139561,44.307999,0.0 -89.139306,44.308479,0.0 -89.138511,44.309073,0.0 -89.138161,44.309188,0.0 -89.137365,44.309394,0.0 -89.137078,44.309554,0.0 -89.136792,44.309965,0.0 -89.136474,44.310217,0.0 -89.135869,44.310422,0.0 -89.134786,44.310514,0.0 -89.134468,44.310788,0.0 -89.134436,44.311383,0.0 -89.133258,44.311794,0.0 -89.132558,44.312275,0.0 -89.13189,44.31296,0.0 -89.131858,44.313235,0.0 -89.131985,44.313303,0.0 -89.131985,44.313509,0.0 -89.132049,44.313623,0.0 -89.13189,44.314012,0.0 -89.131508,44.313989,0.0 -89.130807,44.313898,0.0 -89.130266,44.313921,0.0 -89.129979,44.314126,0.0 -89.129597,44.314104,0.0 -89.12861,44.313601,0.0 -89.127432,44.313555,0.0 -89.126923,44.313395,0.0 -89.126318,44.313532,0.0 -89.126191,44.313647,0.0 -89.126191,44.313738,0.0 -89.12635,44.313852,0.0 -89.126318,44.314035,0.0 -89.125904,44.314172,0.0 -89.125108,44.314241,0.0 -89.124599,44.314515,0.0 -89.123962,44.314744,0.0 -89.123867,44.314858,0.0 -89.123739,44.315521,0.0 -89.123453,44.31559,0.0 -89.123198,44.315567,0.0 -89.122115,44.315315,0.0 -89.122115,44.315315,0.0 -89.121964,44.315267,0.0 -89.121214,44.315207,0.0 -89.120702,44.315321,0.0 -89.120702,44.315321,0.0 -89.120644,44.315334,0.0 -89.117965,44.315921,0.0 -89.116082,44.317083,0.0 -89.115215,44.318675,0.0 -89.114449,44.319265,0.0 -89.113395,44.319211,0.0 -89.112218,44.318646,0.0 -89.111515,44.318609,0.0 -89.109794,44.318943,0.0 -89.109634,44.319041,0.0 -89.109634,44.319041,0.0 -89.109443,44.319133,0.0 -89.109315,44.319293,0.0 -89.10913,44.319319,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="27281">
+        <Placemark id="45676">
             <name>Hwy.22</name>
-            <Point id="27280">
+            <styleUrl>#45677</styleUrl>
+            <Point id="45675">
                 <coordinates>-89.162697,44.313038,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27283">
+        <Placemark id="45681">
             <name>Main Street / Island</name>
-            <Point id="27282">
+            <styleUrl>#45682</styleUrl>
+            <Point id="45680">
                 <coordinates>-89.159584,44.312847,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27285">
+        <Placemark id="45686">
             <name>Rural Road</name>
-            <Point id="27284">
+            <styleUrl>#45687</styleUrl>
+            <Point id="45685">
                 <coordinates>-89.157051,44.311863,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27287">
+        <Placemark id="45691">
             <name>Junction Lake</name>
-            <Point id="27286">
+            <styleUrl>#45692</styleUrl>
+            <Point id="45690">
                 <coordinates>-89.154152,44.310291,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27289">
+        <Placemark id="45696">
             <name>Rural Road (Second Crossing)</name>
-            <Point id="27288">
+            <styleUrl>#45697</styleUrl>
+            <Point id="45695">
                 <coordinates>-89.131905,44.312725,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27291">
+        <Placemark id="45701">
             <name>Parfreyville Road</name>
-            <Point id="27290">
+            <styleUrl>#45702</styleUrl>
+            <Point id="45700">
                 <coordinates>-89.1231,44.3153,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27293">
+        <Placemark id="45706">
             <name>Dam / USGS sampling site: 82 Sq.Mi.</name>
-            <Point id="27292">
+            <styleUrl>#45707</styleUrl>
+            <Point id="45705">
                 <coordinates>-89.110001,44.319,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27295">
+        <Placemark id="45711">
             <name>Private bridge</name>
-            <Point id="27294">
+            <styleUrl>#45712</styleUrl>
+            <Point id="45710">
                 <coordinates>-89.148766,44.310562,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27297">
+        <Placemark id="45716">
             <name>Sanders Road</name>
-            <Point id="27296">
+            <styleUrl>#45717</styleUrl>
+            <Point id="45715">
                 <coordinates>-89.143173,44.307537,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27299">
+        <Placemark id="45721">
             <name>Put In</name>
-            <Point id="27298">
+            <styleUrl>#45722</styleUrl>
+            <Point id="45720">
                 <coordinates>-89.180397,44.316101,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27301">
-            <name>Put in</name>
-            <Point id="27300">
-                <coordinates>-89.162393,44.313206,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27303">
-            <name>Take out</name>
-            <Point id="27302">
-                <coordinates>-89.10913,44.319319,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

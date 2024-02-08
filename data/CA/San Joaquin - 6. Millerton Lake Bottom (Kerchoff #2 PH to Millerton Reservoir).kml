@@ -1,72 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="28769">
+    <Document id="48207">
+        <Style id="48212">
+            <IconStyle id="48213">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48214">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48217">
+            <IconStyle id="48218">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48219">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48222">
+            <IconStyle id="48223">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48224">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48227">
+            <IconStyle id="48228">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48229">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48232">
+            <IconStyle id="48233">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48234">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48237">
+            <IconStyle id="48238">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48239">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48242">
+            <IconStyle id="48243">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48244">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="48247">
+            <IconStyle id="48248">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48249">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>San Joaquin - 6. Millerton Lake Bottom (Kerchoff #2 PH to Millerton Reservoir)</name>
-        <Placemark id="28771">
-            <name>San Joaquin - 6. Millerton Lake Bottom (Kerchoff #2 PH to Millerton Reservoir)</name>
+        <Placemark id="48209">
+            <name>San Joaquin - 6. Millerton Lake Bottom (Kerchoff #2 PH to Millerton Reservoir) (III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="28770">
+            <LineString id="48208">
                 <coordinates>-119.560421,37.070713,0.0 -119.560384,37.070629,0.0 -119.560385,37.070348,0.0 -119.560386,37.070211,0.0 -119.560595,37.069967,0.0 -119.560773,37.069812,0.0 -119.56094,37.069745,0.0 -119.561011,37.069705,0.0 -119.561052,37.069669,0.0 -119.561299,37.069451,0.0 -119.561399,37.068942,0.0 -119.561371,37.068485,0.0 -119.561085,37.068057,0.0 -119.5608,37.067457,0.0 -119.560486,37.067057,0.0 -119.560571,37.066629,0.0 -119.561054,37.066188,0.0 -119.561234,37.065326,0.0 -119.561886,37.064823,0.0 -119.5627,37.064185,0.0 -119.564195,37.06399,0.0 -119.566158,37.064162,0.0 -119.567026,37.064098,0.0 -119.567308,37.06404,0.0 -119.567904,37.063862,0.0 -119.568922,37.063755,0.0 -119.570272,37.063744,0.0 -119.571129,37.063959,0.0 -119.572223,37.064327,0.0 -119.572702,37.064462,0.0 -119.572904,37.06452,0.0 -119.574294,37.064913,0.0 -119.576512,37.065164,0.0 -119.578316,37.065534,0.0 -119.58136,37.066158,0.0 -119.583063,37.065776,0.0 -119.583479,37.065683,0.0 -119.584401,37.065678,0.0 -119.585748,37.065672,0.0 -119.586019,37.06567,0.0 -119.587018,37.065842,0.0 -119.587204,37.065874,0.0 -119.589315,37.066531,0.0 -119.589843,37.066695,0.0 -119.590989,37.068015,0.0 -119.591057,37.068093,0.0 -119.591727,37.068364,0.0 -119.592578,37.068709,0.0 -119.593207,37.069081,0.0 -119.594485,37.069836,0.0 -119.595219,37.070274,0.0 -119.595808,37.070625,0.0 -119.597161,37.071402,0.0 -119.597515,37.071605,0.0 -119.598202,37.071609,0.0 -119.600321,37.071472,0.0 -119.601537,37.07135,0.0 -119.602901,37.071197,0.0 -119.603976,37.071077,0.0 -119.605369,37.070453,0.0 -119.606276,37.069112,0.0 -119.60705,37.068037,0.0 -119.607353,37.067615,0.0 -119.607964,37.066766,0.0 -119.609098,37.06519,0.0 -119.609114,37.065154,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="28773">
+        <Placemark id="48211">
             <name>Turbo Wave (III+)</name>
-            <Point id="28772">
+            <styleUrl>#48212</styleUrl>
+            <Point id="48210">
                 <coordinates>-119.572479,37.06456,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28775">
+        <Placemark id="48216">
             <name>Wave Train (II)</name>
-            <Point id="28774">
+            <styleUrl>#48217</styleUrl>
+            <Point id="48215">
                 <coordinates>-119.579002,37.0658,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28777">
+        <Placemark id="48221">
             <name>Surprise (III)</name>
-            <Point id="28776">
+            <styleUrl>#48222</styleUrl>
+            <Point id="48220">
                 <coordinates>-119.603996,37.071098,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28779">
+        <Placemark id="48226">
             <name>Last Fling (II)</name>
-            <Point id="28778">
+            <styleUrl>#48227</styleUrl>
+            <Point id="48225">
                 <coordinates>-119.607002,37.066502,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28781">
+        <Placemark id="48231">
             <name>Can Opener (III+)</name>
-            <Point id="28780">
+            <styleUrl>#48232</styleUrl>
+            <Point id="48230">
                 <coordinates>-119.577362,37.06543,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28783">
+        <Placemark id="48236">
             <name>First drop (II+)</name>
-            <Point id="28782">
+            <styleUrl>#48237</styleUrl>
+            <Point id="48235">
                 <coordinates>-119.56292,37.064323,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28785">
+        <Placemark id="48241">
             <name>Take Out</name>
-            <Point id="28784">
+            <styleUrl>#48242</styleUrl>
+            <Point id="48240">
                 <coordinates>-119.609001,37.065102,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28787">
+        <Placemark id="48246">
             <name>Put In</name>
-            <Point id="28786">
+            <styleUrl>#48247</styleUrl>
+            <Point id="48245">
                 <coordinates>-119.559998,37.0709,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="28789">
-            <name>Put in</name>
-            <Point id="28788">
-                <coordinates>-119.559998,37.0709,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="28791">
-            <name>Take out</name>
-            <Point id="28790">
-                <coordinates>-119.609001,37.065102,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="94745">
+        <Style id="94750">
+            <IconStyle id="94751">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94752">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94755">
+            <IconStyle id="94756">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94757">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94760">
+            <IconStyle id="94761">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94762">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94765">
+            <IconStyle id="94766">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94767">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94770">
+            <IconStyle id="94771">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94772">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Merced - 2) El Cap Meadow to Highway 120 / 140 junction.</name>
+        <Placemark id="94747">
+            <name>Merced - 2) El Cap Meadow to Highway 120 / 140 junction. (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="94746">
+                <coordinates>-119.630719,37.724696,0.0 -119.631294,37.723902,0.0 -119.63177,37.722829,0.0 -119.632154,37.722186,0.0 -119.633042,37.72127,0.0 -119.633467,37.721066,0.0 -119.634993,37.720703,0.0 -119.635403,37.72068,0.0 -119.63581,37.720715,0.0 -119.636278,37.720849,0.0 -119.639132,37.722034,0.0 -119.63937,37.7222,0.0 -119.639751,37.7226,0.0 -119.639961,37.722736,0.0 -119.640267,37.722781,0.0 -119.640652,37.722682,0.0 -119.641305,37.722428,0.0 -119.643083,37.72189,0.0 -119.644646,37.721316,0.0 -119.645767,37.721172,0.0 -119.64631,37.721181,0.0 -119.646754,37.721258,0.0 -119.647543,37.72161,0.0 -119.648193,37.722048,0.0 -119.648444,37.722129,0.0 -119.648622,37.722122,0.0 -119.649236,37.721819,0.0 -119.64989,37.721678,0.0 -119.651281,37.72109,0.0 -119.651983,37.720839,0.0 -119.652722,37.720661,0.0 -119.652909,37.72056,0.0 -119.653438,37.720123,0.0 -119.653593,37.719907,0.0 -119.653532,37.719379,0.0 -119.653568,37.718988,0.0 -119.653757,37.718705,0.0 -119.654077,37.718405,0.0 -119.654856,37.717758,0.0 -119.655037,37.717607,0.0 -119.655316,37.717425,0.0 -119.655564,37.717341,0.0 -119.655774,37.717405,0.0 -119.656196,37.717672,0.0 -119.65713,37.718127,0.0 -119.658666,37.718876,0.0 -119.659141,37.718987,0.0 -119.65975,37.718853,0.0 -119.660515,37.71855,0.0 -119.660691,37.718391,0.0 -119.661384,37.717362,0.0 -119.661602,37.71653,0.0 -119.661896,37.716052,0.0 -119.66225,37.715739,0.0 -119.662665,37.715467,0.0 -119.663185,37.71525,0.0 -119.66366,37.715163,0.0 -119.663825,37.715133,0.0 -119.664184,37.715161,0.0 -119.664406,37.715278,0.0 -119.665033,37.716134,0.0 -119.66526,37.716352,0.0 -119.665415,37.716426,0.0 -119.666446,37.716539,0.0 -119.667304,37.716633,0.0 -119.668945,37.717167,0.0 -119.669987,37.717736,0.0 -119.670276,37.717839,0.0 -119.670635,37.717889,0.0 -119.671405,37.717896,0.0 -119.672074,37.717789,0.0 -119.672939,37.717581,0.0 -119.673017,37.717559,0.0 -119.67386,37.717419,0.0 -119.674401,37.717453,0.0 -119.674685,37.717562,0.0 -119.675854,37.718245,0.0 -119.67653,37.718452,0.0 -119.678001,37.718454,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="94749">
+            <name>Take Out</name>
+            <styleUrl>#94750</styleUrl>
+            <Point id="94748">
+                <coordinates>-119.678,37.7191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94754">
+            <name>Pohono Bridge (III)</name>
+            <styleUrl>#94755</styleUrl>
+            <Point id="94753">
+                <coordinates>-119.666023,37.716858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94759">
+            <name>Gates (V)</name>
+            <styleUrl>#94760</styleUrl>
+            <Point id="94758">
+                <coordinates>-119.680099,37.719082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94764">
+            <name>Bridalveil Rapid (III)</name>
+            <styleUrl>#94765</styleUrl>
+            <Point id="94763">
+                <coordinates>-119.642441,37.722282,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94769">
+            <name>Put in</name>
+            <styleUrl>#94770</styleUrl>
+            <Point id="94768">
+                <coordinates>-119.631,37.7249,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

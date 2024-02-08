@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="113076">
+        <Style id="113081">
+            <IconStyle id="113082">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="113083">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="113086">
+            <IconStyle id="113087">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="113088">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Windy Run - Military Road to Potomac River</name>
+        <Placemark id="113078">
+            <name>Windy Run - Military Road to Potomac River (V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="113077">
+                <coordinates>-77.100298,38.90108,0.0 -77.100259,38.901091,0.0 -77.09992,38.9013,0.0 -77.099776,38.901407,0.0 -77.099306,38.901937,0.0 -77.098949,38.90223,0.0 -77.098793,38.902397,0.0 -77.098557,38.902973,0.0 -77.098221,38.90327,0.0 -77.097921,38.903819,0.0 -77.097666,38.90423,0.0 -77.097557,38.904342,0.0 -77.097398,38.904443,0.0 -77.097294,38.904478,0.0 -77.09664,38.904479,0.0 -77.096521,38.904509,0.0 -77.096342,38.904644,0.0 -77.096079,38.905011,0.0 -77.095914,38.905146,0.0 -77.09581,38.905192,0.0 -77.095629,38.905239,0.0 -77.095229,38.905273,0.0 -77.094915,38.905361,0.0 -77.094812,38.905413,0.0 -77.094783,38.905408,0.0 -77.094672,38.905459,0.0 -77.094526,38.905517,0.0 -77.094499,38.905539,0.0 -77.094471,38.90554,0.0 -77.094443,38.905562,0.0 -77.094332,38.905586,0.0 -77.094256,38.905637,0.0 -77.09411,38.9057,0.0 -77.094069,38.905739,0.0 -77.093999,38.905751,0.0 -77.093971,38.905774,0.0 -77.093902,38.905797,0.0 -77.093901,38.905797,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="113080">
+            <name>Take Out</name>
+            <styleUrl>#113081</styleUrl>
+            <Point id="113079">
+                <coordinates>-77.093903,38.9058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113085">
+            <name>Put In</name>
+            <styleUrl>#113086</styleUrl>
+            <Point id="113084">
+                <coordinates>-77.100304,38.9011,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

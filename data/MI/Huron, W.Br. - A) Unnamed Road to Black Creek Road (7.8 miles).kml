@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="94519">
+        <Style id="94524">
+            <IconStyle id="94525">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94526">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94529">
+            <IconStyle id="94530">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94531">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94534">
+            <IconStyle id="94535">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94536">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94539">
+            <IconStyle id="94540">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94541">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94544">
+            <IconStyle id="94545">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94546">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94549">
+            <IconStyle id="94550">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94551">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94554">
+            <IconStyle id="94555">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94556">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94559">
+            <IconStyle id="94560">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94561">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94564">
+            <IconStyle id="94565">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94566">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94569">
+            <IconStyle id="94570">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94571">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94574">
+            <IconStyle id="94575">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="94576">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Huron, W.Br. - A) Unnamed Road to Black Creek Road (7.8 miles)</name>
+        <Placemark id="94521">
+            <name>Huron, W.Br. - A) Unnamed Road to Black Creek Road (7.8 miles) (II-III(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="94520">
+                <coordinates>-88.089301,46.739648,0.0 -88.090295,46.739664,0.0 -88.090694,46.739962,0.0 -88.091059,46.740419,0.0 -88.091059,46.741607,0.0 -88.091756,46.742179,0.0 -88.092786,46.743459,0.0 -88.09375,46.744214,0.0 -88.094315,46.744488,0.0 -88.094681,46.744785,0.0 -88.095478,46.745677,0.0 -88.09621,46.746225,0.0 -88.097007,46.746614,0.0 -88.098204,46.746591,0.0 -88.098703,46.746774,0.0 -88.098936,46.74698,0.0 -88.099468,46.747117,0.0 -88.099767,46.747049,0.0 -88.100133,46.74682,0.0 -88.100731,46.746821,0.0 -88.101828,46.746981,0.0 -88.102061,46.747072,0.0 -88.102394,46.747369,0.0 -88.102526,46.747598,0.0 -88.102958,46.747827,0.0 -88.10379,46.748192,0.0 -88.104421,46.748604,0.0 -88.104953,46.748832,0.0 -88.105984,46.749358,0.0 -88.107048,46.749496,0.0 -88.107779,46.74993,0.0 -88.1083,46.75048,0.0 -88.109497,46.751234,0.0 -88.109929,46.751623,0.0 -88.110494,46.75256,0.0 -88.110727,46.752857,0.0 -88.110727,46.754022,0.0 -88.110527,46.75448,0.0 -88.110061,46.754777,0.0 -88.109762,46.755165,0.0 -88.109795,46.756468,0.0 -88.10903,46.757291,0.0 -88.108996,46.758022,0.0 -88.109295,46.759233,0.0 -88.109428,46.759393,0.0 -88.109361,46.760148,0.0 -88.108629,46.761062,0.0 -88.108363,46.761564,0.0 -88.108396,46.762799,0.0 -88.108329,46.763599,0.0 -88.108429,46.76401,0.0 -88.108628,46.76449,0.0 -88.108761,46.764581,0.0 -88.10906,46.765176,0.0 -88.109093,46.766296,0.0 -88.108927,46.766776,0.0 -88.108827,46.767233,0.0 -88.108694,46.767393,0.0 -88.108694,46.767804,0.0 -88.109059,46.768238,0.0 -88.109059,46.768375,0.0 -88.109126,46.768421,0.0 -88.109126,46.769015,0.0 -88.10846,46.76993,0.0 -88.10826,46.770089,0.0 -88.108194,46.770249,0.0 -88.108194,46.770524,0.0 -88.109059,46.770707,0.0 -88.109325,46.77089,0.0 -88.109458,46.771164,0.0 -88.109491,46.771187,0.0 -88.109624,46.771484,0.0 -88.109757,46.771712,0.0 -88.109723,46.772352,0.0 -88.109391,46.772718,0.0 -88.109025,46.773061,0.0 -88.107993,46.773746,0.0 -88.107893,46.773998,0.0 -88.107926,46.774295,0.0 -88.108159,46.774501,0.0 -88.108226,46.774478,0.0 -88.108425,46.775598,0.0 -88.108192,46.776009,0.0 -88.107959,46.776215,0.0 -88.106528,46.776534,0.0 -88.106262,46.776717,0.0 -88.106096,46.777266,0.0 -88.105696,46.777654,0.0 -88.105064,46.778065,0.0 -88.10503,46.778957,0.0 -88.104698,46.7793,0.0 -88.103733,46.779642,0.0 -88.103699,46.779711,0.0 -88.103466,46.779916,0.0 -88.103333,46.780168,0.0 -88.1033,46.780693,0.0 -88.103399,46.780876,0.0 -88.103366,46.781288,0.0 -88.103233,46.781471,0.0 -88.102833,46.781653,0.0 -88.102567,46.781653,0.0 -88.102168,46.781562,0.0 -88.101303,46.781584,0.0 -88.101004,46.781699,0.0 -88.100338,46.782178,0.0 -88.099805,46.782864,0.0 -88.099539,46.78339,0.0 -88.099372,46.783595,0.0 -88.099272,46.783984,0.0 -88.099571,46.784761,0.0 -88.099571,46.785287,0.0 -88.099038,46.786315,0.0 -88.099038,46.787115,0.0 -88.099104,46.787481,0.0 -88.09907,46.788509,0.0 -88.098971,46.788646,0.0 -88.098937,46.788966,0.0 -88.098837,46.78908,0.0 -88.098837,46.789286,0.0 -88.098637,46.789492,0.0 -88.098105,46.789789,0.0 -88.096441,46.789857,0.0 -88.095742,46.790085,0.0 -88.095442,46.790428,0.0 -88.095442,46.790885,0.0 -88.095508,46.791182,0.0 -88.095808,46.791548,0.0 -88.095907,46.791822,0.0 -88.09594,46.792508,0.0 -88.09604,46.792577,0.0 -88.096073,46.792714,0.0 -88.096273,46.792988,0.0 -88.096306,46.793559,0.0 -88.095107,46.794542,0.0 -88.094208,46.795776,0.0 -88.094041,46.796301,0.0 -88.093708,46.79669,0.0 -88.093242,46.797078,0.0 -88.091877,46.797946,0.0 -88.091577,46.798449,0.0 -88.091477,46.799043,0.0 -88.091177,46.799843,0.0 -88.090711,46.80062,0.0 -88.090144,46.801397,0.0 -88.089944,46.801831,0.0 -88.089844,46.80254,0.0 -88.090043,46.803157,0.0 -88.09021,46.80334,0.0 -88.090276,46.8035,0.0 -88.090409,46.803637,0.0 -88.090342,46.804117,0.0 -88.089943,46.804391,0.0 -88.088744,46.804482,0.0 -88.088212,46.804733,0.0 -88.087778,46.805259,0.0 -88.087512,46.805899,0.0 -88.087325,46.806182,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="94523">
+            <name>Bridge</name>
+            <styleUrl>#94524</styleUrl>
+            <Point id="94522">
+                <coordinates>-88.109,46.761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94528">
+            <name>Take Out</name>
+            <styleUrl>#94529</styleUrl>
+            <Point id="94527">
+                <coordinates>-88.0872,46.8061,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94533">
+            <name>Put In</name>
+            <styleUrl>#94534</styleUrl>
+            <Point id="94532">
+                <coordinates>-88.0893,46.7397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94538">
+            <name>Falls</name>
+            <styleUrl>#94539</styleUrl>
+            <Point id="94537">
+                <coordinates>-88.108,46.764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94543">
+            <name>Black Creek Road / USGS sampling site</name>
+            <styleUrl>#94544</styleUrl>
+            <Point id="94542">
+                <coordinates>-88.087196,46.8064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94548">
+            <name>Falls</name>
+            <styleUrl>#94549</styleUrl>
+            <Point id="94547">
+                <coordinates>-88.099,46.787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94553">
+            <name>? (track/road)</name>
+            <styleUrl>#94554</styleUrl>
+            <Point id="94552">
+                <coordinates>-88.095,46.795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94558">
+            <name>Notice:</name>
+            <styleUrl>#94559</styleUrl>
+            <Point id="94557">
+                <coordinates>-88.089,46.74,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94563">
+            <name>? (track/road)</name>
+            <styleUrl>#94564</styleUrl>
+            <Point id="94562">
+                <coordinates>-88.11,46.756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94568">
+            <name>Logging Road (?)</name>
+            <styleUrl>#94569</styleUrl>
+            <Point id="94567">
+                <coordinates>-88.106,46.777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="94573">
+            <name>Ford</name>
+            <styleUrl>#94574</styleUrl>
+            <Point id="94572">
+                <coordinates>-88.104,46.778,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

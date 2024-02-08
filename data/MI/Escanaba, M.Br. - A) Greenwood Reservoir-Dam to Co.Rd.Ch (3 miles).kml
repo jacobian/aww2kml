@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="95874">
+        <Style id="95879">
+            <IconStyle id="95880">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95881">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95884">
+            <IconStyle id="95885">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95886">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95889">
+            <IconStyle id="95890">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95891">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95894">
+            <IconStyle id="95895">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95896">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95899">
+            <IconStyle id="95900">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95901">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95904">
+            <IconStyle id="95905">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95906">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95909">
+            <IconStyle id="95910">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95911">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95914">
+            <IconStyle id="95915">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95916">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95919">
+            <IconStyle id="95920">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95921">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95924">
+            <IconStyle id="95925">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95926">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95929">
+            <IconStyle id="95930">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95931">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="95934">
+            <IconStyle id="95935">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="95936">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Escanaba, M.Br. - A) Greenwood Reservoir/Dam to Co.Rd.Ch (3 miles)</name>
+        <Placemark id="95876">
+            <name>Escanaba, M.Br. - A) Greenwood Reservoir/Dam to Co.Rd.Ch (3 miles) (II-III+(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="95875">
+                <coordinates>-87.804346,46.443285,0.0 -87.802229,46.442463,0.0 -87.8008,46.442341,0.0 -87.800522,46.44226,0.0 -87.799837,46.44178,0.0 -87.797303,46.441627,0.0 -87.796311,46.440807,0.0 -87.794863,46.44072,0.0 -87.793131,46.439982,0.0 -87.792407,46.439938,0.0 -87.790534,46.440333,0.0 -87.78981,46.440289,0.0 -87.788063,46.439677,0.0 -87.787268,46.438741,0.0 -87.787425,46.437483,0.0 -87.78648,46.436285,0.0 -87.786543,46.435782,0.0 -87.785459,46.434842,0.0 -87.785411,46.434771,0.0 -87.785378,46.434657,0.0 -87.785279,46.434542,0.0 -87.785279,46.434428,0.0 -87.784454,46.433742,0.0 -87.78419,46.433376,0.0 -87.784158,46.432964,0.0 -87.784423,46.432668,0.0 -87.785117,46.432485,0.0 -87.785613,46.432188,0.0 -87.786508,46.431298,0.0 -87.787897,46.430407,0.0 -87.788328,46.429928,0.0 -87.788329,46.429356,0.0 -87.787933,46.428716,0.0 -87.787834,46.428464,0.0 -87.787373,46.427504,0.0 -87.787308,46.426544,0.0 -87.78754,46.426224,0.0 -87.7884,46.425996,0.0 -87.790549,46.425678,0.0 -87.791012,46.425518,0.0 -87.791343,46.425198,0.0 -87.791575,46.424833,0.0 -87.792071,46.424467,0.0 -87.792931,46.424171,0.0 -87.794055,46.423943,0.0 -87.795313,46.422869,0.0 -87.795875,46.42239,0.0 -87.796008,46.422207,0.0 -87.796372,46.422002,0.0 -87.796934,46.422002,0.0 -87.797331,46.421842,0.0 -87.797926,46.421294,0.0 -87.798224,46.42086,0.0 -87.798258,46.42054,0.0 -87.798093,46.420197,0.0 -87.797664,46.419854,0.0 -87.797003,46.419556,0.0 -87.796541,46.41951,0.0 -87.79611,46.41983,0.0 -87.79611,46.419899,0.0 -87.796011,46.41999,0.0 -87.796011,46.420036,0.0 -87.795845,46.420287,0.0 -87.795448,46.420538,0.0 -87.795146,46.420643,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="95878">
+            <name>Third Major Pitch (IV)</name>
+            <styleUrl>#95879</styleUrl>
+            <Point id="95877">
+                <coordinates>-87.810471,46.428829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95883">
+            <name>Take Out</name>
+            <styleUrl>#95884</styleUrl>
+            <Point id="95882">
+                <coordinates>-87.7952,46.4208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95888">
+            <name>Dam Drop (IV)</name>
+            <styleUrl>#95889</styleUrl>
+            <Point id="95887">
+                <coordinates>-87.804802,46.441559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95893">
+            <name>Put In</name>
+            <styleUrl>#95894</styleUrl>
+            <Point id="95892">
+                <coordinates>-87.805,46.4416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95898">
+            <name>Private footbridge</name>
+            <styleUrl>#95899</styleUrl>
+            <Point id="95897">
+                <coordinates>-87.810364,46.430679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95903">
+            <name>Riffles and rips (I)</name>
+            <styleUrl>#95904</styleUrl>
+            <Point id="95902">
+                <coordinates>-87.808998,46.424599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95908">
+            <name>Private footbridge</name>
+            <styleUrl>#95909</styleUrl>
+            <Point id="95907">
+                <coordinates>-87.812347,46.43449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95913">
+            <name>Fourth Pitch (IV)</name>
+            <styleUrl>#95914</styleUrl>
+            <Point id="95912">
+                <coordinates>-87.81208,46.426739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95918">
+            <name>Co.Rd.Ch</name>
+            <styleUrl>#95919</styleUrl>
+            <Point id="95917">
+                <coordinates>-87.797997,46.4202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95923">
+            <name>One more shot of gradient (III+)</name>
+            <styleUrl>#95924</styleUrl>
+            <Point id="95922">
+                <coordinates>-87.772591,46.400719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95928">
+            <name>USGS sampling site</name>
+            <styleUrl>#95929</styleUrl>
+            <Point id="95927">
+                <coordinates>-87.810402,46.435799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95933">
+            <name>Second Pitch (IV)</name>
+            <styleUrl>#95934</styleUrl>
+            <Point id="95932">
+                <coordinates>-87.805,46.439999,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

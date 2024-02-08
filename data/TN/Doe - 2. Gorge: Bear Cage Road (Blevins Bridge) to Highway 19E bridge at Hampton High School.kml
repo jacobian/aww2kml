@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="80372">
+        <Style id="80377">
+            <IconStyle id="80378">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80379">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80382">
+            <IconStyle id="80383">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80384">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80387">
+            <IconStyle id="80388">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80389">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80392">
+            <IconStyle id="80393">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80394">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80397">
+            <IconStyle id="80398">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80399">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80402">
+            <IconStyle id="80403">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80404">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80407">
+            <IconStyle id="80408">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80409">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80412">
+            <IconStyle id="80413">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80414">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80417">
+            <IconStyle id="80418">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80419">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80422">
+            <IconStyle id="80423">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80424">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80427">
+            <IconStyle id="80428">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80429">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Doe - 2. Gorge: Bear Cage Road (Blevins Bridge) to Highway 19E bridge at Hampton High School</name>
+        <Placemark id="80374">
+            <name>Doe - 2. Gorge: Bear Cage Road (Blevins Bridge) to Highway 19E bridge at Hampton High School (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="80373">
+                <coordinates>-82.155523,36.230719,0.0 -82.1566,36.23187,0.0 -82.156813,36.232436,0.0 -82.156791,36.233047,0.0 -82.156867,36.233128,0.0 -82.156833,36.233557,0.0 -82.156908,36.233891,0.0 -82.157166,36.234462,0.0 -82.157527,36.234794,0.0 -82.157753,36.235217,0.0 -82.157752,36.235469,0.0 -82.157681,36.235605,0.0 -82.157229,36.235841,0.0 -82.156657,36.235991,0.0 -82.155939,36.235944,0.0 -82.155425,36.235775,0.0 -82.155014,36.235547,0.0 -82.154836,36.235526,0.0 -82.154335,36.235287,0.0 -82.153846,36.23523,0.0 -82.153534,36.235446,0.0 -82.153265,36.23592,0.0 -82.153162,36.236233,0.0 -82.153193,36.236309,0.0 -82.153307,36.236431,0.0 -82.153974,36.236508,0.0 -82.154125,36.23667,0.0 -82.154192,36.237292,0.0 -82.154374,36.237782,0.0 -82.154975,36.238689,0.0 -82.155179,36.239305,0.0 -82.155052,36.239522,0.0 -82.154504,36.239783,0.0 -82.153476,36.239699,0.0 -82.153094,36.239799,0.0 -82.152527,36.240166,0.0 -82.151927,36.240709,0.0 -82.151628,36.240855,0.0 -82.151304,36.240889,0.0 -82.150282,36.24077,0.0 -82.149597,36.240546,0.0 -82.149521,36.240436,0.0 -82.149292,36.240474,0.0 -82.148929,36.24072,0.0 -82.148908,36.241079,0.0 -82.149634,36.242066,0.0 -82.149722,36.242329,0.0 -82.149696,36.24247,0.0 -82.149897,36.242855,0.0 -82.150003,36.243264,0.0 -82.149979,36.244561,0.0 -82.149977,36.244633,0.0 -82.150103,36.244936,0.0 -82.150906,36.245752,0.0 -82.151208,36.246329,0.0 -82.151896,36.247275,0.0 -82.152238,36.247387,0.0 -82.152881,36.247101,0.0 -82.153148,36.247133,0.0 -82.153338,36.247335,0.0 -82.153357,36.247602,0.0 -82.153265,36.247976,0.0 -82.153099,36.248137,0.0 -82.152487,36.248499,0.0 -82.152048,36.248665,0.0 -82.150774,36.249418,0.0 -82.150455,36.24967,0.0 -82.15025,36.25,0.0 -82.15014,36.250242,0.0 -82.150149,36.250507,0.0 -82.150582,36.250799,0.0 -82.150747,36.25089,0.0 -82.150969,36.250916,0.0 -82.151275,36.250735,0.0 -82.151562,36.250408,0.0 -82.151664,36.250348,0.0 -82.151842,36.250368,0.0 -82.152386,36.250865,0.0 -82.152798,36.251093,0.0 -82.1534,36.251272,0.0 -82.154029,36.251309,0.0 -82.154411,36.251209,0.0 -82.155207,36.250833,0.0 -82.155971,36.250381,0.0 -82.156316,36.25,0.0 -82.156737,36.249825,0.0 -82.157182,36.249877,0.0 -82.157372,36.25,0.0 -82.157962,36.250575,0.0 -82.157862,36.250962,0.0 -82.15655,36.251676,0.0 -82.156224,36.251962,0.0 -82.156032,36.252265,0.0 -82.155947,36.252724,0.0 -82.156167,36.253255,0.0 -82.156083,36.253715,0.0 -82.155802,36.254007,0.0 -82.154705,36.254781,0.0 -82.154526,36.255013,0.0 -82.154531,36.25523,0.0 -82.154632,36.255422,0.0 -82.155246,36.256035,0.0 -82.15546,36.256349,0.0 -82.155528,36.256824,0.0 -82.156237,36.257306,0.0 -82.156617,36.257459,0.0 -82.158167,36.257676,0.0 -82.158464,36.258035,0.0 -82.158327,36.258777,0.0 -82.158446,36.259116,0.0 -82.158604,36.259243,0.0 -82.159004,36.259289,0.0 -82.159475,36.2592,0.0 -82.160319,36.259298,0.0 -82.160579,36.259365,0.0 -82.16094,36.259623,0.0 -82.160926,36.259946,0.0 -82.160302,36.260379,0.0 -82.160198,36.260692,0.0 -82.160223,36.260803,0.0 -82.160514,36.261198,0.0 -82.161325,36.261725,0.0 -82.161653,36.262161,0.0 -82.161594,36.262479,0.0 -82.16146,36.262716,0.0 -82.160831,36.263091,0.0 -82.160554,36.26344,0.0 -82.160502,36.263723,0.0 -82.16083,36.264158,0.0 -82.162959,36.26419,0.0 -82.163353,36.264019,0.0 -82.163488,36.263782,0.0 -82.164597,36.262937,0.0 -82.164923,36.262606,0.0 -82.164966,36.262473,0.0 -82.165713,36.262057,0.0 -82.166293,36.261871,0.0 -82.166859,36.261757,0.0 -82.167214,36.261798,0.0 -82.16736,36.261869,0.0 -82.168353,36.262761,0.0 -82.170794,36.264056,0.0 -82.171008,36.26437,0.0 -82.171019,36.264804,0.0 -82.17077,36.265172,0.0 -82.170112,36.265782,0.0 -82.169505,36.266613,0.0 -82.169403,36.266673,0.0 -82.16908,36.267935,0.0 -82.168638,36.268606,0.0 -82.168275,36.270079,0.0 -82.168548,36.270328,0.0 -82.16877,36.270354,0.0 -82.169374,36.270279,0.0 -82.170123,36.270403,0.0 -82.172451,36.271324,0.0 -82.172908,36.271557,0.0 -82.173138,36.271833,0.0 -82.174029,36.272374,0.0 -82.17421,36.272573,0.0 -82.175274,36.273746,0.0 -82.17552,36.274262,0.0 -82.176316,36.275239,0.0 -82.177113,36.27609,0.0 -82.177635,36.276547,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="80376">
+            <name>Put In</name>
+            <styleUrl>#80377</styleUrl>
+            <Point id="80375">
+                <coordinates>-82.155332,36.230898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80381">
+            <name>Flagpole (IV)</name>
+            <styleUrl>#80382</styleUrl>
+            <Point id="80380">
+                <coordinates>-82.15747,36.25015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80386">
+            <name>Toaster Slot (III+)</name>
+            <styleUrl>#80387</styleUrl>
+            <Point id="80385">
+                <coordinates>-82.15085,36.25085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80391">
+            <name>Schooley's Folly (III)</name>
+            <styleUrl>#80392</styleUrl>
+            <Point id="80390">
+                <coordinates>-82.168768,36.26239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80396">
+            <name>Diagonal Ledges (IV)</name>
+            <styleUrl>#80397</styleUrl>
+            <Point id="80395">
+                <coordinates>-82.15837,36.25774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80401">
+            <name>Bodysnatcher (IV)</name>
+            <styleUrl>#80402</styleUrl>
+            <Point id="80400">
+                <coordinates>-82.15193,36.25024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80406">
+            <name>Bear Cage (III)</name>
+            <styleUrl>#80407</styleUrl>
+            <Point id="80405">
+                <coordinates>-82.15464,36.23808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80411">
+            <name>Old Railroad Grade Road</name>
+            <styleUrl>#80412</styleUrl>
+            <Point id="80410">
+                <coordinates>-82.154894,36.235666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80416">
+            <name>Take Out</name>
+            <styleUrl>#80417</styleUrl>
+            <Point id="80415">
+                <coordinates>-82.17761,36.276575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80421">
+            <name>First Railroad Bridge</name>
+            <styleUrl>#80422</styleUrl>
+            <Point id="80420">
+                <coordinates>-82.15228,36.24722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80426">
+            <name>Second Railroad Bridge</name>
+            <styleUrl>#80427</styleUrl>
+            <Point id="80425">
+                <coordinates>-82.15192,36.24879,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

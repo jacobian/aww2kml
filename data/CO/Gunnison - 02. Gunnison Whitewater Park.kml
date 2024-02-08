@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="84488">
+        <Style id="84493">
+            <IconStyle id="84494">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="84495">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84498">
+            <IconStyle id="84499">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="84500">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Gunnison - 02. Gunnison Whitewater Park</name>
+        <Placemark id="84490">
+            <name>Gunnison - 02. Gunnison Whitewater Park (II(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="84489">
+                <coordinates>-106.949336,38.533092,0.0 -106.949417,38.532797,0.0 -106.949785,38.531873,0.0 -106.949794,38.531849,0.0 -106.950114,38.531391,0.0 -106.950659,38.530818,0.0 -106.950904,38.53073,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="84492">
+            <name>Take Out</name>
+            <styleUrl>#84493</styleUrl>
+            <Point id="84491">
+                <coordinates>-106.951,38.531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="84497">
+            <name>Put In</name>
+            <styleUrl>#84498</styleUrl>
+            <Point id="84496">
+                <coordinates>-106.949,38.533,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

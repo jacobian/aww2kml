@@ -1,35 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="28257">
+    <Document id="47407">
+        <Style id="47412">
+            <IconStyle id="47413">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47414">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="47417">
+            <IconStyle id="47418">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47419">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="47422">
+            <IconStyle id="47423">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="47424">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>North Fork Broad River - Starrs Bridge (HWY 51) to Royston City Dam</name>
-        <Placemark id="28259">
-            <name>North Fork Broad River - Starrs Bridge (HWY 51) to Royston City Dam</name>
+        <Placemark id="47409">
+            <name>North Fork Broad River - Starrs Bridge (HWY 51) to Royston City Dam (I-II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="28258">
+            <LineString id="47408">
                 <coordinates>-83.186539,34.323139,0.0 -83.186546,34.323063,0.0 -83.187069,34.322353,0.0 -83.187069,34.321986,0.0 -83.186157,34.320705,0.0 -83.186185,34.320384,0.0 -83.186405,34.320064,0.0 -83.18715,34.319285,0.0 -83.187122,34.318873,0.0 -83.18552,34.317477,0.0 -83.185161,34.317294,0.0 -83.184719,34.316859,0.0 -83.184746,34.316264,0.0 -83.185132,34.315897,0.0 -83.185988,34.315416,0.0 -83.187367,34.315026,0.0 -83.187588,34.314866,0.0 -83.187698,34.314591,0.0 -83.187807,34.313217,0.0 -83.187558,34.312599,0.0 -83.187144,34.31221,0.0 -83.186564,34.31205,0.0 -83.185847,34.312027,0.0 -83.184523,34.312234,0.0 -83.184136,34.312143,0.0 -83.183612,34.311616,0.0 -83.18317,34.310861,0.0 -83.182231,34.309854,0.0 -83.180989,34.309511,0.0 -83.18074,34.309283,0.0 -83.180602,34.308916,0.0 -83.180602,34.308916,0.0 -83.18245,34.308068,0.0 -83.182505,34.307542,0.0 -83.182367,34.307359,0.0 -83.181069,34.306214,0.0 -83.180406,34.305024,0.0 -83.180157,34.304383,0.0 -83.179881,34.304109,0.0 -83.179219,34.303949,0.0 -83.178253,34.303972,0.0 -83.177839,34.303812,0.0 -83.177536,34.303537,0.0 -83.177591,34.303034,0.0 -83.178224,34.301797,0.0 -83.178306,34.30095,0.0 -83.17803,34.300057,0.0 -83.177974,34.299118,0.0 -83.177891,34.298821,0.0 -83.177532,34.298431,0.0 -83.176649,34.297631,0.0 -83.1756,34.297219,0.0 -83.175407,34.296761,0.0 -83.175407,34.296761,0.0 -83.1756,34.296646,0.0 -83.176317,34.29644,0.0 -83.176731,34.296211,0.0 -83.176924,34.296005,0.0 -83.176924,34.296005,0.0 -83.177144,34.296005,0.0 -83.177392,34.295776,0.0 -83.177585,34.295501,0.0 -83.177639,34.293532,0.0 -83.177893,34.292223,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="28261">
+        <Placemark id="47411">
             <name>Royston City Dam Take Out</name>
-            <Point id="28260">
+            <styleUrl>#47412</styleUrl>
+            <Point id="47410">
                 <coordinates>-83.177516,34.291969,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28263">
+        <Placemark id="47416">
             <name>Starrs Bridge Put in</name>
-            <Point id="28262">
+            <styleUrl>#47417</styleUrl>
+            <Point id="47415">
                 <coordinates>-83.186539,34.323139,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="28265">
-            <name>Put in</name>
-            <Point id="28264">
-                <coordinates>-83.186539,34.323139,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="28267">
+        <Placemark id="47421">
             <name>Take out</name>
-            <Point id="28266">
+            <styleUrl>#47422</styleUrl>
+            <Point id="47420">
                 <coordinates>-83.177893,34.292223,0.0</coordinates>
             </Point>
         </Placemark>

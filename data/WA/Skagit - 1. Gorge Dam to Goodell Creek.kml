@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="50422">
+        <Style id="50427">
+            <IconStyle id="50428">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50429">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50432">
+            <IconStyle id="50433">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50434">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50437">
+            <IconStyle id="50438">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50439">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50442">
+            <IconStyle id="50443">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50444">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50447">
+            <IconStyle id="50448">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50449">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50452">
+            <IconStyle id="50453">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50454">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50457">
+            <IconStyle id="50458">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50459">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Skagit - 1. Gorge Dam to Goodell Creek</name>
+        <Placemark id="50424">
+            <name>Skagit - 1. Gorge Dam to Goodell Creek (V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="50423">
+                <coordinates>-121.2102,48.69718,0.0 -121.210506,48.697136,0.0 -121.211021,48.697044,0.0 -121.211429,48.697015,0.0 -121.212448,48.696838,0.0 -121.212727,48.696732,0.0 -121.212866,48.696654,0.0 -121.213424,48.696399,0.0 -121.213832,48.696272,0.0 -121.214057,48.696173,0.0 -121.214401,48.695974,0.0 -121.214572,48.695897,0.0 -121.214755,48.695833,0.0 -121.21586,48.695365,0.0 -121.21586,48.695365,0.0 -121.216278,48.695203,0.0 -121.216815,48.69487,0.0 -121.217297,48.694473,0.0 -121.218585,48.693496,0.0 -121.218692,48.69339,0.0 -121.219164,48.69305,0.0 -121.219368,48.692943,0.0 -121.21955,48.692865,0.0 -121.219958,48.692724,0.0 -121.220269,48.692632,0.0 -121.220452,48.692554,0.0 -121.220784,48.692377,0.0 -121.220784,48.692377,0.0 -121.221224,48.692136,0.0 -121.221524,48.692065,0.0 -121.222469,48.691874,0.0 -121.224164,48.69096,0.0 -121.22485,48.690599,0.0 -121.225301,48.690203,0.0 -121.225955,48.689827,0.0 -121.236073,48.686909,0.0 -121.236577,48.686612,0.0 -121.236942,48.686477,0.0 -121.237242,48.686392,0.0 -121.237242,48.686392,0.0 -121.23735,48.686399,0.0 -121.2375,48.686378,0.0 -121.23765,48.686321,0.0 -121.238101,48.685981,0.0 -121.239002,48.685358,0.0 -121.239184,48.685238,0.0 -121.239485,48.685075,0.0 -121.240182,48.684883,0.0 -121.240922,48.684664,0.0 -121.24103,48.684586,0.0 -121.241137,48.684388,0.0 -121.241255,48.683793,0.0 -121.241437,48.683545,0.0 -121.241716,48.683233,0.0 -121.241888,48.682971,0.0 -121.241963,48.68268,0.0 -121.242038,48.682489,0.0 -121.242102,48.682263,0.0 -121.242102,48.681986,0.0 -121.242049,48.681639,0.0 -121.241684,48.680881,0.0 -121.241416,48.680577,0.0 -121.241405,48.680407,0.0 -121.241491,48.67996,0.0 -121.241555,48.679797,0.0 -121.241727,48.679486,0.0 -121.241738,48.67928,0.0 -121.241802,48.679061,0.0 -121.241963,48.678699,0.0 -121.242231,48.677665,0.0 -121.242263,48.677155,0.0 -121.242199,48.676985,0.0 -121.242199,48.676985,0.0 -121.24192,48.676468,0.0 -121.241652,48.676114,0.0 -121.241405,48.675752,0.0 -121.241105,48.675519,0.0 -121.240729,48.675306,0.0 -121.240708,48.675256,0.0 -121.240708,48.675256,0.0 -121.240375,48.674732,0.0 -121.240289,48.674442,0.0 -121.240246,48.674066,0.0 -121.240439,48.673776,0.0 -121.240697,48.673507,0.0 -121.241276,48.673202,0.0 -121.2428,48.672876,0.0 -121.244216,48.67277,0.0 -121.244667,48.672692,0.0 -121.245879,48.672295,0.0 -121.246769,48.671976,0.0 -121.247563,48.67182,0.0 -121.248229,48.671558,0.0 -121.248808,48.671381,0.0 -121.249344,48.671076,0.0 -121.249795,48.670857,0.0 -121.249795,48.670857,0.0 -121.250685,48.670658,0.0 -121.250685,48.670658,0.0 -121.251233,48.670595,0.0 -121.251522,48.670495,0.0 -121.252799,48.670524,0.0 -121.253754,48.671006,0.0 -121.254709,48.671452,0.0 -121.256039,48.671494,0.0 -121.256039,48.671494,0.0 -121.256254,48.671501,0.0 -121.257091,48.671735,0.0 -121.258249,48.672118,0.0 -121.259215,48.672309,0.0 -121.259934,48.672401,0.0 -121.262101,48.672508,0.0 -121.262101,48.672508,0.0 -121.263753,48.672458,0.0 -121.263842,48.67245,0.0 -121.263842,48.67245,0.0 -121.264504,48.672394,0.0 -121.264504,48.672394,0.0 -121.264966,48.672359,0.0 -121.264966,48.672359,0.0 -121.265599,48.672309,0.0 -121.266478,48.672175,0.0 -121.266478,48.672175,0.0 -121.266854,48.672117,0.0 -121.266854,48.672117,0.0 -121.267219,48.672061,0.0 -121.268764,48.671679,0.0 -121.269048,48.671552,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="50426">
+            <name>Existing Feature 2</name>
+            <styleUrl>#50427</styleUrl>
+            <Point id="50425">
+                <coordinates>-121.233241,48.687726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50431">
+            <name>Existing Feature 1</name>
+            <styleUrl>#50432</styleUrl>
+            <Point id="50430">
+                <coordinates>-121.241499,48.683475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50436">
+            <name>Goodell Creek Access</name>
+            <styleUrl>#50437</styleUrl>
+            <Point id="50435">
+                <coordinates>-121.26955,48.671916,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50441">
+            <name>Gorge Dam</name>
+            <styleUrl>#50442</styleUrl>
+            <Point id="50440">
+                <coordinates>-121.208649,48.698001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50446">
+            <name>Gorge Powerhouse</name>
+            <styleUrl>#50447</styleUrl>
+            <Point id="50445">
+                <coordinates>-121.241102,48.675517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50451">
+            <name>Put in</name>
+            <styleUrl>#50452</styleUrl>
+            <Point id="50450">
+                <coordinates>-121.2102,48.69718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50456">
+            <name>Take out</name>
+            <styleUrl>#50457</styleUrl>
+            <Point id="50455">
+                <coordinates>-121.269048,48.671552,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

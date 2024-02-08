@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="81145">
+        <Style id="81150">
+            <IconStyle id="81151">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81152">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81155">
+            <IconStyle id="81156">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81157">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81160">
+            <IconStyle id="81161">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81162">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81165">
+            <IconStyle id="81166">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81167">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81170">
+            <IconStyle id="81171">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81172">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81175">
+            <IconStyle id="81176">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81177">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81180">
+            <IconStyle id="81181">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81182">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81185">
+            <IconStyle id="81186">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81187">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="81190">
+            <IconStyle id="81191">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="81192">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Barberry Creek - Headwaters to ELFB (1.8 miles)</name>
+        <Placemark id="81147">
+            <name>Barberry Creek - Headwaters to ELFB (1.8 miles) (III-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="81146">
+                <coordinates>-93.242748,35.827113,0.0 -93.242802,35.827232,0.0 -93.242917,35.827352,0.0 -93.243032,35.827468,0.0 -93.243248,35.827605,0.0 -93.24341,35.827737,0.0 -93.243666,35.828001,0.0 -93.244004,35.82838,0.0 -93.244065,35.828545,0.0 -93.244153,35.828611,0.0 -93.244322,35.828709,0.0 -93.244416,35.828786,0.0 -93.244436,35.828869,0.0 -93.244416,35.829067,0.0 -93.244464,35.829176,0.0 -93.244578,35.829308,0.0 -93.244801,35.829468,0.0 -93.245004,35.829643,0.0 -93.245126,35.829957,0.0 -93.245119,35.830122,0.0 -93.244991,35.830451,0.0 -93.244991,35.830737,0.0 -93.24514,35.831166,0.0 -93.24514,35.831847,0.0 -93.245107,35.83199,0.0 -93.245114,35.832216,0.0 -93.24531,35.832661,0.0 -93.24533,35.83304,0.0 -93.245391,35.833243,0.0 -93.245486,35.833298,0.0 -93.245607,35.833287,0.0 -93.246026,35.83315,0.0 -93.246188,35.833144,0.0 -93.246343,35.833177,0.0 -93.24641,35.83321,0.0 -93.246464,35.833292,0.0 -93.246431,35.833869,0.0 -93.246445,35.834012,0.0 -93.246526,35.834194,0.0 -93.24662,35.834249,0.0 -93.246944,35.834386,0.0 -93.247492,35.835018,0.0 -93.247715,35.835243,0.0 -93.248052,35.835358,0.0 -93.248187,35.835347,0.0 -93.248315,35.835254,0.0 -93.248403,35.835204,0.0 -93.248585,35.83522,0.0 -93.24872,35.835303,0.0 -93.24893,35.835588,0.0 -93.248984,35.835632,0.0 -93.249321,35.835825,0.0 -93.249396,35.835902,0.0 -93.249565,35.835956,0.0 -93.249915,35.835978,0.0 -93.250176,35.836028,0.0 -93.25046,35.836039,0.0 -93.25073,35.836122,0.0 -93.251,35.836166,0.0 -93.251344,35.836276,0.0 -93.251519,35.836435,0.0 -93.25162,35.836606,0.0 -93.251768,35.836958,0.0 -93.251984,35.837145,0.0 -93.252187,35.837282,0.0 -93.252247,35.837475,0.0 -93.252247,35.837837,0.0 -93.252146,35.838184,0.0 -93.252078,35.838475,0.0 -93.251821,35.838892,0.0 -93.251652,35.839101,0.0 -93.251611,35.839288,0.0 -93.251605,35.839453,0.0 -93.251645,35.839612,0.0 -93.251861,35.840272,0.0 -93.252036,35.840552,0.0 -93.252198,35.84086,0.0 -93.252211,35.841283,0.0 -93.252258,35.841514,0.0 -93.252372,35.841745,0.0 -93.252311,35.841987,0.0 -93.252345,35.842146,0.0 -93.252601,35.842509,0.0 -93.252628,35.842702,0.0 -93.252736,35.842856,0.0 -93.252628,35.843136,0.0 -93.252783,35.843427,0.0 -93.25281,35.843565,0.0 -93.252769,35.84379,0.0 -93.252715,35.84396,0.0 -93.252755,35.844224,0.0 -93.252991,35.844604,0.0 -93.253342,35.845478,0.0 -93.253396,35.845753,0.0 -93.253382,35.846187,0.0 -93.253402,35.846407,0.0 -93.253564,35.84655,0.0 -93.25382,35.846693,0.0 -93.254333,35.846885,0.0 -93.254502,35.847083,0.0 -93.254542,35.847243,0.0 -93.254657,35.847402,0.0 -93.254758,35.84749,0.0 -93.255599,35.847466,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="81149">
+            <name>First Drop (IV)</name>
+            <styleUrl>#81150</styleUrl>
+            <Point id="81148">
+                <coordinates>-93.243927,35.828171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81154">
+            <name>Down South Jukin' (IV+)</name>
+            <styleUrl>#81155</styleUrl>
+            <Point id="81153">
+                <coordinates>-93.246933,35.834332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81159">
+            <name>Gimme Three Steps (IV+)</name>
+            <styleUrl>#81160</styleUrl>
+            <Point id="81158">
+                <coordinates>-93.244904,35.829498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81164">
+            <name>Monday Morning Surprise (IV)</name>
+            <styleUrl>#81165</styleUrl>
+            <Point id="81163">
+                <coordinates>-93.245201,35.8312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81169">
+            <name>Put-in Parking</name>
+            <styleUrl>#81170</styleUrl>
+            <Point id="81168">
+                <coordinates>-93.232811,35.828518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81174">
+            <name>Take Out</name>
+            <styleUrl>#81175</styleUrl>
+            <Point id="81173">
+                <coordinates>-93.2556,35.8475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81179">
+            <name>Put In</name>
+            <styleUrl>#81180</styleUrl>
+            <Point id="81178">
+                <coordinates>-93.242996,35.827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81184">
+            <name>Barbarian Falls (V)</name>
+            <styleUrl>#81185</styleUrl>
+            <Point id="81183">
+                <coordinates>-93.250153,35.835987,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81189">
+            <name>Entrance to Barbarian Falls (V)</name>
+            <styleUrl>#81190</styleUrl>
+            <Point id="81188">
+                <coordinates>-93.249863,35.835934,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

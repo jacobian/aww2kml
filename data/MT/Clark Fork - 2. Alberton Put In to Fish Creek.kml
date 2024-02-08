@@ -1,66 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="10867">
+    <Document id="18337">
+        <Style id="18342">
+            <IconStyle id="18343">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18344">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="18347">
+            <IconStyle id="18348">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18349">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="18352">
+            <IconStyle id="18353">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18354">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="18357">
+            <IconStyle id="18358">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18359">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="18362">
+            <IconStyle id="18363">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18364">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="18367">
+            <IconStyle id="18368">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18369">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="18372">
+            <IconStyle id="18373">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18374">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Clark Fork - 2. Alberton Put In to Fish Creek</name>
-        <Placemark id="10869">
-            <name>Clark Fork - 2. Alberton Put In to Fish Creek</name>
+        <Placemark id="18339">
+            <name>Clark Fork - 2. Alberton Put In to Fish Creek (III-IV)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="10868">
+            <LineString id="18338">
                 <coordinates>-114.578499,47.005425,0.0 -114.578497,47.005456,0.0 -114.57824,47.006326,0.0 -114.5778,47.008375,0.0 -114.5778,47.008375,0.0 -114.577714,47.008887,0.0 -114.577789,47.009201,0.0 -114.578133,47.009472,0.0 -114.578798,47.009743,0.0 -114.579474,47.010065,0.0 -114.580772,47.010555,0.0 -114.58215,47.011141,0.0 -114.582137,47.011155,0.0 -114.582424,47.011279,0.0 -114.584312,47.011952,0.0 -114.605942,47.015025,0.0 -114.6068,47.015259,0.0 -114.60813,47.015697,0.0 -114.609375,47.016224,0.0 -114.611049,47.016605,0.0 -114.611049,47.016605,0.0 -114.611907,47.016722,0.0 -114.613709,47.017336,0.0 -114.614825,47.017336,0.0 -114.615641,47.017424,0.0 -114.615641,47.017424,0.0 -114.617271,47.017687,0.0 -114.619632,47.018506,0.0 -114.62049,47.018477,0.0 -114.621649,47.018536,0.0 -114.623065,47.018887,0.0 -114.624867,47.019209,0.0 -114.625597,47.019384,0.0 -114.626455,47.019852,0.0 -114.627528,47.020291,0.0 -114.628301,47.020964,0.0 -114.628644,47.021139,0.0 -114.634695,47.021198,0.0 -114.635124,47.021257,0.0 -114.635468,47.021403,0.0 -114.635897,47.021374,0.0 -114.636412,47.021432,0.0 -114.63963,47.021754,0.0 -114.641433,47.021988,0.0 -114.643707,47.022515,0.0 -114.64478,47.022661,0.0 -114.645638,47.022632,0.0 -114.646711,47.022427,0.0 -114.646711,47.022427,0.0 -114.647527,47.022163,0.0 -114.648557,47.022105,0.0 -114.651175,47.022163,0.0 -114.65229,47.022222,0.0 -114.652762,47.022076,0.0 -114.65538,47.02152,0.0 -114.655724,47.021374,0.0 -114.65641,47.020847,0.0 -114.657569,47.019735,0.0 -114.658384,47.018857,0.0 -114.659414,47.018243,0.0 -114.660916,47.017541,0.0 -114.661646,47.017248,0.0 -114.66229,47.017102,0.0 -114.66229,47.017102,0.0 -114.665251,47.016283,0.0 -114.66598,47.016166,0.0 -114.668941,47.016078,0.0 -114.671216,47.015727,0.0 -114.673705,47.015785,0.0 -114.67452,47.015961,0.0 -114.674993,47.015961,0.0 -114.675465,47.015785,0.0 -114.676323,47.015112,0.0 -114.677267,47.014849,0.0 -114.678512,47.014703,0.0 -114.680057,47.014352,0.0 -114.680657,47.014117,0.0 -114.681344,47.01403,0.0 -114.682074,47.013766,0.0 -114.683018,47.013679,0.0 -114.683747,47.013474,0.0 -114.685163,47.013269,0.0 -114.685936,47.013035,0.0 -114.68688,47.012625,0.0 -114.687524,47.012508,0.0 -114.690828,47.012215,0.0 -114.691343,47.012128,0.0 -114.692116,47.011894,0.0 -114.693146,47.011689,0.0 -114.693918,47.011455,0.0 -114.694347,47.011104,0.0 -114.695721,47.009289,0.0 -114.697137,47.008089,0.0 -114.697566,47.00768,0.0 -114.697652,47.00727,0.0 -114.69821,47.006773,0.0 -114.698424,47.006334,0.0 -114.698982,47.005631,0.0 -114.699111,47.005251,0.0 -114.699969,47.004139,0.0 -114.700484,47.003641,0.0 -114.700484,47.003641,0.0 -114.701171,47.00288,0.0 -114.701858,47.002324,0.0 -114.702888,47.001241,0.0 -114.703617,47.000597,0.0 -114.704518,46.999924,0.0 -114.705076,46.999632,0.0 -114.705076,46.999632,0.0 -114.705935,46.999251,0.0 -114.707394,46.998753,0.0 -114.708509,46.99811,0.0 -114.709754,46.997671,0.0 -114.710612,46.997466,0.0 -114.7119,46.997261,0.0 -114.714475,46.997056,0.0 -114.714475,46.997056,0.0 -114.716277,46.996675,0.0 -114.717264,46.996588,0.0 -114.71838,46.996588,0.0 -114.71911,46.996705,0.0 -114.720697,46.997056,0.0 -114.721856,46.997407,0.0 -114.723315,46.997963,0.0 -114.726706,46.999632,0.0 -114.728336,47.000744,0.0 -114.728851,47.001212,0.0 -114.730396,47.002295,0.0 -114.731383,47.003085,0.0 -114.732285,47.003524,0.0 -114.733272,47.004168,0.0 -114.734902,47.005017,0.0 -114.738593,47.00727,0.0 -114.73958,47.007914,0.0 -114.740095,47.008499,0.0 -114.740524,47.009026,0.0 -114.740782,47.009523,0.0 -114.740825,47.009816,0.0 -114.740825,47.009816,0.0 -114.740739,47.010138,0.0 -114.74031,47.010372,0.0 -114.739623,47.010518,0.0 -114.738078,47.010548,0.0 -114.737606,47.010665,0.0 -114.73722,47.011045,0.0 -114.737134,47.011777,0.0 -114.73733,47.012148,0.0 -114.73733,47.012148,0.0 -114.739231,47.013986,0.0 -114.739752,47.014337,0.0 -114.739824,47.014396,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="10871">
+        <Placemark id="18341">
             <name>Fang  (III)</name>
-            <Point id="10870">
+            <styleUrl>#18342</styleUrl>
+            <Point id="18340">
                 <coordinates>-114.68449,47.013366,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10873">
+        <Placemark id="18346">
             <name>Cyr Put In</name>
-            <Point id="10872">
+            <styleUrl>#18347</styleUrl>
+            <Point id="18345">
                 <coordinates>-114.579999,47.005636,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10875">
+        <Placemark id="18351">
             <name>Tumbleweed Rapid (III)</name>
-            <Point id="10874">
+            <styleUrl>#18352</styleUrl>
+            <Point id="18350">
                 <coordinates>-114.668928,47.015973,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10877">
+        <Placemark id="18356">
             <name>Triple Bridges Rapid (III)</name>
-            <Point id="10876">
+            <styleUrl>#18357</styleUrl>
+            <Point id="18355">
                 <coordinates>-114.658838,47.018586,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10879">
+        <Placemark id="18361">
             <name>Tarkio east fishing access</name>
-            <Point id="10878">
+            <styleUrl>#18362</styleUrl>
+            <Point id="18360">
                 <coordinates>-114.651049,47.021228,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10881">
+        <Placemark id="18366">
             <name>Ralph's Take Out</name>
-            <Point id="10880">
+            <styleUrl>#18367</styleUrl>
+            <Point id="18365">
                 <coordinates>-114.69703,47.009685,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10883">
+        <Placemark id="18371">
             <name>Tarkio Take-Out</name>
-            <Point id="10882">
+            <styleUrl>#18372</styleUrl>
+            <Point id="18370">
                 <coordinates>-114.739185,47.014536,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="10885">
-            <name>Put in</name>
-            <Point id="10884">
-                <coordinates>-114.578499,47.005425,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="10887">
-            <name>Take out</name>
-            <Point id="10886">
-                <coordinates>-114.739824,47.014396,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

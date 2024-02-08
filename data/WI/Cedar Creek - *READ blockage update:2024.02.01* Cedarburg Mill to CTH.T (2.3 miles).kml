@@ -1,132 +1,318 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="5027">
+    <Document id="8659">
+        <Style id="8664">
+            <IconStyle id="8665">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8666">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8669">
+            <IconStyle id="8670">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8671">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8674">
+            <IconStyle id="8675">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8676">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8679">
+            <IconStyle id="8680">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8681">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8684">
+            <IconStyle id="8685">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8686">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8689">
+            <IconStyle id="8690">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8691">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8694">
+            <IconStyle id="8695">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8696">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8699">
+            <IconStyle id="8700">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8701">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8704">
+            <IconStyle id="8705">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8706">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8709">
+            <IconStyle id="8710">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8711">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8714">
+            <IconStyle id="8715">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8716">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8719">
+            <IconStyle id="8720">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8721">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8724">
+            <IconStyle id="8725">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8726">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8729">
+            <IconStyle id="8730">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8731">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8734">
+            <IconStyle id="8735">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8736">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8739">
+            <IconStyle id="8740">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8741">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8744">
+            <IconStyle id="8745">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8746">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="8749">
+            <IconStyle id="8750">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="8751">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Cedar Creek - *READ blockage update:2024.02.01* Cedarburg Mill to CTH.T (2.3 miles)</name>
-        <Placemark id="5029">
-            <name>Cedar Creek - *READ blockage update:2024.02.01* Cedarburg Mill to CTH.T (2.3 miles)</name>
+        <Placemark id="8661">
+            <name>Cedar Creek - *READ blockage update:2024.02.01* Cedarburg Mill to CTH.T (2.3 miles) (II-III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="5028">
+            <LineString id="8660">
                 <coordinates>-87.985934,43.296607,0.0 -87.985146,43.2963,0.0 -87.98462,43.296191,0.0 -87.98318,43.296232,0.0 -87.98318,43.296232,0.0 -87.98299,43.296238,0.0 -87.98299,43.296238,0.0 -87.982786,43.296222,0.0 -87.982099,43.296293,0.0 -87.981359,43.296621,0.0 -87.981091,43.297487,0.0 -87.979589,43.298401,0.0 -87.978516,43.298479,0.0 -87.976799,43.299135,0.0 -87.975351,43.299814,0.0 -87.97534,43.299831,0.0 -87.97534,43.299831,0.0 -87.974921,43.300525,0.0 -87.974805,43.300609,0.0 -87.974805,43.300609,0.0 -87.974417,43.300892,0.0 -87.973849,43.301095,0.0 -87.972035,43.301165,0.0 -87.970469,43.300892,0.0 -87.969718,43.300962,0.0 -87.968313,43.301462,0.0 -87.96725,43.301532,0.0 -87.966521,43.301446,0.0 -87.96562,43.301126,0.0 -87.964901,43.300579,0.0 -87.96474,43.300283,0.0 -87.964396,43.299892,0.0 -87.963731,43.299299,0.0 -87.962798,43.298588,0.0 -87.96254,43.298292,0.0 -87.962476,43.297401,0.0 -87.96239,43.297214,0.0 -87.961854,43.296941,0.0 -87.961414,43.296621,0.0 -87.961414,43.296051,0.0 -87.961607,43.295754,0.0 -87.96195,43.295551,0.0 -87.962379,43.295184,0.0 -87.962916,43.295113,0.0 -87.96386,43.295293,0.0 -87.964954,43.295566,0.0 -87.965448,43.295769,0.0 -87.966928,43.296847,0.0 -87.96768,43.29712,0.0 -87.968431,43.297144,0.0 -87.969246,43.296909,0.0 -87.970147,43.296246,0.0 -87.970587,43.295566,0.0 -87.970651,43.295496,0.0 -87.970684,43.295082,0.0 -87.970625,43.294959,0.0 -87.970625,43.294959,0.0 -87.970587,43.294879,0.0 -87.970308,43.294489,0.0 -87.970373,43.294281,0.0 -87.970537,43.294182,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="5031">
+        <Placemark id="8663">
             <name>Nail Factory Dam (~18.5')</name>
-            <Point id="5030">
+            <styleUrl>#8664</styleUrl>
+            <Point id="8662">
                 <coordinates>-87.969803,43.300999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5033">
+        <Placemark id="8668">
             <name>Up Against the Wall</name>
-            <Point id="5032">
+            <styleUrl>#8669</styleUrl>
+            <Point id="8667">
                 <coordinates>-87.969002,43.300999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5035">
+        <Placemark id="8673">
             <name>Confluence, Milwaukee River</name>
-            <Point id="5034">
+            <styleUrl>#8674</styleUrl>
+            <Point id="8672">
                 <coordinates>-87.9505,43.2906,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5037">
+        <Placemark id="8678">
             <name>USGS gauge (120 sq.mi.)</name>
-            <Point id="5036">
+            <styleUrl>#8679</styleUrl>
+            <Point id="8677">
                 <coordinates>-87.978996,43.322899,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5039">
-            <name>Squirt Spot</name>
-            <Point id="5038">
-                <coordinates>-87.971,43.295,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5041">
+        <Placemark id="8683">
             <name>Minor play wave</name>
-            <Point id="5040">
+            <styleUrl>#8684</styleUrl>
+            <Point id="8682">
                 <coordinates>-87.968002,43.301998,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5043">
+        <Placemark id="8688">
+            <name>Squirt Spot</name>
+            <styleUrl>#8689</styleUrl>
+            <Point id="8687">
+                <coordinates>-87.971,43.295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8693">
             <name>Creek View Court (Alternate Access)</name>
-            <Point id="5042">
+            <styleUrl>#8694</styleUrl>
+            <Point id="8692">
                 <coordinates>-87.973887,43.299943,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5045">
+        <Placemark id="8698">
             <name>Take-out (CTH.T/Lakefield Road)</name>
-            <Point id="5044">
+            <styleUrl>#8699</styleUrl>
+            <Point id="8697">
                 <coordinates>-87.97,43.294,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5047">
+        <Placemark id="8703">
             <name>Green Bay Road</name>
-            <Point id="5046">
+            <styleUrl>#8704</styleUrl>
+            <Point id="8702">
                 <coordinates>-87.97176,43.28399,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5049">
-            <name>Island</name>
-            <Point id="5048">
-                <coordinates>-87.962997,43.297001,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5051">
+        <Placemark id="8708">
             <name>Hazelwood Bridge</name>
-            <Point id="5050">
+            <styleUrl>#8709</styleUrl>
+            <Point id="8707">
                 <coordinates>-87.964302,43.2999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5053">
+        <Placemark id="8713">
+            <name>Island</name>
+            <styleUrl>#8714</styleUrl>
+            <Point id="8712">
+                <coordinates>-87.962997,43.297001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8718">
             <name>Put-in</name>
-            <Point id="5052">
+            <styleUrl>#8719</styleUrl>
+            <Point id="8717">
                 <coordinates>-87.986,43.297,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5055">
+        <Placemark id="8723">
             <name>Highland Drive / Columbia Mills Dam (PORTAGE!)</name>
-            <Point id="5054">
+            <styleUrl>#8724</styleUrl>
+            <Point id="8722">
                 <coordinates>-87.9751,43.30041,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5057">
+        <Placemark id="8728">
             <name>Bank Waves (II)</name>
-            <Point id="5056">
+            <styleUrl>#8729</styleUrl>
+            <Point id="8727">
                 <coordinates>-87.974,43.301,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5059">
+        <Placemark id="8733">
             <name>Last Hurrah (II)</name>
-            <Point id="5058">
+            <styleUrl>#8734</styleUrl>
+            <Point id="8732">
                 <coordinates>-87.964996,43.300999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5061">
+        <Placemark id="8738">
             <name>Estate Bridge (II+)</name>
-            <Point id="5060">
+            <styleUrl>#8739</styleUrl>
+            <Point id="8737">
                 <coordinates>-87.967,43.302,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5063">
+        <Placemark id="8743">
             <name>Railroad Waves (II)</name>
-            <Point id="5062">
+            <styleUrl>#8744</styleUrl>
+            <Point id="8742">
                 <coordinates>-87.965698,43.301201,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5065">
+        <Placemark id="8748">
             <name>City Park Ledges (III)</name>
-            <Point id="5064">
+            <styleUrl>#8749</styleUrl>
+            <Point id="8747">
                 <coordinates>-87.985397,43.296299,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5067">
-            <name>Put in</name>
-            <Point id="5066">
-                <coordinates>-87.985934,43.296607,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5069">
-            <name>Take out</name>
-            <Point id="5068">
-                <coordinates>-87.970537,43.294182,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="96933">
+        <Style id="96938">
+            <IconStyle id="96939">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96940">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96943">
+            <IconStyle id="96944">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96945">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96948">
+            <IconStyle id="96949">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96950">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96953">
+            <IconStyle id="96954">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96955">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96958">
+            <IconStyle id="96959">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96960">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96963">
+            <IconStyle id="96964">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96965">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96968">
+            <IconStyle id="96969">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96970">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96973">
+            <IconStyle id="96974">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96975">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96978">
+            <IconStyle id="96979">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96980">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96983">
+            <IconStyle id="96984">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96985">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96988">
+            <IconStyle id="96989">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96990">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96993">
+            <IconStyle id="96994">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96995">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="96998">
+            <IconStyle id="96999">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97000">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97003">
+            <IconStyle id="97004">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97005">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97008">
+            <IconStyle id="97009">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97010">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97013">
+            <IconStyle id="97014">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97015">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="97018">
+            <IconStyle id="97019">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="97020">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Tioga - Hwy.41 Wayside to Old US Hwy.41 (2.7 + 7.8 miles)</name>
+        <Placemark id="96935">
+            <name>Tioga - Hwy.41 Wayside to Old US Hwy.41 (2.7 + 7.8 miles) (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="96934">
+                <coordinates>-88.339912,46.573126,0.0 -88.340299,46.573714,0.0 -88.340928,46.57424,0.0 -88.341227,46.574628,0.0 -88.34116,46.574834,0.0 -88.340994,46.575062,0.0 -88.340696,46.575268,0.0 -88.340464,46.575542,0.0 -88.339933,46.575908,0.0 -88.339966,46.576182,0.0 -88.340364,46.576456,0.0 -88.34149,46.576708,0.0 -88.342253,46.577051,0.0 -88.342683,46.577417,0.0 -88.342882,46.577714,0.0 -88.342882,46.577805,0.0 -88.342981,46.577851,0.0 -88.343114,46.578125,0.0 -88.343246,46.578377,0.0 -88.343246,46.578468,0.0 -88.343345,46.578514,0.0 -88.343312,46.578606,0.0 -88.343445,46.578674,0.0 -88.343511,46.579131,0.0 -88.343676,46.579611,0.0 -88.343709,46.580617,0.0 -88.343576,46.581005,0.0 -88.34321,46.583017,0.0 -88.342215,46.584456,0.0 -88.34112,46.585416,0.0 -88.341153,46.585736,0.0 -88.341253,46.585987,0.0 -88.342015,46.58649,0.0 -88.342876,46.586833,0.0 -88.343407,46.587176,0.0 -88.343837,46.587793,0.0 -88.344036,46.588022,0.0 -88.344169,46.588365,0.0 -88.344699,46.588662,0.0 -88.346058,46.589097,0.0 -88.346621,46.589234,0.0 -88.346787,46.589348,0.0 -88.346853,46.589531,0.0 -88.346256,46.590057,0.0 -88.346156,46.590217,0.0 -88.346156,46.590628,0.0 -88.346985,46.5912,0.0 -88.348278,46.591817,0.0 -88.348609,46.592068,0.0 -88.348576,46.59216,0.0 -88.348708,46.59232,0.0 -88.348808,46.592594,0.0 -88.348774,46.593257,0.0 -88.348674,46.593851,0.0 -88.348674,46.595268,0.0 -88.349005,46.59568,0.0 -88.350165,46.596366,0.0 -88.350397,46.596388,0.0 -88.350928,46.596571,0.0 -88.351524,46.596709,0.0 -88.352088,46.597074,0.0 -88.352022,46.597372,0.0 -88.351822,46.5976,0.0 -88.351822,46.597851,0.0 -88.352121,46.598194,0.0 -88.352784,46.59824,0.0 -88.353182,46.598423,0.0 -88.353845,46.59904,0.0 -88.355834,46.599703,0.0 -88.356232,46.599703,0.0 -88.356464,46.599566,0.0 -88.356696,46.599315,0.0 -88.357027,46.599361,0.0 -88.357193,46.599589,0.0 -88.357293,46.599887,0.0 -88.357392,46.600047,0.0 -88.357458,46.600344,0.0 -88.357326,46.600481,0.0 -88.356762,46.600846,0.0 -88.356795,46.601006,0.0 -88.356994,46.601212,0.0 -88.357425,46.601349,0.0 -88.358055,46.601304,0.0 -88.358353,46.601189,0.0 -88.358718,46.601212,0.0 -88.359149,46.601624,0.0 -88.359447,46.601624,0.0 -88.359746,46.601487,0.0 -88.359845,46.601304,0.0 -88.359812,46.600595,0.0 -88.360443,46.600298,0.0 -88.361371,46.600321,0.0 -88.361968,46.600504,0.0 -88.362233,46.600687,0.0 -88.362166,46.601647,0.0 -88.362299,46.601876,0.0 -88.36283,46.60199,0.0 -88.363327,46.602013,0.0 -88.363791,46.602241,0.0 -88.363725,46.602424,0.0 -88.362896,46.602653,0.0 -88.362829,46.602836,0.0 -88.363095,46.603018,0.0 -88.363426,46.603064,0.0 -88.36399,46.603041,0.0 -88.364255,46.602973,0.0 -88.364487,46.602996,0.0 -88.364951,46.603293,0.0 -88.365217,46.60327,0.0 -88.365383,46.603179,0.0 -88.365383,46.602653,0.0 -88.365217,46.602287,0.0 -88.365482,46.602127,0.0 -88.366477,46.602173,0.0 -88.366908,46.602447,0.0 -88.367107,46.602676,0.0 -88.367074,46.60311,0.0 -88.366941,46.603544,0.0 -88.366908,46.604344,0.0 -88.366775,46.604596,0.0 -88.366808,46.604916,0.0 -88.367206,46.604984,0.0 -88.36767,46.604984,0.0 -88.368035,46.605167,0.0 -88.368168,46.605281,0.0 -88.368101,46.605738,0.0 -88.367637,46.606036,0.0 -88.36767,46.60615,0.0 -88.367803,46.606264,0.0 -88.368897,46.606424,0.0 -88.369892,46.606676,0.0 -88.371119,46.606539,0.0 -88.371384,46.606607,0.0 -88.371948,46.607064,0.0 -88.372678,46.607476,0.0 -88.373275,46.607727,0.0 -88.37354,46.60791,0.0 -88.374137,46.608093,0.0 -88.375132,46.608207,0.0 -88.376259,46.608275,0.0 -88.376558,46.608413,0.0 -88.377188,46.608961,0.0 -88.377818,46.608984,0.0 -88.37815,46.608961,0.0 -88.379045,46.60839,0.0 -88.379774,46.608412,0.0 -88.38057,46.608595,0.0 -88.380836,46.608778,0.0 -88.381035,46.608984,0.0 -88.381035,46.609624,0.0 -88.381234,46.609738,0.0 -88.381964,46.609647,0.0 -88.382992,46.609944,0.0 -88.38329,46.610172,0.0 -88.383356,46.610264,0.0 -88.383622,46.610423,0.0 -88.38392,46.610492,0.0 -88.384948,46.610423,0.0 -88.385313,46.610515,0.0 -88.38601,46.610492,0.0 -88.38664,46.610195,0.0 -88.387535,46.610103,0.0 -88.387966,46.610354,0.0 -88.388,46.610492,0.0 -88.388265,46.610629,0.0 -88.389426,46.610766,0.0 -88.390653,46.611063,0.0 -88.391051,46.6112,0.0 -88.392112,46.611999,0.0 -88.392245,46.612022,0.0 -88.39251,46.611954,0.0 -88.392809,46.611702,0.0 -88.393074,46.611131,0.0 -88.393339,46.610879,0.0 -88.393604,46.610742,0.0 -88.394566,46.610582,0.0 -88.394898,46.610582,0.0 -88.395329,46.610285,0.0 -88.395594,46.610193,0.0 -88.396091,46.610216,0.0 -88.396821,46.610353,0.0 -88.398214,46.610353,0.0 -88.398678,46.610467,0.0 -88.399176,46.610832,0.0 -88.399342,46.611152,0.0 -88.399375,46.611518,0.0 -88.399541,46.611815,0.0 -88.399774,46.611907,0.0 -88.399939,46.611998,0.0 -88.402692,46.611974,0.0 -88.403554,46.611791,0.0 -88.403985,46.611586,0.0 -88.404449,46.611174,0.0 -88.405013,46.610854,0.0 -88.406472,46.610465,0.0 -88.407035,46.610168,0.0 -88.407234,46.609916,0.0 -88.407533,46.609368,0.0 -88.408295,46.608728,0.0 -88.409323,46.608247,0.0 -88.409986,46.607813,0.0 -88.410649,46.60763,0.0 -88.410815,46.607675,0.0 -88.411743,46.607789,0.0 -88.414264,46.608451,0.0 -88.415591,46.608976,0.0 -88.416818,46.609365,0.0 -88.416984,46.609547,0.0 -88.41725,46.609547,0.0 -88.417847,46.60973,0.0 -88.420832,46.610209,0.0 -88.423784,46.611007,0.0 -88.424414,46.611258,0.0 -88.42541,46.611441,0.0 -88.425741,46.611372,0.0 -88.425973,46.611235,0.0 -88.426271,46.610801,0.0 -88.426535,46.609132,0.0 -88.426866,46.608972,0.0 -88.427099,46.608995,0.0 -88.427497,46.609246,0.0 -88.427796,46.609543,0.0 -88.428393,46.609794,0.0 -88.428758,46.609839,0.0 -88.429222,46.609794,0.0 -88.429487,46.609702,0.0 -88.43005,46.609336,0.0 -88.430349,46.609222,0.0 -88.43088,46.609336,0.0 -88.432339,46.609998,0.0 -88.433036,46.6105,0.0 -88.433269,46.610797,0.0 -88.433236,46.611049,0.0 -88.432905,46.611254,0.0 -88.43244,46.611232,0.0 -88.431511,46.610798,0.0 -88.43098,46.610707,0.0 -88.430218,46.610799,0.0 -88.430085,46.61089,0.0 -88.429919,46.611073,0.0 -88.42992,46.611462,0.0 -88.430219,46.611644,0.0 -88.431645,46.611666,0.0 -88.432308,46.611826,0.0 -88.432673,46.6121,0.0 -88.432873,46.612374,0.0 -88.432807,46.61274,0.0 -88.432641,46.613083,0.0 -88.432642,46.613654,0.0 -88.433173,46.61402,0.0 -88.433405,46.61402,0.0 -88.434599,46.613768,0.0 -88.43566,46.613538,0.0 -88.436091,46.613515,0.0 -88.437053,46.61372,0.0 -88.438015,46.613766,0.0 -88.43954,46.613422,0.0 -88.439971,46.613422,0.0 -88.440502,46.613673,0.0 -88.440834,46.614015,0.0 -88.441232,46.614107,0.0 -88.44183,46.614198,0.0 -88.443985,46.614082,0.0 -88.445743,46.614173,0.0 -88.446307,46.614332,0.0 -88.446672,46.614606,0.0 -88.44727,46.615451,0.0 -88.447835,46.615862,0.0 -88.448366,46.616113,0.0 -88.449095,46.616022,0.0 -88.44936,46.615839,0.0 -88.449526,46.615564,0.0 -88.449558,46.614673,0.0 -88.449226,46.614376,0.0 -88.449225,46.61417,0.0 -88.449524,46.614033,0.0 -88.450088,46.614032,0.0 -88.450652,46.614215,0.0 -88.452012,46.614397,0.0 -88.452792,46.614378,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="96937">
+            <name>Tioga Falls (III+)</name>
+            <styleUrl>#96938</styleUrl>
+            <Point id="96936">
+                <coordinates>-88.34877,46.593796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96942">
+            <name>Minor rips</name>
+            <styleUrl>#96943</styleUrl>
+            <Point id="96941">
+                <coordinates>-88.419388,46.610142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96947">
+            <name>Action eases (flatwater)</name>
+            <styleUrl>#96948</styleUrl>
+            <Point id="96946">
+                <coordinates>-88.341103,46.5858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96952">
+            <name>Foot-bridge</name>
+            <styleUrl>#96953</styleUrl>
+            <Point id="96951">
+                <coordinates>-88.340858,46.575096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96957">
+            <name>Put In</name>
+            <styleUrl>#96958</styleUrl>
+            <Point id="96956">
+                <coordinates>-88.3398,46.5732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96962">
+            <name>USGS sampling site</name>
+            <styleUrl>#96963</styleUrl>
+            <Point id="96961">
+                <coordinates>-88.340401,46.5755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96967">
+            <name>Warning shot</name>
+            <styleUrl>#96968</styleUrl>
+            <Point id="96966">
+                <coordinates>-88.348824,46.59211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96972">
+            <name>Begin narrow and twisty</name>
+            <styleUrl>#96973</styleUrl>
+            <Point id="96971">
+                <coordinates>-88.342949,46.577728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96977">
+            <name>Action increases</name>
+            <styleUrl>#96978</styleUrl>
+            <Point id="96976">
+                <coordinates>-88.343536,46.580559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96982">
+            <name>Confluence, Tioga/Sturgeon</name>
+            <styleUrl>#96983</styleUrl>
+            <Point id="96981">
+                <coordinates>-88.352371,46.59819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96987">
+            <name>Rapids (III)</name>
+            <styleUrl>#96988</styleUrl>
+            <Point id="96986">
+                <coordinates>-88.407501,46.609299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96992">
+            <name>Begin continuous splishy-splash</name>
+            <styleUrl>#96993</styleUrl>
+            <Point id="96991">
+                <coordinates>-88.442017,46.61441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="96997">
+            <name>End of Tioga Falls Sequence</name>
+            <styleUrl>#96998</styleUrl>
+            <Point id="96996">
+                <coordinates>-88.3489,46.595001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97002">
+            <name>Trail Bridge</name>
+            <styleUrl>#97003</styleUrl>
+            <Point id="97001">
+                <coordinates>-88.3405,46.575802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97007">
+            <name>Dam/Weir?</name>
+            <styleUrl>#97008</styleUrl>
+            <Point id="97006">
+                <coordinates>-88.4338,46.614281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97012">
+            <name>Take-out (or continue)</name>
+            <styleUrl>#97013</styleUrl>
+            <Point id="97011">
+                <coordinates>-88.452787,46.614378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97017">
+            <name>Take-out</name>
+            <styleUrl>#97018</styleUrl>
+            <Point id="97016">
+                <coordinates>-88.452783,46.614378,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

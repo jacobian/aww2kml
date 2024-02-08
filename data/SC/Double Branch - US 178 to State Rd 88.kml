@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="114833">
+        <Style id="114838">
+            <IconStyle id="114839">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114840">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114843">
+            <IconStyle id="114844">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114845">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Double Branch - US 178 to State Rd 88</name>
+        <Placemark id="114835">
+            <name>Double Branch - US 178 to State Rd 88 (III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="114834">
+                <coordinates>-82.677178,34.712736,0.0 -82.677151,34.712711,0.0 -82.677044,34.712639,0.0 -82.676911,34.712491,0.0 -82.676665,34.712288,0.0 -82.676305,34.712068,0.0 -82.676206,34.711985,0.0 -82.676139,34.711958,0.0 -82.675773,34.711754,0.0 -82.675706,34.711699,0.0 -82.675587,34.711633,0.0 -82.675294,34.711408,0.0 -82.674961,34.710968,0.0 -82.674841,34.710787,0.0 -82.674435,34.710364,0.0 -82.674203,34.710095,0.0 -82.673896,34.709583,0.0 -82.673597,34.709188,0.0 -82.673424,34.708995,0.0 -82.673284,34.708885,0.0 -82.673184,34.70883,0.0 -82.673098,34.70877,0.0 -82.672991,34.708627,0.0 -82.672952,34.708528,0.0 -82.672725,34.708281,0.0 -82.672486,34.708116,0.0 -82.672319,34.70805,0.0 -82.672266,34.708011,0.0 -82.672219,34.708,0.0 -82.6721,34.707945,0.0 -82.671987,34.707912,0.0 -82.67186,34.70789,0.0 -82.671794,34.707846,0.0 -82.671687,34.707835,0.0 -82.671521,34.707775,0.0 -82.671454,34.707781,0.0 -82.671288,34.707726,0.0 -82.671121,34.707725,0.0 -82.670968,34.707791,0.0 -82.670895,34.707846,0.0 -82.670702,34.707951,0.0 -82.670469,34.707956,0.0 -82.67023,34.707901,0.0 -82.670183,34.707852,0.0 -82.67007,34.707671,0.0 -82.670063,34.707544,0.0 -82.670083,34.707506,0.0 -82.670184,34.707433,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="114837">
+            <name>Put In</name>
+            <styleUrl>#114838</styleUrl>
+            <Point id="114836">
+                <coordinates>-82.677299,34.712601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114842">
+            <name>Take out</name>
+            <styleUrl>#114843</styleUrl>
+            <Point id="114841">
+                <coordinates>-82.670303,34.7076,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="26715">
+    <Document id="44759">
+        <Style id="44764">
+            <IconStyle id="44765">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44766">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44769">
+            <IconStyle id="44770">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44771">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>St. Joseph (Maumee trib) - Spencerville Takeout (PnP)</name>
-        <Placemark id="26717">
-            <name>St. Joseph (Maumee trib) - Spencerville Takeout (PnP)</name>
+        <Placemark id="44761">
+            <name>St. Joseph (Maumee trib) - Spencerville Takeout (PnP) (I(II))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="26716">
+            <LineString id="44760">
                 <coordinates>-84.917639,41.281399,0.0 -84.918707,41.281513,0.0 -84.91956,41.281965,0.0 -84.91948,41.28204,0.0 -84.919314,41.282087,0.0 -84.918281,41.281592,0.0 -84.917575,41.281427,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="26719">
+        <Placemark id="44763">
             <name>Take Out</name>
-            <Point id="26718">
+            <styleUrl>#44764</styleUrl>
+            <Point id="44762">
                 <coordinates>-84.917999,41.280998,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26721">
+        <Placemark id="44768">
             <name>Put In</name>
-            <Point id="26720">
+            <styleUrl>#44769</styleUrl>
+            <Point id="44767">
                 <coordinates>-84.919998,41.282001,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="26723">
-            <name>Put in</name>
-            <Point id="26722">
-                <coordinates>-84.917639,41.281399,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="26725">
-            <name>Take out</name>
-            <Point id="26724">
-                <coordinates>-84.917575,41.281427,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

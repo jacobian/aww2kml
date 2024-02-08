@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="9373">
+    <Document id="15823">
+        <Style id="15828">
+            <IconStyle id="15829">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="15830">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="15833">
+            <IconStyle id="15834">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="15835">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Assabet - Route 117 to Route 62</name>
-        <Placemark id="9375">
-            <name>Assabet - Route 117 to Route 62</name>
+        <Placemark id="15825">
+            <name>Assabet - Route 117 to Route 62 (I-II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="9374">
+            <LineString id="15824">
                 <coordinates>-71.468885,42.428246,0.0 -71.468578,42.428713,0.0 -71.468117,42.429742,0.0 -71.46784,42.430222,0.0 -71.467131,42.430703,0.0 -71.466545,42.430932,0.0 -71.465959,42.431001,0.0 -71.464477,42.430774,0.0 -71.463089,42.431141,0.0 -71.461793,42.431416,0.0 -71.460867,42.431669,0.0 -71.459077,42.431853,0.0 -71.456918,42.432426,0.0 -71.456424,42.432381,0.0 -71.455837,42.432244,0.0 -71.45525,42.431696,0.0 -71.454354,42.431034,0.0 -71.45386,42.430897,0.0 -71.452965,42.430989,0.0 -71.452255,42.43115,0.0 -71.450929,42.431745,0.0 -71.44874,42.433096,0.0 -71.447969,42.433828,0.0 -71.447661,42.434354,0.0 -71.447536,42.434789,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="9377">
+        <Placemark id="15827">
             <name>Put In</name>
-            <Point id="9376">
+            <styleUrl>#15828</styleUrl>
+            <Point id="15826">
                 <coordinates>-71.468526,42.428453,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="9379">
+        <Placemark id="15832">
             <name>Take Out</name>
-            <Point id="9378">
+            <styleUrl>#15833</styleUrl>
+            <Point id="15831">
                 <coordinates>-71.446574,42.434922,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="9381">
-            <name>Put in</name>
-            <Point id="9380">
-                <coordinates>-71.468885,42.428246,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="9383">
-            <name>Take out</name>
-            <Point id="9382">
-                <coordinates>-71.447536,42.434789,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,96 +1,216 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="12959">
+    <Document id="21961">
+        <Style id="21966">
+            <IconStyle id="21967">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21968">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="21971">
+            <IconStyle id="21972">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21973">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="21976">
+            <IconStyle id="21977">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21978">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="21981">
+            <IconStyle id="21982">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21983">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="21986">
+            <IconStyle id="21987">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21988">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="21991">
+            <IconStyle id="21992">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21993">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="21996">
+            <IconStyle id="21997">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21998">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22001">
+            <IconStyle id="22002">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22003">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22006">
+            <IconStyle id="22007">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22008">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22011">
+            <IconStyle id="22012">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22013">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22016">
+            <IconStyle id="22017">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22018">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="22021">
+            <IconStyle id="22022">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22023">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Amity Creek - Skyline Pkwy to Lester River (2.4 miles)</name>
-        <Placemark id="12961">
-            <name>Amity Creek - Skyline Pkwy to Lester River (2.4 miles)</name>
+        <Placemark id="21963">
+            <name>Amity Creek - Skyline Pkwy to Lester River (2.4 miles) (IV-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="12960">
+            <LineString id="21962">
                 <coordinates>-92.016701,46.860829,0.0 -92.016064,46.860828,0.0 -92.015032,46.860599,0.0 -92.013232,46.860803,0.0 -92.012399,46.860756,0.0 -92.0121,46.860687,0.0 -92.0118,46.860504,0.0 -92.011801,46.860116,0.0 -92.012101,46.859796,0.0 -92.012368,46.859613,0.0 -92.012902,46.859522,0.0 -92.013435,46.859614,0.0 -92.013768,46.859615,0.0 -92.014335,46.859272,0.0 -92.014803,46.858633,0.0 -92.014837,46.858313,0.0 -92.014704,46.858084,0.0 -92.014538,46.85797,0.0 -92.014138,46.857878,0.0 -92.013738,46.857878,0.0 -92.013305,46.857946,0.0 -92.012471,46.858265,0.0 -92.011938,46.858333,0.0 -92.011738,46.85815,0.0 -92.011639,46.857921,0.0 -92.01174,46.857601,0.0 -92.012241,46.856962,0.0 -92.012641,46.856757,0.0 -92.013041,46.856757,0.0 -92.013674,46.856918,0.0 -92.014073,46.856918,0.0 -92.014207,46.856827,0.0 -92.014241,46.856415,0.0 -92.014142,46.856072,0.0 -92.013975,46.856004,0.0 -92.013876,46.855775,0.0 -92.01351,46.8555,0.0 -92.013477,46.855295,0.0 -92.013145,46.854723,0.0 -92.01268,46.854357,0.0 -92.011747,46.854059,0.0 -92.011548,46.853807,0.0 -92.011516,46.852939,0.0 -92.011318,46.85207,0.0 -92.011153,46.851475,0.0 -92.011254,46.85095,0.0 -92.011455,46.850539,0.0 -92.01149,46.849944,0.0 -92.011224,46.849693,0.0 -92.011124,46.849464,0.0 -92.011258,46.84919,0.0 -92.011925,46.848779,0.0 -92.012059,46.848619,0.0 -92.012093,46.848322,0.0 -92.011993,46.848231,0.0 -92.011094,46.848161,0.0 -92.010628,46.847772,0.0 -92.010496,46.847475,0.0 -92.010498,46.846629,0.0 -92.011033,46.84551,0.0 -92.011134,46.845099,0.0 -92.011034,46.845007,0.0 -92.010835,46.844573,0.0 -92.010303,46.844161,0.0 -92.00987,46.843977,0.0 -92.009438,46.84368,0.0 -92.009473,46.843063,0.0 -92.009606,46.842766,0.0 -92.009675,46.842057,0.0 -92.009443,46.841189,0.0 -92.009078,46.840708,0.0 -92.008479,46.840319,0.0 -92.008249,46.84021,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="12963">
+        <Placemark id="21965">
             <name>Fourth Bridge</name>
-            <Point id="12962">
+            <styleUrl>#21966</styleUrl>
+            <Point id="21964">
                 <coordinates>-92.013199,46.856888,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12965">
+        <Placemark id="21970">
             <name>Take Out</name>
-            <Point id="12964">
+            <styleUrl>#21971</styleUrl>
+            <Point id="21969">
                 <coordinates>-92.008301,46.840099,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12967">
+        <Placemark id="21975">
             <name>Seventh Bridge</name>
-            <Point id="12966">
+            <styleUrl>#21976</styleUrl>
+            <Point id="21974">
                 <coordinates>-92.01474,46.860653,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12969">
+        <Placemark id="21980">
             <name>Sixth Bridge</name>
-            <Point id="12968">
+            <styleUrl>#21981</styleUrl>
+            <Point id="21979">
                 <coordinates>-92.014107,46.85952,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12971">
+        <Placemark id="21985">
             <name>Fifth Bridge</name>
-            <Point id="12970">
+            <styleUrl>#21986</styleUrl>
+            <Point id="21984">
                 <coordinates>-92.013031,46.858166,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12973">
+        <Placemark id="21990">
             <name>First Bridge</name>
-            <Point id="12972">
+            <styleUrl>#21991</styleUrl>
+            <Point id="21989">
                 <coordinates>-92.010201,46.844322,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12975">
+        <Placemark id="21995">
             <name>Put In</name>
-            <Point id="12974">
+            <styleUrl>#21996</styleUrl>
+            <Point id="21994">
                 <coordinates>-92.016701,46.861,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12977">
+        <Placemark id="22000">
             <name>Third Bridge</name>
-            <Point id="12976">
+            <styleUrl>#22001</styleUrl>
+            <Point id="21999">
                 <coordinates>-92.01136,46.85387,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12979">
+        <Placemark id="22005">
             <name>Second Bridge</name>
-            <Point id="12978">
+            <styleUrl>#22006</styleUrl>
+            <Point id="22004">
                 <coordinates>-92.011475,46.848934,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12981">
+        <Placemark id="22010">
             <name>Eighth Bridge</name>
-            <Point id="12980">
+            <styleUrl>#22011</styleUrl>
+            <Point id="22009">
                 <coordinates>-92.016403,46.861,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12983">
+        <Placemark id="22015">
             <name>Gazebo Falls</name>
-            <Point id="12982">
+            <styleUrl>#22016</styleUrl>
+            <Point id="22014">
                 <coordinates>-92.009583,46.843678,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12985">
+        <Placemark id="22020">
             <name>USGS sampling site</name>
-            <Point id="12984">
+            <styleUrl>#22021</styleUrl>
+            <Point id="22019">
                 <coordinates>-92.010201,46.844101,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="12987">
-            <name>Put in</name>
-            <Point id="12986">
-                <coordinates>-92.016701,46.861,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="12989">
-            <name>Take out</name>
-            <Point id="12988">
-                <coordinates>-92.008301,46.840099,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

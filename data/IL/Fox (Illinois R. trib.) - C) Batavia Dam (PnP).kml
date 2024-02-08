@@ -1,60 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="9441">
+    <Document id="15918">
+        <Style id="15923">
+            <IconStyle id="15924">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="15925">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="15928">
+            <IconStyle id="15929">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="15930">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="15933">
+            <IconStyle id="15934">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="15935">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="15938">
+            <IconStyle id="15939">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="15940">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="15943">
+            <IconStyle id="15944">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="15945">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="15948">
+            <IconStyle id="15949">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="15950">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Fox (Illinois R. trib.) - C) Batavia Dam (PnP)</name>
-        <Placemark id="9443">
-            <name>Fox (Illinois R. trib.) - C) Batavia Dam (PnP)</name>
+        <Placemark id="15920">
+            <name>Fox (Illinois R. trib.) - C) Batavia Dam (PnP) (I-II(IV))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="9442">
+            <LineString id="15919">
                 <coordinates>-88.30809,41.855702,0.0 -88.307557,41.853544,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="9445">
+        <Placemark id="15922">
             <name>The Wall</name>
-            <Point id="9444">
+            <styleUrl>#15923</styleUrl>
+            <Point id="15921">
                 <coordinates>-88.307938,41.855362,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="9447">
+        <Placemark id="15927">
             <name>Take Out</name>
-            <Point id="9446">
+            <styleUrl>#15928</styleUrl>
+            <Point id="15926">
                 <coordinates>-88.308098,41.853401,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="9449">
+        <Placemark id="15932">
             <name>Put In</name>
-            <Point id="9448">
+            <styleUrl>#15933</styleUrl>
+            <Point id="15931">
                 <coordinates>-88.309402,41.853401,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="9451">
+        <Placemark id="15937">
             <name>The Slide (III)</name>
-            <Point id="9450">
+            <styleUrl>#15938</styleUrl>
+            <Point id="15936">
                 <coordinates>-88.308113,41.855484,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="9453">
+        <Placemark id="15942">
             <name>The Corner (III+)</name>
-            <Point id="9452">
+            <styleUrl>#15943</styleUrl>
+            <Point id="15941">
                 <coordinates>-88.307999,41.855614,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="9455">
+        <Placemark id="15947">
             <name>Exit Ramp (Right Side Slide) (II+)</name>
-            <Point id="9454">
+            <styleUrl>#15948</styleUrl>
+            <Point id="15946">
                 <coordinates>-88.308899,41.8549,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="9457">
-            <name>Put in</name>
-            <Point id="9456">
-                <coordinates>-88.30809,41.855702,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="9459">
-            <name>Take out</name>
-            <Point id="9458">
-                <coordinates>-88.307557,41.853544,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

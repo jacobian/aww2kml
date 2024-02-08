@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="73868">
+        <Style id="73873">
+            <IconStyle id="73874">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73875">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73878">
+            <IconStyle id="73879">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73880">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73883">
+            <IconStyle id="73884">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73885">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73888">
+            <IconStyle id="73889">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73890">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73893">
+            <IconStyle id="73894">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73895">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73898">
+            <IconStyle id="73899">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73900">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73903">
+            <IconStyle id="73904">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73905">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73908">
+            <IconStyle id="73909">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73910">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73913">
+            <IconStyle id="73914">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73915">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Black - B) Upper: Ramsey (Mill St) to Gabbro (Baker) Falls (2.42 miles)</name>
+        <Placemark id="73870">
+            <name>Black - B) Upper: Ramsey (Mill St) to Gabbro (Baker) Falls (2.42 miles) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="73869">
+                <coordinates>-90.00089,46.470699,0.0 -90.000808,46.471803,0.0 -90.000907,46.471872,0.0 -90.000972,46.472169,0.0 -90.001698,46.472809,0.0 -90.001863,46.473038,0.0 -90.001895,46.473655,0.0 -90.001893,46.474432,0.0 -90.002288,46.474889,0.0 -90.002387,46.475209,0.0 -90.002319,46.475689,0.0 -90.001754,46.47683,0.0 -90.000992,46.477697,0.0 -90.000362,46.478473,0.0 -90.000171,46.478519,0.0 -89.999552,46.478976,0.0 -89.999454,46.479159,0.0 -89.999688,46.480187,0.0 -90.000171,46.480552,0.0 -90.000679,46.481173,0.0 -90.000172,46.481785,0.0 -89.999659,46.482014,0.0 -89.999664,46.483682,0.0 -89.999368,46.484368,0.0 -89.999107,46.485853,0.0 -89.998679,46.486904,0.0 -89.997492,46.488116,0.0 -89.997062,46.488254,0.0 -89.996864,46.48846,0.0 -89.995312,46.489261,0.0 -89.995147,46.48949,0.0 -89.995247,46.489832,0.0 -89.995976,46.490425,0.0 -89.995978,46.490859,0.0 -89.995384,46.491614,0.0 -89.995452,46.492048,0.0 -89.995584,46.492139,0.0 -89.995685,46.492527,0.0 -89.995487,46.492893,0.0 -89.994894,46.493419,0.0 -89.994433,46.494333,0.0 -89.99384,46.494951,0.0 -89.993017,46.496254,0.0 -89.992655,46.497214,0.0 -89.992757,46.498059,0.0 -89.99266,46.498996,0.0 -89.992264,46.49959,0.0 -89.992364,46.499951,0.0 -89.992366,46.499947,0.0 -89.992369,46.499948,0.0 -89.992366,46.499951,0.0 -89.9923,46.500085,0.0 -89.992366,46.500154,0.0 -89.992533,46.500724,0.0 -89.992444,46.50124,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="73872">
+            <name>Neepikon Falls</name>
+            <styleUrl>#73873</styleUrl>
+            <Point id="73871">
+                <coordinates>-89.994698,46.493801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73877">
+            <name>Gabbro Falls (V)</name>
+            <styleUrl>#73878</styleUrl>
+            <Point id="73876">
+                <coordinates>-89.992798,46.5019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73882">
+            <name>Put In</name>
+            <styleUrl>#73883</styleUrl>
+            <Point id="73881">
+                <coordinates>-90.0009,46.470699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73887">
+            <name>Second Major Clearing</name>
+            <styleUrl>#73888</styleUrl>
+            <Point id="73886">
+                <coordinates>-89.992699,46.501301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73892">
+            <name>Confluence, Little Black</name>
+            <styleUrl>#73893</styleUrl>
+            <Point id="73891">
+                <coordinates>-89.9972,46.488361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73897">
+            <name>Sanders Road</name>
+            <styleUrl>#73898</styleUrl>
+            <Point id="73896">
+                <coordinates>-90.000504,46.480965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73902">
+            <name>Ledge/hole</name>
+            <styleUrl>#73903</styleUrl>
+            <Point id="73901">
+                <coordinates>-89.999825,46.482307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73907">
+            <name>Main Street / USGS Sampling Site</name>
+            <styleUrl>#73908</styleUrl>
+            <Point id="73906">
+                <coordinates>-90.001801,46.473801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73912">
+            <name>First Major Clearing</name>
+            <styleUrl>#73913</styleUrl>
+            <Point id="73911">
+                <coordinates>-89.993896,46.495098,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

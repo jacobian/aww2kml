@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="109875">
+        <Style id="109880">
+            <IconStyle id="109881">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="109882">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="109885">
+            <IconStyle id="109886">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="109887">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Big Creek - The Middle Gorge Section</name>
+        <Placemark id="109877">
+            <name>Big Creek - The Middle Gorge Section (V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="109876">
+                <coordinates>-119.666662,37.516212,0.0 -119.666679,37.516265,0.0 -119.667159,37.51728,0.0 -119.667639,37.518296,0.0 -119.667432,37.519038,0.0 -119.667225,37.519781,0.0 -119.667687,37.520742,0.0 -119.668359,37.521427,0.0 -119.669172,37.522084,0.0 -119.669793,37.523071,0.0 -119.670585,37.523206,0.0 -119.671308,37.523589,0.0 -119.671505,37.524193,0.0 -119.671966,37.524919,0.0 -119.672655,37.525426,0.0 -119.673611,37.526522,0.0 -119.674178,37.527345,0.0 -119.674939,37.528071,0.0 -119.675118,37.52862,0.0 -119.674821,37.529088,0.0 -119.673769,37.529765,0.0 -119.672627,37.530167,0.0 -119.672384,37.5308,0.0 -119.672387,37.531267,0.0 -119.671968,37.531818,0.0 -119.671796,37.532671,0.0 -119.671269,37.532892,0.0 -119.670005,37.533377,0.0 -119.669815,37.533941,0.0 -119.669519,37.534643,0.0 -119.668907,37.535291,0.0 -119.668473,37.536488,0.0 -119.668266,37.537231,0.0 -119.668042,37.538152,0.0 -119.667305,37.538649,0.0 -119.666514,37.539641,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="109879">
+            <name>Take Out</name>
+            <styleUrl>#109880</styleUrl>
+            <Point id="109878">
+                <coordinates>-119.666,37.5396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109884">
+            <name>Put In</name>
+            <styleUrl>#109885</styleUrl>
+            <Point id="109883">
+                <coordinates>-119.667,37.516102,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

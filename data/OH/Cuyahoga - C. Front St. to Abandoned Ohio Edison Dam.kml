@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="112467">
+        <Style id="112472">
+            <IconStyle id="112473">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112474">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="112477">
+            <IconStyle id="112478">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="112479">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Cuyahoga - C. Front St. to Abandoned Ohio Edison Dam</name>
+        <Placemark id="112469">
+            <name>Cuyahoga - C. Front St. to Abandoned Ohio Edison Dam (I-II(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="112468">
+                <coordinates>-81.492878,41.118495,0.0 -81.494008,41.118624,0.0 -81.494711,41.119337,0.0 -81.495554,41.121837,0.0 -81.496538,41.122835,0.0 -81.497211,41.123023,0.0 -81.497222,41.123026,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="112471">
+            <name>Take Out</name>
+            <styleUrl>#112472</styleUrl>
+            <Point id="112470">
+                <coordinates>-81.4972,41.1231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="112476">
+            <name>Put In</name>
+            <styleUrl>#112477</styleUrl>
+            <Point id="112475">
+                <coordinates>-81.4929,41.1183,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

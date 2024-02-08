@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="121126">
+        <Style id="121131">
+            <IconStyle id="121132">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121133">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="121136">
+            <IconStyle id="121137">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121138">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Silver Creek - Cty 3 to Hwy 61 (1.1 miles)</name>
+        <Placemark id="121128">
+            <name>Silver Creek - Cty 3 to Hwy 61 (1.1 miles) (IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="121127">
+                <coordinates>-91.622721,47.070533,0.0 -91.622671,47.070518,0.0 -91.622538,47.070518,0.0 -91.620397,47.070449,0.0 -91.619661,47.070426,0.0 -91.618791,47.069946,0.0 -91.61819,47.069375,0.0 -91.617688,47.069215,0.0 -91.616985,47.069215,0.0 -91.616551,47.069397,0.0 -91.616383,47.06974,0.0 -91.61635,47.070083,0.0 -91.615948,47.070243,0.0 -91.615581,47.070083,0.0 -91.615213,47.069077,0.0 -91.61441,47.068757,0.0 -91.611969,47.068277,0.0 -91.61033,47.067683,0.0 -91.608792,47.067202,0.0 -91.607789,47.065831,0.0 -91.607187,47.065374,0.0 -91.606284,47.065008,0.0 -91.605682,47.064551,0.0 -91.605626,47.064438,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="121130">
+            <name>Take Out</name>
+            <styleUrl>#121131</styleUrl>
+            <Point id="121129">
+                <coordinates>-91.6053,47.0646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121135">
+            <name>Put In</name>
+            <styleUrl>#121136</styleUrl>
+            <Point id="121134">
+                <coordinates>-91.6227,47.0706,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

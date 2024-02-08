@@ -1,125 +1,317 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="8339">
+    <Document id="13995">
+        <Style id="14000">
+            <IconStyle id="14001">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14002">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14005">
+            <IconStyle id="14006">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14007">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14010">
+            <IconStyle id="14011">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14012">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14015">
+            <IconStyle id="14016">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14017">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14020">
+            <IconStyle id="14021">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14022">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14025">
+            <IconStyle id="14026">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14027">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14030">
+            <IconStyle id="14031">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14032">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14035">
+            <IconStyle id="14036">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14037">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14040">
+            <IconStyle id="14041">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14042">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14045">
+            <IconStyle id="14046">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14047">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14050">
+            <IconStyle id="14051">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14052">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14055">
+            <IconStyle id="14056">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14057">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14060">
+            <IconStyle id="14061">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14062">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14065">
+            <IconStyle id="14066">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14067">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14070">
+            <IconStyle id="14071">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14072">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14075">
+            <IconStyle id="14076">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14077">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14080">
+            <IconStyle id="14081">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14082">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14085">
+            <IconStyle id="14086">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="14087">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Kinnickinnic (Milwaukee trib) - S.31st Street to S.Chase Ave. (2.7-4.0 miles) *Access&amp;Quality Issues*</name>
-        <Placemark id="8341">
-            <name>Kinnickinnic (Milwaukee trib) - S.31st Street to S.Chase Ave. (2.7-4.0 miles) *Access&amp;Quality Issues*</name>
+        <Placemark id="13997">
+            <name>Kinnickinnic (Milwaukee trib) - S.31st Street to S.Chase Ave. (2.7-4.0 miles) *Access&amp;Quality Issues* (II+(IV))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="8340">
+            <LineString id="13996">
                 <coordinates>-87.952932,42.990002,0.0 -87.952977,42.990468,0.0 -87.952603,42.990742,0.0 -87.952261,42.991154,0.0 -87.95167,42.991566,0.0 -87.951109,42.991818,0.0 -87.950019,42.991796,0.0 -87.949053,42.991637,0.0 -87.94709,42.991638,0.0 -87.945376,42.991342,0.0 -87.944535,42.991434,0.0 -87.943974,42.991617,0.0 -87.943632,42.991823,0.0 -87.943196,42.992373,0.0 -87.942667,42.992693,0.0 -87.942013,42.992899,0.0 -87.941327,42.992854,0.0 -87.940579,42.992717,0.0 -87.9398,42.99242,0.0 -87.939114,42.992032,0.0 -87.938179,42.991438,0.0 -87.937369,42.991164,0.0 -87.936714,42.991027,0.0 -87.935904,42.991073,0.0 -87.93525,42.991279,0.0 -87.934721,42.991669,0.0 -87.93441,42.992057,0.0 -87.934317,42.992309,0.0 -87.93438,42.992995,0.0 -87.934442,42.993224,0.0 -87.934536,42.99327,0.0 -87.934598,42.993475,0.0 -87.935846,42.99519,0.0 -87.936159,42.996288,0.0 -87.936128,42.996699,0.0 -87.93591,42.997065,0.0 -87.935755,42.997226,0.0 -87.935412,42.99734,0.0 -87.934851,42.997318,0.0 -87.934228,42.997158,0.0 -87.932264,42.996953,0.0 -87.929896,42.996954,0.0 -87.92759,42.997139,0.0 -87.925939,42.997299,0.0 -87.924318,42.997255,0.0 -87.922043,42.997118,0.0 -87.920454,42.996822,0.0 -87.919425,42.996479,0.0 -87.919083,42.99625,0.0 -87.91821,42.995473,0.0 -87.917805,42.995313,0.0 -87.916154,42.995314,0.0 -87.915344,42.99552,0.0 -87.914035,42.996001,0.0 -87.913349,42.996367,0.0 -87.913324,42.996388,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="8343">
+        <Placemark id="13999">
             <name>Corrugated Iron Wall Jump (~5.5') (III)</name>
-            <Point id="8342">
+            <styleUrl>#14000</styleUrl>
+            <Point id="13998">
                 <coordinates>-87.966144,42.999535,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8345">
+        <Placemark id="14004">
             <name>Confluence: Wilson Creek; total 17.4 sq.mi.</name>
-            <Point id="8344">
+            <styleUrl>#14005</styleUrl>
+            <Point id="14003">
                 <coordinates>-87.952421,42.990488,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8347">
+        <Placemark id="14009">
             <name>20th Street (Alt.Access)</name>
-            <Point id="8346">
+            <styleUrl>#14010</styleUrl>
+            <Point id="14008">
                 <coordinates>-87.938071,42.990854,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8349">
+        <Placemark id="14014">
             <name>11th Street Jump (6-8&quot; stop blocks) (II)</name>
-            <Point id="8348">
+            <styleUrl>#14015</styleUrl>
+            <Point id="14013">
                 <coordinates>-87.926535,42.997227,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8351">
+        <Placemark id="14019">
             <name>8th Street Jump (Offset slide/ledge) (IV)</name>
-            <Point id="8350">
+            <styleUrl>#14020</styleUrl>
+            <Point id="14018">
                 <coordinates>-87.921294,42.996784,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8353">
+        <Placemark id="14024">
             <name>Exit cement ditch!</name>
-            <Point id="8352">
+            <styleUrl>#14025</styleUrl>
+            <Point id="14023">
                 <coordinates>-87.919152,42.996256,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8355">
+        <Placemark id="14029">
             <name>43rd Street Jump (Roller/Dam): 2.5 sq.mi. (II)</name>
-            <Point id="8354">
+            <styleUrl>#14030</styleUrl>
+            <Point id="14028">
                 <coordinates>-87.96764,42.997163,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8357">
+        <Placemark id="14034">
             <name>Entrance to ~295' box culvert</name>
-            <Point id="8356">
+            <styleUrl>#14035</styleUrl>
+            <Point id="14033">
                 <coordinates>-87.986847,42.995465,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8359">
+        <Placemark id="14039">
             <name>Quad-culvert -- ~1/8th Mile!</name>
-            <Point id="8358">
+            <styleUrl>#14040</styleUrl>
+            <Point id="14038">
                 <coordinates>-87.96384,42.998736,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8361">
+        <Placemark id="14044">
             <name>Exit from LONG underground</name>
-            <Point id="8360">
+            <styleUrl>#14045</styleUrl>
+            <Point id="14043">
                 <coordinates>-87.986946,42.989389,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8363">
+        <Placemark id="14049">
             <name>Side-stream cascade (park pond outflow)</name>
-            <Point id="8362">
+            <styleUrl>#14050</styleUrl>
+            <Point id="14048">
                 <coordinates>-87.961173,42.99561,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8365">
+        <Placemark id="14054">
             <name>Parking</name>
-            <Point id="8364">
+            <styleUrl>#14055</styleUrl>
+            <Point id="14053">
                 <coordinates>-87.967486,42.99754,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8367">
+        <Placemark id="14059">
             <name>Exit Quad-culvert</name>
-            <Point id="8366">
+            <styleUrl>#14060</styleUrl>
+            <Point id="14058">
                 <coordinates>-87.961622,42.997884,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8369">
+        <Placemark id="14064">
             <name>Exit from ~295' box culvert</name>
-            <Point id="8368">
+            <styleUrl>#14065</styleUrl>
+            <Point id="14063">
                 <coordinates>-87.986899,42.996305,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8371">
+        <Placemark id="14069">
             <name>(Theoretical) Put-in</name>
-            <Point id="8370">
+            <styleUrl>#14070</styleUrl>
+            <Point id="14068">
                 <coordinates>-87.953369,42.990367,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8373">
+        <Placemark id="14074">
             <name>Pulaski Park &quot;Remediation&quot;</name>
-            <Point id="8372">
+            <styleUrl>#14075</styleUrl>
+            <Point id="14073">
                 <coordinates>-87.93471,42.99734,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8375">
+        <Placemark id="14079">
             <name>16th Street Jump (~3') (III)</name>
-            <Point id="8374">
+            <styleUrl>#14080</styleUrl>
+            <Point id="14078">
                 <coordinates>-87.934164,42.992917,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="8377">
-            <name>Put in</name>
-            <Point id="8376">
-                <coordinates>-87.953279,42.989969,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="8379">
+        <Placemark id="14084">
             <name>Take out</name>
-            <Point id="8378">
+            <styleUrl>#14085</styleUrl>
+            <Point id="14083">
                 <coordinates>-87.913002,42.995998,0.0</coordinates>
             </Point>
         </Placemark>

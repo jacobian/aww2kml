@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="121670">
+        <Style id="121675">
+            <IconStyle id="121676">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121677">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="121680">
+            <IconStyle id="121681">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="121682">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Mud River - Ona (Howells Mill) to Blue Sulphur Road bridge</name>
+        <Placemark id="121672">
+            <name>Mud River - Ona (Howells Mill) to Blue Sulphur Road bridge (I-II(III))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="121671">
+                <coordinates>-82.218847,38.441927,0.0 -82.218896,38.442139,0.0 -82.21917,38.442422,0.0 -82.219529,38.442499,0.0 -82.22019,38.442465,0.0 -82.220537,38.44236,0.0 -82.221318,38.441943,0.0 -82.222097,38.441778,0.0 -82.222864,38.441432,0.0 -82.222955,38.441442,0.0 -82.22327,38.441261,0.0 -82.223362,38.441272,0.0 -82.224423,38.44085,0.0 -82.224757,38.440816,0.0 -82.225117,38.440892,0.0 -82.225273,38.441054,0.0 -82.225805,38.442196,0.0 -82.225915,38.442605,0.0 -82.225894,38.442963,0.0 -82.225762,38.443165,0.0 -82.224588,38.443934,0.0 -82.223196,38.445112,0.0 -82.222723,38.445636,0.0 -82.222643,38.446059,0.0 -82.223151,38.446585,0.0 -82.22336,38.446717,0.0 -82.223575,38.446814,0.0 -82.224079,38.44687,0.0 -82.224753,38.446766,0.0 -82.225107,38.446625,0.0 -82.225297,38.446611,0.0 -82.225979,38.446219,0.0 -82.226747,38.44562,0.0 -82.22791,38.444416,0.0 -82.228239,38.443912,0.0 -82.228524,38.442899,0.0 -82.2289,38.442148,0.0 -82.232239,38.438087,0.0 -82.233352,38.436409,0.0 -82.234423,38.435223,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="121674">
+            <name>Take Out</name>
+            <styleUrl>#121675</styleUrl>
+            <Point id="121673">
+                <coordinates>-82.234398,38.4352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121679">
+            <name>Put In</name>
+            <styleUrl>#121680</styleUrl>
+            <Point id="121678">
+                <coordinates>-82.219398,38.441799,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="91424">
+        <Style id="91429">
+            <IconStyle id="91430">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91431">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91434">
+            <IconStyle id="91435">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91436">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91439">
+            <IconStyle id="91440">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91441">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91444">
+            <IconStyle id="91445">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91446">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91449">
+            <IconStyle id="91450">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91451">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Normans Kill - 3.  Normansville to Route 32</name>
+        <Placemark id="91426">
+            <name>Normans Kill - 3.  Normansville to Route 32 (II(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="91425">
+                <coordinates>-73.800281,42.63437,0.0 -73.800046,42.634333,0.0 -73.798573,42.634123,0.0 -73.798289,42.633902,0.0 -73.79795,42.633638,0.0 -73.797887,42.63286,0.0 -73.797352,42.632144,0.0 -73.797226,42.631585,0.0 -73.797346,42.631397,0.0 -73.797831,42.630725,0.0 -73.798126,42.630229,0.0 -73.798001,42.62993,0.0 -73.797764,42.629807,0.0 -73.79767,42.629792,0.0 -73.797618,42.629768,0.0 -73.797146,42.629847,0.0 -73.797067,42.629828,0.0 -73.796645,42.629724,0.0 -73.796423,42.629697,0.0 -73.796407,42.629696,0.0 -73.795228,42.629613,0.0 -73.795041,42.629191,0.0 -73.795172,42.628779,0.0 -73.795292,42.628297,0.0 -73.795315,42.628202,0.0 -73.795712,42.627314,0.0 -73.79572,42.627234,0.0 -73.795723,42.627196,0.0 -73.795663,42.627027,0.0 -73.795625,42.626921,0.0 -73.795557,42.626827,0.0 -73.795323,42.626814,0.0 -73.794686,42.627036,0.0 -73.794023,42.627119,0.0 -73.793223,42.627021,0.0 -73.792248,42.626792,0.0 -73.79186,42.62675,0.0 -73.791109,42.626869,0.0 -73.791061,42.626877,0.0 -73.790377,42.627252,0.0 -73.789618,42.627865,0.0 -73.788715,42.628024,0.0 -73.78849,42.627764,0.0 -73.788132,42.627557,0.0 -73.78772,42.627209,0.0 -73.787222,42.627006,0.0 -73.785925,42.626695,0.0 -73.784962,42.626614,0.0 -73.784567,42.626553,0.0 -73.78407,42.626314,0.0 -73.783437,42.625883,0.0 -73.782806,42.625691,0.0 -73.782447,42.625429,0.0 -73.782336,42.625283,0.0 -73.781857,42.624952,0.0 -73.78141,42.624909,0.0 -73.781385,42.624926,0.0 -73.78134,42.624918,0.0 -73.781089,42.625049,0.0 -73.780959,42.625634,0.0 -73.780674,42.625802,0.0 -73.779948,42.625767,0.0 -73.778979,42.62557,0.0 -73.778118,42.62535,0.0 -73.777983,42.625353,0.0 -73.777583,42.625361,0.0 -73.777227,42.625368,0.0 -73.776574,42.62539,0.0 -73.77568,42.625157,0.0 -73.775678,42.625078,0.0 -73.775675,42.625013,0.0 -73.775648,42.62495,0.0 -73.775526,42.624821,0.0 -73.775387,42.624601,0.0 -73.775099,42.624189,0.0 -73.774848,42.623869,0.0 -73.774479,42.623667,0.0 -73.773883,42.623358,0.0 -73.773733,42.623215,0.0 -73.773529,42.622938,0.0 -73.773311,42.622858,0.0 -73.772997,42.622763,0.0 -73.772761,42.622647,0.0 -73.772563,42.622517,0.0 -73.772146,42.622308,0.0 -73.771774,42.621817,0.0 -73.771473,42.621595,0.0 -73.771073,42.621534,0.0 -73.770693,42.621431,0.0 -73.770382,42.621167,0.0 -73.770069,42.621086,0.0 -73.76963,42.621081,0.0 -73.769369,42.620992,0.0 -73.769203,42.620936,0.0 -73.768889,42.620834,0.0 -73.768613,42.620817,0.0 -73.768371,42.620496,0.0 -73.76821,42.620365,0.0 -73.767995,42.620189,0.0 -73.767727,42.6202,0.0 -73.767199,42.620357,0.0 -73.766806,42.620362,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="91428">
+            <name>Put-in Slide (III)</name>
+            <styleUrl>#91429</styleUrl>
+            <Point id="91427">
+                <coordinates>-73.797867,42.633076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91433">
+            <name>The Meat (V)</name>
+            <styleUrl>#91434</styleUrl>
+            <Point id="91432">
+                <coordinates>-73.777,42.6255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91438">
+            <name>Take Out</name>
+            <styleUrl>#91439</styleUrl>
+            <Point id="91437">
+                <coordinates>-73.7668,42.6199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91443">
+            <name>Grinder (V)</name>
+            <styleUrl>#91444</styleUrl>
+            <Point id="91442">
+                <coordinates>-73.776497,42.625401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91448">
+            <name>Put In</name>
+            <styleUrl>#91449</styleUrl>
+            <Point id="91447">
+                <coordinates>-73.8002,42.6349,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

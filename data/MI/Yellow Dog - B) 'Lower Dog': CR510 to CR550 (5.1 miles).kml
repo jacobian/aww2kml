@@ -1,90 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="25083">
+    <Document id="42025">
+        <Style id="42030">
+            <IconStyle id="42031">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42032">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42035">
+            <IconStyle id="42036">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42037">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42040">
+            <IconStyle id="42041">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42042">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42045">
+            <IconStyle id="42046">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42047">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42050">
+            <IconStyle id="42051">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42052">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42055">
+            <IconStyle id="42056">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42057">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42060">
+            <IconStyle id="42061">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42062">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42065">
+            <IconStyle id="42066">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42067">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42070">
+            <IconStyle id="42071">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42072">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42075">
+            <IconStyle id="42076">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42077">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="42080">
+            <IconStyle id="42081">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42082">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Yellow Dog - B) 'Lower Dog': CR510 to CR550 (5.1 miles)</name>
-        <Placemark id="25085">
-            <name>Yellow Dog - B) 'Lower Dog': CR510 to CR550 (5.1 miles)</name>
+        <Placemark id="42027">
+            <name>Yellow Dog - B) 'Lower Dog': CR510 to CR550 (5.1 miles) (II-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="25084">
+            <LineString id="42026">
                 <coordinates>-87.714946,46.726767,0.0 -87.714847,46.727247,0.0 -87.714615,46.727636,0.0 -87.714283,46.727796,0.0 -87.713984,46.727842,0.0 -87.71292,46.727866,0.0 -87.712721,46.728026,0.0 -87.712622,46.728277,0.0 -87.712323,46.728597,0.0 -87.711858,46.728758,0.0 -87.711061,46.728964,0.0 -87.710795,46.729056,0.0 -87.710097,46.729056,0.0 -87.709632,46.728919,0.0 -87.709465,46.728942,0.0 -87.708966,46.728577,0.0 -87.708666,46.728257,0.0 -87.708367,46.728098,0.0 -87.708201,46.728075,0.0 -87.708035,46.728189,0.0 -87.707902,46.728487,0.0 -87.707604,46.72867,0.0 -87.707005,46.728784,0.0 -87.706274,46.728876,0.0 -87.705876,46.729037,0.0 -87.705477,46.729242,0.0 -87.704647,46.729655,0.0 -87.70355,46.729861,0.0 -87.703384,46.729998,0.0 -87.703152,46.730364,0.0 -87.703185,46.730593,0.0 -87.703352,46.730798,0.0 -87.70445,46.731575,0.0 -87.704384,46.731872,0.0 -87.704284,46.732009,0.0 -87.703919,46.732101,0.0 -87.703387,46.732101,0.0 -87.702556,46.73217,0.0 -87.702124,46.732262,0.0 -87.701326,46.73224,0.0 -87.700661,46.731874,0.0 -87.699131,46.731532,0.0 -87.698932,46.731624,0.0 -87.698799,46.731761,0.0 -87.698733,46.732173,0.0 -87.698534,46.732264,0.0 -87.698268,46.732242,0.0 -87.698035,46.732105,0.0 -87.697803,46.732173,0.0 -87.697338,46.732722,0.0 -87.696973,46.732974,0.0 -87.69674,46.733065,0.0 -87.696275,46.733386,0.0 -87.695744,46.734186,0.0 -87.695445,46.734415,0.0 -87.694216,46.734484,0.0 -87.69405,46.734599,0.0 -87.693751,46.735307,0.0 -87.69342,46.735856,0.0 -87.693087,46.736062,0.0 -87.69229,46.736702,0.0 -87.691626,46.736908,0.0 -87.690263,46.736955,0.0 -87.689997,46.737069,0.0 -87.689864,46.737161,0.0 -87.689798,46.737435,0.0 -87.689565,46.73755,0.0 -87.688202,46.737596,0.0 -87.688036,46.737802,0.0 -87.688037,46.737939,0.0 -87.68817,46.738053,0.0 -87.68827,46.738282,0.0 -87.688137,46.738442,0.0 -87.687705,46.738442,0.0 -87.687472,46.738168,0.0 -87.687372,46.738122,0.0 -87.686906,46.738077,0.0 -87.686873,46.737894,0.0 -87.687338,46.737642,0.0 -87.687338,46.737391,0.0 -87.687171,46.737231,0.0 -87.686606,46.737277,0.0 -87.686141,46.737757,0.0 -87.685776,46.737849,0.0 -87.685477,46.737826,0.0 -87.685343,46.737483,0.0 -87.684978,46.737529,0.0 -87.684513,46.738101,0.0 -87.684081,46.73833,0.0 -87.682851,46.738376,0.0 -87.682552,46.738468,0.0 -87.682419,46.738651,0.0 -87.682419,46.738925,0.0 -87.681987,46.739154,0.0 -87.681322,46.739223,0.0 -87.68119,46.73936,0.0 -87.68119,46.739588,0.0 -87.681523,46.739885,0.0 -87.681456,46.740068,0.0 -87.681157,46.740183,0.0 -87.681024,46.740183,0.0 -87.680359,46.739863,0.0 -87.680059,46.739383,0.0 -87.679793,46.739223,0.0 -87.679561,46.739292,0.0 -87.678996,46.739772,0.0 -87.67883,46.74007,0.0 -87.67873,46.74039,0.0 -87.678598,46.740641,0.0 -87.678099,46.741053,0.0 -87.677469,46.741876,0.0 -87.67707,46.742082,0.0 -87.676505,46.742105,0.0 -87.676039,46.741899,0.0 -87.675673,46.741922,0.0 -87.675474,46.742105,0.0 -87.675275,46.742471,0.0 -87.675341,46.742677,0.0 -87.675475,46.742837,0.0 -87.675409,46.743225,0.0 -87.67511,46.743523,0.0 -87.675077,46.743797,0.0 -87.675543,46.744208,0.0 -87.675543,46.744505,0.0 -87.675343,46.744642,0.0 -87.674712,46.74462,0.0 -87.674346,46.744254,0.0 -87.673681,46.744255,0.0 -87.673515,46.744369,0.0 -87.673548,46.744849,0.0 -87.673382,46.744986,0.0 -87.673116,46.745078,0.0 -87.672019,46.745078,0.0 -87.671321,46.745284,0.0 -87.670722,46.745216,0.0 -87.670356,46.745102,0.0 -87.669824,46.744713,0.0 -87.669126,46.744737,0.0 -87.668627,46.745125,0.0 -87.667996,46.745103,0.0 -87.667663,46.745057,0.0 -87.667297,46.744897,0.0 -87.666832,46.74492,0.0 -87.666566,46.745286,0.0 -87.6665,46.745492,0.0 -87.666234,46.745652,0.0 -87.665901,46.745766,0.0 -87.665502,46.745744,0.0 -87.665569,46.745561,0.0 -87.665735,46.745424,0.0 -87.665834,46.745195,0.0 -87.665668,46.744966,0.0 -87.664704,46.745012,0.0 -87.664471,46.74515,0.0 -87.664338,46.745287,0.0 -87.664405,46.745538,0.0 -87.664572,46.745835,0.0 -87.664572,46.746132,0.0 -87.663974,46.746567,0.0 -87.663974,46.746681,0.0 -87.66444,46.747092,0.0 -87.664407,46.747298,0.0 -87.664141,46.747458,0.0 -87.662877,46.747436,0.0 -87.662611,46.747482,0.0 -87.661381,46.747459,0.0 -87.660683,46.747528,0.0 -87.660516,46.747734,0.0 -87.660417,46.748214,0.0 -87.660151,46.74842,0.0 -87.65922,46.748671,0.0 -87.658988,46.749037,0.0 -87.658689,46.749723,0.0 -87.658722,46.749929,0.0 -87.658783,46.750327,0.0 -87.659149,46.750807,0.0 -87.659116,46.751012,0.0 -87.658452,46.751995,0.0 -87.658419,46.752544,0.0 -87.658585,46.752772,0.0 -87.660015,46.753709,0.0 -87.660614,46.753549,0.0 -87.661146,46.753549,0.0 -87.661346,46.753617,0.0 -87.661446,46.753686,0.0 -87.661479,46.754006,0.0 -87.660814,46.754303,0.0 -87.660681,46.754532,0.0 -87.660748,46.754783,0.0 -87.661447,46.755629,0.0 -87.66165,46.75617,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="25087">
+        <Placemark id="42029">
             <name>Wag (III+)</name>
-            <Point id="25086">
+            <styleUrl>#42030</styleUrl>
+            <Point id="42028">
                 <coordinates>-87.714699,46.7267,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25089">
+        <Placemark id="42034">
             <name>Lower Dog Leg (IV)</name>
-            <Point id="25088">
+            <styleUrl>#42035</styleUrl>
+            <Point id="42033">
                 <coordinates>-87.700897,46.7318,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25091">
+        <Placemark id="42039">
             <name>Gullet (III+)</name>
-            <Point id="25090">
+            <styleUrl>#42040</styleUrl>
+            <Point id="42038">
                 <coordinates>-87.704498,46.7318,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25093">
+        <Placemark id="42044">
             <name>Hills Falls (Hair of the Dog) (IV+)</name>
-            <Point id="25092">
+            <styleUrl>#42045</styleUrl>
+            <Point id="42043">
                 <coordinates>-87.707001,46.7285,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25095">
+        <Placemark id="42049">
             <name>Junkyard (IV)</name>
-            <Point id="25094">
+            <styleUrl>#42050</styleUrl>
+            <Point id="42048">
                 <coordinates>-87.694397,46.734299,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25097">
+        <Placemark id="42054">
             <name>Bushy Creek Falls (IV)</name>
-            <Point id="25096">
+            <styleUrl>#42055</styleUrl>
+            <Point id="42053">
                 <coordinates>-87.694099,46.734402,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25099">
+        <Placemark id="42059">
             <name>Eyeball (Eye of the Dog) (IV)</name>
-            <Point id="25098">
+            <styleUrl>#42060</styleUrl>
+            <Point id="42058">
                 <coordinates>-87.704201,46.7309,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25101">
+        <Placemark id="42064">
             <name>Upper Dog Leg (IV)</name>
-            <Point id="25100">
+            <styleUrl>#42065</styleUrl>
+            <Point id="42063">
                 <coordinates>-87.701599,46.732101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25103">
+        <Placemark id="42069">
             <name>Take Out</name>
-            <Point id="25102">
+            <styleUrl>#42070</styleUrl>
+            <Point id="42068">
                 <coordinates>-87.661301,46.756302,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25105">
+        <Placemark id="42074">
             <name>Put In</name>
-            <Point id="25104">
+            <styleUrl>#42075</styleUrl>
+            <Point id="42073">
                 <coordinates>-87.714699,46.7267,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25107">
+        <Placemark id="42079">
             <name>USGS sampling site</name>
-            <Point id="25106">
+            <styleUrl>#42080</styleUrl>
+            <Point id="42078">
                 <coordinates>-87.661797,46.756599,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25109">
-            <name>Put in</name>
-            <Point id="25108">
-                <coordinates>-87.714699,46.7267,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25111">
-            <name>Take out</name>
-            <Point id="25110">
-                <coordinates>-87.661301,46.756302,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

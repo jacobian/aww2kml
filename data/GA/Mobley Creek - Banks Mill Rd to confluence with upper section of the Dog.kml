@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="120191">
+        <Style id="120196">
+            <IconStyle id="120197">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="120198">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="120201">
+            <IconStyle id="120202">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="120203">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Mobley Creek - Banks Mill Rd to confluence with upper section of the Dog</name>
+        <Placemark id="120193">
+            <name>Mobley Creek - Banks Mill Rd to confluence with upper section of the Dog (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="120192">
+                <coordinates>-84.829274,33.664302,0.0 -84.829283,33.664054,0.0 -84.829217,33.663878,0.0 -84.829033,33.663697,0.0 -84.828829,33.663554,0.0 -84.82856,33.663406,0.0 -84.828363,33.663186,0.0 -84.828198,33.662872,0.0 -84.828054,33.66268,0.0 -84.827817,33.6624,0.0 -84.827725,33.662301,0.0 -84.827442,33.662076,0.0 -84.827383,33.66179,0.0 -84.827291,33.661504,0.0 -84.827147,33.661185,0.0 -84.827061,33.660916,0.0 -84.827061,33.660542,0.0 -84.827054,33.660174,0.0 -84.827153,33.659993,0.0 -84.827265,33.659652,0.0 -84.82735,33.659333,0.0 -84.827495,33.659048,0.0 -84.827613,33.658718,0.0 -84.827626,33.658405,0.0 -84.827593,33.658251,0.0 -84.827475,33.658075,0.0 -84.827126,33.657817,0.0 -84.826785,33.657586,0.0 -84.826318,33.657377,0.0 -84.82593,33.657229,0.0 -84.825766,33.657075,0.0 -84.825536,33.656872,0.0 -84.825418,33.656696,0.0 -84.825339,33.656492,0.0 -84.825036,33.656229,0.0 -84.824675,33.655943,0.0 -84.824543,33.655778,0.0 -84.824373,33.655679,0.0 -84.824307,33.655316,0.0 -84.824328,33.655268,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="120195">
+            <name>Take Out</name>
+            <styleUrl>#120196</styleUrl>
+            <Point id="120194">
+                <coordinates>-84.824402,33.6553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="120200">
+            <name>Put In</name>
+            <styleUrl>#120201</styleUrl>
+            <Point id="120199">
+                <coordinates>-84.829201,33.664299,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

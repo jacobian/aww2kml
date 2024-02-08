@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="61846">
+        <Style id="61851">
+            <IconStyle id="61852">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61853">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="61856">
+            <IconStyle id="61857">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61858">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="61861">
+            <IconStyle id="61862">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61863">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="61866">
+            <IconStyle id="61867">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="61868">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Androscoggin - 3. Pontook</name>
+        <Placemark id="61848">
+            <name>Androscoggin - 3. Pontook (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="61847">
+                <coordinates>-71.248364,44.632521,0.0 -71.248921,44.630738,0.0 -71.249711,44.629786,0.0 -71.249719,44.628766,0.0 -71.249585,44.628074,0.0 -71.248282,44.62667,0.0 -71.247509,44.625219,0.0 -71.246793,44.624321,0.0 -71.246415,44.623947,0.0 -71.245266,44.622292,0.0 -71.244426,44.621488,0.0 -71.242706,44.620008,0.0 -71.241217,44.618942,0.0 -71.240374,44.618437,0.0 -71.239803,44.617981,0.0 -71.238689,44.617314,0.0 -71.238167,44.616939,0.0 -71.237179,44.616524,0.0 -71.236262,44.615879,0.0 -71.235711,44.615613,0.0 -71.23543,44.615544,0.0 -71.235187,44.615484,0.0 -71.234737,44.615374,0.0 -71.234395,44.61529,0.0 -71.234078,44.615212,0.0 -71.233856,44.615121,0.0 -71.233586,44.61501,0.0 -71.232786,44.614681,0.0 -71.232628,44.614617,0.0 -71.232378,44.614514,0.0 -71.231904,44.614326,0.0 -71.231673,44.614222,0.0 -71.230861,44.613883,0.0 -71.230624,44.613794,0.0 -71.229484,44.613207,0.0 -71.229131,44.613049,0.0 -71.228911,44.612954,0.0 -71.22852,44.612854,0.0 -71.228167,44.612838,0.0 -71.227837,44.612895,0.0 -71.227413,44.612981,0.0 -71.226928,44.613127,0.0 -71.226512,44.61329,0.0 -71.226187,44.613426,0.0 -71.225893,44.613549,0.0 -71.225514,44.613765,0.0 -71.224962,44.614157,0.0 -71.22472,44.614328,0.0 -71.22445,44.614518,0.0 -71.223986,44.614857,0.0 -71.223666,44.615112,0.0 -71.222982,44.615385,0.0 -71.222504,44.615485,0.0 -71.22204,44.615585,0.0 -71.221517,44.615707,0.0 -71.221356,44.615607,0.0 -71.221218,44.61559,0.0 -71.22055,44.615588,0.0 -71.219996,44.615668,0.0 -71.219144,44.615681,0.0 -71.218891,44.615548,0.0 -71.218181,44.615035,0.0 -71.217792,44.614655,0.0 -71.217293,44.614273,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="61850">
+            <name>Powerline (II)</name>
+            <styleUrl>#61851</styleUrl>
+            <Point id="61849">
+                <coordinates>-71.234299,44.615101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61855">
+            <name>Road View rapids (II)</name>
+            <styleUrl>#61856</styleUrl>
+            <Point id="61854">
+                <coordinates>-71.247498,44.625198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61860">
+            <name>Dam View rapids (II)</name>
+            <styleUrl>#61861</styleUrl>
+            <Point id="61859">
+                <coordinates>-71.249603,44.630001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61865">
+            <name>Boffinger (II)</name>
+            <styleUrl>#61866</styleUrl>
+            <Point id="61864">
+                <coordinates>-71.225403,44.613998,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

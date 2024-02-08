@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="119508">
+        <Style id="119513">
+            <IconStyle id="119514">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="119515">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="119518">
+            <IconStyle id="119519">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="119520">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Mill Creek (Blount Co.) - Rt. 31 to Dirt rd off CR 5</name>
+        <Placemark id="119510">
+            <name>Mill Creek (Blount Co.) - Rt. 31 to Dirt rd off CR 5 (III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="119509">
+                <coordinates>-86.808509,33.92047,0.0 -86.808356,33.920561,0.0 -86.808151,33.920803,0.0 -86.808059,33.920869,0.0 -86.807841,33.920968,0.0 -86.807208,33.921133,0.0 -86.80699,33.921238,0.0 -86.806733,33.921403,0.0 -86.806595,33.921518,0.0 -86.806522,33.921611,0.0 -86.806476,33.921721,0.0 -86.806443,33.921897,0.0 -86.806443,33.922018,0.0 -86.806496,33.922183,0.0 -86.806647,33.92231,0.0 -86.806957,33.922403,0.0 -86.807069,33.922475,0.0 -86.807346,33.922623,0.0 -86.807386,33.922645,0.0 -86.807399,33.922651,0.0 -86.807465,33.922695,0.0 -86.807346,33.92292,0.0 -86.80734,33.923151,0.0 -86.807267,33.923327,0.0 -86.807195,33.923448,0.0 -86.806812,33.92391,0.0 -86.806766,33.92402,0.0 -86.806707,33.924487,0.0 -86.806759,33.925103,0.0 -86.80674,33.925136,0.0 -86.806904,33.925345,0.0 -86.807195,33.92557,0.0 -86.807425,33.925829,0.0 -86.807531,33.9259,0.0 -86.807696,33.92595,0.0 -86.807999,33.92595,0.0 -86.808052,33.925972,0.0 -86.808481,33.926323,0.0 -86.808619,33.926384,0.0 -86.808936,33.926593,0.0 -86.809134,33.926697,0.0 -86.809503,33.926813,0.0 -86.809945,33.926868,0.0 -86.81013,33.926917,0.0 -86.810512,33.927247,0.0 -86.810611,33.927632,0.0 -86.810539,33.92783,0.0 -86.810321,33.927967,0.0 -86.809866,33.928127,0.0 -86.809641,33.928314,0.0 -86.809587,33.928376,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="119512">
+            <name>Take Out</name>
+            <styleUrl>#119513</styleUrl>
+            <Point id="119511">
+                <coordinates>-86.808891,33.927776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119517">
+            <name>Put In</name>
+            <styleUrl>#119518</styleUrl>
+            <Point id="119516">
+                <coordinates>-86.808891,33.921112,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

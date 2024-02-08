@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="88363">
+        <Style id="88368">
+            <IconStyle id="88369">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="88370">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="88373">
+            <IconStyle id="88374">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="88375">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Esopus Creek - 5) Glenerie Falls to Saugerties</name>
+        <Placemark id="88365">
+            <name>Esopus Creek - 5) Glenerie Falls to Saugerties (II-IV(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="88364">
+                <coordinates>-73.984802,42.020966,0.0 -73.984575,42.020647,0.0 -73.98457,42.020647,0.0 -73.984198,42.020647,0.0 -73.984194,42.020647,0.0 -73.983792,42.020644,0.0 -73.9831,42.020639,0.0 -73.983092,42.020639,0.0 -73.982614,42.020628,0.0 -73.982609,42.020628,0.0 -73.982445,42.020636,0.0 -73.982079,42.020653,0.0 -73.982068,42.020658,0.0 -73.978936,42.021979,0.0 -73.978775,42.022047,0.0 -73.978771,42.022054,0.0 -73.978685,42.022224,0.0 -73.977925,42.023278,0.0 -73.977856,42.023954,0.0 -73.977842,42.024091,0.0 -73.977728,42.025342,0.0 -73.977191,42.026664,0.0 -73.976815,42.027591,0.0 -73.976317,42.028819,0.0 -73.976273,42.028926,0.0 -73.97589,42.02987,0.0 -73.976016,42.030283,0.0 -73.975852,42.030716,0.0 -73.975563,42.031478,0.0 -73.975148,42.0322,0.0 -73.975007,42.032445,0.0 -73.974706,42.032888,0.0 -73.974374,42.032784,0.0 -73.974338,42.033174,0.0 -73.974127,42.033402,0.0 -73.974028,42.033562,0.0 -73.973465,42.034471,0.0 -73.972868,42.035526,0.0 -73.972295,42.036578,0.0 -73.971955,42.037458,0.0 -73.97193,42.037598,0.0 -73.971863,42.037783,0.0 -73.971647,42.038383,0.0 -73.970523,42.04036,0.0 -73.969928,42.041797,0.0 -73.969692,42.042366,0.0 -73.969443,42.043239,0.0 -73.96919,42.044124,0.0 -73.969145,42.044281,0.0 -73.968346,42.04718,0.0 -73.967466,42.050072,0.0 -73.967029,42.051643,0.0 -73.967372,42.054386,0.0 -73.967395,42.056528,0.0 -73.967395,42.056589,0.0 -73.967301,42.056833,0.0 -73.966181,42.059729,0.0 -73.965711,42.061744,0.0 -73.965702,42.061771,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="88367">
+            <name>Take Out</name>
+            <styleUrl>#88368</styleUrl>
+            <Point id="88366">
+                <coordinates>-73.9664,42.062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88372">
+            <name>Put In</name>
+            <styleUrl>#88373</styleUrl>
+            <Point id="88371">
+                <coordinates>-73.9856,42.0204,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="54897">
+        <Style id="54902">
+            <IconStyle id="54903">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54904">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54907">
+            <IconStyle id="54908">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54909">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sanderson Creek (no known descents) - 1. US 90 (near Cochran Rd) to US 90 (Mofeta) (9.9 miles)</name>
+        <Placemark id="54899">
+            <name>Sanderson Creek (no known descents) - 1. US 90 (near Cochran Rd) to US 90 (Mofeta) (9.9 miles) (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="54898">
+                <coordinates>-102.364072,30.104592,0.0 -102.265896,30.061176,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="54901">
+            <name>Take Out</name>
+            <styleUrl>#54902</styleUrl>
+            <Point id="54900">
+                <coordinates>-102.266,30.061,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="54906">
+            <name>Put In</name>
+            <styleUrl>#54907</styleUrl>
+            <Point id="54905">
+                <coordinates>-102.364,30.1048,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

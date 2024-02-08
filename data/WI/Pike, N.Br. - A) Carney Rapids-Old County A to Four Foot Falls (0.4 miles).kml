@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55122">
+        <Style id="55127">
+            <IconStyle id="55128">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55129">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55132">
+            <IconStyle id="55133">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55134">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55137">
+            <IconStyle id="55138">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55139">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55142">
+            <IconStyle id="55143">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55144">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55147">
+            <IconStyle id="55148">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55149">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Pike, N.Br. - A) Carney Rapids/Old County A to Four Foot Falls (0.4 miles)</name>
+        <Placemark id="55124">
+            <name>Pike, N.Br. - A) Carney Rapids/Old County A to Four Foot Falls (0.4 miles) (III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="55123">
+                <coordinates>-88.165382,45.623834,0.0 -88.165004,45.623725,0.0 -88.163953,45.623515,0.0 -88.160112,45.623132,0.0 -88.159811,45.623035,0.0 -88.159811,45.623035,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="55126">
+            <name>Upper Four-foot Falls (III)</name>
+            <styleUrl>#55127</styleUrl>
+            <Point id="55125">
+                <coordinates>-88.159538,45.62299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55131">
+            <name>Carney Rapids (Drainage ~71Sq.Mi.)</name>
+            <styleUrl>#55132</styleUrl>
+            <Point id="55130">
+                <coordinates>-88.165298,45.623901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55136">
+            <name>Lower Four-foot Falls (III+)</name>
+            <styleUrl>#55137</styleUrl>
+            <Point id="55135">
+                <coordinates>-88.159348,45.622883,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55141">
+            <name>Take Out</name>
+            <styleUrl>#55142</styleUrl>
+            <Point id="55140">
+                <coordinates>-88.157898,45.622601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55146">
+            <name>Put In</name>
+            <styleUrl>#55147</styleUrl>
+            <Point id="55145">
+                <coordinates>-88.165298,45.624001,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

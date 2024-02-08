@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="114257">
+        <Style id="114262">
+            <IconStyle id="114263">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114264">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114267">
+            <IconStyle id="114268">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114269">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Kansas River - Near Lawrence (PnP)</name>
+        <Placemark id="114259">
+            <name>Kansas River - Near Lawrence (PnP) (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="114258">
+                <coordinates>-95.236391,38.97549,0.0 -95.235529,38.974831,0.0 -95.235108,38.974828,0.0 -95.235056,38.974813,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="114261">
+            <name>Take Out</name>
+            <styleUrl>#114262</styleUrl>
+            <Point id="114260">
+                <coordinates>-95.235001,38.974998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="114266">
+            <name>Put In</name>
+            <styleUrl>#114267</styleUrl>
+            <Point id="114265">
+                <coordinates>-95.236,38.976002,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

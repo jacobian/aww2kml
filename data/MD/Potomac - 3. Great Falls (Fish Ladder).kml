@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="86250">
+        <Style id="86255">
+            <IconStyle id="86256">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86257">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86260">
+            <IconStyle id="86261">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86262">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86265">
+            <IconStyle id="86266">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86267">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86270">
+            <IconStyle id="86271">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86272">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86275">
+            <IconStyle id="86276">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86277">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86280">
+            <IconStyle id="86281">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86282">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86285">
+            <IconStyle id="86286">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86287">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86290">
+            <IconStyle id="86291">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86292">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="86295">
+            <IconStyle id="86296">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="86297">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Potomac - 3. Great Falls (Fish Ladder)</name>
+        <Placemark id="86252">
+            <name>Potomac - 3. Great Falls (Fish Ladder) (IV-V(V+))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="86251">
+                <coordinates>-77.248573,39.000672,0.0 -77.248749,39.000615,0.0 -77.248784,39.000593,0.0 -77.248854,39.000577,0.0 -77.248934,39.000582,0.0 -77.249161,39.000228,0.0 -77.249164,38.999989,0.0 -77.249134,38.999743,0.0 -77.248982,38.999347,0.0 -77.248893,38.998942,0.0 -77.248785,38.998655,0.0 -77.248804,38.998258,0.0 -77.248795,38.998014,0.0 -77.248828,38.997842,0.0 -77.248891,38.99774,0.0 -77.248921,38.997577,0.0 -77.248975,38.997511,0.0 -77.249051,38.997505,0.0 -77.249108,38.997452,0.0 -77.249087,38.997318,0.0 -77.249051,38.997088,0.0 -77.249179,38.996934,0.0 -77.249192,38.996516,0.0 -77.249431,38.995215,0.0 -77.24939,38.995005,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="86254">
+            <name>Tight Quarters (IV)</name>
+            <styleUrl>#86255</styleUrl>
+            <Point id="86253">
+                <coordinates>-77.249199,38.9972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86259">
+            <name>First Slide (IV)</name>
+            <styleUrl>#86260</styleUrl>
+            <Point id="86258">
+                <coordinates>-77.248802,38.997898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86264">
+            <name>Fourth Slide (IV+)</name>
+            <styleUrl>#86265</styleUrl>
+            <Point id="86263">
+                <coordinates>-77.2491,38.995899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86269">
+            <name>Second Slide (V)</name>
+            <styleUrl>#86270</styleUrl>
+            <Point id="86268">
+                <coordinates>-77.2491,38.997101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86274">
+            <name>Take Out</name>
+            <styleUrl>#86275</styleUrl>
+            <Point id="86273">
+                <coordinates>-77.248,38.995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86279">
+            <name>Fifth Slide (V)</name>
+            <styleUrl>#86280</styleUrl>
+            <Point id="86278">
+                <coordinates>-77.249702,38.995201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86284">
+            <name>Third Slide (V+)</name>
+            <styleUrl>#86285</styleUrl>
+            <Point id="86283">
+                <coordinates>-77.2491,38.996399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86289">
+            <name>Bitch Monkey (V+)</name>
+            <styleUrl>#86290</styleUrl>
+            <Point id="86288">
+                <coordinates>-77.249199,38.9963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="86294">
+            <name>Back Canyon (V+)</name>
+            <styleUrl>#86295</styleUrl>
+            <Point id="86293">
+                <coordinates>-77.249298,38.996601,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

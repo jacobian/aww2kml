@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="128468">
+        <Style id="128473">
+            <IconStyle id="128474">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="128475">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="128478">
+            <IconStyle id="128479">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="128480">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Towaliga - High Falls</name>
+        <Placemark id="128470">
+            <name>Towaliga - High Falls (I-III+(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="128469">
+                <coordinates>-84.020511,33.180306,0.0 -84.020468,33.180229,0.0 -84.020418,33.180149,0.0 -84.020365,33.180071,0.0 -84.020308,33.179995,0.0 -84.020247,33.179921,0.0 -84.020182,33.179849,0.0 -84.020114,33.179779,0.0 -84.020043,33.179712,0.0 -84.019926,33.179578,0.0 -84.019894,33.179541,0.0 -84.019894,33.17954,0.0 -84.018881,33.179054,0.0 -84.017797,33.17863,0.0 -84.016946,33.178384,0.0 -84.016269,33.178267,0.0 -84.015768,33.178096,0.0 -84.015536,33.177985,0.0 -84.015403,33.177864,0.0 -84.015216,33.17761,0.0 -84.014726,33.177172,0.0 -84.014087,33.17658,0.0 -84.013636,33.176441,0.0 -84.012879,33.176309,0.0 -84.012254,33.176274,0.0 -84.011869,33.176325,0.0 -84.011763,33.176336,0.0 -84.011656,33.176333,0.0 -84.011551,33.176315,0.0 -84.011451,33.176284,0.0 -84.011301,33.176206,0.0 -84.011128,33.176077,0.0 -84.010973,33.175889,0.0 -84.010532,33.1753,0.0 -84.009949,33.174756,0.0 -84.009283,33.174106,0.0 -84.008787,33.173518,0.0 -84.008568,33.173182,0.0 -84.008274,33.172564,0.0 -84.007993,33.172155,0.0 -84.007672,33.171754,0.0 -84.007513,33.171616,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="128472">
+            <name>Take Out</name>
+            <styleUrl>#128473</styleUrl>
+            <Point id="128471">
+                <coordinates>-84.0077,33.1714,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="128477">
+            <name>Put In</name>
+            <styleUrl>#128478</styleUrl>
+            <Point id="128476">
+                <coordinates>-84.0207,33.1802,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

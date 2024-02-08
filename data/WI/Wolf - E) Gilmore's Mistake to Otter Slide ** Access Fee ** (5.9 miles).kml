@@ -1,54 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="21959">
+    <Document id="36841">
+        <Style id="36846">
+            <IconStyle id="36847">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36848">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36851">
+            <IconStyle id="36852">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36853">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36856">
+            <IconStyle id="36857">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36858">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36861">
+            <IconStyle id="36862">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36863">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36866">
+            <IconStyle id="36867">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36868">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Wolf - E) Gilmore's Mistake to Otter Slide ** Access Fee ** (5.9 miles)</name>
-        <Placemark id="21961">
-            <name>Wolf - E) Gilmore's Mistake to Otter Slide ** Access Fee ** (5.9 miles)</name>
+        <Placemark id="36843">
+            <name>Wolf - E) Gilmore's Mistake to Otter Slide ** Access Fee ** (5.9 miles) (II(III))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="21960">
+            <LineString id="36842">
                 <coordinates>-88.663768,45.119179,0.0 -88.663222,45.118828,0.0 -88.663204,45.118448,0.0 -88.663168,45.117689,0.0 -88.663152,45.117676,0.0 -88.662677,45.117283,0.0 -88.660806,45.116424,0.0 -88.657077,45.11622,0.0 -88.655015,45.115476,0.0 -88.65201,45.115185,0.0 -88.650098,45.114702,0.0 -88.649224,45.114528,0.0 -88.647786,45.113265,0.0 -88.647144,45.112702,0.0 -88.646617,45.112239,0.0 -88.643066,45.112045,0.0 -88.642738,45.111774,0.0 -88.642085,45.109593,0.0 -88.639492,45.107178,0.0 -88.638961,45.105508,0.0 -88.63585,45.102939,0.0 -88.635837,45.101424,0.0 -88.636794,45.100846,0.0 -88.6379,45.100528,0.0 -88.638885,45.099698,0.0 -88.639024,45.096803,0.0 -88.63878,45.096586,0.0 -88.63811,45.095993,0.0 -88.636745,45.094784,0.0 -88.635394,45.094079,0.0 -88.635163,45.092931,0.0 -88.633704,45.091588,0.0 -88.633473,45.09044,0.0 -88.63249,45.089628,0.0 -88.630921,45.08929,0.0 -88.62942,45.088324,0.0 -88.629544,45.087195,0.0 -88.630159,45.086471,0.0 -88.630099,45.085569,0.0 -88.630092,45.085458,0.0 -88.629552,45.084966,0.0 -88.628469,45.08398,0.0 -88.627759,45.083941,0.0 -88.627213,45.084037,0.0 -88.6253,45.085194,0.0 -88.624002,45.085628,0.0 -88.621631,45.08552,0.0 -88.620672,45.085066,0.0 -88.620699,45.084815,0.0 -88.620208,45.08441,0.0 -88.620305,45.083531,0.0 -88.621344,45.0822,0.0 -88.622902,45.081024,0.0 -88.624584,45.078718,0.0 -88.624517,45.077705,0.0 -88.62273,45.076092,0.0 -88.622868,45.074837,0.0 -88.62344,45.073799,0.0 -88.622557,45.072801,0.0 -88.622817,45.072058,0.0 -88.6229,45.071305,0.0 -88.622573,45.071035,0.0 -88.622957,45.069163,0.0 -88.622031,45.06785,0.0 -88.622072,45.067473,0.0 -88.623616,45.066422,0.0 -88.624668,45.064966,0.0 -88.626936,45.063828,0.0 -88.628124,45.062758,0.0 -88.628398,45.061889,0.0 -88.627907,45.061484,0.0 -88.627995,45.060688,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="21963">
+        <Placemark id="36845">
             <name>Gilmore's Mistake (III)</name>
-            <Point id="21962">
+            <styleUrl>#36846</styleUrl>
+            <Point id="36844">
                 <coordinates>-88.663124,45.118206,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21965">
+        <Placemark id="36850">
             <name>Wolf Rapids (Pismire Falls) (III)</name>
-            <Point id="21964">
+            <styleUrl>#36851</styleUrl>
+            <Point id="36849">
                 <coordinates>-88.630203,45.085602,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21967">
+        <Placemark id="36855">
             <name>Take Out</name>
-            <Point id="21966">
+            <styleUrl>#36856</styleUrl>
+            <Point id="36854">
                 <coordinates>-88.627197,45.0606,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21969">
+        <Placemark id="36860">
             <name>Shotgun Eddy Rapids (II)</name>
-            <Point id="21968">
+            <styleUrl>#36861</styleUrl>
+            <Point id="36859">
                 <coordinates>-88.637497,45.100601,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21971">
+        <Placemark id="36865">
             <name>Burnt Shanty Rapids (II)</name>
-            <Point id="21970">
+            <styleUrl>#36866</styleUrl>
+            <Point id="36864">
                 <coordinates>-88.648804,45.114399,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21973">
-            <name>Put in</name>
-            <Point id="21972">
-                <coordinates>-88.663498,45.119598,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21975">
-            <name>Take out</name>
-            <Point id="21974">
-                <coordinates>-88.627197,45.0606,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="125126">
+        <Style id="125131">
+            <IconStyle id="125132">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="125133">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="125136">
+            <IconStyle id="125137">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="125138">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sandusky - 1. Milldam in Tiffin to CR 38</name>
+        <Placemark id="125128">
+            <name>Sandusky - 1. Milldam in Tiffin to CR 38 (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="125127">
+                <coordinates>-83.171987,41.123369,0.0 -83.171637,41.123805,0.0 -83.170123,41.124661,0.0 -83.16889,41.124915,0.0 -83.167331,41.126019,0.0 -83.166401,41.128323,0.0 -83.165903,41.131049,0.0 -83.164795,41.13201,0.0 -83.164799,41.132452,0.0 -83.163672,41.133978,0.0 -83.162561,41.137273,0.0 -83.162043,41.137789,0.0 -83.161601,41.138817,0.0 -83.158778,41.142191,0.0 -83.158665,41.14281,0.0 -83.156569,41.144996,0.0 -83.156009,41.146201,0.0 -83.155737,41.147688,0.0 -83.156056,41.14873,0.0 -83.155928,41.150358,0.0 -83.156534,41.151681,0.0 -83.157974,41.153088,0.0 -83.158521,41.155668,0.0 -83.160014,41.157712,0.0 -83.160696,41.159547,0.0 -83.162356,41.161608,0.0 -83.163615,41.164055,0.0 -83.163608,41.165899,0.0 -83.163283,41.167679,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="125130">
+            <name>Take Out</name>
+            <styleUrl>#125131</styleUrl>
+            <Point id="125129">
+                <coordinates>-83.163239,41.167671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125135">
+            <name>Put In</name>
+            <styleUrl>#125136</styleUrl>
+            <Point id="125134">
+                <coordinates>-83.172401,41.123703,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

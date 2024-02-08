@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="100263">
+        <Style id="100268">
+            <IconStyle id="100269">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100270">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100273">
+            <IconStyle id="100274">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100275">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Potomac, Brushy Fork of the S. Fk. of the S. Br. - Base of Dam to confluence of the South Fork</name>
+        <Placemark id="100265">
+            <name>Potomac, Brushy Fork of the S. Fk. of the S. Br. - Base of Dam to confluence of the South Fork (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="100264">
+                <coordinates>-79.320179,38.467027,0.0 -79.320263,38.467134,0.0 -79.320865,38.467994,0.0 -79.321014,38.468178,0.0 -79.321179,38.468323,0.0 -79.321316,38.468435,0.0 -79.32146,38.468536,0.0 -79.321668,38.468632,0.0 -79.322131,38.468814,0.0 -79.322241,38.468904,0.0 -79.322391,38.469065,0.0 -79.322562,38.469233,0.0 -79.322672,38.469322,0.0 -79.322817,38.469385,0.0 -79.323011,38.469442,0.0 -79.323158,38.469461,0.0 -79.323283,38.469463,0.0 -79.323536,38.469411,0.0 -79.323614,38.469368,0.0 -79.32365,38.46933,0.0 -79.323708,38.46921,0.0 -79.323787,38.469135,0.0 -79.323822,38.469124,0.0 -79.324011,38.469132,0.0 -79.324149,38.469178,0.0 -79.324301,38.469257,0.0 -79.324404,38.469352,0.0 -79.324471,38.469458,0.0 -79.324591,38.469718,0.0 -79.324907,38.470573,0.0 -79.324987,38.470734,0.0 -79.325067,38.470894,0.0 -79.325202,38.471111,0.0 -79.325283,38.471211,0.0 -79.325393,38.471311,0.0 -79.325571,38.471451,0.0 -79.325812,38.471614,0.0 -79.325977,38.471742,0.0 -79.326477,38.472162,0.0 -79.326717,38.472352,0.0 -79.327087,38.472681,0.0 -79.328105,38.473701,0.0 -79.328486,38.474113,0.0 -79.328731,38.474402,0.0 -79.328941,38.474685,0.0 -79.32915,38.475029,0.0 -79.329176,38.475128,0.0 -79.32918,38.475243,0.0 -79.329178,38.47532,0.0 -79.329002,38.475977,0.0 -79.328875,38.476338,0.0 -79.328804,38.476721,0.0 -79.328784,38.476968,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="100267">
+            <name>Take Out</name>
+            <styleUrl>#100268</styleUrl>
+            <Point id="100266">
+                <coordinates>-79.3289,38.477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100272">
+            <name>Put In</name>
+            <styleUrl>#100273</styleUrl>
+            <Point id="100271">
+                <coordinates>-79.3206,38.4667,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

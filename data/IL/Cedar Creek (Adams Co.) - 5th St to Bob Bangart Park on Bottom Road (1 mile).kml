@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="74463">
+        <Style id="74468">
+            <IconStyle id="74469">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74470">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74473">
+            <IconStyle id="74474">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="74475">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Cedar Creek (Adams Co.) - 5th St to Bob Bangart Park on Bottom Road (1 mile)</name>
+        <Placemark id="74465">
+            <name>Cedar Creek (Adams Co.) - 5th St to Bob Bangart Park on Bottom Road (1 mile) (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="74464">
+                <coordinates>-91.40822,39.957939,0.0 -91.408593,39.958044,0.0 -91.40885,39.958034,0.0 -91.409114,39.95788,0.0 -91.409314,39.957732,0.0 -91.409664,39.957534,0.0 -91.410142,39.957315,0.0 -91.410271,39.957232,0.0 -91.41047,39.956991,0.0 -91.410635,39.956853,0.0 -91.410934,39.956694,0.0 -91.411248,39.956667,0.0 -91.411691,39.956705,0.0 -91.412247,39.956953,0.0 -91.412404,39.956964,0.0 -91.412697,39.956931,0.0 -91.412847,39.956865,0.0 -91.412918,39.956794,0.0 -91.412982,39.956706,0.0 -91.413039,39.95647,0.0 -91.413104,39.956426,0.0 -91.413218,39.956371,0.0 -91.413482,39.956305,0.0 -91.414081,39.95619,0.0 -91.414174,39.956129,0.0 -91.414431,39.955877,0.0 -91.414652,39.955718,0.0 -91.414931,39.955377,0.0 -91.414974,39.955268,0.0 -91.415002,39.955004,0.0 -91.415074,39.954933,0.0 -91.415395,39.954839,0.0 -91.415566,39.954839,0.0 -91.415607,39.954842,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="74467">
+            <name>Take Out</name>
+            <styleUrl>#74468</styleUrl>
+            <Point id="74466">
+                <coordinates>-91.415604,39.954899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="74472">
+            <name>Put In</name>
+            <styleUrl>#74473</styleUrl>
+            <Point id="74471">
+                <coordinates>-91.408203,39.958,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

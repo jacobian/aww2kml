@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="7863">
+    <Document id="13238">
+        <Style id="13243">
+            <IconStyle id="13244">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="13245">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="13248">
+            <IconStyle id="13249">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="13250">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Bear - Petoskey: Sheridan Street to Lake (1.15 mile)</name>
-        <Placemark id="7865">
-            <name>Bear - Petoskey: Sheridan Street to Lake (1.15 mile)</name>
+        <Placemark id="13240">
+            <name>Bear - Petoskey: Sheridan Street to Lake (1.15 mile) (II-III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="7864">
+            <LineString id="13239">
                 <coordinates>-84.961498,45.364661,0.0 -84.961446,45.364972,0.0 -84.963349,45.366523,0.0 -84.963361,45.367538,0.0 -84.963675,45.367818,0.0 -84.965409,45.368214,0.0 -84.966371,45.368927,0.0 -84.96611,45.369412,0.0 -84.965219,45.369829,0.0 -84.9651,45.370018,0.0 -84.9651,45.370018,0.0 -84.964809,45.37011,0.0 -84.964419,45.370042,0.0 -84.963997,45.369905,0.0 -84.963576,45.369997,0.0 -84.962799,45.370569,0.0 -84.961859,45.370981,0.0 -84.961859,45.370981,0.0 -84.961768,45.370974,0.0 -84.961496,45.371188,0.0 -84.960595,45.374368,0.0 -84.960632,45.374524,0.0 -84.960632,45.374524,0.0 -84.960567,45.37489,0.0 -84.96047,45.375005,0.0 -84.960419,45.375523,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="7867">
+        <Placemark id="13242">
             <name>Take Out</name>
-            <Point id="7866">
+            <styleUrl>#13243</styleUrl>
+            <Point id="13241">
                 <coordinates>-84.960602,45.375702,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="7869">
+        <Placemark id="13247">
             <name>Put In</name>
-            <Point id="7868">
+            <styleUrl>#13248</styleUrl>
+            <Point id="13246">
                 <coordinates>-84.961502,45.3647,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="7871">
-            <name>Put in</name>
-            <Point id="7870">
-                <coordinates>-84.961498,45.364661,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="7873">
-            <name>Take out</name>
-            <Point id="7872">
-                <coordinates>-84.960419,45.375523,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

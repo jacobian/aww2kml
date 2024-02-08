@@ -1,108 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="18857">
+    <Document id="31847">
+        <Style id="31852">
+            <IconStyle id="31853">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31854">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31857">
+            <IconStyle id="31858">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31859">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31862">
+            <IconStyle id="31863">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31864">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31867">
+            <IconStyle id="31868">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31869">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31872">
+            <IconStyle id="31873">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31874">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31877">
+            <IconStyle id="31878">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31879">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31882">
+            <IconStyle id="31883">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31884">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31887">
+            <IconStyle id="31888">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31889">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31892">
+            <IconStyle id="31893">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31894">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31897">
+            <IconStyle id="31898">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31899">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31902">
+            <IconStyle id="31903">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31904">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31907">
+            <IconStyle id="31908">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31909">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31912">
+            <IconStyle id="31913">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31914">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31917">
+            <IconStyle id="31918">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31919">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Root - B) Horlick Dam to Quarry Park (0.2 - 0.6 mile)</name>
-        <Placemark id="18859">
-            <name>Root - B) Horlick Dam to Quarry Park (0.2 - 0.6 mile)</name>
+        <Placemark id="31849">
+            <name>Root - B) Horlick Dam to Quarry Park (0.2 - 0.6 mile) (II(III))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="18858">
+            <LineString id="31848">
                 <coordinates>-87.823741,42.752527,0.0 -87.823774,42.752259,0.0 -87.824361,42.751525,0.0 -87.824361,42.751525,0.0 -87.824528,42.751316,0.0 -87.824528,42.751316,0.0 -87.824675,42.751133,0.0 -87.824868,42.750676,0.0 -87.824965,42.750014,0.0 -87.824997,42.749013,0.0 -87.824911,42.748714,0.0 -87.824535,42.747863,0.0 -87.82402,42.747091,0.0 -87.82402,42.747091,0.0 -87.823967,42.747012,0.0 -87.823634,42.74661,0.0 -87.822893,42.746043,0.0 -87.822894,42.746043,0.0 -87.822647,42.745854,0.0 -87.822336,42.745712,0.0 -87.821395,42.745359,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="18861">
+        <Placemark id="31851">
             <name>USGS Gauge: 190 sq.mi.</name>
-            <Point id="18860">
+            <styleUrl>#31852</styleUrl>
+            <Point id="31850">
                 <coordinates>-87.824394,42.751484,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18863">
+        <Placemark id="31856">
             <name>Fenceline (FL), Right Hip Pocket (RHP), Good Intentions (GI), Mid-Evil (ME) (II)</name>
-            <Point id="18862">
+            <styleUrl>#31857</styleUrl>
+            <Point id="31855">
                 <coordinates>-87.822502,42.746101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18865">
+        <Placemark id="31861">
             <name>Quarry Bridge Pier (I)</name>
-            <Point id="18864">
+            <styleUrl>#31862</styleUrl>
+            <Point id="31860">
                 <coordinates>-87.824699,42.748901,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18867">
+        <Placemark id="31866">
             <name>Doldrums (I)</name>
-            <Point id="18866">
+            <styleUrl>#31867</styleUrl>
+            <Point id="31865">
                 <coordinates>-87.824585,42.750019,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18869">
+        <Placemark id="31871">
             <name>Horlick Dam (III+)</name>
-            <Point id="18868">
+            <styleUrl>#31872</styleUrl>
+            <Point id="31870">
                 <coordinates>-87.823997,42.751999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18871">
+        <Placemark id="31876">
             <name>Lesser Evil (LE), Greater Evil (GE), Between the Evils (BTE), All Evil (AE) (III+)</name>
-            <Point id="18870">
+            <styleUrl>#31877</styleUrl>
+            <Point id="31875">
                 <coordinates>-87.821701,42.745499,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18873">
+        <Placemark id="31881">
             <name>Slab Wave (SW)</name>
-            <Point id="18872">
+            <styleUrl>#31882</styleUrl>
+            <Point id="31880">
                 <coordinates>-87.8245,42.7506,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18875">
+        <Placemark id="31886">
             <name>Upper Pipeline (UPL, UPR) (II)</name>
-            <Point id="18874">
+            <styleUrl>#31887</styleUrl>
+            <Point id="31885">
                 <coordinates>-87.823997,42.747501,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18877">
+        <Placemark id="31891">
             <name>Lazy Willow (LW) (II)</name>
-            <Point id="18876">
+            <styleUrl>#31892</styleUrl>
+            <Point id="31890">
                 <coordinates>-87.823402,42.746899,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18879">
+        <Placemark id="31896">
             <name>Lower Pipeline (LP) &amp; Tundra (II+)</name>
-            <Point id="18878">
+            <styleUrl>#31897</styleUrl>
+            <Point id="31895">
                 <coordinates>-87.8237,42.747101,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18881">
+        <Placemark id="31901">
             <name>LOW BRIDGES</name>
-            <Point id="18880">
+            <styleUrl>#31902</styleUrl>
+            <Point id="31900">
                 <coordinates>-87.817299,42.742298,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18883">
+        <Placemark id="31906">
             <name>Malted Milk (MM) / Horlicks Extra Lite (HEL) (II)</name>
-            <Point id="18882">
+            <styleUrl>#31907</styleUrl>
+            <Point id="31905">
                 <coordinates>-87.823997,42.751999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18885">
+        <Placemark id="31911">
             <name>Diagonal Slice (DS) (II)</name>
-            <Point id="18884">
+            <styleUrl>#31912</styleUrl>
+            <Point id="31910">
                 <coordinates>-87.8246,42.7505,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18887">
+        <Placemark id="31916">
             <name>Hanging Willows (HW) (II)</name>
-            <Point id="18886">
+            <styleUrl>#31917</styleUrl>
+            <Point id="31915">
                 <coordinates>-87.823097,42.746498,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="18889">
-            <name>Put in</name>
-            <Point id="18888">
-                <coordinates>-87.823741,42.752527,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="18891">
-            <name>Take out</name>
-            <Point id="18890">
-                <coordinates>-87.821395,42.745359,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

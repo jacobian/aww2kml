@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="58779">
+        <Style id="58784">
+            <IconStyle id="58785">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58786">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58789">
+            <IconStyle id="58790">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58791">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58794">
+            <IconStyle id="58795">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58796">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58799">
+            <IconStyle id="58800">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58801">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58804">
+            <IconStyle id="58805">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58806">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58809">
+            <IconStyle id="58810">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58811">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58814">
+            <IconStyle id="58815">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58816">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Thunder - Veteran's Park (0.5 miles)</name>
+        <Placemark id="58781">
+            <name>Thunder - Veteran's Park (0.5 miles) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="58780">
+                <coordinates>-88.213271,45.267626,0.0 -88.213127,45.267443,0.0 -88.212964,45.267329,0.0 -88.21154,45.267627,0.0 -88.209534,45.268131,0.0 -88.20934,45.268246,0.0 -88.209341,45.268612,0.0 -88.20892,45.268521,0.0 -88.208434,45.268338,0.0 -88.207786,45.268476,0.0 -88.207527,45.268453,0.0 -88.207527,45.26811,0.0 -88.207559,45.268041,0.0 -88.20772,45.267676,0.0 -88.208044,45.26731,0.0 -88.208044,45.267241,0.0 -88.208076,45.267172,0.0 -88.208108,45.267081,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="58783">
+            <name>Take Out</name>
+            <styleUrl>#58784</styleUrl>
+            <Point id="58782">
+                <coordinates>-88.207901,45.266998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58788">
+            <name>USGS sampling site</name>
+            <styleUrl>#58789</styleUrl>
+            <Point id="58787">
+                <coordinates>-88.25,45.283001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58793">
+            <name>Second Falls</name>
+            <styleUrl>#58794</styleUrl>
+            <Point id="58792">
+                <coordinates>-88.212484,45.26743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58798">
+            <name>Third Falls</name>
+            <styleUrl>#58799</styleUrl>
+            <Point id="58797">
+                <coordinates>-88.211499,45.267637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58803">
+            <name>Put In</name>
+            <styleUrl>#58804</styleUrl>
+            <Point id="58802">
+                <coordinates>-88.213303,45.267601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58808">
+            <name>First Falls</name>
+            <styleUrl>#58809</styleUrl>
+            <Point id="58807">
+                <coordinates>-88.213171,45.267499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58813">
+            <name>Bonus Falls</name>
+            <styleUrl>#58814</styleUrl>
+            <Point id="58812">
+                <coordinates>-88.207949,45.267566,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

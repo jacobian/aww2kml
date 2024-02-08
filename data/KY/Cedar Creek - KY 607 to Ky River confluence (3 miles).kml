@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="103707">
+        <Style id="103712">
+            <IconStyle id="103713">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103714">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="103717">
+            <IconStyle id="103718">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103719">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="103722">
+            <IconStyle id="103723">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103724">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="103727">
+            <IconStyle id="103728">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103729">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="103732">
+            <IconStyle id="103733">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103734">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="103737">
+            <IconStyle id="103738">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103739">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Cedar Creek - KY 607 to Ky River confluence (3 miles)</name>
+        <Placemark id="103709">
+            <name>Cedar Creek - KY 607 to Ky River confluence (3 miles) (II-III(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="103708">
+                <coordinates>-84.846793,38.397402,0.0 -84.847141,38.397765,0.0 -84.847447,38.39835,0.0 -84.847496,38.398642,0.0 -84.84729,38.399378,0.0 -84.847171,38.400157,0.0 -84.847225,38.400414,0.0 -84.847141,38.401269,0.0 -84.847179,38.401631,0.0 -84.847819,38.402624,0.0 -84.848345,38.403139,0.0 -84.84921,38.403577,0.0 -84.849915,38.404144,0.0 -84.849833,38.404676,0.0 -84.849952,38.405118,0.0 -84.850428,38.405664,0.0 -84.850465,38.406027,0.0 -84.850873,38.406711,0.0 -84.851032,38.407192,0.0 -84.851186,38.407407,0.0 -84.851375,38.407445,0.0 -84.851243,38.407643,0.0 -84.851564,38.408283,0.0 -84.852064,38.408975,0.0 -84.852677,38.409534,0.0 -84.852746,38.410212,0.0 -84.852632,38.410301,0.0 -84.852753,38.410353,0.0 -84.852787,38.410945,0.0 -84.853025,38.411219,0.0 -84.853033,38.411471,0.0 -84.853138,38.411696,0.0 -84.853452,38.412084,0.0 -84.853511,38.412305,0.0 -84.853784,38.412653,0.0 -84.854053,38.413186,0.0 -84.853953,38.41326,0.0 -84.854101,38.413279,0.0 -84.854205,38.413554,0.0 -84.8545,38.413763,0.0 -84.854616,38.413914,0.0 -84.854715,38.414088,0.0 -84.854787,38.414198,0.0 -84.854926,38.414285,0.0 -84.854982,38.414357,0.0 -84.854999,38.414452,0.0 -84.855056,38.414997,0.0 -84.854958,38.415634,0.0 -84.854758,38.416335,0.0 -84.854634,38.416539,0.0 -84.854491,38.417173,0.0 -84.854672,38.417513,0.0 -84.854793,38.417632,0.0 -84.855196,38.41774,0.0 -84.856022,38.417815,0.0 -84.85686,38.41782,0.0 -84.857897,38.417596,0.0 -84.857927,38.417493,0.0 -84.858038,38.417577,0.0 -84.858308,38.417484,0.0 -84.85887,38.417463,0.0 -84.859694,38.417251,0.0 -84.860678,38.416909,0.0 -84.861229,38.416959,0.0 -84.861494,38.417055,0.0 -84.861799,38.41719,0.0 -84.862123,38.417507,0.0 -84.86231,38.417812,0.0 -84.862372,38.41832,0.0 -84.862512,38.418621,0.0 -84.862593,38.419311,0.0 -84.862693,38.419571,0.0 -84.862661,38.419784,0.0 -84.862372,38.420153,0.0 -84.862312,38.420543,0.0 -84.862436,38.420949,0.0 -84.862331,38.421946,0.0 -84.862512,38.422286,0.0 -84.862598,38.42294,0.0 -84.862779,38.42328,0.0 -84.862941,38.423439,0.0 -84.86312,38.423491,0.0 -84.863884,38.424279,0.0 -84.864322,38.424463,0.0 -84.864825,38.424832,0.0 -84.865422,38.424886,0.0 -84.866316,38.424823,0.0 -84.866797,38.424723,0.0 -84.867003,38.424598,0.0 -84.867359,38.424092,0.0 -84.869013,38.42302,0.0 -84.869553,38.42253,0.0 -84.87034,38.421955,0.0 -84.87068,38.421554,0.0 -84.870942,38.421363,0.0 -84.871113,38.421162,0.0 -84.871588,38.420487,0.0 -84.872307,38.420049,0.0 -84.872546,38.419992,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="103711">
+            <name>Penn Drop (II+)</name>
+            <styleUrl>#103712</styleUrl>
+            <Point id="103710">
+                <coordinates>-84.860603,38.416801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103716">
+            <name>Rock Crusher (II+)</name>
+            <styleUrl>#103717</styleUrl>
+            <Point id="103715">
+                <coordinates>-84.855003,38.4142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103721">
+            <name>Split Decision (II+)</name>
+            <styleUrl>#103722</styleUrl>
+            <Point id="103720">
+                <coordinates>-84.867203,38.424301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103726">
+            <name>Glory Hole (II)</name>
+            <styleUrl>#103727</styleUrl>
+            <Point id="103725">
+                <coordinates>-84.855797,38.417702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103731">
+            <name>Take Out</name>
+            <styleUrl>#103732</styleUrl>
+            <Point id="103730">
+                <coordinates>-84.8725,38.4198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103736">
+            <name>Put In</name>
+            <styleUrl>#103737</styleUrl>
+            <Point id="103735">
+                <coordinates>-84.8469,38.3973,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

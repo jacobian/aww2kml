@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="59273">
+        <Style id="59278">
+            <IconStyle id="59279">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59280">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59283">
+            <IconStyle id="59284">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59285">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Plover - Jordan Pond (PnH)</name>
+        <Placemark id="59275">
+            <name>Plover - Jordan Pond (PnH) (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="59274">
+                <coordinates>-89.50123,44.576206,0.0 -89.501216,44.576065,0.0 -89.501187,44.575832,0.0 -89.501222,44.575515,0.0 -89.501336,44.57523,0.0 -89.501363,44.575043,0.0 -89.501393,44.574842,0.0 -89.501442,44.574637,0.0 -89.501469,44.574607,0.0 -89.501551,44.574455,0.0 -89.50168,44.574189,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="59277">
+            <name>Take Out</name>
+            <styleUrl>#59278</styleUrl>
+            <Point id="59276">
+                <coordinates>-89.501701,44.5742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59282">
+            <name>Put In</name>
+            <styleUrl>#59283</styleUrl>
+            <Point id="59281">
+                <coordinates>-89.501297,44.576199,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

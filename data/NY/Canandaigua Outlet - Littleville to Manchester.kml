@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="87318">
+        <Style id="87323">
+            <IconStyle id="87324">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87325">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87328">
+            <IconStyle id="87329">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87330">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Canandaigua Outlet - Littleville to Manchester</name>
+        <Placemark id="87320">
+            <name>Canandaigua Outlet - Littleville to Manchester (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="87319">
+                <coordinates>-77.221965,42.939506,0.0 -77.221985,42.939931,0.0 -77.221519,42.94032,0.0 -77.22012,42.941099,0.0 -77.219405,42.941762,0.0 -77.219406,42.942128,0.0 -77.21978,42.942356,0.0 -77.22196,42.943589,0.0 -77.222709,42.94432,0.0 -77.222928,42.945349,0.0 -77.223209,42.945646,0.0 -77.223179,42.946332,0.0 -77.222714,42.94759,0.0 -77.222777,42.947864,0.0 -77.222342,42.94823,0.0 -77.221318,42.95022,0.0 -77.221226,42.950678,0.0 -77.220978,42.951318,0.0 -77.219362,42.952806,0.0 -77.219019,42.95292,0.0 -77.218615,42.952898,0.0 -77.217867,42.952441,0.0 -77.217493,42.95203,0.0 -77.21715,42.951962,0.0 -77.216528,42.952054,0.0 -77.216124,42.95226,0.0 -77.215906,42.952626,0.0 -77.215938,42.953312,0.0 -77.216407,42.954317,0.0 -77.216812,42.954706,0.0 -77.217155,42.954843,0.0 -77.217746,42.954751,0.0 -77.2184,42.954544,0.0 -77.21868,42.954658,0.0 -77.218992,42.955093,0.0 -77.219211,42.955595,0.0 -77.219243,42.956075,0.0 -77.219711,42.957012,0.0 -77.220272,42.957378,0.0 -77.222421,42.958062,0.0 -77.223792,42.958563,0.0 -77.224664,42.959066,0.0 -77.225661,42.959362,0.0 -77.225901,42.959514,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="87322">
+            <name>Put in</name>
+            <styleUrl>#87323</styleUrl>
+            <Point id="87321">
+                <coordinates>-77.2221,42.9395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87327">
+            <name>Take out</name>
+            <styleUrl>#87328</styleUrl>
+            <Point id="87326">
+                <coordinates>-77.2261,42.9592,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

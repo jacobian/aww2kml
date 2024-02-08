@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="18661">
+    <Document id="31513">
+        <Style id="31518">
+            <IconStyle id="31519">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31520">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="31523">
+            <IconStyle id="31524">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31525">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Elk Creek - Granite Creek to Sulphur Springs</name>
-        <Placemark id="18663">
-            <name>Elk Creek - Granite Creek to Sulphur Springs</name>
+        <Placemark id="31515">
+            <name>Elk Creek - Granite Creek to Sulphur Springs (IV(V))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="18662">
+            <LineString id="31514">
                 <coordinates>-123.31899,41.659014,0.0 -123.319334,41.659471,0.0 -123.319644,41.660031,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="18665">
+        <Placemark id="31517">
             <name>Put in</name>
-            <Point id="18664">
+            <styleUrl>#31518</styleUrl>
+            <Point id="31516">
                 <coordinates>-123.31899,41.659014,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18667">
+        <Placemark id="31522">
             <name>Take out</name>
-            <Point id="18666">
+            <styleUrl>#31523</styleUrl>
+            <Point id="31521">
                 <coordinates>-123.319644,41.660031,0.0</coordinates>
             </Point>
         </Placemark>

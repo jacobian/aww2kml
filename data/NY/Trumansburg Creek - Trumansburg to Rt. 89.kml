@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="87109">
+        <Style id="87114">
+            <IconStyle id="87115">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87116">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="87119">
+            <IconStyle id="87120">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="87121">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Trumansburg Creek - Trumansburg to Rt. 89</name>
+        <Placemark id="87111">
+            <name>Trumansburg Creek - Trumansburg to Rt. 89 (IV-V(V+))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="87110">
+                <coordinates>-76.648207,42.541239,0.0 -76.647982,42.541297,0.0 -76.647889,42.541457,0.0 -76.646807,42.541686,0.0 -76.645756,42.542372,0.0 -76.644921,42.543127,0.0 -76.643808,42.543814,0.0 -76.64254,42.544043,0.0 -76.641983,42.544294,0.0 -76.641612,42.54617,0.0 -76.640932,42.547199,0.0 -76.640252,42.547931,0.0 -76.638984,42.548846,0.0 -76.638675,42.549166,0.0 -76.638118,42.550195,0.0 -76.636726,42.550744,0.0 -76.634994,42.551339,0.0 -76.634252,42.551659,0.0 -76.634077,42.551912,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="87113">
+            <name>Take Out</name>
+            <styleUrl>#87114</styleUrl>
+            <Point id="87112">
+                <coordinates>-76.634201,42.551998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87118">
+            <name>Put In</name>
+            <styleUrl>#87119</styleUrl>
+            <Point id="87117">
+                <coordinates>-76.6483,42.541599,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

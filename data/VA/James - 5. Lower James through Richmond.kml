@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="50696">
+        <Style id="50701">
+            <IconStyle id="50702">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50703">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50706">
+            <IconStyle id="50707">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50708">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50711">
+            <IconStyle id="50712">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50713">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50716">
+            <IconStyle id="50717">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50718">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50721">
+            <IconStyle id="50722">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50723">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50726">
+            <IconStyle id="50727">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50728">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50731">
+            <IconStyle id="50732">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50733">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50736">
+            <IconStyle id="50737">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50738">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50741">
+            <IconStyle id="50742">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50743">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50746">
+            <IconStyle id="50747">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50748">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50751">
+            <IconStyle id="50752">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50753">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50756">
+            <IconStyle id="50757">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50758">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50761">
+            <IconStyle id="50762">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50763">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50766">
+            <IconStyle id="50767">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50768">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="50771">
+            <IconStyle id="50772">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="50773">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>James - 5. Lower James through Richmond</name>
+        <Placemark id="50698">
+            <name>James - 5. Lower James through Richmond (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="50697">
+                <coordinates>-77.469299,37.524449,0.0 -77.469341,37.524536,0.0 -77.469323,37.524681,0.0 -77.468805,37.524668,0.0 -77.468495,37.524722,0.0 -77.467952,37.524704,0.0 -77.467663,37.524615,0.0 -77.467402,37.524678,0.0 -77.467046,37.524643,0.0 -77.466789,37.524717,0.0 -77.465972,37.524743,0.0 -77.465887,37.524685,0.0 -77.465571,37.524673,0.0 -77.465179,37.524582,0.0 -77.463956,37.524584,0.0 -77.463162,37.524434,0.0 -77.462615,37.524414,0.0 -77.461436,37.524465,0.0 -77.461212,37.524491,0.0 -77.460883,37.524673,0.0 -77.460481,37.524646,0.0 -77.459858,37.524748,0.0 -77.459617,37.524847,0.0 -77.459577,37.524863,0.0 -77.459362,37.525046,0.0 -77.459048,37.525042,0.0 -77.458687,37.525188,0.0 -77.458165,37.525277,0.0 -77.457579,37.525318,0.0 -77.457377,37.525407,0.0 -77.456824,37.52565,0.0 -77.456755,37.52618,0.0 -77.455804,37.526368,0.0 -77.455016,37.526728,0.0 -77.454474,37.526778,0.0 -77.454076,37.526921,0.0 -77.454019,37.526942,0.0 -77.453477,37.527006,0.0 -77.452731,37.527176,0.0 -77.451505,37.527564,0.0 -77.45013,37.528127,0.0 -77.449846,37.528473,0.0 -77.449623,37.528755,0.0 -77.449422,37.5289,0.0 -77.449121,37.529318,0.0 -77.448862,37.529762,0.0 -77.448168,37.530425,0.0 -77.447673,37.530795,0.0 -77.447007,37.531045,0.0 -77.446856,37.531256,0.0 -77.445598,37.531559,0.0 -77.445401,37.531606,0.0 -77.445369,37.531614,0.0 -77.444992,37.53153,0.0 -77.444402,37.531398,0.0 -77.443854,37.53141,0.0 -77.443593,37.531476,0.0 -77.443329,37.531462,0.0 -77.443184,37.531376,0.0 -77.442773,37.531062,0.0 -77.442199,37.528595,0.0 -77.442212,37.528572,0.0 -77.442193,37.528432,0.0 -77.441826,37.528081,0.0 -77.440337,37.527146,0.0 -77.439718,37.526887,0.0 -77.439242,37.52679,0.0 -77.438689,37.526742,0.0 -77.43681,37.526702,0.0 -77.435898,37.526578,0.0 -77.435238,37.526357,0.0 -77.434633,37.52622,0.0 -77.434216,37.525855,0.0 -77.434031,37.525757,0.0 -77.433851,37.525744,0.0 -77.433379,37.525828,0.0 -77.432944,37.525583,0.0 -77.432723,37.525558,0.0 -77.432051,37.52575,0.0 -77.43183,37.52577,0.0 -77.431527,37.525928,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="50700">
+            <name>Deception  (III+)</name>
+            <styleUrl>#50701</styleUrl>
+            <Point id="50699">
+                <coordinates>-77.4694,37.5244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50705">
+            <name>Southside Takeout</name>
+            <styleUrl>#50706</styleUrl>
+            <Point id="50704">
+                <coordinates>-77.435303,37.527294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50710">
+            <name>Corner Rapid (II+)</name>
+            <styleUrl>#50711</styleUrl>
+            <Point id="50709">
+                <coordinates>-77.456848,37.52919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50715">
+            <name>Grumman (II)</name>
+            <styleUrl>#50716</styleUrl>
+            <Point id="50714">
+                <coordinates>-77.460403,37.528999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50720">
+            <name>Variation (II+)</name>
+            <styleUrl>#50721</styleUrl>
+            <Point id="50719">
+                <coordinates>-77.459396,37.527302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50725">
+            <name>Tredegar Iron Works</name>
+            <styleUrl>#50726</styleUrl>
+            <Point id="50724">
+                <coordinates>-77.445624,37.534496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50730">
+            <name>First Break (II)</name>
+            <styleUrl>#50731</styleUrl>
+            <Point id="50729">
+                <coordinates>-77.458,37.527302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50735">
+            <name>Fish Ladder (III)</name>
+            <styleUrl>#50736</styleUrl>
+            <Point id="50734">
+                <coordinates>-77.444397,37.533401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50740">
+            <name>14th St. Take Out</name>
+            <styleUrl>#50741</styleUrl>
+            <Point id="50739">
+                <coordinates>-77.431801,37.531399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50745">
+            <name>Hollywood (III+)</name>
+            <styleUrl>#50746</styleUrl>
+            <Point id="50744">
+                <coordinates>-77.454498,37.530201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50750">
+            <name>Lee Bridge (I)</name>
+            <styleUrl>#50751</styleUrl>
+            <Point id="50749">
+                <coordinates>-77.449699,37.532101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50755">
+            <name>Cemetery (III)</name>
+            <styleUrl>#50756</styleUrl>
+            <Point id="50754">
+                <coordinates>-77.456261,37.531548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50760">
+            <name>Jesus's Stomach (III+)</name>
+            <styleUrl>#50761</styleUrl>
+            <Point id="50759">
+                <coordinates>-77.4694,37.5244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50765">
+            <name>Dam Drop (III)</name>
+            <styleUrl>#50766</styleUrl>
+            <Point id="50764">
+                <coordinates>-77.457001,37.532101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="50770">
+            <name>Target Rock  (III+)</name>
+            <styleUrl>#50771</styleUrl>
+            <Point id="50769">
+                <coordinates>-77.4694,37.5244,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

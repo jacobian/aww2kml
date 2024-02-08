@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="6141">
+    <Document id="10376">
+        <Style id="10381">
+            <IconStyle id="10382">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10383">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="10386">
+            <IconStyle id="10387">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="10388">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Mascoma - 2. Lebanon</name>
-        <Placemark id="6143">
-            <name>Mascoma - 2. Lebanon</name>
+        <Placemark id="10378">
+            <name>Mascoma - 2. Lebanon (V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="6142">
+            <LineString id="10377">
                 <coordinates>-72.2548,43.643038,0.0 -72.254848,43.642962,0.0 -72.25487,43.642815,0.0 -72.254602,43.642038,0.0 -72.254387,43.6412,0.0 -72.254312,43.64099,0.0 -72.254188,43.640721,0.0 -72.254188,43.640721,0.0 -72.254119,43.640571,0.0 -72.253926,43.640221,0.0 -72.253837,43.640099,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="6145">
+        <Placemark id="10380">
             <name>Take Out</name>
-            <Point id="6144">
+            <styleUrl>#10381</styleUrl>
+            <Point id="10379">
                 <coordinates>-72.240196,43.646,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="6147">
+        <Placemark id="10385">
             <name>Put In</name>
-            <Point id="6146">
+            <styleUrl>#10386</styleUrl>
+            <Point id="10384">
                 <coordinates>-72.2192,43.640099,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="6149">
-            <name>Put in</name>
-            <Point id="6148">
-                <coordinates>-72.2548,43.643038,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="6151">
-            <name>Take out</name>
-            <Point id="6150">
-                <coordinates>-72.253837,43.640099,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

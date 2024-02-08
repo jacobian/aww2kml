@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="89172">
+        <Style id="89177">
+            <IconStyle id="89178">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89179">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89182">
+            <IconStyle id="89183">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89184">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89187">
+            <IconStyle id="89188">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89189">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89192">
+            <IconStyle id="89193">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89194">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89197">
+            <IconStyle id="89198">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89199">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89202">
+            <IconStyle id="89203">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89204">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89207">
+            <IconStyle id="89208">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89209">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89212">
+            <IconStyle id="89213">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="89214">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Independence - 2. Donnattsburgh Road to Old Pine Grove Road</name>
+        <Placemark id="89174">
+            <name>Independence - 2. Donnattsburgh Road to Old Pine Grove Road (II-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="89173">
+                <coordinates>-75.333525,43.747438,0.0 -75.333365,43.747213,0.0 -75.333271,43.746687,0.0 -75.333523,43.746367,0.0 -75.33428,43.746161,0.0 -75.334533,43.745933,0.0 -75.334596,43.745681,0.0 -75.334218,43.745338,0.0 -75.333871,43.7452,0.0 -75.333461,43.744903,0.0 -75.33261,43.743896,0.0 -75.332452,43.743462,0.0 -75.332674,43.743027,0.0 -75.333273,43.742982,0.0 -75.33362,43.742845,0.0 -75.335576,43.74264,0.0 -75.336901,43.74296,0.0 -75.339203,43.743121,0.0 -75.339708,43.742938,0.0 -75.340655,43.742458,0.0 -75.34157,43.742161,0.0 -75.342358,43.742001,0.0 -75.343904,43.741979,0.0 -75.345008,43.742254,0.0 -75.345481,43.742505,0.0 -75.346301,43.742826,0.0 -75.346963,43.742826,0.0 -75.348825,43.742369,0.0 -75.349424,43.741934,0.0 -75.349456,43.741568,0.0 -75.34933,43.741317,0.0 -75.34851,43.740562,0.0 -75.348478,43.74015,0.0 -75.348636,43.73983,0.0 -75.34933,43.739167,0.0 -75.350088,43.738801,0.0 -75.351476,43.738527,0.0 -75.352296,43.73823,0.0 -75.353684,43.738093,0.0 -75.355198,43.737682,0.0 -75.355923,43.737384,0.0 -75.356617,43.736721,0.0 -75.357501,43.736035,0.0 -75.358447,43.734983,0.0 -75.360056,43.73368,0.0 -75.360655,43.732788,0.0 -75.361318,43.731988,0.0 -75.362422,43.731256,0.0 -75.363116,43.730982,0.0 -75.365039,43.73089,0.0 -75.365193,43.730913,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="89176">
+            <name>Gauge (None)</name>
+            <styleUrl>#89177</styleUrl>
+            <Point id="89175">
+                <coordinates>-75.333397,43.746799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89181">
+            <name>Powerline (III)</name>
+            <styleUrl>#89182</styleUrl>
+            <Point id="89180">
+                <coordinates>-75.345802,43.742599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89186">
+            <name>Boof (III+)</name>
+            <styleUrl>#89187</styleUrl>
+            <Point id="89185">
+                <coordinates>-75.352303,43.7383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89191">
+            <name>The Wall (IV)</name>
+            <styleUrl>#89192</styleUrl>
+            <Point id="89190">
+                <coordinates>-75.361801,43.7318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89196">
+            <name>Fat Lady (IV+)</name>
+            <styleUrl>#89197</styleUrl>
+            <Point id="89195">
+                <coordinates>-75.359398,43.7342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89201">
+            <name>Bridge Boof (IV)</name>
+            <styleUrl>#89202</styleUrl>
+            <Point id="89200">
+                <coordinates>-75.361198,43.732201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89206">
+            <name>Take Out</name>
+            <styleUrl>#89207</styleUrl>
+            <Point id="89205">
+                <coordinates>-75.3653,43.7302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89211">
+            <name>Put In</name>
+            <styleUrl>#89212</styleUrl>
+            <Point id="89210">
+                <coordinates>-75.334,43.7471,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

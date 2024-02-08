@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="100643">
+        <Style id="100648">
+            <IconStyle id="100649">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100650">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100653">
+            <IconStyle id="100654">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100655">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100658">
+            <IconStyle id="100659">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100660">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100663">
+            <IconStyle id="100664">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100665">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100668">
+            <IconStyle id="100669">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100670">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100673">
+            <IconStyle id="100674">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100675">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100678">
+            <IconStyle id="100679">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100680">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>South Platte - 07. Confluence Park (of South Platte with Cherry Creek)</name>
+        <Placemark id="100645">
+            <name>South Platte - 07. Confluence Park (of South Platte with Cherry Creek) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="100644">
+                <coordinates>-105.009168,39.754131,0.0 -105.008351,39.754725,0.0 -105.008289,39.75481,0.0 -105.008238,39.754869,0.0 -105.008117,39.754978,0.0 -105.007913,39.755174,0.0 -105.007853,39.755229,0.0 -105.007724,39.755377,0.0 -105.007695,39.755405,0.0 -105.00756,39.755504,0.0 -105.007462,39.755581,0.0 -105.007225,39.755846,0.0 -105.007149,39.755936,0.0 -105.006815,39.756365,0.0 -105.006677,39.756552,0.0 -105.006481,39.756836,0.0 -105.006069,39.757311,0.0 -105.005937,39.757458,0.0 -105.00576,39.757669,0.0 -105.005669,39.757794,0.0 -105.005523,39.758017,0.0 -105.005478,39.75808,0.0 -105.0052,39.75841,0.0 -105.004826,39.75882,0.0 -105.004559,39.759156,0.0 -105.00441,39.759337,0.0 -105.004155,39.759636,0.0 -105.003992,39.75981,0.0 -105.00382,39.760022,0.0 -105.003765,39.76008,0.0 -105.003617,39.760219,0.0 -105.003477,39.760314,0.0 -105.003331,39.760386,0.0 -105.003286,39.760396,0.0 -105.003242,39.760409,0.0 -105.002829,39.760579,0.0 -105.002751,39.760618,0.0 -105.002469,39.760746,0.0 -105.00243,39.760765,0.0 -105.002284,39.760855,0.0 -105.002171,39.760918,0.0 -105.001969,39.761008,0.0 -105.001924,39.761018,0.0 -105.001831,39.761028,0.0 -105.001598,39.761045,0.0 -105.001365,39.761067,0.0 -105.001133,39.761085,0.0 -105.000852,39.7611,0.0 -105.000807,39.76111,0.0 -105.000587,39.761171,0.0 -105.000501,39.7612,0.0 -104.999834,39.761466,0.0 -104.999349,39.761682,0.0 -104.999231,39.76174,0.0 -104.999197,39.761764,0.0 -104.999121,39.761805,0.0 -104.998975,39.761895,0.0 -104.998862,39.761958,0.0 -104.99882,39.761974,0.0 -104.998775,39.761985,0.0 -104.998503,39.762039,0.0 -104.998205,39.762142,0.0 -104.998164,39.762159,0.0 -104.997968,39.762257,0.0 -104.997855,39.76232,0.0 -104.997781,39.762364,0.0 -104.997626,39.762444,0.0 -104.997542,39.762476,0.0 -104.997498,39.762488,0.0 -104.997414,39.762519,0.0 -104.997322,39.762535,0.0 -104.997183,39.762551,0.0 -104.996589,39.762551,0.0 -104.996497,39.762564,0.0 -104.996452,39.762576,0.0 -104.996116,39.762704,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="100647">
+            <name>First Rubble Dam</name>
+            <styleUrl>#100648</styleUrl>
+            <Point id="100646">
+                <coordinates>-105.007004,39.7565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100652">
+            <name>Start of Second Series of Features</name>
+            <styleUrl>#100653</styleUrl>
+            <Point id="100651">
+                <coordinates>-105.003998,39.759602,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100657">
+            <name>End of Second Series</name>
+            <styleUrl>#100658</styleUrl>
+            <Point id="100656">
+                <coordinates>-105.001999,39.760799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100662">
+            <name>End of Features in Confluence Park</name>
+            <styleUrl>#100663</styleUrl>
+            <Point id="100661">
+                <coordinates>-105.008003,39.754501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100667">
+            <name>One more rubble dam.</name>
+            <styleUrl>#100668</styleUrl>
+            <Point id="100666">
+                <coordinates>-104.999001,39.762001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100672">
+            <name>Take Out</name>
+            <styleUrl>#100673</styleUrl>
+            <Point id="100671">
+                <coordinates>-104.996,39.7624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100677">
+            <name>Put In</name>
+            <styleUrl>#100678</styleUrl>
+            <Point id="100676">
+                <coordinates>-105.009,39.7539,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

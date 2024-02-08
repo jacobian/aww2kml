@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="59405">
+        <Style id="59410">
+            <IconStyle id="59411">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59412">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59415">
+            <IconStyle id="59416">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59417">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59420">
+            <IconStyle id="59421">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59422">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59425">
+            <IconStyle id="59426">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59427">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59430">
+            <IconStyle id="59431">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59432">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59435">
+            <IconStyle id="59436">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59437">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59440">
+            <IconStyle id="59441">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59442">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59445">
+            <IconStyle id="59446">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59447">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59450">
+            <IconStyle id="59451">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59452">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59455">
+            <IconStyle id="59456">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59457">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59460">
+            <IconStyle id="59461">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59462">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59465">
+            <IconStyle id="59466">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59467">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59470">
+            <IconStyle id="59471">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="59472">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Peshtigo - E) Roaring Rapids: Otter Ck to W.P.S. Landing (5.3 miles)</name>
+        <Placemark id="59407">
+            <name>Peshtigo - E) Roaring Rapids: Otter Ck to W.P.S. Landing (5.3 miles) (II-III+(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="59406">
+                <coordinates>-88.346254,45.413531,0.0 -88.345901,45.413415,0.0 -88.34431,45.4133,0.0 -88.343953,45.413277,0.0 -88.343986,45.413026,0.0 -88.344343,45.412225,0.0 -88.344636,45.411837,0.0 -88.345902,45.410557,0.0 -88.346454,45.409826,0.0 -88.346714,45.408843,0.0 -88.346876,45.408523,0.0 -88.346877,45.407974,0.0 -88.346747,45.407746,0.0 -88.346682,45.407105,0.0 -88.346617,45.406945,0.0 -88.346585,45.406831,0.0 -88.34639,45.406534,0.0 -88.346261,45.40626,0.0 -88.346001,45.406077,0.0 -88.345093,45.405231,0.0 -88.344898,45.404956,0.0 -88.344801,45.404728,0.0 -88.344574,45.40443,0.0 -88.343828,45.40379,0.0 -88.343147,45.403493,0.0 -88.342595,45.403584,0.0 -88.341037,45.403995,0.0 -88.340031,45.404201,0.0 -88.339122,45.404635,0.0 -88.338538,45.405046,0.0 -88.337953,45.405343,0.0 -88.337337,45.405823,0.0 -88.336817,45.406417,0.0 -88.336428,45.406737,0.0 -88.33633,45.40692,0.0 -88.33607,45.407217,0.0 -88.335778,45.407537,0.0 -88.335421,45.407788,0.0 -88.334999,45.407971,0.0 -88.333733,45.408954,0.0 -88.332921,45.409456,0.0 -88.332077,45.410004,0.0 -88.330486,45.410621,0.0 -88.329934,45.410941,0.0 -88.329609,45.411352,0.0 -88.329447,45.412015,0.0 -88.329317,45.412198,0.0 -88.328895,45.412267,0.0 -88.327596,45.412312,0.0 -88.326753,45.412151,0.0 -88.325227,45.412197,0.0 -88.324838,45.412128,0.0 -88.324318,45.41215,0.0 -88.323962,45.411876,0.0 -88.323767,45.411807,0.0 -88.323183,45.411921,0.0 -88.322501,45.412241,0.0 -88.32104,45.412195,0.0 -88.319937,45.412217,0.0 -88.319775,45.412217,0.0 -88.31932,45.412011,0.0 -88.319323,45.409245,0.0 -88.319291,45.408559,0.0 -88.319162,45.408193,0.0 -88.319,45.407919,0.0 -88.318578,45.40753,0.0 -88.318384,45.407233,0.0 -88.317638,45.406661,0.0 -88.317054,45.406364,0.0 -88.31566,45.405151,0.0 -88.31553,45.404808,0.0 -88.3154,45.404763,0.0 -88.315336,45.404054,0.0 -88.315369,45.403277,0.0 -88.31524,45.402728,0.0 -88.315143,45.402682,0.0 -88.31511,45.402522,0.0 -88.314819,45.402134,0.0 -88.314657,45.402042,0.0 -88.314559,45.401836,0.0 -88.314527,45.401722,0.0 -88.314235,45.401676,0.0 -88.313424,45.401081,0.0 -88.313295,45.400875,0.0 -88.313295,45.400395,0.0 -88.313166,45.39987,0.0 -88.313036,45.399755,0.0 -88.313036,45.399687,0.0 -88.312258,45.399161,0.0 -88.312226,45.398978,0.0 -88.312161,45.398909,0.0 -88.311935,45.397789,0.0 -88.311222,45.397308,0.0 -88.310995,45.397194,0.0 -88.309827,45.396576,0.0 -88.309114,45.396484,0.0 -88.308497,45.396324,0.0 -88.308303,45.396164,0.0 -88.307589,45.395592,0.0 -88.307298,45.395455,0.0 -88.305707,45.395796,0.0 -88.305416,45.395659,0.0 -88.305189,45.395453,0.0 -88.305189,45.394905,0.0 -88.305579,45.394608,0.0 -88.306553,45.394265,0.0 -88.306975,45.394014,0.0 -88.307202,45.393717,0.0 -88.307202,45.393511,0.0 -88.30704,45.393397,0.0 -88.306976,45.393328,0.0 -88.306262,45.393305,0.0 -88.306132,45.393305,0.0 -88.306099,45.393351,0.0 -88.305386,45.393442,0.0 -88.304964,45.393441,0.0 -88.304477,45.393304,0.0 -88.304153,45.392984,0.0 -88.304121,45.392778,0.0 -88.304068,45.392655,0.0 -88.30414,45.392515,0.0 -88.303649,45.392108,0.0 -88.301626,45.390982,0.0 -88.301592,45.389717,0.0 -88.304647,45.388122,0.0 -88.30497,45.386877,0.0 -88.306005,45.385673,0.0 -88.306165,45.384292,0.0 -88.305196,45.383353,0.0 -88.304674,45.383323,0.0 -88.304483,45.383312,0.0 -88.303628,45.382856,0.0 -88.302624,45.382321,0.0 -88.300941,45.380825,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="59409">
+            <name>Put-in</name>
+            <styleUrl>#59410</styleUrl>
+            <Point id="59408">
+                <coordinates>-88.346001,45.412998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59414">
+            <name>Farm Dam</name>
+            <styleUrl>#59415</styleUrl>
+            <Point id="59413">
+                <coordinates>-88.347,45.408001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59419">
+            <name>Upper Roaring (II)</name>
+            <styleUrl>#59420</styleUrl>
+            <Point id="59418">
+                <coordinates>-88.341003,45.403999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59424">
+            <name>First Drop (III+)</name>
+            <styleUrl>#59425</styleUrl>
+            <Point id="59423">
+                <coordinates>-88.320999,45.411999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59429">
+            <name>Second Drop (III)</name>
+            <styleUrl>#59430</styleUrl>
+            <Point id="59428">
+                <coordinates>-88.319,45.411999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59434">
+            <name>Rescue Eddy (II)</name>
+            <styleUrl>#59435</styleUrl>
+            <Point id="59433">
+                <coordinates>-88.319,45.408001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59439">
+            <name>Third Drop (III)</name>
+            <styleUrl>#59440</styleUrl>
+            <Point id="59438">
+                <coordinates>-88.318001,45.407001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59444">
+            <name>Joeys Hole (II+)</name>
+            <styleUrl>#59445</styleUrl>
+            <Point id="59443">
+                <coordinates>-88.317369,45.406524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59449">
+            <name>Five Foot Falls (III)</name>
+            <styleUrl>#59450</styleUrl>
+            <Point id="59448">
+                <coordinates>-88.317001,45.405998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59454">
+            <name>Horserace Rapids (III+)</name>
+            <styleUrl>#59455</styleUrl>
+            <Point id="59453">
+                <coordinates>-88.315002,45.403999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59459">
+            <name>S-Curve (III)</name>
+            <styleUrl>#59460</styleUrl>
+            <Point id="59458">
+                <coordinates>-88.314003,45.402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59464">
+            <name>Lower Roaring (II+)</name>
+            <styleUrl>#59465</styleUrl>
+            <Point id="59463">
+                <coordinates>-88.313004,45.401001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59469">
+            <name>Take-out</name>
+            <styleUrl>#59470</styleUrl>
+            <Point id="59468">
+                <coordinates>-88.301003,45.381001,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="53571">
+        <Style id="53576">
+            <IconStyle id="53577">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53578">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53581">
+            <IconStyle id="53582">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53583">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53586">
+            <IconStyle id="53587">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53588">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53591">
+            <IconStyle id="53592">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53593">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53596">
+            <IconStyle id="53597">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53598">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="53601">
+            <IconStyle id="53602">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="53603">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Beaver - 1. Moshier Section</name>
+        <Placemark id="53573">
+            <name>Beaver - 1. Moshier Section (IV-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="53572">
+                <coordinates>-75.111184,43.886359,0.0 -75.111305,43.886334,0.0 -75.113182,43.886635,0.0 -75.114148,43.886403,0.0 -75.114663,43.88648,0.0 -75.117635,43.885545,0.0 -75.118493,43.885684,0.0 -75.119973,43.886689,0.0 -75.122023,43.887022,0.0 -75.122538,43.887316,0.0 -75.122645,43.887424,0.0 -75.122645,43.887424,0.0 -75.123181,43.88747,0.0 -75.123847,43.887053,0.0 -75.124319,43.886875,0.0 -75.12463,43.88662,0.0 -75.124919,43.886419,0.0 -75.126024,43.886094,0.0 -75.126464,43.885707,0.0 -75.126851,43.884949,0.0 -75.127162,43.884586,0.0 -75.127827,43.884331,0.0 -75.129029,43.883627,0.0 -75.129501,43.882892,0.0 -75.130488,43.882073,0.0 -75.130831,43.881586,0.0 -75.130992,43.881547,0.0 -75.131593,43.880673,0.0 -75.131775,43.880124,0.0 -75.13273,43.879397,0.0 -75.133427,43.878616,0.0 -75.135348,43.875646,0.0 -75.135852,43.874502,0.0 -75.136389,43.872352,0.0 -75.136389,43.872352,0.0 -75.136552,43.872203,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="53575">
+            <name>First Falls (III)</name>
+            <styleUrl>#53576</styleUrl>
+            <Point id="53574">
+                <coordinates>-75.116891,43.885779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53580">
+            <name>Second Falls (III)</name>
+            <styleUrl>#53581</styleUrl>
+            <Point id="53579">
+                <coordinates>-75.118724,43.885841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53585">
+            <name>Mauser's Faceplant (IV)</name>
+            <styleUrl>#53586</styleUrl>
+            <Point id="53584">
+                <coordinates>-75.120258,43.886735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53590">
+            <name>Take Out</name>
+            <styleUrl>#53591</styleUrl>
+            <Point id="53589">
+                <coordinates>-75.1362,43.872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53595">
+            <name>Put In</name>
+            <styleUrl>#53596</styleUrl>
+            <Point id="53594">
+                <coordinates>-75.1119,43.8863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53600">
+            <name>Put-in slide (V+)</name>
+            <styleUrl>#53601</styleUrl>
+            <Point id="53599">
+                <coordinates>-75.109519,43.887504,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

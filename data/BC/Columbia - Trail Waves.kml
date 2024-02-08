@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="111940">
+        <Style id="111945">
+            <IconStyle id="111946">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111947">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="111950">
+            <IconStyle id="111951">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="111952">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Columbia - Trail Waves</name>
+        <Placemark id="111942">
+            <name>Columbia - Trail Waves (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="111941">
+                <coordinates>-117.646259,49.091993,0.0 -117.646235,49.09185,0.0 -117.646184,49.0917,0.0 -117.646747,49.091142,0.0 -117.646411,49.091005,0.0 -117.644459,49.090235,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="111944">
+            <name>Take Out</name>
+            <styleUrl>#111945</styleUrl>
+            <Point id="111943">
+                <coordinates>-117.644,49.0914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111949">
+            <name>Put In</name>
+            <styleUrl>#111950</styleUrl>
+            <Point id="111948">
+                <coordinates>-117.646,49.0922,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

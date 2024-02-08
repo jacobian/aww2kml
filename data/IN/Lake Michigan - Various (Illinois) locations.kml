@@ -1,66 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="26825">
+    <Document id="44932">
+        <Style id="44937">
+            <IconStyle id="44938">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44939">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44942">
+            <IconStyle id="44943">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44944">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44947">
+            <IconStyle id="44948">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44949">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44952">
+            <IconStyle id="44953">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44954">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44957">
+            <IconStyle id="44958">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44959">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44962">
+            <IconStyle id="44963">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44964">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44967">
+            <IconStyle id="44968">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44969">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Lake Michigan - Various (Illinois) locations</name>
-        <Placemark id="26827">
-            <name>Lake Michigan - Various (Illinois) locations</name>
+        <Placemark id="44934">
+            <name>Lake Michigan - Various (Illinois) locations (I-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="26826">
+            <LineString id="44933">
                 <coordinates>-87.802255,42.491462,0.0 -87.792471,42.486076,0.0 -87.800252,42.419774,0.0 -87.802881,42.366311,0.0 -87.824274,42.339834,0.0 -87.827919,42.315934,0.0 -87.823482,42.264285,0.0 -87.806684,42.225241,0.0 -87.769128,42.168963,0.0 -87.730267,42.117348,0.0 -87.679716,42.079093,0.0 -87.667514,42.058507,0.0 -87.655629,42.006928,0.0 -87.631067,41.966244,0.0 -87.631384,41.960352,0.0 -87.636296,41.948803,0.0 -87.620133,41.914551,0.0 -87.597901,41.892673,0.0 -87.604398,41.866598,0.0 -87.602338,41.839226,0.0 -87.586809,41.810058,0.0 -87.573497,41.796251,0.0 -87.559552,41.768364,0.0 -87.540726,41.758544,0.0 -87.530742,41.748613,0.0 -87.523453,41.726249,0.0 -87.525037,41.709216,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="26829">
+        <Placemark id="44936">
             <name>Waukegan - North Beach Park</name>
-            <Point id="26828">
+            <styleUrl>#44937</styleUrl>
+            <Point id="44935">
                 <coordinates>-87.816704,42.363602,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26831">
+        <Placemark id="44941">
             <name>Montrose</name>
-            <Point id="26830">
+            <styleUrl>#44942</styleUrl>
+            <Point id="44940">
                 <coordinates>-87.635597,41.966499,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26833">
+        <Placemark id="44946">
             <name>Tower Road</name>
-            <Point id="26832">
+            <styleUrl>#44947</styleUrl>
+            <Point id="44945">
                 <coordinates>-87.731598,42.115501,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26835">
+        <Placemark id="44951">
             <name>Illinois Beach State Park</name>
-            <Point id="26834">
+            <styleUrl>#44952</styleUrl>
+            <Point id="44950">
                 <coordinates>-87.805,42.430199,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26837">
+        <Placemark id="44956">
             <name>Take Out</name>
-            <Point id="26836">
+            <styleUrl>#44957</styleUrl>
+            <Point id="44955">
                 <coordinates>-87.5243,41.7076,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26839">
+        <Placemark id="44961">
             <name>59th St.Harbour/Promontory Point</name>
-            <Point id="26838">
+            <styleUrl>#44962</styleUrl>
+            <Point id="44960">
                 <coordinates>-87.578514,41.791073,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26841">
+        <Placemark id="44966">
             <name>Put In</name>
-            <Point id="26840">
+            <styleUrl>#44967</styleUrl>
+            <Point id="44965">
                 <coordinates>-87.8042,42.491,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="26843">
-            <name>Put in</name>
-            <Point id="26842">
-                <coordinates>-87.802255,42.491462,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="26845">
-            <name>Take out</name>
-            <Point id="26844">
-                <coordinates>-87.525037,41.709216,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

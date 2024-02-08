@@ -1,84 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="27613">
+    <Document id="46336">
+        <Style id="46341">
+            <IconStyle id="46342">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46343">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="46346">
+            <IconStyle id="46347">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46348">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="46351">
+            <IconStyle id="46352">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46353">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="46356">
+            <IconStyle id="46357">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46358">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="46361">
+            <IconStyle id="46362">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46363">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="46366">
+            <IconStyle id="46367">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46368">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="46371">
+            <IconStyle id="46372">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46373">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="46376">
+            <IconStyle id="46377">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46378">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="46381">
+            <IconStyle id="46382">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46383">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="46386">
+            <IconStyle id="46387">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="46388">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Manitowoc - B) Union Road to Michigan Avenue (7 miles)</name>
-        <Placemark id="27615">
-            <name>Manitowoc - B) Union Road to Michigan Avenue (7 miles)</name>
+        <Placemark id="46338">
+            <name>Manitowoc - B) Union Road to Michigan Avenue (7 miles) (I-II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="27614">
+            <LineString id="46337">
                 <coordinates>-87.781073,44.111608,0.0 -87.780257,44.111678,0.0 -87.779926,44.111795,0.0 -87.779926,44.111795,0.0 -87.779624,44.111901,0.0 -87.77912,44.112386,0.0 -87.778927,44.112725,0.0 -87.77867,44.113573,0.0 -87.778219,44.114073,0.0 -87.777586,44.114466,0.0 -87.776545,44.114921,0.0 -87.776223,44.115236,0.0 -87.775676,44.116222,0.0 -87.775108,44.117046,0.0 -87.7747,44.117455,0.0 -87.773927,44.117886,0.0 -87.77352,44.117978,0.0 -87.771932,44.118025,0.0 -87.771267,44.118186,0.0 -87.76984,44.118941,0.0 -87.769454,44.119026,0.0 -87.769228,44.119026,0.0 -87.769228,44.119026,0.0 -87.768059,44.119049,0.0 -87.767168,44.119303,0.0 -87.766246,44.119758,0.0 -87.76587,44.119827,0.0 -87.764379,44.119296,0.0 -87.764057,44.119319,0.0 -87.763553,44.119504,0.0 -87.763231,44.119781,0.0 -87.76307,44.120073,0.0 -87.763134,44.120874,0.0 -87.763424,44.121398,0.0 -87.763799,44.121814,0.0 -87.764561,44.122269,0.0 -87.765259,44.122523,0.0 -87.76602,44.122638,0.0 -87.767383,44.122615,0.0 -87.768177,44.122823,0.0 -87.771127,44.12374,0.0 -87.771825,44.124132,0.0 -87.772297,44.124725,0.0 -87.772522,44.125411,0.0 -87.772522,44.126735,0.0 -87.772425,44.127151,0.0 -87.772393,44.127629,0.0 -87.7722,44.128091,0.0 -87.77191,44.128406,0.0 -87.771846,44.128568,0.0 -87.77087,44.1293,0.0 -87.769979,44.129569,0.0 -87.769089,44.129616,0.0 -87.768456,44.1295,0.0 -87.768456,44.1295,0.0 -87.767876,44.128884,0.0 -87.766482,44.127898,0.0 -87.765248,44.127282,0.0 -87.763563,44.126705,0.0 -87.762651,44.126227,0.0 -87.762265,44.125973,0.0 -87.761192,44.125426,0.0 -87.760613,44.125334,0.0 -87.760044,44.125403,0.0 -87.759283,44.125649,0.0 -87.758682,44.126065,0.0 -87.758456,44.12645,0.0 -87.758102,44.127251,0.0 -87.757888,44.127505,0.0 -87.757212,44.127752,0.0 -87.756515,44.127844,0.0 -87.755538,44.127567,0.0 -87.75468,44.127244,0.0 -87.754165,44.126928,0.0 -87.753757,44.126242,0.0 -87.752491,44.125257,0.0 -87.752019,44.125003,0.0 -87.750109,44.124086,0.0 -87.749755,44.123971,0.0 -87.749155,44.123424,0.0 -87.749048,44.123271,0.0 -87.749048,44.123271,0.0 -87.748801,44.122915,0.0 -87.74791,44.120882,0.0 -87.74702,44.119812,0.0 -87.746065,44.119126,0.0 -87.745485,44.118826,0.0 -87.744606,44.118649,0.0 -87.744026,44.118718,0.0 -87.743114,44.119057,0.0 -87.742031,44.119796,0.0 -87.74143,44.120821,0.0 -87.740293,44.122469,0.0 -87.740003,44.122769,0.0 -87.738866,44.123593,0.0 -87.738672,44.123886,0.0 -87.738576,44.124094,0.0 -87.738522,44.12414,0.0 -87.738394,44.124533,0.0 -87.738361,44.12501,0.0 -87.738297,44.126997,0.0 -87.738147,44.127636,0.0 -87.737921,44.127937,0.0 -87.737192,44.128353,0.0 -87.736334,44.128599,0.0 -87.73437,44.128738,0.0 -87.733641,44.128653,0.0 -87.732171,44.128353,0.0 -87.730712,44.127829,0.0 -87.729671,44.127421,0.0 -87.727826,44.126782,0.0 -87.726517,44.126142,0.0 -87.724929,44.125003,0.0 -87.724457,44.12454,0.0 -87.724264,44.124202,0.0 -87.724328,44.12367,0.0 -87.724489,44.123285,0.0 -87.725025,44.122831,0.0 -87.725916,44.122299,0.0 -87.72613,44.122114,0.0 -87.726098,44.121984,0.0 -87.725691,44.121729,0.0 -87.725111,44.121545,0.0 -87.722955,44.121506,0.0 -87.722161,44.121437,0.0 -87.721367,44.121183,0.0 -87.720573,44.12059,0.0 -87.720294,44.120228,0.0 -87.720101,44.119858,0.0 -87.720004,44.117824,0.0 -87.719779,44.116954,0.0 -87.719682,44.116885,0.0 -87.719682,44.116684,0.0 -87.719586,44.116638,0.0 -87.719457,44.116269,0.0 -87.718921,44.11593,0.0 -87.717515,44.115337,0.0 -87.717043,44.115244,0.0 -87.716442,44.115244,0.0 -87.71596,44.115406,0.0 -87.715552,44.115745,0.0 -87.714983,44.116384,0.0 -87.714844,44.116492,0.0 -87.714093,44.117054,0.0 -87.713653,44.117254,0.0 -87.713127,44.117254,0.0 -87.70434,44.11271,0.0 -87.703836,44.112625,0.0 -87.702506,44.112117,0.0 -87.702055,44.112009,0.0 -87.701744,44.111616,0.0 -87.701733,44.111023,0.0 -87.701926,44.110792,0.0 -87.702559,44.110476,0.0 -87.702945,44.11043,0.0 -87.713127,44.109028,0.0 -87.713417,44.108797,0.0 -87.714243,44.108042,0.0 -87.714844,44.107333,0.0 -87.715575,44.106467,0.0 -87.715575,44.106467,0.0 -87.715852,44.106139,0.0 -87.715936,44.106021,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="27617">
+        <Placemark id="46340">
             <name>Union Road (Alternate Put-in#4)</name>
-            <Point id="27616">
+            <styleUrl>#46341</styleUrl>
+            <Point id="46339">
                 <coordinates>-87.781097,44.111698,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27619">
+        <Placemark id="46345">
             <name>Friday Street</name>
-            <Point id="27618">
+            <styleUrl>#46346</styleUrl>
+            <Point id="46344">
                 <coordinates>-87.764503,44.126499,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27621">
+        <Placemark id="46350">
             <name>Village Road (Alternate Put-in#3)</name>
-            <Point id="27620">
+            <styleUrl>#46351</styleUrl>
+            <Point id="46349">
                 <coordinates>-87.763901,44.1455,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27623">
+        <Placemark id="46355">
             <name>Danmar Road (Alternate Put-in#5)</name>
-            <Point id="27622">
+            <styleUrl>#46356</styleUrl>
+            <Point id="46354">
                 <coordinates>-87.781403,44.163799,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27625">
+        <Placemark id="46360">
             <name>Branch River Road (Alternate Put-in#2)</name>
-            <Point id="27624">
+            <styleUrl>#46361</styleUrl>
+            <Point id="46359">
                 <coordinates>-87.7649,44.1404,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27627">
+        <Placemark id="46365">
             <name>Union Road (Suggested/listed Put-in)</name>
-            <Point id="27626">
+            <styleUrl>#46366</styleUrl>
+            <Point id="46364">
                 <coordinates>-87.765297,44.134701,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27629">
+        <Placemark id="46370">
             <name>Take Out</name>
-            <Point id="27628">
+            <styleUrl>#46371</styleUrl>
+            <Point id="46369">
                 <coordinates>-87.715897,44.1059,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27631">
+        <Placemark id="46375">
             <name>Put In</name>
-            <Point id="27630">
+            <styleUrl>#46376</styleUrl>
+            <Point id="46374">
                 <coordinates>-87.780998,44.111801,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27633">
+        <Placemark id="46380">
             <name>USGS Gauge: Drainage: 526 sq.mi.</name>
-            <Point id="27632">
+            <styleUrl>#46381</styleUrl>
+            <Point id="46379">
                 <coordinates>-87.714996,44.106998,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27635">
+        <Placemark id="46385">
             <name>Head of Gradient; Drainage area: ~515 sq.mi.</name>
-            <Point id="27634">
+            <styleUrl>#46386</styleUrl>
+            <Point id="46384">
                 <coordinates>-87.737999,44.125999,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27637">
-            <name>Put in</name>
-            <Point id="27636">
-                <coordinates>-87.781073,44.111608,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27639">
-            <name>Take out</name>
-            <Point id="27638">
-                <coordinates>-87.715936,44.106021,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,41 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="24013">
+    <Document id="40240">
+        <Style id="40245">
+            <IconStyle id="40246">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40247">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40250">
+            <IconStyle id="40251">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40252">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40255">
+            <IconStyle id="40256">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40257">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40260">
+            <IconStyle id="40261">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40262">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40265">
+            <IconStyle id="40266">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40267">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Merced - 7) Merced Falls to Snelling Diversion Dam</name>
-        <Placemark id="24015">
-            <name>Merced - 7) Merced Falls to Snelling Diversion Dam</name>
+        <Placemark id="40242">
+            <name>Merced - 7) Merced Falls to Snelling Diversion Dam (I)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="24014">
+            <LineString id="40241">
                 <coordinates>-120.321894,37.524146,0.0 -120.322105,37.524097,0.0 -120.322692,37.524198,0.0 -120.323593,37.524088,0.0 -120.324303,37.523844,0.0 -120.32493,37.52355,0.0 -120.325803,37.523255,0.0 -120.325997,37.52316,0.0 -120.326541,37.523116,0.0 -120.326936,37.523029,0.0 -120.32802,37.522579,0.0 -120.328356,37.522672,0.0 -120.329347,37.522763,0.0 -120.32952,37.522683,0.0 -120.329689,37.522605,0.0 -120.330487,37.522126,0.0 -120.330745,37.52197,0.0 -120.330754,37.521977,0.0 -120.331028,37.521864,0.0 -120.332465,37.521274,0.0 -120.33279,37.520969,0.0 -120.334317,37.519537,0.0 -120.337161,37.516511,0.0 -120.339275,37.513173,0.0 -120.341015,37.510482,0.0 -120.34285,37.508803,0.0 -120.343827,37.508087,0.0 -120.344284,37.508102,0.0 -120.345869,37.508891,0.0 -120.34763,37.509373,0.0 -120.3498,37.509417,0.0 -120.353087,37.508853,0.0 -120.356003,37.508636,0.0 -120.358698,37.507804,0.0 -120.358736,37.507812,0.0 -120.358918,37.507824,0.0 -120.359009,37.507833,0.0 -120.359141,37.507861,0.0 -120.359358,37.507917,0.0 -120.359402,37.507926,0.0 -120.359672,37.507963,0.0 -120.359943,37.507994,0.0 -120.36026,37.508025,0.0 -120.360713,37.508066,0.0 -120.360986,37.508088,0.0 -120.361303,37.508119,0.0 -120.361613,37.508178,0.0 -120.361831,37.508232,0.0 -120.362002,37.508282,0.0 -120.362165,37.508346,0.0 -120.362487,37.508481,0.0 -120.36272,37.508593,0.0 -120.362907,37.508695,0.0 -120.36315,37.508857,0.0 -120.363295,37.508943,0.0 -120.363445,37.509025,0.0 -120.363717,37.509157,0.0 -120.363757,37.509173,0.0 -120.364809,37.509517,0.0 -120.365163,37.50968,0.0 -120.365356,37.509775,0.0 -120.365421,37.509825,0.0 -120.365492,37.509871,0.0 -120.365786,37.510039,0.0 -120.365973,37.510142,0.0 -120.366045,37.510186,0.0 -120.366172,37.510288,0.0 -120.366243,37.510333,0.0 -120.36632,37.510371,0.0 -120.366514,37.510523,0.0 -120.366689,37.510637,0.0 -120.366987,37.510802,0.0 -120.367294,37.510957,0.0 -120.36752,37.511078,0.0 -120.36796,37.511332,0.0 -120.367998,37.511352,0.0 -120.368309,37.511486,0.0 -120.368365,37.511542,0.0 -120.368463,37.511618,0.0 -120.368683,37.511745,0.0 -120.368785,37.511816,0.0 -120.36903,37.511977,0.0 -120.369233,37.512121,0.0 -120.369558,37.512318,0.0 -120.36967,37.512365,0.0 -120.369866,37.512273,0.0 -120.36991,37.512265,0.0 -120.370002,37.512259,0.0 -120.370093,37.512257,0.0 -120.370184,37.512259,0.0 -120.370274,37.512274,0.0 -120.370405,37.512305,0.0 -120.370447,37.512318,0.0 -120.370569,37.512367,0.0 -120.370607,37.512387,0.0 -120.370813,37.512517,0.0 -120.370913,37.51259,0.0 -120.371001,37.512671,0.0 -120.371095,37.512794,0.0 -120.371179,37.51292,0.0 -120.371264,37.513003,0.0 -120.371309,37.513066,0.0 -120.371383,37.513156,0.0 -120.371471,37.51328,0.0 -120.371559,37.513372,0.0 -120.371645,37.513487,0.0 -120.371665,37.51352,0.0 -120.371725,37.513654,0.0 -120.371722,37.51369,0.0 -120.371693,37.51374,0.0 -120.371684,37.513755,0.0 -120.371662,37.513786,0.0 -120.371634,37.513814,0.0 -120.371603,37.51384,0.0 -120.371533,37.513886,0.0 -120.371369,37.51401,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="24017">
+        <Placemark id="40244">
             <name>Rattlesnake Bend, aka Beginner's Gold (I)</name>
-            <Point id="24016">
+            <styleUrl>#40245</styleUrl>
+            <Point id="40243">
                 <coordinates>-120.344002,37.508099,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="24019">
+        <Placemark id="40249">
             <name>Portage Route: Merced Falls Dam</name>
-            <Point id="24018">
+            <styleUrl>#40250</styleUrl>
+            <Point id="40248">
                 <coordinates>-120.328003,37.521801,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="24021">
+        <Placemark id="40254">
             <name>Merced Falls Reservoir access near McSwain dam</name>
-            <Point id="24020">
+            <styleUrl>#40255</styleUrl>
+            <Point id="40253">
                 <coordinates>-120.313004,37.523602,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="24023">
+        <Placemark id="40259">
             <name>Put in</name>
-            <Point id="24022">
+            <styleUrl>#40260</styleUrl>
+            <Point id="40258">
                 <coordinates>-120.321999,37.524601,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="24025">
+        <Placemark id="40264">
             <name>Take out</name>
-            <Point id="24024">
+            <styleUrl>#40265</styleUrl>
+            <Point id="40263">
                 <coordinates>-120.370003,37.514599,0.0</coordinates>
             </Point>
         </Placemark>

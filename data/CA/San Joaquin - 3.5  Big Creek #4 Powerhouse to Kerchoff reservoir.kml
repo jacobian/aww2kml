@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="103301">
+        <Style id="103306">
+            <IconStyle id="103307">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103308">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="103311">
+            <IconStyle id="103312">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="103313">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>San Joaquin - 3.5  Big Creek #4 Powerhouse to Kerchoff reservoir</name>
+        <Placemark id="103303">
+            <name>San Joaquin - 3.5  Big Creek #4 Powerhouse to Kerchoff reservoir (I)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="103302">
+                <coordinates>-119.490907,37.139191,0.0 -119.491326,37.139603,0.0 -119.49156,37.13977,0.0 -119.491768,37.140071,0.0 -119.492279,37.14081,0.0 -119.4924,37.140984,0.0 -119.492735,37.141222,0.0 -119.492929,37.141448,0.0 -119.49312,37.14167,0.0 -119.493379,37.141812,0.0 -119.493756,37.141936,0.0 -119.494264,37.142239,0.0 -119.494657,37.142473,0.0 -119.495261,37.142641,0.0 -119.495379,37.142673,0.0 -119.495565,37.142773,0.0 -119.4959,37.143108,0.0 -119.496005,37.143596,0.0 -119.496262,37.143972,0.0 -119.496948,37.14438,0.0 -119.497004,37.144397,0.0 -119.497072,37.144417,0.0 -119.497259,37.144322,0.0 -119.497569,37.144274,0.0 -119.498402,37.144382,0.0 -119.498466,37.144395,0.0 -119.498924,37.144492,0.0 -119.499281,37.144515,0.0 -119.499336,37.144552,0.0 -119.499734,37.144822,0.0 -119.499862,37.144909,0.0 -119.50038,37.14538,0.0 -119.500425,37.14542,0.0 -119.500887,37.145729,0.0 -119.501183,37.145927,0.0 -119.501765,37.146267,0.0 -119.502202,37.146483,0.0 -119.502293,37.146528,0.0 -119.502725,37.146742,0.0 -119.503636,37.14738,0.0 -119.503889,37.14795,0.0 -119.503882,37.14806,0.0 -119.503872,37.148234,0.0 -119.50408,37.148448,0.0 -119.504283,37.148414,0.0 -119.504806,37.148803,0.0 -119.505159,37.148819,0.0 -119.505883,37.149114,0.0 -119.5063,37.149389,0.0 -119.506483,37.149632,0.0 -119.507827,37.15074,0.0 -119.508729,37.150523,0.0 -119.50873,37.150523,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="103305">
+            <name>Take Out</name>
+            <styleUrl>#103306</styleUrl>
+            <Point id="103304">
+                <coordinates>-119.509003,37.151501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103310">
+            <name>Put In</name>
+            <styleUrl>#103311</styleUrl>
+            <Point id="103309">
+                <coordinates>-119.490997,37.139099,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

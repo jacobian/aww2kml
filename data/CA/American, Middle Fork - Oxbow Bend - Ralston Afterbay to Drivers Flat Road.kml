@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="32297">
+        <Style id="32302">
+            <IconStyle id="32303">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32304">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32307">
+            <IconStyle id="32308">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32309">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32312">
+            <IconStyle id="32313">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32314">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32317">
+            <IconStyle id="32318">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32319">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32322">
+            <IconStyle id="32323">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32324">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32327">
+            <IconStyle id="32328">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32329">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32332">
+            <IconStyle id="32333">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32334">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32337">
+            <IconStyle id="32338">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32339">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32342">
+            <IconStyle id="32343">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32344">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32347">
+            <IconStyle id="32348">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32349">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32352">
+            <IconStyle id="32353">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32354">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32357">
+            <IconStyle id="32358">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32359">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32362">
+            <IconStyle id="32363">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32364">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32367">
+            <IconStyle id="32368">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32369">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="32372">
+            <IconStyle id="32373">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32374">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>American, Middle Fork - Oxbow Bend / Ralston Afterbay to Drivers Flat Road</name>
+        <Placemark id="32299">
+            <name>American, Middle Fork - Oxbow Bend / Ralston Afterbay to Drivers Flat Road (II-IV(V+))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="32298">
+                <coordinates>-120.747098,39.006618,0.0 -120.747055,39.006653,0.0 -120.746119,39.00821,0.0 -120.745945,39.009103,0.0 -120.745947,39.010269,0.0 -120.74624,39.010406,0.0 -120.746797,39.010406,0.0 -120.748028,39.010198,0.0 -120.749054,39.0099,0.0 -120.750197,39.009327,0.0 -120.751043,39.007107,0.0 -120.751458,39.006339,0.0 -120.751929,39.005653,0.0 -120.752222,39.005379,0.0 -120.752809,39.005219,0.0 -120.753395,39.005243,0.0 -120.754128,39.00545,0.0 -120.757233,39.007237,0.0 -120.757907,39.007673,0.0 -120.758259,39.007536,0.0 -120.758583,39.006918,0.0 -120.759581,39.006347,0.0 -120.760403,39.005547,0.0 -120.760784,39.005433,0.0 -120.762366,39.006327,0.0 -120.762806,39.006579,0.0 -120.763245,39.007152,0.0 -120.76329,39.007236,0.0 -120.763517,39.008302,0.0 -120.763565,39.008479,0.0 -120.763594,39.008799,0.0 -120.763799,39.009371,0.0 -120.764091,39.0096,0.0 -120.764648,39.00967,0.0 -120.768021,39.009353,0.0 -120.768432,39.00917,0.0 -120.768814,39.008598,0.0 -120.770136,39.007158,0.0 -120.770782,39.006587,0.0 -120.771163,39.00645,0.0 -120.771662,39.006404,0.0 -120.773626,39.006864,0.0 -120.773978,39.006864,0.0 -120.774154,39.00675,0.0 -120.774154,39.006338,0.0 -120.773891,39.005926,0.0 -120.773892,39.005606,0.0 -120.774039,39.005446,0.0 -120.774479,39.005309,0.0 -120.775417,39.00547,0.0 -120.775886,39.005424,0.0 -120.779466,39.004421,0.0 -120.780581,39.003987,0.0 -120.780963,39.003667,0.0 -120.781198,39.003301,0.0 -120.781288,39.002477,0.0 -120.782639,39.001472,0.0 -120.783959,39.001107,0.0 -120.786101,38.999912,0.0 -120.786248,38.999689,0.0 -120.78663,38.999552,0.0 -120.787953,38.999416,0.0 -120.788276,38.999485,0.0 -120.789068,38.999462,0.0 -120.790944,38.999532,0.0 -120.791414,38.999441,0.0 -120.79203,38.999167,0.0 -120.793321,38.998207,0.0 -120.79517,38.997088,0.0 -120.79693,38.996243,0.0 -120.798103,38.996015,0.0 -120.798747,38.996404,0.0 -120.799479,38.996908,0.0 -120.799712,38.997412,0.0 -120.799857,38.998098,0.0 -120.800323,38.999059,0.0 -120.80047,38.999151,0.0 -120.800909,38.999723,0.0 -120.80085,38.999914,0.0 -120.80123,39.000433,0.0 -120.801611,39.000776,0.0 -120.802256,39.001005,0.0 -120.80293,39.00112,0.0 -120.805332,39.000984,0.0 -120.806386,39.001099,0.0 -120.809084,39.000826,0.0 -120.81061,39.000598,0.0 -120.81246,39.000119,0.0 -120.812901,38.999915,0.0 -120.813664,38.999046,0.0 -120.814164,38.998176,0.0 -120.814371,38.997376,0.0 -120.814461,38.996415,0.0 -120.814844,38.99534,0.0 -120.815403,38.994631,0.0 -120.815726,38.994425,0.0 -120.816401,38.994174,0.0 -120.817573,38.993992,0.0 -120.819919,38.994039,0.0 -120.822675,38.993422,0.0 -120.82291,38.993285,0.0 -120.823496,38.993171,0.0 -120.825286,38.992234,0.0 -120.828219,38.989879,0.0 -120.828454,38.989856,0.0 -120.828425,38.989742,0.0 -120.829305,38.988278,0.0 -120.829864,38.986745,0.0 -120.829777,38.984846,0.0 -120.82934,38.981483,0.0 -120.829341,38.980362,0.0 -120.829547,38.979996,0.0 -120.831072,38.978944,0.0 -120.832303,38.978281,0.0 -120.832714,38.977938,0.0 -120.832861,38.977687,0.0 -120.833008,38.976611,0.0 -120.832834,38.974987,0.0 -120.832776,38.973912,0.0 -120.832893,38.973866,0.0 -120.833099,38.973248,0.0 -120.833744,38.972265,0.0 -120.834389,38.971785,0.0 -120.835034,38.971487,0.0 -120.835533,38.971488,0.0 -120.836383,38.971648,0.0 -120.837584,38.971557,0.0 -120.838698,38.971695,0.0 -120.839548,38.972336,0.0 -120.839987,38.972954,0.0 -120.839987,38.973205,0.0 -120.840074,38.973297,0.0 -120.840396,38.975402,0.0 -120.840747,38.975608,0.0 -120.841157,38.9757,0.0 -120.843004,38.975746,0.0 -120.844792,38.975838,0.0 -120.845994,38.976045,0.0 -120.84658,38.976342,0.0 -120.847488,38.976983,0.0 -120.848778,38.977052,0.0 -120.849393,38.976938,0.0 -120.850244,38.976412,0.0 -120.851593,38.97417,0.0 -120.853294,38.972775,0.0 -120.854907,38.96987,0.0 -120.855201,38.968977,0.0 -120.85523,38.968451,0.0 -120.855436,38.967856,0.0 -120.855465,38.96701,0.0 -120.855407,38.966644,0.0 -120.854968,38.965591,0.0 -120.854265,38.964767,0.0 -120.853621,38.963578,0.0 -120.85365,38.963417,0.0 -120.853562,38.963372,0.0 -120.853445,38.962456,0.0 -120.852626,38.960511,0.0 -120.852098,38.959573,0.0 -120.852186,38.959299,0.0 -120.853183,38.958567,0.0 -120.854092,38.958201,0.0 -120.855498,38.957973,0.0 -120.856231,38.957515,0.0 -120.856583,38.957195,0.0 -120.856788,38.957172,0.0 -120.857462,38.956692,0.0 -120.857697,38.956372,0.0 -120.857844,38.955914,0.0 -120.858225,38.954953,0.0 -120.858254,38.954587,0.0 -120.858342,38.954519,0.0 -120.858372,38.95342,0.0 -120.858577,38.953009,0.0 -120.858578,38.952757,0.0 -120.858871,38.952185,0.0 -120.85931,38.951819,0.0 -120.860131,38.95159,0.0 -120.8606,38.951613,0.0 -120.860981,38.951751,0.0 -120.861449,38.952277,0.0 -120.861683,38.952735,0.0 -120.862797,38.953604,0.0 -120.863148,38.954016,0.0 -120.863646,38.954245,0.0 -120.864701,38.954154,0.0 -120.866313,38.953788,0.0 -120.867104,38.953811,0.0 -120.868569,38.954154,0.0 -120.870356,38.955459,0.0 -120.872056,38.955939,0.0 -120.875572,38.956283,0.0 -120.876041,38.95642,0.0 -120.877154,38.956809,0.0 -120.877946,38.956969,0.0 -120.878971,38.957038,0.0 -120.88029,38.956924,0.0 -120.880816,38.956813,0.0 -120.881273,38.956771,0.0 -120.881796,38.956777,0.0 -120.882161,38.956834,0.0 -120.883559,38.957453,0.0 -120.88429,38.958145,0.0 -120.884481,38.958274,0.0 -120.885008,38.958868,0.0 -120.886063,38.959326,0.0 -120.887118,38.959623,0.0 -120.888114,38.959692,0.0 -120.890432,38.959571,0.0 -120.890925,38.959405,0.0 -120.893697,38.957958,0.0 -120.895795,38.956233,0.0 -120.898837,38.954315,0.0 -120.900117,38.953147,0.0 -120.901419,38.953009,0.0 -120.902233,38.953165,0.0 -120.904761,38.953874,0.0 -120.906253,38.953993,0.0 -120.906458,38.954107,0.0 -120.907132,38.954107,0.0 -120.90807,38.954267,0.0 -120.909213,38.954427,0.0 -120.910473,38.954679,0.0 -120.911674,38.954907,0.0 -120.912671,38.955113,0.0 -120.913784,38.955364,0.0 -120.914341,38.955547,0.0 -120.914869,38.955799,0.0 -120.915807,38.956279,0.0 -120.916539,38.956805,0.0 -120.917184,38.95724,0.0 -120.919969,38.958451,0.0 -120.921053,38.959069,0.0 -120.921552,38.959549,0.0 -120.921919,38.95986,0.0 -120.923031,38.960724,0.0 -120.92423,38.961253,0.0 -120.926458,38.96183,0.0 -120.926472,38.961831,0.0 -120.929231,38.962177,0.0 -120.931981,38.962083,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="32301">
+            <name>Soul Train (III)</name>
+            <styleUrl>#32302</styleUrl>
+            <Point id="32300">
+                <coordinates>-120.772873,39.006813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32306">
+            <name>Last Chance (III)</name>
+            <styleUrl>#32307</styleUrl>
+            <Point id="32305">
+                <coordinates>-120.762001,39.006199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32311">
+            <name>Kanaka (IV)</name>
+            <styleUrl>#32312</styleUrl>
+            <Point id="32310">
+                <coordinates>-120.798203,38.995998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32316">
+            <name>Gas Canyon</name>
+            <styleUrl>#32317</styleUrl>
+            <Point id="32315">
+                <coordinates>-120.933296,38.963001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32321">
+            <name>Panic Alley (III)</name>
+            <styleUrl>#32322</styleUrl>
+            <Point id="32320">
+                <coordinates>-120.746307,39.007614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32326">
+            <name>River Access</name>
+            <styleUrl>#32327</styleUrl>
+            <Point id="32325">
+                <coordinates>-120.903,38.953999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32331">
+            <name>Chunder (a.k.a Upper Ruck-A-Chucky or  Duck Soup) (IV)</name>
+            <styleUrl>#32332</styleUrl>
+            <Point id="32330">
+                <coordinates>-120.904427,38.954151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32336">
+            <name>Tunnel Chute (IV+)</name>
+            <styleUrl>#32337</styleUrl>
+            <Point id="32335">
+                <coordinates>-120.762001,39.006302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32341">
+            <name>Santa's Mustache</name>
+            <styleUrl>#32342</styleUrl>
+            <Point id="32340">
+                <coordinates>-120.757721,39.007648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32346">
+            <name>Orange Wall</name>
+            <styleUrl>#32347</styleUrl>
+            <Point id="32345">
+                <coordinates>-120.757767,39.007679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32351">
+            <name>Volcano Creek</name>
+            <styleUrl>#32352</styleUrl>
+            <Point id="32350">
+                <coordinates>-120.788414,38.999561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32356">
+            <name>Big Snyder Gulch</name>
+            <styleUrl>#32357</styleUrl>
+            <Point id="32355">
+                <coordinates>-120.892998,38.958401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32361">
+            <name>Carl's Crash (III)</name>
+            <styleUrl>#32362</styleUrl>
+            <Point id="32360">
+                <coordinates>-120.754402,39.005798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32366">
+            <name>Ruck-A-Chucky Falls (V+)</name>
+            <styleUrl>#32367</styleUrl>
+            <Point id="32365">
+                <coordinates>-120.906212,38.954254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="32371">
+            <name>Take out</name>
+            <styleUrl>#32372</styleUrl>
+            <Point id="32370">
+                <coordinates>-120.931999,38.962601,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

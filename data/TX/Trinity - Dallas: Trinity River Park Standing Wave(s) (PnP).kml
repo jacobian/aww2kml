@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="52071">
+        <Style id="52076">
+            <IconStyle id="52077">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52078">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="52081">
+            <IconStyle id="52082">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="52083">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Trinity - Dallas: Trinity River Park Standing Wave(s) (PnP)</name>
+        <Placemark id="52073">
+            <name>Trinity - Dallas: Trinity River Park Standing Wave(s) (PnP) (II+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="52072">
+                <coordinates>-96.792179,32.753618,0.0 -96.790617,32.752749,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="52075">
+            <name>Take Out</name>
+            <styleUrl>#52076</styleUrl>
+            <Point id="52074">
+                <coordinates>-96.7907,32.7526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="52080">
+            <name>Put In</name>
+            <styleUrl>#52081</styleUrl>
+            <Point id="52079">
+                <coordinates>-96.7923,32.7534,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

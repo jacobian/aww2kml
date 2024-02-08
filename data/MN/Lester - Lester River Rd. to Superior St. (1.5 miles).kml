@@ -1,42 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="25893">
+    <Document id="43417">
+        <Style id="43422">
+            <IconStyle id="43423">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="43424">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="43427">
+            <IconStyle id="43428">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="43429">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="43432">
+            <IconStyle id="43433">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="43434">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Lester - Lester River Rd. to Superior St. (1.5 miles)</name>
-        <Placemark id="25895">
-            <name>Lester - Lester River Rd. to Superior St. (1.5 miles)</name>
+        <Placemark id="43419">
+            <name>Lester - Lester River Rd. to Superior St. (1.5 miles) (IV-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="25894">
+            <LineString id="43418">
                 <coordinates>-92.000252,46.858648,0.0 -92.000394,46.8585,0.0 -92.00044,46.858284,0.0 -92.000354,46.857972,0.0 -92.000406,46.857525,0.0 -92.000438,46.857113,0.0 -92.000232,46.857031,0.0 -92.000091,46.857124,0.0 -91.999899,46.857144,0.0 -91.999696,46.856935,0.0 -91.999556,46.856716,0.0 -91.999706,46.85643,0.0 -91.999946,46.856303,0.0 -92.000126,46.856069,0.0 -92.000251,46.856043,0.0 -92.000403,46.856077,0.0 -92.000789,46.856018,0.0 -92.001266,46.85584,0.0 -92.001455,46.855727,0.0 -92.002139,46.855586,0.0 -92.003389,46.855428,0.0 -92.003721,46.855206,0.0 -92.004098,46.855167,0.0 -92.005105,46.854954,0.0 -92.005397,46.854778,0.0 -92.005553,46.854482,0.0 -92.005806,46.854324,0.0 -92.006216,46.854006,0.0 -92.005913,46.8537,0.0 -92.005748,46.853383,0.0 -92.005459,46.853069,0.0 -92.005391,46.852826,0.0 -92.005519,46.852357,0.0 -92.005649,46.852225,0.0 -92.006153,46.851979,0.0 -92.006305,46.851808,0.0 -92.006312,46.851641,0.0 -92.006132,46.851386,0.0 -92.006107,46.851017,0.0 -92.006151,46.850797,0.0 -92.006248,46.850575,0.0 -92.006151,46.850287,0.0 -92.005969,46.85014,0.0 -92.005484,46.849928,0.0 -92.005361,46.849816,0.0 -92.005565,46.849632,0.0 -92.00568,46.84935,0.0 -92.005513,46.849011,0.0 -92.005118,46.848754,0.0 -92.004799,46.84852,0.0 -92.004709,46.848189,0.0 -92.004586,46.847976,0.0 -92.00459,46.847867,0.0 -92.004485,46.847669,0.0 -92.004139,46.847459,0.0 -92.003961,46.847332,0.0 -92.003683,46.847312,0.0 -92.003334,46.847279,0.0 -92.003178,46.847147,0.0 -92.003299,46.84681,0.0 -92.003348,46.846591,0.0 -92.003247,46.846321,0.0 -92.003587,46.845955,0.0 -92.003674,46.845544,0.0 -92.003689,46.84549,0.0 -92.003605,46.845367,0.0 -92.00336,46.845219,0.0 -92.003353,46.845093,0.0 -92.003664,46.844716,0.0 -92.003669,46.844444,0.0 -92.003895,46.844202,0.0 -92.004103,46.844056,0.0 -92.004173,46.843759,0.0 -92.0043,46.843375,0.0 -92.004275,46.843142,0.0 -92.004461,46.842831,0.0 -92.005022,46.842432,0.0 -92.005587,46.842064,0.0 -92.005948,46.841631,0.0 -92.006157,46.841412,0.0 -92.006387,46.840803,0.0 -92.006361,46.840443,0.0 -92.006388,46.840291,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="25897">
+        <Placemark id="43421">
             <name>Take Out</name>
-            <Point id="25896">
+            <styleUrl>#43422</styleUrl>
+            <Point id="43420">
                 <coordinates>-92.006388,46.840291,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25899">
+        <Placemark id="43426">
             <name>USGS sampling site</name>
-            <Point id="25898">
+            <styleUrl>#43427</styleUrl>
+            <Point id="43425">
                 <coordinates>-92.005997,46.836601,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="25901">
+        <Placemark id="43431">
             <name>Put In</name>
-            <Point id="25900">
+            <styleUrl>#43432</styleUrl>
+            <Point id="43430">
                 <coordinates>-92.000252,46.858648,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25903">
-            <name>Put in</name>
-            <Point id="25902">
-                <coordinates>-92.000252,46.858648,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25905">
-            <name>Take out</name>
-            <Point id="25904">
-                <coordinates>-92.006388,46.840291,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56981">
+        <Style id="56986">
+            <IconStyle id="56987">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56988">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56991">
+            <IconStyle id="56992">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56993">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Homestake Creek - 01. 1/4 mi above confluence with Eagle River</name>
+        <Placemark id="56983">
+            <name>Homestake Creek - 01. 1/4 mi above confluence with Eagle River (V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="56982">
+                <coordinates>-106.375487,39.500552,0.0 -106.375487,39.500613,0.0 -106.375583,39.500796,0.0 -106.375884,39.501011,0.0 -106.375905,39.501061,0.0 -106.37612,39.501243,0.0 -106.376141,39.501284,0.0 -106.376431,39.50145,0.0 -106.377515,39.502716,0.0 -106.377611,39.503072,0.0 -106.377772,39.504041,0.0 -106.377826,39.504314,0.0 -106.377847,39.50472,0.0 -106.377954,39.505067,0.0 -106.37804,39.505241,0.0 -106.378233,39.505912,0.0 -106.378276,39.506003,0.0 -106.378373,39.506574,0.0 -106.37848,39.50693,0.0 -106.378587,39.507145,0.0 -106.378695,39.507269,0.0 -106.378695,39.507269,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="56985">
+            <name>Take Out</name>
+            <styleUrl>#56986</styleUrl>
+            <Point id="56984">
+                <coordinates>-106.375999,39.500999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56990">
+            <name>Put In</name>
+            <styleUrl>#56991</styleUrl>
+            <Point id="56989">
+                <coordinates>-106.378998,39.507,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

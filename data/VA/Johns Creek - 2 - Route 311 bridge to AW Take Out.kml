@@ -1,60 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="12311">
+    <Document id="20845">
+        <Style id="20850">
+            <IconStyle id="20851">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="20852">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="20855">
+            <IconStyle id="20856">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="20857">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="20860">
+            <IconStyle id="20861">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="20862">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="20865">
+            <IconStyle id="20866">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="20867">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="20870">
+            <IconStyle id="20871">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="20872">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="20875">
+            <IconStyle id="20876">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="20877">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Johns Creek - 2 - Route 311 bridge to AW Take Out</name>
-        <Placemark id="12313">
-            <name>Johns Creek - 2 - Route 311 bridge to AW Take Out</name>
+        <Placemark id="20847">
+            <name>Johns Creek - 2 - Route 311 bridge to AW Take Out (III-IV(V))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="12312">
+            <LineString id="20846">
                 <coordinates>-80.183007,37.507214,0.0 -80.182676,37.507145,0.0 -80.181836,37.507029,0.0 -80.180963,37.506964,0.0 -80.180762,37.506949,0.0 -80.180249,37.506931,0.0 -80.179999,37.507037,0.0 -80.179606,37.507384,0.0 -80.179326,37.50763,0.0 -80.179084,37.50767,0.0 -80.178606,37.507519,0.0 -80.177882,37.507097,0.0 -80.177503,37.506848,0.0 -80.177319,37.506685,0.0 -80.177134,37.506456,0.0 -80.177091,37.506392,0.0 -80.177,37.506256,0.0 -80.176649,37.505977,0.0 -80.176238,37.505846,0.0 -80.175358,37.505785,0.0 -80.174231,37.505687,0.0 -80.172949,37.505552,0.0 -80.171899,37.505415,0.0 -80.171388,37.505371,0.0 -80.17121,37.505398,0.0 -80.170819,37.505459,0.0 -80.169467,37.505862,0.0 -80.168878,37.50632,0.0 -80.168412,37.506549,0.0 -80.167559,37.507402,0.0 -80.166914,37.507994,0.0 -80.166374,37.508617,0.0 -80.166058,37.509174,0.0 -80.166021,37.509324,0.0 -80.165947,37.509618,0.0 -80.16609,37.510565,0.0 -80.166262,37.511023,0.0 -80.16639,37.511252,0.0 -80.166421,37.511531,0.0 -80.16625,37.511804,0.0 -80.165809,37.512081,0.0 -80.164904,37.512598,0.0 -80.164289,37.512906,0.0 -80.163367,37.513253,0.0 -80.163118,37.513367,0.0 -80.162556,37.513626,0.0 -80.161526,37.513932,0.0 -80.160887,37.514043,0.0 -80.160651,37.514055,0.0 -80.160576,37.514059,0.0 -80.160535,37.514062,0.0 -80.160448,37.513998,0.0 -80.160344,37.513712,0.0 -80.160079,37.512937,0.0 -80.159885,37.512678,0.0 -80.15917,37.512298,0.0 -80.158672,37.511753,0.0 -80.158471,37.511532,0.0 -80.158299,37.511249,0.0 -80.157912,37.510498,0.0 -80.157894,37.510119,0.0 -80.157742,37.509515,0.0 -80.157614,37.508953,0.0 -80.157329,37.508655,0.0 -80.157044,37.508592,0.0 -80.156499,37.508806,0.0 -80.155901,37.509039,0.0 -80.155577,37.509152,0.0 -80.154909,37.509168,0.0 -80.153937,37.509131,0.0 -80.152385,37.509083,0.0 -80.151763,37.508962,0.0 -80.150033,37.50928,0.0 -80.149131,37.509382,0.0 -80.148692,37.509415,0.0 -80.148029,37.509328,0.0 -80.147213,37.509181,0.0 -80.146389,37.509229,0.0 -80.146014,37.509348,0.0 -80.145866,37.509497,0.0 -80.145563,37.509821,0.0 -80.145329,37.509985,0.0 -80.144663,37.510144,0.0 -80.143874,37.510261,0.0 -80.143521,37.510279,0.0 -80.142804,37.510133,0.0 -80.142322,37.510057,0.0 -80.141786,37.510077,0.0 -80.141447,37.510188,0.0 -80.141171,37.510386,0.0 -80.140901,37.510869,0.0 -80.140742,37.511069,0.0 -80.140386,37.511256,0.0 -80.13952,37.511492,0.0 -80.138739,37.511649,0.0 -80.138155,37.511585,0.0 -80.137686,37.511446,0.0 -80.13724,37.510972,0.0 -80.136808,37.510357,0.0 -80.136426,37.509969,0.0 -80.136179,37.509729,0.0 -80.135517,37.509486,0.0 -80.134566,37.50927,0.0 -80.134563,37.509268,0.0 -80.134009,37.509002,0.0 -80.133275,37.508554,0.0 -80.132944,37.508316,0.0 -80.132407,37.507882,0.0 -80.131204,37.507139,0.0 -80.130524,37.506829,0.0 -80.129426,37.506373,0.0 -80.129324,37.506285,0.0 -80.12916,37.506143,0.0 -80.128923,37.505774,0.0 -80.128666,37.505351,0.0 -80.128454,37.504869,0.0 -80.128248,37.504361,0.0 -80.128233,37.504345,0.0 -80.127936,37.504035,0.0 -80.127062,37.503543,0.0 -80.126058,37.503268,0.0 -80.125,37.503367,0.0 -80.124493,37.503558,0.0 -80.123133,37.503633,0.0 -80.122593,37.503561,0.0 -80.121971,37.503009,0.0 -80.121205,37.502908,0.0 -80.120214,37.502994,0.0 -80.119808,37.502941,0.0 -80.119607,37.502952,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="12315">
+        <Placemark id="20849">
             <name>Fool's Falls (III)</name>
-            <Point id="12314">
+            <styleUrl>#20850</styleUrl>
+            <Point id="20848">
                 <coordinates>-80.13294,37.50842,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12317">
+        <Placemark id="20854">
             <name>Take Out</name>
-            <Point id="12316">
+            <styleUrl>#20855</styleUrl>
+            <Point id="20853">
                 <coordinates>-80.119598,37.5028,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12319">
+        <Placemark id="20859">
             <name>Put In</name>
-            <Point id="12318">
+            <styleUrl>#20860</styleUrl>
+            <Point id="20858">
                 <coordinates>-80.183197,37.506302,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12321">
+        <Placemark id="20864">
             <name>Little Heinzerling (III)</name>
-            <Point id="12320">
+            <styleUrl>#20865</styleUrl>
+            <Point id="20863">
                 <coordinates>-80.14226,37.51012,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12323">
+        <Placemark id="20869">
             <name>Bambi Meets Godzilla (IV)</name>
-            <Point id="12322">
+            <styleUrl>#20870</styleUrl>
+            <Point id="20868">
                 <coordinates>-80.14117,37.51028,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="12325">
+        <Placemark id="20874">
             <name>Coke Island (III+)</name>
-            <Point id="12324">
+            <styleUrl>#20875</styleUrl>
+            <Point id="20873">
                 <coordinates>-80.146,37.50932,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="12327">
-            <name>Put in</name>
-            <Point id="12326">
-                <coordinates>-80.183197,37.506302,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="12329">
-            <name>Take out</name>
-            <Point id="12328">
-                <coordinates>-80.119598,37.5028,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

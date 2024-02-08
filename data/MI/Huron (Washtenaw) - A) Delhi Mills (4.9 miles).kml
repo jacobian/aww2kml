@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="73627">
+        <Style id="73632">
+            <IconStyle id="73633">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73634">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73637">
+            <IconStyle id="73638">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73639">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73642">
+            <IconStyle id="73643">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73644">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73647">
+            <IconStyle id="73648">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73649">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73652">
+            <IconStyle id="73653">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73654">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73657">
+            <IconStyle id="73658">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73659">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Huron (Washtenaw) - A) Delhi Mills (4.9 miles)</name>
+        <Placemark id="73629">
+            <name>Huron (Washtenaw) - A) Delhi Mills (4.9 miles) (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="73628">
+                <coordinates>-83.856272,42.328499,0.0 -83.856106,42.328594,0.0 -83.854558,42.328574,0.0 -83.85251,42.326488,0.0 -83.852263,42.32495,0.0 -83.851885,42.324157,0.0 -83.851146,42.323456,0.0 -83.84979,42.323329,0.0 -83.848663,42.323854,0.0 -83.845906,42.323847,0.0 -83.84432,42.323066,0.0 -83.843007,42.32269,0.0 -83.841459,42.32267,0.0 -83.840163,42.323179,0.0 -83.838976,42.323067,0.0 -83.838024,42.322599,0.0 -83.836667,42.322471,0.0 -83.835715,42.322003,0.0 -83.834359,42.321875,0.0 -83.833019,42.322632,0.0 -83.831766,42.322893,0.0 -83.830809,42.323434,0.0 -83.830422,42.32466,0.0 -83.828972,42.326038,0.0 -83.82865,42.326891,0.0 -83.825653,42.32825,0.0 -83.821873,42.329155,0.0 -83.819937,42.330361,0.0 -83.819275,42.331183,0.0 -83.817574,42.332032,0.0 -83.813619,42.333931,0.0 -83.813088,42.334007,0.0 -83.811223,42.333831,0.0 -83.810101,42.333346,0.0 -83.809084,42.33325,0.0 -83.808788,42.33297,0.0 -83.807771,42.332874,0.0 -83.807306,42.332577,0.0 -83.80642,42.331736,0.0 -83.806578,42.329857,0.0 -83.807049,42.329144,0.0 -83.807202,42.328275,0.0 -83.808542,42.327518,0.0 -83.809412,42.327474,0.0 -83.81056,42.326825,0.0 -83.810796,42.326469,0.0 -83.810949,42.325599,0.0 -83.810489,42.324293,0.0 -83.810582,42.322787,0.0 -83.809674,42.32207,0.0 -83.808235,42.32143,0.0 -83.806901,42.321177,0.0 -83.805331,42.321281,0.0 -83.802864,42.322563,0.0 -83.801797,42.323725,0.0 -83.800501,42.324233,0.0 -83.799823,42.324169,0.0 -83.797712,42.322455,0.0 -83.797385,42.322352,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="73631">
+            <name>Delhi Rapids (II)</name>
+            <styleUrl>#73632</styleUrl>
+            <Point id="73630">
+                <coordinates>-83.809898,42.333801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73636">
+            <name>Railroad Trestle (I)</name>
+            <styleUrl>#73637</styleUrl>
+            <Point id="73635">
+                <coordinates>-83.851997,42.326099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73641">
+            <name>Zeeb Road Wave (II)</name>
+            <styleUrl>#73642</styleUrl>
+            <Point id="73640">
+                <coordinates>-83.843002,42.3232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73646">
+            <name>Tubbs Rapids (II)</name>
+            <styleUrl>#73647</styleUrl>
+            <Point id="73645">
+                <coordinates>-83.802399,42.323299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73651">
+            <name>Take Out</name>
+            <styleUrl>#73652</styleUrl>
+            <Point id="73650">
+                <coordinates>-83.797401,42.3223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73656">
+            <name>Put In</name>
+            <styleUrl>#73657</styleUrl>
+            <Point id="73655">
+                <coordinates>-83.856499,42.328899,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

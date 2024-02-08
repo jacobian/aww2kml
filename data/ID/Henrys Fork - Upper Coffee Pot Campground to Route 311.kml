@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="78676">
+        <Style id="78681">
+            <IconStyle id="78682">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="78683">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="78686">
+            <IconStyle id="78687">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="78688">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="78691">
+            <IconStyle id="78692">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="78693">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Henrys Fork - Upper Coffee Pot Campground to Route 311</name>
+        <Placemark id="78678">
+            <name>Henrys Fork - Upper Coffee Pot Campground to Route 311 (I)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="78677">
+                <coordinates>-111.364345,44.492239,0.0 -111.36438,44.492236,0.0 -111.365258,44.492074,0.0 -111.365671,44.491943,0.0 -111.367203,44.49119,0.0 -111.368401,44.490819,0.0 -111.36895,44.490814,0.0 -111.36966,44.490997,0.0 -111.370196,44.491195,0.0 -111.37085,44.491536,0.0 -111.371381,44.491646,0.0 -111.372032,44.491697,0.0 -111.372834,44.491647,0.0 -111.373698,44.491359,0.0 -111.374541,44.490847,0.0 -111.375057,44.490624,0.0 -111.37577,44.49045,0.0 -111.376161,44.490515,0.0 -111.376738,44.490734,0.0 -111.37753,44.491233,0.0 -111.378098,44.491736,0.0 -111.379103,44.492767,0.0 -111.379539,44.493064,0.0 -111.380066,44.49334,0.0 -111.381198,44.493807,0.0 -111.385842,44.495044,0.0 -111.386536,44.495336,0.0 -111.387594,44.495673,0.0 -111.389766,44.496258,0.0 -111.390564,44.496477,0.0 -111.391681,44.496693,0.0 -111.392074,44.496753,0.0 -111.39245,44.496755,0.0 -111.393307,44.496546,0.0 -111.393377,44.49652,0.0 -111.393741,44.496385,0.0 -111.393796,44.496365,0.0 -111.394789,44.495912,0.0 -111.395105,44.495768,0.0 -111.395939,44.495388,0.0 -111.396412,44.495102,0.0 -111.396432,44.49509,0.0 -111.396584,44.494957,0.0 -111.396652,44.494897,0.0 -111.397116,44.49435,0.0 -111.397659,44.493391,0.0 -111.398099,44.491526,0.0 -111.398694,44.490049,0.0 -111.398644,44.489764,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="78680">
+            <name>Kilgore-Yale Road</name>
+            <styleUrl>#78681</styleUrl>
+            <Point id="78679">
+                <coordinates>-111.4034,44.463659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78685">
+            <name>Put In</name>
+            <styleUrl>#78686</styleUrl>
+            <Point id="78684">
+                <coordinates>-111.364304,44.49183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78690">
+            <name>First Rapid (III)</name>
+            <styleUrl>#78691</styleUrl>
+            <Point id="78689">
+                <coordinates>-111.389332,44.496286,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

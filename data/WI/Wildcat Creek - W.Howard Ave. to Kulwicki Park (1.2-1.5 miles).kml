@@ -1,83 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="9985">
+    <Document id="16936">
+        <Style id="16941">
+            <IconStyle id="16942">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16943">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="16946">
+            <IconStyle id="16947">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16948">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="16951">
+            <IconStyle id="16952">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16953">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="16956">
+            <IconStyle id="16957">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16958">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="16961">
+            <IconStyle id="16962">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16963">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="16966">
+            <IconStyle id="16967">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16968">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="16971">
+            <IconStyle id="16972">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16973">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="16976">
+            <IconStyle id="16977">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16978">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="16981">
+            <IconStyle id="16982">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16983">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="16986">
+            <IconStyle id="16987">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16988">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Wildcat Creek - W.Howard Ave. to Kulwicki Park (1.2-1.5 miles)</name>
-        <Placemark id="9987">
-            <name>Wildcat Creek - W.Howard Ave. to Kulwicki Park (1.2-1.5 miles)</name>
+        <Placemark id="16938">
+            <name>Wildcat Creek - W.Howard Ave. to Kulwicki Park (1.2-1.5 miles) (I-II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="9986">
+            <LineString id="16937">
                 <coordinates>-88.067869,42.97373,0.0 -88.067829,42.973003,0.0 -88.067751,42.97272,0.0 -88.067353,42.972561,0.0 -88.066945,42.972461,0.0 -88.066433,42.972427,0.0 -88.066125,42.972281,0.0 -88.065832,42.97221,0.0 -88.065748,42.972004,0.0 -88.065824,42.971611,0.0 -88.065799,42.971548,0.0 -88.065606,42.971592,0.0 -88.065386,42.971514,0.0 -88.065066,42.971117,0.0 -88.064876,42.970628,0.0 -88.06462,42.970272,0.0 -88.063945,42.969785,0.0 -88.063486,42.969908,0.0 -88.062963,42.969867,0.0 -88.062232,42.969554,0.0 -88.061524,42.969445,0.0 -88.061324,42.969395,0.0 -88.061189,42.968775,0.0 -88.06093,42.968661,0.0 -88.060338,42.968946,0.0 -88.059771,42.969283,0.0 -88.05958,42.969297,0.0 -88.05934,42.96918,0.0 -88.058935,42.968534,0.0 -88.058755,42.968418,0.0 -88.057926,42.96812,0.0 -88.057821,42.9681,0.0 -88.057705,42.968112,0.0 -88.057591,42.968213,0.0 -88.057666,42.968308,0.0 -88.057622,42.96839,0.0 -88.05743,42.968435,0.0 -88.057259,42.968409,0.0 -88.057188,42.96835,0.0 -88.056993,42.967934,0.0 -88.056889,42.967607,0.0 -88.056502,42.96754,0.0 -88.055969,42.967394,0.0 -88.055606,42.967356,0.0 -88.055547,42.967389,0.0 -88.055522,42.967551,0.0 -88.055372,42.967615,0.0 -88.055169,42.967565,0.0 -88.05495,42.967378,0.0 -88.054325,42.967257,0.0 -88.052992,42.967105,0.0 -88.052863,42.967187,0.0 -88.052623,42.967175,0.0 -88.052461,42.967111,0.0 -88.0521,42.96715,0.0 -88.051422,42.967101,0.0 -88.051103,42.967101,0.0 -88.050708,42.967138,0.0 -88.04945,42.966982,0.0 -88.049036,42.966904,0.0 -88.048902,42.966931,0.0 -88.04873,42.966847,0.0 -88.04853,42.966845,0.0 -88.048515,42.966488,0.0 -88.048369,42.966232,0.0 -88.048009,42.966042,0.0 -88.047489,42.965816,0.0 -88.047311,42.965819,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="9989">
+        <Placemark id="16940">
             <name>S.108th Street</name>
-            <Point id="9988">
+            <styleUrl>#16941</styleUrl>
+            <Point id="16939">
                 <coordinates>-88.047981,42.966021,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="9991">
+        <Placemark id="16945">
             <name>W.Waterford Avenue</name>
-            <Point id="9990">
+            <styleUrl>#16946</styleUrl>
+            <Point id="16944">
                 <coordinates>-88.064757,42.970461,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="9993">
-            <name>S.112th Street</name>
-            <Point id="9992">
-                <coordinates>-88.052911,42.967157,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="9995">
-            <name>W.Beloit Road</name>
-            <Point id="9994">
-                <coordinates>-88.059379,42.969199,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="9997">
-            <name>Falcon Ridge Trail Bridge</name>
-            <Point id="9996">
-                <coordinates>-88.058017,42.968153,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="9999">
+        <Placemark id="16950">
             <name>W.Coldspring Road</name>
-            <Point id="9998">
+            <styleUrl>#16951</styleUrl>
+            <Point id="16949">
                 <coordinates>-88.048513,42.966484,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10001">
+        <Placemark id="16955">
+            <name>S.112th Street</name>
+            <styleUrl>#16956</styleUrl>
+            <Point id="16954">
+                <coordinates>-88.052911,42.967157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16960">
+            <name>W.Beloit Road</name>
+            <styleUrl>#16961</styleUrl>
+            <Point id="16959">
+                <coordinates>-88.059379,42.969199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16965">
+            <name>Falcon Ridge Trail Bridge</name>
+            <styleUrl>#16966</styleUrl>
+            <Point id="16964">
+                <coordinates>-88.058017,42.968153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="16970">
             <name>Alternate Access: 4001 S.122nd Street</name>
-            <Point id="10000">
+            <styleUrl>#16971</styleUrl>
+            <Point id="16969">
                 <coordinates>-88.065678,42.970993,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10003">
+        <Placemark id="16975">
             <name>W.Plainfield Ave.</name>
-            <Point id="10002">
+            <styleUrl>#16976</styleUrl>
+            <Point id="16974">
                 <coordinates>-88.061818,42.969493,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10005">
+        <Placemark id="16980">
             <name>Possible Put-in</name>
-            <Point id="10004">
+            <styleUrl>#16981</styleUrl>
+            <Point id="16979">
                 <coordinates>-88.067869,42.97373,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="10007">
+        <Placemark id="16985">
             <name>Take-out</name>
-            <Point id="10006">
-                <coordinates>-88.047311,42.965819,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="10009">
-            <name>Put in</name>
-            <Point id="10008">
-                <coordinates>-88.067869,42.97373,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="10011">
-            <name>Take out</name>
-            <Point id="10010">
+            <styleUrl>#16986</styleUrl>
+            <Point id="16984">
                 <coordinates>-88.047311,42.965819,0.0</coordinates>
             </Point>
         </Placemark>

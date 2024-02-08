@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="98602">
+        <Style id="98607">
+            <IconStyle id="98608">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98609">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98612">
+            <IconStyle id="98613">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98614">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98617">
+            <IconStyle id="98618">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98619">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98622">
+            <IconStyle id="98623">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98624">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98627">
+            <IconStyle id="98628">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98629">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98632">
+            <IconStyle id="98633">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98634">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98637">
+            <IconStyle id="98638">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98639">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="98642">
+            <IconStyle id="98643">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="98644">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Baptism, W.Br. - Rte. 1 (4.5 miles NW of Finland) to Finland (5.4 miles)</name>
+        <Placemark id="98604">
+            <name>Baptism, W.Br. - Rte. 1 (4.5 miles NW of Finland) to Finland (5.4 miles) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="98603">
+                <coordinates>-91.311825,47.457904,0.0 -91.311546,47.457248,0.0 -91.311209,47.456997,0.0 -91.310671,47.456699,0.0 -91.310738,47.456448,0.0 -91.310942,47.455534,0.0 -91.310841,47.4551,0.0 -91.310639,47.454894,0.0 -91.310134,47.454802,0.0 -91.309697,47.454071,0.0 -91.309158,47.453796,0.0 -91.308283,47.453659,0.0 -91.308013,47.453499,0.0 -91.306669,47.451464,0.0 -91.306299,47.451167,0.0 -91.303841,47.450183,0.0 -91.303639,47.449954,0.0 -91.303742,47.449017,0.0 -91.303035,47.448583,0.0 -91.302631,47.448308,0.0 -91.302228,47.4476,0.0 -91.300442,47.447872,0.0 -91.299768,47.447986,0.0 -91.298893,47.447803,0.0 -91.297681,47.447208,0.0 -91.297008,47.447093,0.0 -91.296401,47.447093,0.0 -91.295594,47.446681,0.0 -91.294584,47.446292,0.0 -91.292562,47.446793,0.0 -91.292157,47.446815,0.0 -91.291248,47.446632,0.0 -91.290676,47.446448,0.0 -91.289667,47.445625,0.0 -91.289364,47.445373,0.0 -91.287074,47.445029,0.0 -91.286671,47.444777,0.0 -91.286503,47.444343,0.0 -91.285998,47.44416,0.0 -91.284382,47.443884,0.0 -91.283911,47.443747,0.0 -91.283473,47.443495,0.0 -91.284081,47.442376,0.0 -91.283982,47.441782,0.0 -91.283881,47.441416,0.0 -91.284118,47.441005,0.0 -91.284725,47.440731,0.0 -91.284961,47.44016,0.0 -91.284862,47.439337,0.0 -91.284559,47.439017,0.0 -91.283886,47.43888,0.0 -91.282842,47.438696,0.0 -91.282405,47.438444,0.0 -91.282102,47.438124,0.0 -91.281734,47.43705,0.0 -91.281937,47.436639,0.0 -91.282174,47.435931,0.0 -91.281973,47.435428,0.0 -91.281199,47.434947,0.0 -91.280662,47.43433,0.0 -91.280427,47.433598,0.0 -91.280394,47.433324,0.0 -91.280091,47.433118,0.0 -91.278711,47.432911,0.0 -91.278207,47.432591,0.0 -91.27777,47.431928,0.0 -91.277299,47.431585,0.0 -91.277065,47.430808,0.0 -91.276561,47.430282,0.0 -91.276125,47.429619,0.0 -91.275924,47.428796,0.0 -91.274814,47.428452,0.0 -91.273164,47.428199,0.0 -91.271617,47.427581,0.0 -91.270405,47.427374,0.0 -91.26953,47.426962,0.0 -91.268623,47.425979,0.0 -91.267042,47.425246,0.0 -91.266539,47.424583,0.0 -91.265966,47.424468,0.0 -91.265327,47.424559,0.0 -91.264383,47.425106,0.0 -91.263439,47.425402,0.0 -91.262934,47.42531,0.0 -91.262599,47.424944,0.0 -91.262431,47.424396,0.0 -91.261557,47.423892,0.0 -91.260852,47.423046,0.0 -91.260415,47.42284,0.0 -91.259237,47.422473,0.0 -91.25823,47.421444,0.0 -91.25685,47.421031,0.0 -91.256346,47.420528,0.0 -91.25527,47.42007,0.0 -91.254766,47.419566,0.0 -91.254598,47.419338,0.0 -91.253287,47.418742,0.0 -91.251166,47.418603,0.0 -91.250796,47.418442,0.0 -91.25063,47.417779,0.0 -91.250936,47.416386,0.0 -91.250769,47.415883,0.0 -91.25015,47.415502,0.0 -91.246108,47.414546,0.0 -91.245131,47.414136,0.0 -91.244355,47.41352,0.0 -91.24395,47.41304,0.0 -91.243896,47.412869,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="98606">
+            <name>Correll Crown Road</name>
+            <styleUrl>#98607</styleUrl>
+            <Point id="98605">
+                <coordinates>-91.293388,47.446609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98611">
+            <name>(Unnamed) Road Bridge</name>
+            <styleUrl>#98612</styleUrl>
+            <Point id="98610">
+                <coordinates>-91.273697,47.428299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98616">
+            <name>Possible alternate in</name>
+            <styleUrl>#98617</styleUrl>
+            <Point id="98615">
+                <coordinates>-91.31916,47.462708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98621">
+            <name>Hwy.1</name>
+            <styleUrl>#98622</styleUrl>
+            <Point id="98620">
+                <coordinates>-91.246231,47.414688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98626">
+            <name>Confluence: Crown Creek</name>
+            <styleUrl>#98627</styleUrl>
+            <Point id="98625">
+                <coordinates>-91.300697,47.447701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98631">
+            <name>Take Out</name>
+            <styleUrl>#98632</styleUrl>
+            <Point id="98630">
+                <coordinates>-91.2438,47.4129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98636">
+            <name>Crown Creek Road</name>
+            <styleUrl>#98637</styleUrl>
+            <Point id="98635">
+                <coordinates>-91.310333,47.449039,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98641">
+            <name>Put In</name>
+            <styleUrl>#98642</styleUrl>
+            <Point id="98640">
+                <coordinates>-91.3116,47.458,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

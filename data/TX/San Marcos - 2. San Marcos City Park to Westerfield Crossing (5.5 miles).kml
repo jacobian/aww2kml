@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="93488">
+        <Style id="93493">
+            <IconStyle id="93494">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93495">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93498">
+            <IconStyle id="93499">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93500">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93503">
+            <IconStyle id="93504">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93505">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93508">
+            <IconStyle id="93509">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93510">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93513">
+            <IconStyle id="93514">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93515">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93518">
+            <IconStyle id="93519">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93520">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93523">
+            <IconStyle id="93524">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93525">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93528">
+            <IconStyle id="93529">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93530">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93533">
+            <IconStyle id="93534">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93535">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93538">
+            <IconStyle id="93539">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93540">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93543">
+            <IconStyle id="93544">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93545">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93548">
+            <IconStyle id="93549">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93550">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="93553">
+            <IconStyle id="93554">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="93555">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>San Marcos - 2. San Marcos City Park to Westerfield Crossing (5.5 miles)</name>
+        <Placemark id="93490">
+            <name>San Marcos - 2. San Marcos City Park to Westerfield Crossing (5.5 miles) (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="93489">
+                <coordinates>-97.93579,29.886388,0.0 -97.935763,29.88597,0.0 -97.935819,29.885763,0.0 -97.935761,29.885085,0.0 -97.935638,29.884782,0.0 -97.93554,29.884291,0.0 -97.935189,29.883414,0.0 -97.935232,29.883141,0.0 -97.93504,29.882704,0.0 -97.934967,29.882582,0.0 -97.934811,29.882465,0.0 -97.93455,29.882552,0.0 -97.934322,29.882488,0.0 -97.934108,29.882039,0.0 -97.933993,29.881633,0.0 -97.934012,29.88153,0.0 -97.934325,29.881383,0.0 -97.934484,29.881228,0.0 -97.93446,29.88098,0.0 -97.93434,29.880792,0.0 -97.934047,29.88054,0.0 -97.933687,29.880366,0.0 -97.933198,29.880316,0.0 -97.932931,29.880015,0.0 -97.932663,29.879932,0.0 -97.932514,29.879716,0.0 -97.932478,29.879576,0.0 -97.932432,29.879328,0.0 -97.932451,29.878909,0.0 -97.932667,29.878747,0.0 -97.933053,29.877975,0.0 -97.933209,29.877137,0.0 -97.933292,29.877013,0.0 -97.933561,29.876794,0.0 -97.933592,29.876695,0.0 -97.933284,29.876362,0.0 -97.933153,29.876275,0.0 -97.932993,29.87624,0.0 -97.932223,29.876347,0.0 -97.932071,29.876464,0.0 -97.932071,29.876598,0.0 -97.932004,29.876766,0.0 -97.931896,29.8768,0.0 -97.931762,29.876721,0.0 -97.931436,29.876365,0.0 -97.931417,29.876152,0.0 -97.93158,29.875825,0.0 -97.931955,29.875554,0.0 -97.932083,29.875341,0.0 -97.931629,29.874797,0.0 -97.931448,29.874717,0.0 -97.931207,29.874696,0.0 -97.931034,29.874546,0.0 -97.930997,29.87441,0.0 -97.931081,29.874254,0.0 -97.931442,29.874206,0.0 -97.931582,29.874077,0.0 -97.931544,29.873975,0.0 -97.931296,29.873736,0.0 -97.931224,29.873607,0.0 -97.931191,29.873359,0.0 -97.931239,29.873261,0.0 -97.931771,29.873001,0.0 -97.931701,29.872725,0.0 -97.931749,29.872481,0.0 -97.931663,29.872323,0.0 -97.931023,29.872231,0.0 -97.930929,29.872166,0.0 -97.930925,29.872059,0.0 -97.931076,29.87185,0.0 -97.931101,29.871709,0.0 -97.930974,29.871488,0.0 -97.930604,29.871263,0.0 -97.930488,29.871075,0.0 -97.930511,29.870156,0.0 -97.930466,29.869872,0.0 -97.930339,29.869651,0.0 -97.9302,29.869468,0.0 -97.929803,29.869184,0.0 -97.929443,29.869046,0.0 -97.92889,29.86914,0.0 -97.92866,29.869065,0.0 -97.928529,29.869084,0.0 -97.928414,29.869045,0.0 -97.927853,29.868628,0.0 -97.927567,29.868236,0.0 -97.927511,29.868028,0.0 -97.927529,29.867851,0.0 -97.927724,29.86754,0.0 -97.927704,29.867112,0.0 -97.927744,29.866974,0.0 -97.928039,29.866727,0.0 -97.928503,29.866577,0.0 -97.928527,29.866444,0.0 -97.928388,29.866314,0.0 -97.928146,29.866274,0.0 -97.927323,29.866504,0.0 -97.927035,29.866503,0.0 -97.926689,29.866396,0.0 -97.926567,29.866257,0.0 -97.92661,29.866053,0.0 -97.92747,29.865092,0.0 -97.927603,29.864869,0.0 -97.927636,29.864728,0.0 -97.927593,29.864552,0.0 -97.927412,29.864312,0.0 -97.926979,29.86404,0.0 -97.926651,29.863974,0.0 -97.92633,29.864029,0.0 -97.925997,29.864233,0.0 -97.925713,29.864235,0.0 -97.925168,29.863857,0.0 -97.92437,29.863413,0.0 -97.924225,29.863119,0.0 -97.924147,29.862697,0.0 -97.924174,29.862593,0.0 -97.924447,29.862237,0.0 -97.924488,29.862101,0.0 -97.924388,29.861947,0.0 -97.924095,29.861814,0.0 -97.923772,29.861758,0.0 -97.923456,29.86183,0.0 -97.923004,29.861828,0.0 -97.922668,29.861961,0.0 -97.922235,29.862395,0.0 -97.922116,29.862416,0.0 -97.922029,29.86234,0.0 -97.92192,29.861458,0.0 -97.921937,29.86121,0.0 -97.922088,29.860997,0.0 -97.922255,29.860892,0.0 -97.922484,29.860811,0.0 -97.922891,29.860777,0.0 -97.922971,29.860697,0.0 -97.922995,29.860521,0.0 -97.922578,29.859907,0.0 -97.922079,29.859544,0.0 -97.922504,29.859151,0.0 -97.922572,29.859021,0.0 -97.922528,29.858887,0.0 -97.921645,29.858433,0.0 -97.921252,29.85807,0.0 -97.920941,29.857952,0.0 -97.920904,29.857669,0.0 -97.920532,29.857337,0.0 -97.920333,29.857303,0.0 -97.919771,29.85752,0.0 -97.919694,29.857645,0.0 -97.919704,29.857894,0.0 -97.920362,29.858798,0.0 -97.92046,29.859108,0.0 -97.920449,29.859286,0.0 -97.920167,29.859402,0.0 -97.919881,29.859437,0.0 -97.919305,29.859436,0.0 -97.919106,29.859394,0.0 -97.918993,29.85935,0.0 -97.91892,29.859264,0.0 -97.918699,29.858842,0.0 -97.918543,29.858818,0.0 -97.91846,29.858893,0.0 -97.918188,29.860014,0.0 -97.918002,29.860149,0.0 -97.917678,29.860189,0.0 -97.91707,29.859978,0.0 -97.916869,29.859799,0.0 -97.916821,29.8597,0.0 -97.91681,29.859521,0.0 -97.916906,29.859322,0.0 -97.917418,29.858811,0.0 -97.917626,29.858543,0.0 -97.91768,29.85837,0.0 -97.917606,29.85813,0.0 -97.917404,29.857903,0.0 -97.917152,29.857786,0.0 -97.916946,29.857788,0.0 -97.916764,29.857865,0.0 -97.916259,29.85823,0.0 -97.915595,29.85905,0.0 -97.915121,29.859547,0.0 -97.914816,29.859787,0.0 -97.914432,29.859918,0.0 -97.914147,29.859958,0.0 -97.913941,29.859963,0.0 -97.913933,29.859961,0.0 -97.913666,29.859884,0.0 -97.913757,29.8596,0.0 -97.913767,29.859205,0.0 -97.913726,29.858956,0.0 -97.913533,29.858638,0.0 -97.913224,29.858347,0.0 -97.912897,29.858131,0.0 -97.912657,29.858093,0.0 -97.912177,29.857884,0.0 -97.911304,29.857402,0.0 -97.910852,29.857224,0.0 -97.9096,29.856846,0.0 -97.90797,29.856442,0.0 -97.906624,29.856239,0.0 -97.90617,29.856217,0.0 -97.90589,29.856121,0.0 -97.905826,29.856099,0.0 -97.905622,29.856122,0.0 -97.905262,29.856039,0.0 -97.904522,29.855982,0.0 -97.903094,29.855627,0.0 -97.90281,29.855488,0.0 -97.902565,29.855035,0.0 -97.902297,29.854955,0.0 -97.902101,29.854964,0.0 -97.900871,29.855273,0.0 -97.899979,29.855555,0.0 -97.896937,29.857265,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="93492">
+            <name>San Marcos City Park</name>
+            <styleUrl>#93493</styleUrl>
+            <Point id="93491">
+                <coordinates>-97.935699,29.8866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93497">
+            <name>Cape St. Bridge</name>
+            <styleUrl>#93498</styleUrl>
+            <Point id="93496">
+                <coordinates>-97.930992,29.868763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93502">
+            <name>San Marcos River Retreat</name>
+            <styleUrl>#93503</styleUrl>
+            <Point id="93501">
+                <coordinates>-97.887901,29.858601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93507">
+            <name>CR 101/Old Bastrop Road Bridge (Westerfield Crossing)</name>
+            <styleUrl>#93508</styleUrl>
+            <Point id="93506">
+                <coordinates>-97.896896,29.857201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93512">
+            <name>Graduation Falls</name>
+            <styleUrl>#93513</styleUrl>
+            <Point id="93511">
+                <coordinates>-97.9291,29.869101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93517">
+            <name>Rio Vista Whitewater Park (II)</name>
+            <styleUrl>#93518</styleUrl>
+            <Point id="93516">
+                <coordinates>-97.932602,29.8787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93522">
+            <name>Cape's Dam / Thompson's Island</name>
+            <styleUrl>#93523</styleUrl>
+            <Point id="93521">
+                <coordinates>-97.931801,29.872801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93527">
+            <name>Cummings Dam</name>
+            <styleUrl>#93528</styleUrl>
+            <Point id="93526">
+                <coordinates>-97.905998,29.856001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93532">
+            <name>I-35 bridge</name>
+            <styleUrl>#93533</styleUrl>
+            <Point id="93531">
+                <coordinates>-97.931702,29.874901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93537">
+            <name>Railroad bridge</name>
+            <styleUrl>#93538</styleUrl>
+            <Point id="93536">
+                <coordinates>-97.933495,29.880329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93542">
+            <name>Cheatham St. Bridge</name>
+            <styleUrl>#93543</styleUrl>
+            <Point id="93541">
+                <coordinates>-97.933113,29.877752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93547">
+            <name>Hopkins St. Bridge / railroad bridge</name>
+            <styleUrl>#93548</styleUrl>
+            <Point id="93546">
+                <coordinates>-97.935387,29.883795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93552">
+            <name>Blanco River Confluence</name>
+            <styleUrl>#93553</styleUrl>
+            <Point id="93551">
+                <coordinates>-97.913803,29.8598,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

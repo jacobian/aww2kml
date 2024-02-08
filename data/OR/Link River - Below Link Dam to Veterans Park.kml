@@ -1,66 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="5255">
+    <Document id="9051">
+        <Style id="9056">
+            <IconStyle id="9057">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9058">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9061">
+            <IconStyle id="9062">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9063">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9066">
+            <IconStyle id="9067">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9068">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9071">
+            <IconStyle id="9072">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9073">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9076">
+            <IconStyle id="9077">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9078">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9081">
+            <IconStyle id="9082">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9083">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9086">
+            <IconStyle id="9087">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9088">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Link River - Below Link Dam to Veterans Park</name>
-        <Placemark id="5257">
-            <name>Link River - Below Link Dam to Veterans Park</name>
+        <Placemark id="9053">
+            <name>Link River - Below Link Dam to Veterans Park (III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="5256">
+            <LineString id="9052">
                 <coordinates>-121.800626,42.231955,0.0 -121.800388,42.231687,0.0 -121.800281,42.231377,0.0 -121.799755,42.231004,0.0 -121.799433,42.23075,0.0 -121.799101,42.230424,0.0 -121.79879,42.229963,0.0 -121.798521,42.229463,0.0 -121.79835,42.229026,0.0 -121.798285,42.228517,0.0 -121.798264,42.228382,0.0 -121.798275,42.228343,0.0 -121.797867,42.228001,0.0 -121.797287,42.227246,0.0 -121.797287,42.227246,0.0 -121.79715,42.227035,0.0 -121.796794,42.226285,0.0 -121.796386,42.225745,0.0 -121.796097,42.225181,0.0 -121.796064,42.224736,0.0 -121.795936,42.224609,0.0 -121.795936,42.224609,0.0 -121.795941,42.224435,0.0 -121.795941,42.224435,0.0 -121.795946,42.224291,0.0 -121.795803,42.223788,0.0 -121.795803,42.223788,0.0 -121.795785,42.223727,0.0 -121.795645,42.223501,0.0 -121.795645,42.223501,0.0 -121.795292,42.222932,0.0 -121.794959,42.222646,0.0 -121.794627,42.222233,0.0 -121.794037,42.221844,0.0 -121.793286,42.221494,0.0 -121.792567,42.220978,0.0 -121.792341,42.220874,0.0 -121.792341,42.220874,0.0 -121.791859,42.22066,0.0 -121.791312,42.220302,0.0 -121.790432,42.219635,0.0 -121.790228,42.219349,0.0 -121.789981,42.219158,0.0 -121.789434,42.218896,0.0 -121.788844,42.218451,0.0 -121.788844,42.218451,0.0 -121.788556,42.218233,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="5259">
+        <Placemark id="9055">
             <name>Geese Rapids (III-)</name>
-            <Point id="5258">
+            <styleUrl>#9056</styleUrl>
+            <Point id="9054">
                 <coordinates>-121.799825,42.231053,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5261">
+        <Placemark id="9060">
             <name>Mellow Mallard Rapid (II)</name>
-            <Point id="5260">
+            <styleUrl>#9061</styleUrl>
+            <Point id="9059">
                 <coordinates>-121.79594,42.224473,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5263">
+        <Placemark id="9065">
             <name>Goldeneye Rapids (II+)</name>
-            <Point id="5262">
+            <styleUrl>#9066</styleUrl>
+            <Point id="9064">
                 <coordinates>-121.79674,42.226214,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5265">
+        <Placemark id="9070">
             <name>Veterans Park</name>
-            <Point id="5264">
+            <styleUrl>#9071</styleUrl>
+            <Point id="9069">
                 <coordinates>-121.788836,42.218445,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5267">
+        <Placemark id="9075">
             <name>Link River Wave</name>
-            <Point id="5266">
+            <styleUrl>#9076</styleUrl>
+            <Point id="9074">
                 <coordinates>-121.797616,42.227678,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5269">
+        <Placemark id="9080">
             <name>Access Below Link Dam</name>
-            <Point id="5268">
+            <styleUrl>#9081</styleUrl>
+            <Point id="9079">
                 <coordinates>-121.800802,42.231865,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5271">
+        <Placemark id="9085">
             <name>Link River Trail Parking</name>
-            <Point id="5270">
+            <styleUrl>#9086</styleUrl>
+            <Point id="9084">
                 <coordinates>-121.806731,42.238123,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5273">
-            <name>Put in</name>
-            <Point id="5272">
-                <coordinates>-121.800626,42.231955,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5275">
-            <name>Take out</name>
-            <Point id="5274">
-                <coordinates>-121.788556,42.218233,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21204">
+        <Style id="21209">
+            <IconStyle id="21210">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21211">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="21214">
+            <IconStyle id="21215">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21216">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Potomac - 0.35 Hancock, MD to Big Pool/Fort Frederick Campground</name>
+        <Placemark id="21206">
+            <name>Potomac - 0.35 Hancock, MD to Big Pool/Fort Frederick Campground (I)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="21205">
+                <coordinates>-78.182018,39.697036,0.0 -78.16098,39.6939,0.0 -78.147713,39.691697,0.0 -78.134629,39.688931,0.0 -78.1043,39.682111,0.0 -78.096098,39.6787,0.0 -78.091355,39.673893,0.0 -78.085137,39.673181,0.0 -78.075804,39.668662,0.0 -78.068899,39.665235,0.0 -78.059979,39.656166,0.0 -78.0528,39.649988,0.0 -78.04976,39.645771,0.0 -78.045071,39.642117,0.0 -78.03606,39.636678,0.0 -78.032275,39.631179,0.0 -78.027415,39.626301,0.0 -78.020847,39.618684,0.0 -78.011591,39.605682,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="21208">
+            <name>Put in</name>
+            <styleUrl>#21209</styleUrl>
+            <Point id="21207">
+                <coordinates>-78.182018,39.697036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21213">
+            <name>Take out</name>
+            <styleUrl>#21214</styleUrl>
+            <Point id="21212">
+                <coordinates>-78.011591,39.605682,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="100469">
+        <Style id="100474">
+            <IconStyle id="100475">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100476">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100479">
+            <IconStyle id="100480">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100481">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100484">
+            <IconStyle id="100485">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100486">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100489">
+            <IconStyle id="100490">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100491">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100494">
+            <IconStyle id="100495">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100496">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100499">
+            <IconStyle id="100500">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100501">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100504">
+            <IconStyle id="100505">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100506">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100509">
+            <IconStyle id="100510">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100511">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100514">
+            <IconStyle id="100515">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100516">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100519">
+            <IconStyle id="100520">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100521">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100524">
+            <IconStyle id="100525">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100526">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="100529">
+            <IconStyle id="100530">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="100531">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Rock Creek (Cumberland trib) - C) White Oak Junction to Big S. Fork of Cumberland R. (0.6-4 miles)</name>
+        <Placemark id="100471">
+            <name>Rock Creek (Cumberland trib) - C) White Oak Junction to Big S. Fork of Cumberland R. (0.6-4 miles) (II-III(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="100470">
+                <coordinates>-84.596214,36.703068,0.0 -84.596277,36.703095,0.0 -84.596338,36.703166,0.0 -84.596393,36.703287,0.0 -84.596338,36.70349,0.0 -84.596038,36.703671,0.0 -84.595309,36.703952,0.0 -84.594913,36.704166,0.0 -84.594797,36.70427,0.0 -84.594565,36.704578,0.0 -84.59404,36.705446,0.0 -84.593897,36.705616,0.0 -84.593127,36.706402,0.0 -84.592813,36.706633,0.0 -84.592056,36.70722,0.0 -84.592036,36.707226,0.0 -84.59177,36.707479,0.0 -84.591497,36.707632,0.0 -84.591347,36.707687,0.0 -84.590856,36.707737,0.0 -84.590419,36.707644,0.0 -84.590242,36.707534,0.0 -84.589866,36.707419,0.0 -84.589266,36.707408,0.0 -84.588836,36.707457,0.0 -84.588482,36.707452,0.0 -84.587452,36.707523,0.0 -84.587036,36.707578,0.0 -84.586695,36.707666,0.0 -84.586395,36.707804,0.0 -84.585938,36.708117,0.0 -84.585542,36.708523,0.0 -84.584887,36.709117,0.0 -84.584267,36.709567,0.0 -84.584007,36.709803,0.0 -84.583837,36.709875,0.0 -84.583475,36.709946,0.0 -84.583421,36.709979,0.0 -84.583312,36.710001,0.0 -84.582916,36.710232,0.0 -84.582821,36.710303,0.0 -84.582643,36.710413,0.0 -84.582452,36.710446,0.0 -84.582336,36.710413,0.0 -84.582248,36.710303,0.0 -84.58222,36.710182,0.0 -84.58222,36.709271,0.0 -84.582247,36.709122,0.0 -84.582241,36.709013,0.0 -84.582186,36.708864,0.0 -84.582002,36.708639,0.0 -84.581388,36.708255,0.0 -84.580842,36.70803,0.0 -84.580515,36.707821,0.0 -84.579887,36.707552,0.0 -84.579232,36.707228,0.0 -84.578795,36.707036,0.0 -84.57812,36.706822,0.0 -84.577752,36.706684,0.0 -84.577595,36.706624,0.0 -84.577165,36.706542,0.0 -84.576619,36.706487,0.0 -84.575965,36.706316,0.0 -84.575801,36.706305,0.0 -84.575514,36.706322,0.0 -84.575187,36.706294,0.0 -84.574812,36.706328,0.0 -84.574416,36.706503,0.0 -84.573843,36.706712,0.0 -84.5734,36.706805,0.0 -84.572956,36.706833,0.0 -84.572042,36.706745,0.0 -84.571428,36.706591,0.0 -84.571012,36.706454,0.0 -84.570569,36.706256,0.0 -84.569975,36.706081,0.0 -84.568625,36.705844,0.0 -84.568291,36.705839,0.0 -84.567956,36.705751,0.0 -84.567506,36.705581,0.0 -84.567233,36.705427,0.0 -84.566913,36.705185,0.0 -84.566831,36.705103,0.0 -84.566108,36.704729,0.0 -84.565774,36.70451,0.0 -84.565337,36.704241,0.0 -84.565058,36.703961,0.0 -84.564103,36.703384,0.0 -84.563461,36.703115,0.0 -84.563079,36.702917,0.0 -84.562909,36.702906,0.0 -84.562704,36.702911,0.0 -84.562438,36.702977,0.0 -84.562295,36.703104,0.0 -84.562254,36.703252,0.0 -84.562084,36.703631,0.0 -84.561899,36.703906,0.0 -84.561729,36.704081,0.0 -84.561429,36.704339,0.0 -84.561088,36.704658,0.0 -84.560699,36.704872,0.0 -84.560562,36.704977,0.0 -84.560262,36.705147,0.0 -84.559785,36.705377,0.0 -84.559587,36.705432,0.0 -84.559157,36.705515,0.0 -84.55885,36.705641,0.0 -84.558189,36.706009,0.0 -84.557916,36.706201,0.0 -84.557622,36.706553,0.0 -84.557568,36.706657,0.0 -84.557541,36.706673,0.0 -84.557281,36.707217,0.0 -84.557124,36.707448,0.0 -84.55694,36.707755,0.0 -84.55681,36.708107,0.0 -84.556804,36.708239,0.0 -84.556694,36.708854,0.0 -84.556694,36.709046,0.0 -84.55666,36.709183,0.0 -84.556674,36.70954,0.0 -84.556571,36.709897,0.0 -84.556428,36.710122,0.0 -84.556264,36.710293,0.0 -84.556032,36.710397,0.0 -84.555596,36.710452,0.0 -84.555221,36.71043,0.0 -84.554654,36.710347,0.0 -84.554109,36.710303,0.0 -84.553891,36.710265,0.0 -84.553577,36.71015,0.0 -84.553072,36.710045,0.0 -84.552444,36.709957,0.0 -84.552172,36.709963,0.0 -84.552042,36.709985,0.0 -84.551953,36.710029,0.0 -84.551701,36.710204,0.0 -84.551523,36.710451,0.0 -84.551435,36.710666,0.0 -84.550868,36.711819,0.0 -84.550684,36.712022,0.0 -84.550541,36.712126,0.0 -84.550275,36.71228,0.0 -84.549893,36.712461,0.0 -84.549579,36.712708,0.0 -84.549442,36.712791,0.0 -84.549156,36.712884,0.0 -84.548903,36.713049,0.0 -84.548726,36.713192,0.0 -84.548562,36.713384,0.0 -84.54831,36.713636,0.0 -84.548173,36.713938,0.0 -84.548057,36.714125,0.0 -84.54788,36.714471,0.0 -84.547641,36.714735,0.0 -84.547511,36.714817,0.0 -84.547272,36.715015,0.0 -84.546624,36.715421,0.0 -84.545417,36.715882,0.0 -84.545151,36.716014,0.0 -84.544284,36.716492,0.0 -84.543963,36.716607,0.0 -84.543752,36.716722,0.0 -84.543602,36.716777,0.0 -84.543506,36.716843,0.0 -84.543336,36.717002,0.0 -84.543371,36.717034,0.0 -84.543405,36.717063,0.0 -84.54344,36.717091,0.0 -84.543475,36.717119,0.0 -84.543507,36.717147,0.0 -84.543536,36.717175,0.0 -84.543559,36.717203,0.0 -84.543568,36.717218,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="100473">
+            <name>Old Steel Bridge</name>
+            <styleUrl>#100474</styleUrl>
+            <Point id="100472">
+                <coordinates>-84.554497,36.710201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100478">
+            <name>Road Bridge</name>
+            <styleUrl>#100479</styleUrl>
+            <Point id="100477">
+                <coordinates>-84.562897,36.7029,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100483">
+            <name>Confluence with Cumberland</name>
+            <styleUrl>#100484</styleUrl>
+            <Point id="100482">
+                <coordinates>-84.543602,36.717201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100488">
+            <name>Tenderizer (III)</name>
+            <styleUrl>#100489</styleUrl>
+            <Point id="100487">
+                <coordinates>-84.572701,36.706699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100493">
+            <name>Pit of Carkoon (VI)</name>
+            <styleUrl>#100494</styleUrl>
+            <Point id="100492">
+                <coordinates>-84.571404,36.706501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100498">
+            <name>First Shoals</name>
+            <styleUrl>#100499</styleUrl>
+            <Point id="100497">
+                <coordinates>-84.58577,36.708099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100503">
+            <name>Rocks and a Hard Place (III+)</name>
+            <styleUrl>#100504</styleUrl>
+            <Point id="100502">
+                <coordinates>-84.570999,36.706409,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100508">
+            <name>Put In</name>
+            <styleUrl>#100509</styleUrl>
+            <Point id="100507">
+                <coordinates>-84.5962,36.7031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100513">
+            <name>Iron Bridge</name>
+            <styleUrl>#100514</styleUrl>
+            <Point id="100512">
+                <coordinates>-84.582085,36.70895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100518">
+            <name>Double-track/truck-trail</name>
+            <styleUrl>#100519</styleUrl>
+            <Point id="100517">
+                <coordinates>-84.550896,36.711823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100523">
+            <name>Brickyard (III)</name>
+            <styleUrl>#100524</styleUrl>
+            <Point id="100522">
+                <coordinates>-84.565956,36.704624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="100528">
+            <name>Lumberjack Ledge (III)</name>
+            <styleUrl>#100529</styleUrl>
+            <Point id="100527">
+                <coordinates>-84.564026,36.70335,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

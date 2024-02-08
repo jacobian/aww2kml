@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="91867">
+        <Style id="91872">
+            <IconStyle id="91873">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91874">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91877">
+            <IconStyle id="91878">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91879">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="91882">
+            <IconStyle id="91883">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="91884">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Beaver - C) Lax Lake Rd/CR4 to Hwy 61 (2 miles)</name>
+        <Placemark id="91869">
+            <name>Beaver - C) Lax Lake Rd/CR4 to Hwy 61 (2 miles) (IV-V+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="91868">
+                <coordinates>-91.322217,47.273697,0.0 -91.321285,47.273266,0.0 -91.320446,47.273289,0.0 -91.32011,47.272992,0.0 -91.319775,47.272534,0.0 -91.319339,47.272374,0.0 -91.317794,47.272442,0.0 -91.31766,47.272465,0.0 -91.317056,47.272282,0.0 -91.31568,47.271458,0.0 -91.314875,47.27075,0.0 -91.31407,47.270452,0.0 -91.312996,47.270429,0.0 -91.312055,47.270702,0.0 -91.311351,47.270633,0.0 -91.310646,47.270199,0.0 -91.309607,47.268804,0.0 -91.308701,47.268415,0.0 -91.306956,47.267592,0.0 -91.302492,47.267406,0.0 -91.301351,47.26736,0.0 -91.300343,47.267405,0.0 -91.298866,47.267289,0.0 -91.298799,47.267198,0.0 -91.298633,47.266444,0.0 -91.298768,47.265827,0.0 -91.298735,47.265461,0.0 -91.297829,47.264958,0.0 -91.297662,47.264798,0.0 -91.297529,47.26393,0.0 -91.297597,47.263313,0.0 -91.297799,47.262536,0.0 -91.297968,47.262102,0.0 -91.298036,47.261668,0.0 -91.297701,47.261096,0.0 -91.296795,47.260387,0.0 -91.29663,47.260323,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="91871">
+            <name>Take Out</name>
+            <styleUrl>#91872</styleUrl>
+            <Point id="91870">
+                <coordinates>-91.2966,47.2604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91876">
+            <name>Put In</name>
+            <styleUrl>#91877</styleUrl>
+            <Point id="91875">
+                <coordinates>-91.3224,47.2733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91881">
+            <name>USGS sampling site</name>
+            <styleUrl>#91882</styleUrl>
+            <Point id="91880">
+                <coordinates>-91.295998,47.260201,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

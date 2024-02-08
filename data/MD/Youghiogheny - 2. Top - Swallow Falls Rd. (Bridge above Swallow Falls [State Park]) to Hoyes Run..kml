@@ -1,54 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="26593">
+    <Document id="44561">
+        <Style id="44566">
+            <IconStyle id="44567">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44568">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44571">
+            <IconStyle id="44572">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44573">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44576">
+            <IconStyle id="44577">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44578">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44581">
+            <IconStyle id="44582">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44583">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44586">
+            <IconStyle id="44587">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44588">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44591">
+            <IconStyle id="44592">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="44593">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Youghiogheny - 2. Top - Swallow Falls Rd. (Bridge above Swallow Falls [State Park]) to Hoyes Run.</name>
-        <Placemark id="26595">
-            <name>Youghiogheny - 2. Top - Swallow Falls Rd. (Bridge above Swallow Falls [State Park]) to Hoyes Run.</name>
+        <Placemark id="44563">
+            <name>Youghiogheny - 2. Top - Swallow Falls Rd. (Bridge above Swallow Falls [State Park]) to Hoyes Run. (IV-V)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="26594">
+            <LineString id="44562">
                 <coordinates>-79.417296,39.494138,0.0 -79.417559,39.494718,0.0 -79.417657,39.49522,0.0 -79.417541,39.495782,0.0 -79.417464,39.496155,0.0 -79.417214,39.496411,0.0 -79.41707,39.496827,0.0 -79.416608,39.497381,0.0 -79.415686,39.498272,0.0 -79.415363,39.498845,0.0 -79.415265,39.499267,0.0 -79.415355,39.499496,0.0 -79.415897,39.5,0.0 -79.415874,39.500076,0.0 -79.416086,39.500394,0.0 -79.416016,39.500802,0.0 -79.415825,39.500903,0.0 -79.415505,39.501259,0.0 -79.415355,39.501492,0.0 -79.415187,39.502013,0.0 -79.415062,39.502142,0.0 -79.414988,39.502458,0.0 -79.414455,39.503111,0.0 -79.413724,39.504209,0.0 -79.413626,39.504631,0.0 -79.413754,39.504902,0.0 -79.414211,39.505398,0.0 -79.414671,39.505677,0.0 -79.415835,39.505797,0.0 -79.416196,39.505882,0.0 -79.416664,39.506126,0.0 -79.417197,39.506705,0.0 -79.417399,39.507275,0.0 -79.417701,39.507823,0.0 -79.418509,39.508656,0.0 -79.418579,39.509173,0.0 -79.418514,39.509454,0.0 -79.418381,39.509618,0.0 -79.417813,39.510013,0.0 -79.417625,39.510821,0.0 -79.417669,39.511661,0.0 -79.41762,39.511871,0.0 -79.417805,39.512512,0.0 -79.41777,39.51287,0.0 -79.417558,39.513168,0.0 -79.416688,39.513631,0.0 -79.416508,39.513788,0.0 -79.416272,39.514191,0.0 -79.41619,39.514543,0.0 -79.416454,39.515666,0.0 -79.416539,39.517562,0.0 -79.416444,39.518382,0.0 -79.416504,39.518535,0.0 -79.416167,39.520194,0.0 -79.41624,39.520494,0.0 -79.4162,39.520669,0.0 -79.416439,39.521281,0.0 -79.416406,39.521422,0.0 -79.416483,39.521505,0.0 -79.41654,39.521875,0.0 -79.416322,39.522607,0.0 -79.41546,39.523651,0.0 -79.414789,39.524286,0.0 -79.414043,39.524621,0.0 -79.413565,39.524629,0.0 -79.412207,39.525136,0.0 -79.411375,39.52564,0.0 -79.410929,39.526124,0.0 -79.410812,39.526833,0.0 -79.410924,39.527175,0.0 -79.412272,39.528529,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="26597">
+        <Placemark id="44565">
             <name>Best Boof in MD (III)</name>
-            <Point id="26596">
+            <styleUrl>#44566</styleUrl>
+            <Point id="44564">
                 <coordinates>-79.415733,39.501186,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26599">
+        <Placemark id="44570">
             <name>Swallowtail Falls (IV)</name>
-            <Point id="26598">
+            <styleUrl>#44571</styleUrl>
+            <Point id="44569">
                 <coordinates>-79.416542,39.497261,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26601">
+        <Placemark id="44575">
             <name>Suck Hole (IV)</name>
-            <Point id="26600">
+            <styleUrl>#44576</styleUrl>
+            <Point id="44574">
                 <coordinates>-79.414513,39.505386,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26603">
+        <Placemark id="44580">
             <name>Swallow Falls. (IV)</name>
-            <Point id="26602">
+            <styleUrl>#44581</styleUrl>
+            <Point id="44579">
                 <coordinates>-79.417397,39.495998,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26605">
+        <Placemark id="44585">
             <name>Take Out</name>
-            <Point id="26604">
+            <styleUrl>#44586</styleUrl>
+            <Point id="44584">
                 <coordinates>-79.4122,39.5286,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="26607">
+        <Placemark id="44590">
             <name>Put in</name>
-            <Point id="26606">
+            <styleUrl>#44591</styleUrl>
+            <Point id="44589">
                 <coordinates>-79.4176,39.494,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="26609">
-            <name>Take out</name>
-            <Point id="26608">
-                <coordinates>-79.4122,39.5286,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

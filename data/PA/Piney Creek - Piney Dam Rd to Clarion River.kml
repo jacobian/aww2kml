@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="24361">
+    <Document id="40808">
+        <Style id="40813">
+            <IconStyle id="40814">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40815">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40818">
+            <IconStyle id="40819">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40820">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Piney Creek - Piney Dam Rd to Clarion River</name>
-        <Placemark id="24363">
-            <name>Piney Creek - Piney Dam Rd to Clarion River</name>
+        <Placemark id="40810">
+            <name>Piney Creek - Piney Dam Rd to Clarion River (II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="24362">
+            <LineString id="40809">
                 <coordinates>-79.44931,41.175995,0.0 -79.449786,41.175986,0.0 -79.450967,41.175573,0.0 -79.451996,41.17555,0.0 -79.45248,41.175298,0.0 -79.452722,41.174977,0.0 -79.452934,41.174886,0.0 -79.454296,41.174679,0.0 -79.455507,41.174427,0.0 -79.4559,41.174198,0.0 -79.456081,41.1739,0.0 -79.45611,41.172894,0.0 -79.456594,41.172001,0.0 -79.456987,41.171589,0.0 -79.457198,41.170994,0.0 -79.457349,41.170331,0.0 -79.457226,41.16937,0.0 -79.456771,41.16857,0.0 -79.456105,41.168044,0.0 -79.455045,41.167496,0.0 -79.454106,41.167107,0.0 -79.453772,41.16681,0.0 -79.453742,41.166261,0.0 -79.453953,41.165758,0.0 -79.455465,41.164178,0.0 -79.455675,41.163126,0.0 -79.456159,41.162691,0.0 -79.456462,41.162599,0.0 -79.458126,41.162552,0.0 -79.458853,41.162323,0.0 -79.459458,41.162277,0.0 -79.460033,41.16246,0.0 -79.4607,41.162825,0.0 -79.462517,41.163533,0.0 -79.462517,41.163533,0.0 -79.462396,41.163899,0.0 -79.462094,41.164265,0.0 -79.460431,41.165708,0.0 -79.46034,41.166005,0.0 -79.460432,41.166783,0.0 -79.460705,41.167126,0.0 -79.461523,41.167583,0.0 -79.462008,41.168291,0.0 -79.462675,41.168794,0.0 -79.463069,41.168863,0.0 -79.465914,41.169066,0.0 -79.465914,41.169066,0.0 -79.46649,41.169135,0.0 -79.467065,41.169363,0.0 -79.467762,41.169866,0.0 -79.467732,41.170026,0.0 -79.467732,41.170026,0.0 -79.468004,41.170003,0.0 -79.468943,41.170208,0.0 -79.469518,41.170184,0.0 -79.470517,41.170024,0.0 -79.471606,41.169405,0.0 -79.471678,41.169385,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="24365">
+        <Placemark id="40812">
             <name>Piney Dam Road Put-In</name>
-            <Point id="24364">
+            <styleUrl>#40813</styleUrl>
+            <Point id="40811">
                 <coordinates>-79.449635,41.176171,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="24367">
+        <Placemark id="40817">
             <name>Laurel Road Take-Out</name>
-            <Point id="24366">
+            <styleUrl>#40818</styleUrl>
+            <Point id="40816">
                 <coordinates>-79.471865,41.169583,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="24369">
-            <name>Put in</name>
-            <Point id="24368">
-                <coordinates>-79.44931,41.175995,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="24371">
-            <name>Take out</name>
-            <Point id="24370">
-                <coordinates>-79.471678,41.169385,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

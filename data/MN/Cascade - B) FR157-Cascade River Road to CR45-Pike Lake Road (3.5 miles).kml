@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="72737">
+        <Style id="72742">
+            <IconStyle id="72743">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72744">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72747">
+            <IconStyle id="72748">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72749">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72752">
+            <IconStyle id="72753">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72754">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72757">
+            <IconStyle id="72758">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72759">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Cascade - B) FR157/Cascade River Road to CR45/Pike Lake Road (3.5 miles)</name>
+        <Placemark id="72739">
+            <name>Cascade - B) FR157/Cascade River Road to CR45/Pike Lake Road (3.5 miles) (II(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="72738">
+                <coordinates>-90.526763,47.789882,0.0 -90.526548,47.789249,0.0 -90.525703,47.788152,0.0 -90.524112,47.786962,0.0 -90.52364,47.78598,0.0 -90.523777,47.78518,0.0 -90.52388,47.784563,0.0 -90.523204,47.783603,0.0 -90.5229,47.782804,0.0 -90.522394,47.781889,0.0 -90.522057,47.780952,0.0 -90.521718,47.780678,0.0 -90.520973,47.780495,0.0 -90.520601,47.780289,0.0 -90.520602,47.779535,0.0 -90.521078,47.778873,0.0 -90.521486,47.778348,0.0 -90.521589,47.777571,0.0 -90.521455,47.777091,0.0 -90.521082,47.776817,0.0 -90.52027,47.776588,0.0 -90.519931,47.77629,0.0 -90.51956,47.775422,0.0 -90.518952,47.774804,0.0 -90.517733,47.773912,0.0 -90.517498,47.77325,0.0 -90.517635,47.772519,0.0 -90.517908,47.771742,0.0 -90.517774,47.770943,0.0 -90.517978,47.770486,0.0 -90.519267,47.769733,0.0 -90.520149,47.769186,0.0 -90.520727,47.76825,0.0 -90.520729,47.767382,0.0 -90.520391,47.766833,0.0 -90.519579,47.766239,0.0 -90.519377,47.765781,0.0 -90.519548,47.765211,0.0 -90.520295,47.764229,0.0 -90.520771,47.76343,0.0 -90.520707,47.761762,0.0 -90.521793,47.761009,0.0 -90.522505,47.760347,0.0 -90.522914,47.759594,0.0 -90.52322,47.759137,0.0 -90.523186,47.758795,0.0 -90.521935,47.757583,0.0 -90.521394,47.756874,0.0 -90.520516,47.756074,0.0 -90.520011,47.754497,0.0 -90.519133,47.753011,0.0 -90.518999,47.752303,0.0 -90.519305,47.751709,0.0 -90.520967,47.750386,0.0 -90.522098,47.749892,0.0 -90.522776,47.749368,0.0 -90.523049,47.748454,0.0 -90.522813,47.74802,0.0 -90.522543,47.747746,0.0 -90.522577,47.747426,0.0 -90.52312,47.747221,0.0 -90.525187,47.746971,0.0 -90.525526,47.74672,0.0 -90.525581,47.746341,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="72741">
+            <name>Pandemic Falls (IV)</name>
+            <styleUrl>#72742</styleUrl>
+            <Point id="72740">
+                <coordinates>-90.517738,47.773983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72746">
+            <name>Take Out</name>
+            <styleUrl>#72747</styleUrl>
+            <Point id="72745">
+                <coordinates>-90.525299,47.7463,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72751">
+            <name>Put In</name>
+            <styleUrl>#72752</styleUrl>
+            <Point id="72750">
+                <coordinates>-90.526703,47.789902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72756">
+            <name>USGS site</name>
+            <styleUrl>#72757</styleUrl>
+            <Point id="72755">
+                <coordinates>-90.526497,47.789902,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

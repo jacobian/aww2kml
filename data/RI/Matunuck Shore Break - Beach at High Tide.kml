@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="115519">
+        <Style id="115524">
+            <IconStyle id="115525">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="115526">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="115529">
+            <IconStyle id="115530">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="115531">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Matunuck Shore Break - Beach at High Tide</name>
+        <Placemark id="115521">
+            <name>Matunuck Shore Break - Beach at High Tide (I)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="115520">
+                <coordinates>-71.536997,41.373625,0.0 -71.536887,41.373866,0.0 -71.536632,41.374322,0.0 -71.536392,41.374629,0.0 -71.536268,41.374733,0.0 -71.536188,41.374777,0.0 -71.536006,41.374854,0.0 -71.535721,41.374914,0.0 -71.535583,41.37492,0.0 -71.535459,41.374942,0.0 -71.5353,41.375001,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="115523">
+            <name>Take Out</name>
+            <styleUrl>#115524</styleUrl>
+            <Point id="115522">
+                <coordinates>-71.515198,41.374199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115528">
+            <name>Put In</name>
+            <styleUrl>#115529</styleUrl>
+            <Point id="115527">
+                <coordinates>-71.536797,41.373501,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

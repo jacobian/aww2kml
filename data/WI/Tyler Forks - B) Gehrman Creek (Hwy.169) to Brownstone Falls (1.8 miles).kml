@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="58608">
+        <Style id="58613">
+            <IconStyle id="58614">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58615">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="58618">
+            <IconStyle id="58619">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="58620">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Tyler Forks - B) Gehrman Creek (Hwy.169) to Brownstone Falls (1.8 miles)</name>
+        <Placemark id="58610">
+            <name>Tyler Forks - B) Gehrman Creek (Hwy.169) to Brownstone Falls (1.8 miles) (II-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="58609">
+                <coordinates>-90.6078,46.378473,0.0 -90.607754,46.378056,0.0 -90.607622,46.377713,0.0 -90.607623,46.377325,0.0 -90.608052,46.376776,0.0 -90.60901,46.375771,0.0 -90.609604,46.375269,0.0 -90.609967,46.375132,0.0 -90.610166,46.374949,0.0 -90.610133,46.374812,0.0 -90.610001,46.374629,0.0 -90.610133,46.374423,0.0 -90.610496,46.374218,0.0 -90.611651,46.374035,0.0 -90.612708,46.374012,0.0 -90.613104,46.373898,0.0 -90.613203,46.373738,0.0 -90.613335,46.373373,0.0 -90.613203,46.373167,0.0 -90.613203,46.37303,0.0 -90.613434,46.372779,0.0 -90.61393,46.37271,0.0 -90.61426,46.372802,0.0 -90.614425,46.372939,0.0 -90.614557,46.373327,0.0 -90.614821,46.373533,0.0 -90.615382,46.373693,0.0 -90.616801,46.373716,0.0 -90.617792,46.373533,0.0 -90.618353,46.373282,0.0 -90.618716,46.372939,0.0 -90.619211,46.372619,0.0 -90.619707,46.372482,0.0 -90.620466,46.372688,0.0 -90.621126,46.372711,0.0 -90.621786,46.37262,0.0 -90.62238,46.372003,0.0 -90.622678,46.371866,0.0 -90.62347,46.371706,0.0 -90.624064,46.371752,0.0 -90.624493,46.371911,0.0 -90.625186,46.37198,0.0 -90.626705,46.371912,0.0 -90.628422,46.371683,0.0 -90.629247,46.371569,0.0 -90.630138,46.371363,0.0 -90.630897,46.371363,0.0 -90.631558,46.371455,0.0 -90.631789,46.371706,0.0 -90.63202,46.372346,0.0 -90.632251,46.372506,0.0 -90.633538,46.372323,0.0 -90.634033,46.372529,0.0 -90.634463,46.372917,0.0 -90.634991,46.373374,0.0 -90.635354,46.373785,0.0 -90.63575,46.374128,0.0 -90.63608,46.374859,0.0 -90.636182,46.37493,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="58612">
+            <name>Take Out</name>
+            <styleUrl>#58613</styleUrl>
+            <Point id="58611">
+                <coordinates>-90.636139,46.374992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58617">
+            <name>Put In</name>
+            <styleUrl>#58618</styleUrl>
+            <Point id="58616">
+                <coordinates>-90.607613,46.378494,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="72022">
+        <Style id="72027">
+            <IconStyle id="72028">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72029">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72032">
+            <IconStyle id="72033">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72034">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72037">
+            <IconStyle id="72038">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72039">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72042">
+            <IconStyle id="72043">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72044">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72047">
+            <IconStyle id="72048">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72049">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72052">
+            <IconStyle id="72053">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72054">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72057">
+            <IconStyle id="72058">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72059">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72062">
+            <IconStyle id="72063">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72064">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72067">
+            <IconStyle id="72068">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72069">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72072">
+            <IconStyle id="72073">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72074">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72077">
+            <IconStyle id="72078">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72079">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72082">
+            <IconStyle id="72083">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72084">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72087">
+            <IconStyle id="72088">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72089">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="72092">
+            <IconStyle id="72093">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72094">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Net - Fishing Site #1 Road to unnamed road/campground (6.85 miles)</name>
+        <Placemark id="72024">
+            <name>Net - Fishing Site #1 Road to unnamed road/campground (6.85 miles) (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="72023">
+                <coordinates>-88.532759,46.329877,0.0 -88.532664,46.32615,0.0 -88.533743,46.323044,0.0 -88.53437,46.322318,0.0 -88.534889,46.320953,0.0 -88.536704,46.319641,0.0 -88.536828,46.31956,0.0 -88.537026,46.319514,0.0 -88.537818,46.319104,0.0 -88.53786,46.318994,0.0 -88.538984,46.318518,0.0 -88.539888,46.318568,0.0 -88.541501,46.318783,0.0 -88.542167,46.319326,0.0 -88.543418,46.319521,0.0 -88.543932,46.319802,0.0 -88.547548,46.32,0.0 -88.548523,46.31942,0.0 -88.549165,46.318569,0.0 -88.549321,46.317185,0.0 -88.549016,46.316661,0.0 -88.549158,46.315403,0.0 -88.548906,46.314968,0.0 -88.548841,46.314929,0.0 -88.548842,46.314198,0.0 -88.548645,46.313717,0.0 -88.548579,46.31342,0.0 -88.548744,46.313238,0.0 -88.549206,46.313146,0.0 -88.549404,46.313238,0.0 -88.549353,46.313141,0.0 -88.549536,46.313046,0.0 -88.549804,46.312905,0.0 -88.549831,46.311979,0.0 -88.549834,46.311913,0.0 -88.549835,46.311798,0.0 -88.550231,46.31125,0.0 -88.550364,46.310793,0.0 -88.550232,46.310656,0.0 -88.549507,46.310015,0.0 -88.549277,46.309513,0.0 -88.549113,46.30933,0.0 -88.549014,46.309124,0.0 -88.548882,46.309001,0.0 -88.547646,46.307849,0.0 -88.54737,46.307074,0.0 -88.547512,46.305815,0.0 -88.548391,46.30447,0.0 -88.54861,46.303376,0.0 -88.548692,46.303273,0.0 -88.548791,46.303113,0.0 -88.548824,46.302793,0.0 -88.549056,46.302107,0.0 -88.548991,46.301582,0.0 -88.548963,46.301473,0.0 -88.54915,46.300966,0.0 -88.550127,46.300052,0.0 -88.550345,46.300028,0.0 -88.55051,46.300006,0.0 -88.551137,46.299549,0.0 -88.551599,46.299252,0.0 -88.552655,46.298956,0.0 -88.554601,46.298591,0.0 -88.554563,46.298531,0.0 -88.554601,46.298509,0.0 -88.555873,46.297788,0.0 -88.556362,46.296969,0.0 -88.556449,46.296855,0.0 -88.556615,46.296307,0.0 -88.556596,46.296218,0.0 -88.5566,46.296215,0.0 -88.557365,46.295844,0.0 -88.557798,46.295234,0.0 -88.560137,46.293842,0.0 -88.561458,46.293408,0.0 -88.562592,46.292735,0.0 -88.562752,46.292676,0.0 -88.563082,46.292494,0.0 -88.563412,46.292082,0.0 -88.563445,46.291831,0.0 -88.56361,46.29142,0.0 -88.563808,46.291214,0.0 -88.564798,46.29062,0.0 -88.564811,46.290496,0.0 -88.56508,46.290313,0.0 -88.565489,46.289176,0.0 -88.565558,46.289135,0.0 -88.56569,46.289112,0.0 -88.56602,46.288656,0.0 -88.566119,46.28861,0.0 -88.566647,46.287605,0.0 -88.567176,46.286828,0.0 -88.567736,46.286371,0.0 -88.568496,46.285297,0.0 -88.568858,46.285137,0.0 -88.569023,46.284977,0.0 -88.569,46.284829,0.0 -88.569193,46.28446,0.0 -88.570181,46.283754,0.0 -88.572062,46.281578,0.0 -88.572647,46.28123,0.0 -88.573759,46.281037,0.0 -88.574538,46.280573,0.0 -88.574623,46.279818,0.0 -88.574138,46.279285,0.0 -88.57435,46.277397,0.0 -88.574754,46.27704,0.0 -88.574853,46.276159,0.0 -88.574466,46.274745,0.0 -88.574133,46.274473,0.0 -88.574356,46.274106,0.0 -88.57668,46.272839,0.0 -88.580505,46.271149,0.0 -88.581812,46.27084,0.0 -88.584703,46.270998,0.0 -88.585093,46.270766,0.0 -88.587069,46.269354,0.0 -88.588754,46.267293,0.0 -88.588771,46.265521,0.0 -88.589203,46.264912,0.0 -88.589457,46.262647,0.0 -88.589903,46.261911,0.0 -88.590072,46.260401,0.0 -88.589796,46.259626,0.0 -88.587826,46.257747,0.0 -88.587939,46.254227,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="72026">
+            <name>Net River Road</name>
+            <styleUrl>#72027</styleUrl>
+            <Point id="72025">
+                <coordinates>-88.574387,46.274342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72031">
+            <name>USGS sampling site, W.Br.</name>
+            <styleUrl>#72032</styleUrl>
+            <Point id="72030">
+                <coordinates>-88.504303,46.386299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72036">
+            <name>USGS sampling site</name>
+            <styleUrl>#72037</styleUrl>
+            <Point id="72035">
+                <coordinates>-88.490997,46.3727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72041">
+            <name>Take Out</name>
+            <styleUrl>#72042</styleUrl>
+            <Point id="72040">
+                <coordinates>-88.587097,46.2542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72046">
+            <name>Put In</name>
+            <styleUrl>#72047</styleUrl>
+            <Point id="72045">
+                <coordinates>-88.531898,46.329899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72051">
+            <name>Fourth Narrows (II)</name>
+            <styleUrl>#72052</styleUrl>
+            <Point id="72050">
+                <coordinates>-88.551498,46.2994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72056">
+            <name>NOT Chipmunk Falls</name>
+            <styleUrl>#72057</styleUrl>
+            <Point id="72055">
+                <coordinates>-88.563263,46.29163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72061">
+            <name>First Narrows (I)</name>
+            <styleUrl>#72062</styleUrl>
+            <Point id="72060">
+                <coordinates>-88.537697,46.3195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72066">
+            <name>Second Narrows (II)</name>
+            <styleUrl>#72067</styleUrl>
+            <Point id="72065">
+                <coordinates>-88.550003,46.311901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72071">
+            <name>Third Narrows (I)</name>
+            <styleUrl>#72072</styleUrl>
+            <Point id="72070">
+                <coordinates>-88.548698,46.3032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72076">
+            <name>Net River Road (I)</name>
+            <styleUrl>#72077</styleUrl>
+            <Point id="72075">
+                <coordinates>-88.573898,46.281101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72081">
+            <name>Fifth Narrows / Chipmunk Falls (II+)</name>
+            <styleUrl>#72082</styleUrl>
+            <Point id="72080">
+                <coordinates>-88.556503,46.2967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72086">
+            <name>&quot;Snake Rapids&quot; (I)</name>
+            <styleUrl>#72087</styleUrl>
+            <Point id="72085">
+                <coordinates>-88.588501,46.265701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="72091">
+            <name>Snake Rapids (really) (II)</name>
+            <styleUrl>#72092</styleUrl>
+            <Point id="72090">
+                <coordinates>-88.588829,46.258869,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

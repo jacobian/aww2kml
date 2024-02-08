@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="85644">
+        <Style id="85649">
+            <IconStyle id="85650">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85651">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="85654">
+            <IconStyle id="85655">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="85656">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Eagle Creek - Eagle Creek to Cumberland River (Carry up/boat down)</name>
+        <Placemark id="85646">
+            <name>Eagle Creek - Eagle Creek to Cumberland River (Carry up/boat down) (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="85645">
+                <coordinates>-84.351043,36.845976,0.0 -84.351001,36.845901,0.0 -84.350933,36.845851,0.0 -84.350796,36.845791,0.0 -84.350693,36.845763,0.0 -84.350659,36.845774,0.0 -84.350591,36.845758,0.0 -84.350386,36.845758,0.0 -84.350181,36.845791,0.0 -84.35001,36.845835,0.0 -84.349942,36.845873,0.0 -84.349628,36.845989,0.0 -84.349218,36.846198,0.0 -84.348938,36.846296,0.0 -84.348562,36.846368,0.0 -84.348494,36.846395,0.0 -84.348425,36.846395,0.0 -84.348282,36.846423,0.0 -84.348193,36.846407,0.0 -84.34809,36.846357,0.0 -84.348015,36.846286,0.0 -84.347981,36.846231,0.0 -84.347947,36.846121,0.0 -84.347947,36.846011,0.0 -84.347933,36.845984,0.0 -84.347953,36.84566,0.0 -84.347926,36.845489,0.0 -84.347892,36.845402,0.0 -84.347858,36.845374,0.0 -84.347776,36.845237,0.0 -84.347564,36.844984,0.0 -84.34729,36.844754,0.0 -84.346887,36.844567,0.0 -84.346675,36.844512,0.0 -84.346573,36.844518,0.0 -84.346477,36.844562,0.0 -84.346368,36.844699,0.0 -84.346067,36.845243,0.0 -84.345985,36.845325,0.0 -84.345938,36.845347,0.0 -84.345678,36.845413,0.0 -84.34561,36.845397,0.0 -84.345514,36.845347,0.0 -84.345418,36.845259,0.0 -84.345241,36.845029,0.0 -84.345179,36.844892,0.0 -84.345131,36.844694,0.0 -84.345131,36.844584,0.0 -84.345179,36.844447,0.0 -84.345152,36.844337,0.0 -84.345117,36.844282,0.0 -84.345049,36.844227,0.0 -84.34483,36.844101,0.0 -84.344352,36.843903,0.0 -84.344318,36.843903,0.0 -84.343983,36.843711,0.0 -84.343778,36.843623,0.0 -84.343607,36.843596,0.0 -84.343511,36.843552,0.0 -84.34346,36.843503,0.0 -84.343195,36.843451,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="85648">
+            <name>Take Out</name>
+            <styleUrl>#85649</styleUrl>
+            <Point id="85647">
+                <coordinates>-84.343,36.843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85653">
+            <name>Put In</name>
+            <styleUrl>#85654</styleUrl>
+            <Point id="85652">
+                <coordinates>-84.351,36.846,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

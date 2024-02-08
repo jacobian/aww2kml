@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="5673">
+    <Document id="9668">
+        <Style id="9673">
+            <IconStyle id="9674">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9675">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9678">
+            <IconStyle id="9679">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9680">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Cedar - Palisades-Kepler State Park (PnP)</name>
-        <Placemark id="5675">
-            <name>Cedar - Palisades-Kepler State Park (PnP)</name>
+        <Placemark id="9670">
+            <name>Cedar - Palisades-Kepler State Park (PnP) (III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="5674">
+            <LineString id="9669">
                 <coordinates>-91.506951,41.902241,0.0 -91.507696,41.90045,0.0 -91.504384,41.900252,0.0 -91.504365,41.90089,0.0 -91.506878,41.901331,0.0 -91.506783,41.901727,0.0 -91.505215,41.90213,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="5677">
+        <Placemark id="9672">
             <name>Take Out</name>
-            <Point id="5676">
+            <styleUrl>#9673</styleUrl>
+            <Point id="9671">
                 <coordinates>-91.506302,41.900398,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5679">
+        <Placemark id="9677">
             <name>Put In</name>
-            <Point id="5678">
+            <styleUrl>#9678</styleUrl>
+            <Point id="9676">
                 <coordinates>-91.506599,41.900501,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5681">
-            <name>Put in</name>
-            <Point id="5680">
-                <coordinates>-91.506951,41.902241,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5683">
-            <name>Take out</name>
-            <Point id="5682">
-                <coordinates>-91.505215,41.90213,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

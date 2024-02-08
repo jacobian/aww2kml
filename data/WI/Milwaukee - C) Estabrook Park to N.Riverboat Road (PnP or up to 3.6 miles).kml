@@ -1,132 +1,335 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="4547">
+    <Document id="7719">
+        <Style id="7724">
+            <IconStyle id="7725">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7726">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7729">
+            <IconStyle id="7730">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7731">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7734">
+            <IconStyle id="7735">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7736">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7739">
+            <IconStyle id="7740">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7741">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7744">
+            <IconStyle id="7745">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7746">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7749">
+            <IconStyle id="7750">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7751">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7754">
+            <IconStyle id="7755">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7756">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7759">
+            <IconStyle id="7760">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7761">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7764">
+            <IconStyle id="7765">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7766">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7769">
+            <IconStyle id="7770">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7771">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7774">
+            <IconStyle id="7775">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7776">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7779">
+            <IconStyle id="7780">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7781">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7784">
+            <IconStyle id="7785">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7786">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7789">
+            <IconStyle id="7790">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7791">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7794">
+            <IconStyle id="7795">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7796">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7799">
+            <IconStyle id="7800">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7801">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7804">
+            <IconStyle id="7805">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7806">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7809">
+            <IconStyle id="7810">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7811">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="7814">
+            <IconStyle id="7815">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="7816">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Milwaukee - C) Estabrook Park to N.Riverboat Road (PnP or up to 3.6 miles)</name>
-        <Placemark id="4549">
-            <name>Milwaukee - C) Estabrook Park to N.Riverboat Road (PnP or up to 3.6 miles)</name>
+        <Placemark id="7721">
+            <name>Milwaukee - C) Estabrook Park to N.Riverboat Road (PnP or up to 3.6 miles) (I-II(III))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="4548">
+            <LineString id="7720">
                 <coordinates>-87.909718,43.100646,0.0 -87.906345,43.097745,0.0 -87.905184,43.097295,0.0 -87.903633,43.097199,0.0 -87.902816,43.096772,0.0 -87.901112,43.095031,0.0 -87.901235,43.092522,0.0 -87.900205,43.090949,0.0 -87.900107,43.090314,0.0 -87.897271,43.087874,0.0 -87.89449,43.086443,0.0 -87.893545,43.08563,0.0 -87.893048,43.083964,0.0 -87.892191,43.082401,0.0 -87.892427,43.080403,0.0 -87.89312,43.078936,0.0 -87.893341,43.077063,0.0 -87.892883,43.076532,0.0 -87.892903,43.074897,0.0 -87.892617,43.074377,0.0 -87.892985,43.071254,0.0 -87.893649,43.070038,0.0 -87.894859,43.068603,0.0 -87.89505,43.06698,0.0 -87.894381,43.065303,0.0 -87.893165,43.063844,0.0 -87.893082,43.063084,0.0 -87.893769,43.058724,0.0 -87.894187,43.058121,0.0 -87.895854,43.057218,0.0 -87.89659,43.057187,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="4551">
+        <Placemark id="7723">
             <name>Take-out</name>
-            <Point id="4550">
+            <styleUrl>#7724</styleUrl>
+            <Point id="7722">
                 <coordinates>-87.897003,43.056999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4553">
+        <Placemark id="7728">
             <name>Rubble Field (&quot;RF&quot;) (II)</name>
-            <Point id="4552">
+            <styleUrl>#7729</styleUrl>
+            <Point id="7727">
                 <coordinates>-87.893997,43.058998,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4555">
+        <Placemark id="7733">
             <name>Space Bar (&quot;SB&quot;) (II+)</name>
-            <Point id="4554">
+            <styleUrl>#7734</styleUrl>
+            <Point id="7732">
                 <coordinates>-87.893997,43.060001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4557">
+        <Placemark id="7738">
             <name>Carriage Return (&quot;CR&quot;) (II)</name>
-            <Point id="4556">
+            <styleUrl>#7739</styleUrl>
+            <Point id="7737">
                 <coordinates>-87.893997,43.058998,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4559">
+        <Placemark id="7743">
             <name>Homeless (Wave)</name>
-            <Point id="4558">
+            <styleUrl>#7744</styleUrl>
+            <Point id="7742">
                 <coordinates>-87.89389,43.059885,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4561">
+        <Placemark id="7748">
             <name>Shadow (Wave) (II)</name>
-            <Point id="4560">
+            <styleUrl>#7749</styleUrl>
+            <Point id="7747">
                 <coordinates>-87.893997,43.060001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4563">
+        <Placemark id="7753">
             <name>Estabrook Beer Garden Parking ** Recommended Put-in **</name>
-            <Point id="4562">
+            <styleUrl>#7754</styleUrl>
+            <Point id="7752">
                 <coordinates>-87.908997,43.101002,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4565">
+        <Placemark id="7758">
             <name>FORMER SITE of Estabrook Dam</name>
-            <Point id="4564">
+            <styleUrl>#7759</styleUrl>
+            <Point id="7757">
                 <coordinates>-87.912206,43.102177,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4567">
+        <Placemark id="7763">
             <name>U-Park Shoals and U-Park Ledge (&quot;UPL&quot;) (II)</name>
-            <Point id="4566">
+            <styleUrl>#7764</styleUrl>
+            <Point id="7762">
                 <coordinates>-87.901237,43.092834,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4569">
+        <Placemark id="7768">
             <name>The Plague at Locust (&quot;PAL&quot;) (II)</name>
-            <Point id="4568">
+            <styleUrl>#7769</styleUrl>
+            <Point id="7767">
                 <coordinates>-87.893097,43.071098,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4571">
+        <Placemark id="7773">
             <name>Capitol Drive shoals (I)</name>
-            <Point id="4570">
+            <styleUrl>#7774</styleUrl>
+            <Point id="7772">
                 <coordinates>-87.8983,43.089001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4573">
+        <Placemark id="7778">
             <name>Timber Dam (&quot;TD&quot;) (I)</name>
-            <Point id="4572">
+            <styleUrl>#7779</styleUrl>
+            <Point id="7777">
                 <coordinates>-87.8927,43.073898,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4575">
+        <Placemark id="7783">
             <name>Shift Keys (&quot;SK&quot;) (II)</name>
-            <Point id="4574">
+            <styleUrl>#7784</styleUrl>
+            <Point id="7782">
                 <coordinates>-87.893957,43.059498,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4577">
+        <Placemark id="7788">
             <name>Lincoln Park (Island Put-in)</name>
-            <Point id="4576">
+            <styleUrl>#7789</styleUrl>
+            <Point id="7787">
                 <coordinates>-87.9095,43.100899,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4579">
+        <Placemark id="7793">
             <name>Kletzsch Park Dam</name>
-            <Point id="4578">
+            <styleUrl>#7794</styleUrl>
+            <Point id="7792">
                 <coordinates>-87.928356,43.133447,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4581">
+        <Placemark id="7798">
             <name>Estabrook Park Ledge (&quot;EPL&quot;) (II+)</name>
-            <Point id="4580">
+            <styleUrl>#7799</styleUrl>
+            <Point id="7797">
                 <coordinates>-87.907884,43.099069,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4583">
+        <Placemark id="7803">
             <name>Typewriter (&quot;TW&quot;) (II+)</name>
-            <Point id="4582">
+            <styleUrl>#7804</styleUrl>
+            <Point id="7802">
                 <coordinates>-87.893997,43.060001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4585">
+        <Placemark id="7808">
             <name>Backspace (&quot;BS&quot;) (II)</name>
-            <Point id="4584">
+            <styleUrl>#7809</styleUrl>
+            <Point id="7807">
                 <coordinates>-87.893729,43.058975,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4587">
+        <Placemark id="7813">
             <name>Put in</name>
-            <Point id="4586">
+            <styleUrl>#7814</styleUrl>
+            <Point id="7812">
                 <coordinates>-87.9095,43.100899,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="4589">
-            <name>Take out</name>
-            <Point id="4588">
-                <coordinates>-87.896599,43.0574,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

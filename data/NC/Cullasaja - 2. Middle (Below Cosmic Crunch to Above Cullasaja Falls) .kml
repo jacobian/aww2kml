@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55637">
+        <Style id="55642">
+            <IconStyle id="55643">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55644">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="55647">
+            <IconStyle id="55648">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="55649">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Cullasaja - 2. Middle (Below Cosmic Crunch to Above Cullasaja Falls) </name>
+        <Placemark id="55639">
+            <name>Cullasaja - 2. Middle (Below Cosmic Crunch to Above Cullasaja Falls)  (IV(V+))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="55638">
+                <coordinates>-83.269611,35.085664,0.0 -83.269788,35.086154,0.0 -83.269596,35.086644,0.0 -83.268743,35.087265,0.0 -83.268316,35.087856,0.0 -83.268453,35.088593,0.0 -83.268662,35.089367,0.0 -83.268264,35.089772,0.0 -83.268238,35.090546,0.0 -83.268036,35.090999,0.0 -83.268233,35.091586,0.0 -83.267935,35.092296,0.0 -83.267361,35.092715,0.0 -83.266974,35.092833,0.0 -83.266485,35.092881,0.0 -83.266049,35.092932,0.0 -83.265851,35.093053,0.0 -83.265786,35.093356,0.0 -83.265846,35.093633,0.0 -83.265662,35.094013,0.0 -83.264761,35.094803,0.0 -83.264012,35.095456,0.0 -83.263649,35.09665,0.0 -83.262893,35.097739,0.0 -83.263067,35.098918,0.0 -83.263487,35.101305,0.0 -83.264039,35.102532,0.0 -83.267323,35.102229,0.0 -83.268637,35.102614,0.0 -83.269914,35.103628,0.0 -83.270668,35.10503,0.0 -83.269186,35.105933,0.0 -83.268566,35.107303,0.0 -83.26813,35.110698,0.0 -83.264999,35.113024,0.0 -83.266586,35.114614,0.0 -83.268052,35.115544,0.0 -83.268976,35.115655,0.0 -83.269709,35.116447,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="55641">
+            <name>Put In</name>
+            <styleUrl>#55642</styleUrl>
+            <Point id="55640">
+                <coordinates>-83.2493,35.0767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55646">
+            <name>Take out</name>
+            <styleUrl>#55647</styleUrl>
+            <Point id="55645">
+                <coordinates>-83.269709,35.116447,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

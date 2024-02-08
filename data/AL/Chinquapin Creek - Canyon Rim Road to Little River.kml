@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="71211">
+        <Style id="71216">
+            <IconStyle id="71217">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71218">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="71221">
+            <IconStyle id="71222">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="71223">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Chinquapin Creek - Canyon Rim Road to Little River</name>
+        <Placemark id="71213">
+            <name>Chinquapin Creek - Canyon Rim Road to Little River (V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="71212">
+                <coordinates>-85.6818,34.336282,0.0 -85.681622,34.336157,0.0 -85.68147,34.336069,0.0 -85.681324,34.336025,0.0 -85.681178,34.335981,0.0 -85.681019,34.335959,0.0 -85.680754,34.33591,0.0 -85.680555,34.335882,0.0 -85.680244,34.335855,0.0 -85.680085,34.33586,0.0 -85.679893,34.335877,0.0 -85.679707,34.335926,0.0 -85.679489,34.335981,0.0 -85.679296,34.336047,0.0 -85.679177,34.336096,0.0 -85.679051,34.336124,0.0 -85.678879,34.336162,0.0 -85.67868,34.336239,0.0 -85.678269,34.3363,0.0 -85.678031,34.336355,0.0 -85.677699,34.336432,0.0 -85.677302,34.336547,0.0 -85.677004,34.336646,0.0 -85.676633,34.33675,0.0 -85.676381,34.336789,0.0 -85.676069,34.336844,0.0 -85.675837,34.336816,0.0 -85.675658,34.336778,0.0 -85.675533,34.336739,0.0 -85.675321,34.336657,0.0 -85.675122,34.336558,0.0 -85.674897,34.336437,0.0 -85.674638,34.336261,0.0 -85.674327,34.336019,0.0 -85.674247,34.335964,0.0 -85.674128,34.335903,0.0 -85.67379,34.335804,0.0 -85.673525,34.335705,0.0 -85.673353,34.335618,0.0 -85.672975,34.335381,0.0 -85.672631,34.335161,0.0 -85.672458,34.335062,0.0 -85.67224,34.335024,0.0 -85.671942,34.335018,0.0 -85.671796,34.335018,0.0 -85.671663,34.334985,0.0 -85.671531,34.334809,0.0 -85.671385,34.334644,0.0 -85.671246,34.334501,0.0 -85.671107,34.334413,0.0 -85.670954,34.334391,0.0 -85.670186,34.334413,0.0 -85.670011,34.334358,0.0 -85.67012,34.334041,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="71215">
+            <name>Put in</name>
+            <styleUrl>#71216</styleUrl>
+            <Point id="71214">
+                <coordinates>-85.681999,34.335999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71220">
+            <name>Take out</name>
+            <styleUrl>#71221</styleUrl>
+            <Point id="71219">
+                <coordinates>-85.669998,34.334,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

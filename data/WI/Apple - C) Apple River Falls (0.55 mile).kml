@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="68993">
+        <Style id="68998">
+            <IconStyle id="68999">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="69000">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69003">
+            <IconStyle id="69004">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="69005">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69008">
+            <IconStyle id="69009">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="69010">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69013">
+            <IconStyle id="69014">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="69015">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Apple - C) Apple River Falls (0.55 mile)</name>
+        <Placemark id="68995">
+            <name>Apple - C) Apple River Falls (0.55 mile) (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="68994">
+                <coordinates>-92.710025,45.156309,0.0 -92.710398,45.156414,0.0 -92.710592,45.156487,0.0 -92.710646,45.156518,0.0 -92.710832,45.156591,0.0 -92.711205,45.156776,0.0 -92.711973,45.157129,0.0 -92.712073,45.157183,0.0 -92.712159,45.157269,0.0 -92.712353,45.157531,0.0 -92.712415,45.157639,0.0 -92.712415,45.157747,0.0 -92.712283,45.157837,0.0 -92.712128,45.157917,0.0 -92.712035,45.157985,0.0 -92.711949,45.158065,0.0 -92.711919,45.158115,0.0 -92.711911,45.158155,0.0 -92.712004,45.158385,0.0 -92.712089,45.158502,0.0 -92.712315,45.158629,0.0 -92.712423,45.158679,0.0 -92.712756,45.158778,0.0 -92.713067,45.15882,0.0 -92.713796,45.158844,0.0 -92.714269,45.158827,0.0 -92.715091,45.158888,0.0 -92.715704,45.158988,0.0 -92.715937,45.159016,0.0 -92.715991,45.159012,0.0 -92.716123,45.158971,0.0 -92.7162,45.158922,0.0 -92.71627,45.158841,0.0 -92.71644,45.158702,0.0 -92.716534,45.158666,0.0 -92.71665,45.15864,0.0 -92.716914,45.158523,0.0 -92.717046,45.158398,0.0 -92.717069,45.158335,0.0 -92.717076,45.158123,0.0 -92.717047,45.157587,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="68997">
+            <name>Apple River Falls (II+)</name>
+            <styleUrl>#68998</styleUrl>
+            <Point id="68996">
+                <coordinates>-92.712311,45.158035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69002">
+            <name>Take Out</name>
+            <styleUrl>#69003</styleUrl>
+            <Point id="69001">
+                <coordinates>-92.716797,45.1576,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69007">
+            <name>Put In</name>
+            <styleUrl>#69008</styleUrl>
+            <Point id="69006">
+                <coordinates>-92.709999,45.156399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69012">
+            <name>USGS sampling site</name>
+            <styleUrl>#69013</styleUrl>
+            <Point id="69011">
+                <coordinates>-92.7164,45.157501,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

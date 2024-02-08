@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="73917">
+        <Style id="73922">
+            <IconStyle id="73923">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73924">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73927">
+            <IconStyle id="73928">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73929">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Whitewater, E.Fk. - b) Brookville Dam to confl. w. W.Fk.Whitewater (2 miles)</name>
+        <Placemark id="73919">
+            <name>Whitewater, E.Fk. - b) Brookville Dam to confl. w. W.Fk.Whitewater (2 miles) (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="73918">
+                <coordinates>-85.003907,39.436498,0.0 -85.003488,39.435202,0.0 -85.003318,39.43471,0.0 -85.003288,39.434624,0.0 -85.003049,39.433935,0.0 -85.003021,39.433852,0.0 -85.002893,39.433483,0.0 -85.002624,39.43238,0.0 -85.002549,39.432072,0.0 -85.00272,39.431383,0.0 -85.002761,39.431215,0.0 -85.003132,39.430523,0.0 -85.00348,39.429873,0.0 -85.003716,39.429432,0.0 -85.003796,39.428949,0.0 -85.003882,39.428427,0.0 -85.003682,39.427357,0.0 -85.00336,39.426032,0.0 -85.00305,39.424559,0.0 -85.002797,39.424192,0.0 -85.002678,39.42402,0.0 -85.00285,39.423447,0.0 -85.003095,39.422629,0.0 -85.003412,39.42192,0.0 -85.003751,39.421163,0.0 -85.004439,39.419587,0.0 -85.004997,39.418077,0.0 -85.005094,39.417813,0.0 -85.005192,39.417081,0.0 -85.005955,39.415977,0.0 -85.006118,39.415833,0.0 -85.006168,39.41579,0.0 -85.008254,39.413952,0.0 -85.008509,39.413757,0.0 -85.008553,39.413723,0.0 -85.009086,39.413317,0.0 -85.00951,39.413068,0.0 -85.010769,39.412331,0.0 -85.011922,39.411749,0.0 -85.012015,39.411727,0.0 -85.0132,39.411394,0.0 -85.013241,39.410989,0.0 -85.01313,39.409764,0.0 -85.013107,39.408734,0.0 -85.013104,39.408616,0.0 -85.013061,39.408408,0.0 -85.012987,39.408046,0.0 -85.012872,39.407846,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="73921">
+            <name>Put in</name>
+            <styleUrl>#73922</styleUrl>
+            <Point id="73920">
+                <coordinates>-85.003899,39.436501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73926">
+            <name>Take out</name>
+            <styleUrl>#73927</styleUrl>
+            <Point id="73925">
+                <coordinates>-85.013298,39.4076,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

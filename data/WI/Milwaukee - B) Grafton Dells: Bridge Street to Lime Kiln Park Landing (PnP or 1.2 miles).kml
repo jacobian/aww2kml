@@ -1,107 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="20421">
+    <Document id="34368">
+        <Style id="34373">
+            <IconStyle id="34374">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34375">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34378">
+            <IconStyle id="34379">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34380">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34383">
+            <IconStyle id="34384">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34385">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34388">
+            <IconStyle id="34389">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34390">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34393">
+            <IconStyle id="34394">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34395">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34398">
+            <IconStyle id="34399">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34400">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34403">
+            <IconStyle id="34404">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34405">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34408">
+            <IconStyle id="34409">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34410">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34413">
+            <IconStyle id="34414">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34415">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34418">
+            <IconStyle id="34419">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34420">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34423">
+            <IconStyle id="34424">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34425">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34428">
+            <IconStyle id="34429">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34430">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34433">
+            <IconStyle id="34434">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34435">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34438">
+            <IconStyle id="34439">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34440">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34443">
+            <IconStyle id="34444">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="34445">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Milwaukee - B) Grafton Dells: Bridge Street to Lime Kiln Park Landing (PnP or 1.2 miles)</name>
-        <Placemark id="20423">
-            <name>Milwaukee - B) Grafton Dells: Bridge Street to Lime Kiln Park Landing (PnP or 1.2 miles)</name>
+        <Placemark id="34370">
+            <name>Milwaukee - B) Grafton Dells: Bridge Street to Lime Kiln Park Landing (PnP or 1.2 miles) (I-II(III))</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="20422">
+            <LineString id="34369">
                 <coordinates>-87.948895,43.318223,0.0 -87.948303,43.317739,0.0 -87.948183,43.317259,0.0 -87.948368,43.316748,0.0 -87.94883,43.316318,0.0 -87.949001,43.316015,0.0 -87.949891,43.314195,0.0 -87.950055,43.312856,0.0 -87.950161,43.312769,0.0 -87.950452,43.31197,0.0 -87.950123,43.311322,0.0 -87.950191,43.31019,0.0 -87.950282,43.310164,0.0 -87.950322,43.310141,0.0 -87.950422,43.310086,0.0 -87.950553,43.309957,0.0 -87.950689,43.309882,0.0 -87.951339,43.309254,0.0 -87.952134,43.308828,0.0 -87.952499,43.307746,0.0 -87.952646,43.307488,0.0 -87.953018,43.306401,0.0 -87.953261,43.306001,0.0 -87.953342,43.305636,0.0 -87.953224,43.305065,0.0 -87.953732,43.304828,0.0 -87.95405,43.304174,0.0 -87.955161,43.304008,0.0 -87.956479,43.303577,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="20425">
+        <Placemark id="34372">
             <name>Bridge Street Dam</name>
-            <Point id="20424">
+            <styleUrl>#34373</styleUrl>
+            <Point id="34371">
                 <coordinates>-87.949219,43.318871,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20427">
+        <Placemark id="34377">
             <name>Falls Road Ledge (II+)</name>
-            <Point id="20426">
+            <styleUrl>#34378</styleUrl>
+            <Point id="34376">
                 <coordinates>-87.950996,43.309601,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20429">
+        <Placemark id="34382">
             <name>Lime Kiln Park Ledge/Wave (LKPWave)</name>
-            <Point id="20428">
+            <styleUrl>#34383</styleUrl>
+            <Point id="34381">
                 <coordinates>-87.953893,43.304372,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20431">
+        <Placemark id="34387">
             <name>Minor play wave. (I)</name>
-            <Point id="20430">
+            <styleUrl>#34388</styleUrl>
+            <Point id="34386">
                 <coordinates>-87.949997,43.312,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20433">
+        <Placemark id="34392">
             <name>1st Squirt Spot (I)</name>
-            <Point id="20432">
+            <styleUrl>#34393</styleUrl>
+            <Point id="34391">
                 <coordinates>-87.947998,43.317001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20435">
+        <Placemark id="34397">
             <name>Grotto Wall</name>
-            <Point id="20434">
+            <styleUrl>#34398</styleUrl>
+            <Point id="34396">
                 <coordinates>-87.948997,43.314999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20437">
+        <Placemark id="34402">
             <name>Tame play wave, and 2nd Squirt Spot (I)</name>
-            <Point id="20436">
+            <styleUrl>#34403</styleUrl>
+            <Point id="34401">
                 <coordinates>-87.949997,43.311001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20439">
+        <Placemark id="34407">
             <name>FORMER site of Lime Kiln Park Dam (I)</name>
-            <Point id="20438">
+            <styleUrl>#34408</styleUrl>
+            <Point id="34406">
                 <coordinates>-87.9533,43.305199,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20441">
+        <Placemark id="34412">
             <name>Grafton Dells</name>
-            <Point id="20440">
+            <styleUrl>#34413</styleUrl>
+            <Point id="34411">
                 <coordinates>-87.958351,43.301498,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20443">
+        <Placemark id="34417">
             <name>Lime Kiln Park Canoe Landing</name>
-            <Point id="20442">
+            <styleUrl>#34418</styleUrl>
+            <Point id="34416">
                 <coordinates>-87.957001,43.303001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20445">
+        <Placemark id="34422">
             <name>CTH.T/Lakefield Road; Drainage Area: ~472 sq.mi.</name>
-            <Point id="20444">
+            <styleUrl>#34423</styleUrl>
+            <Point id="34421">
                 <coordinates>-87.944,43.294998,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20447">
+        <Placemark id="34427">
             <name>Confluence w.Cedar Creek</name>
-            <Point id="20446">
+            <styleUrl>#34428</styleUrl>
+            <Point id="34426">
                 <coordinates>-87.949997,43.290001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20449">
+        <Placemark id="34432">
             <name>CTH.C/Pioneer Road</name>
-            <Point id="20448">
+            <styleUrl>#34433</styleUrl>
+            <Point id="34431">
                 <coordinates>-87.943001,43.279999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20451">
+        <Placemark id="34437">
             <name>Put-in; Drainage area: ~470 sq.mi.</name>
-            <Point id="20450">
+            <styleUrl>#34438</styleUrl>
+            <Point id="34436">
                 <coordinates>-87.948997,43.318001,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="20453">
-            <name>Put in</name>
-            <Point id="20452">
-                <coordinates>-87.948895,43.318223,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="20455">
+        <Placemark id="34442">
             <name>Take out</name>
-            <Point id="20454">
+            <styleUrl>#34443</styleUrl>
+            <Point id="34441">
                 <coordinates>-87.956479,43.303577,0.0</coordinates>
             </Point>
         </Placemark>

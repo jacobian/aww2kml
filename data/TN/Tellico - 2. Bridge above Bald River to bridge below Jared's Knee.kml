@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="75590">
+        <Style id="75595">
+            <IconStyle id="75596">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75597">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="75600">
+            <IconStyle id="75601">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="75602">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Tellico - 2. Bridge above Bald River to bridge below Jared's Knee</name>
+        <Placemark id="75592">
+            <name>Tellico - 2. Bridge above Bald River to bridge below Jared's Knee (III-IV)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="75591">
+                <coordinates>-84.168168,35.322238,0.0 -84.168279,35.322626,0.0 -84.168615,35.323045,0.0 -84.169638,35.323904,0.0 -84.170323,35.324272,0.0 -84.170924,35.324715,0.0 -84.1713,35.325096,0.0 -84.171286,35.325566,0.0 -84.171348,35.325853,0.0 -84.171494,35.326063,0.0 -84.17191,35.32637,0.0 -84.172456,35.326636,0.0 -84.172733,35.32684,0.0 -84.174867,35.327832,0.0 -84.175177,35.327855,0.0 -84.175759,35.328011,0.0 -84.17655,35.327977,0.0 -84.17689,35.327782,0.0 -84.176902,35.327276,0.0 -84.175902,35.326091,0.0 -84.175751,35.325809,0.0 -84.175712,35.325197,0.0 -84.176002,35.324895,0.0 -84.176346,35.324772,0.0 -84.177144,35.324847,0.0 -84.177549,35.324974,0.0 -84.177999,35.325135,0.0 -84.178638,35.325469,0.0 -84.179867,35.326102,0.0 -84.180681,35.326428,0.0 -84.181188,35.326768,0.0 -84.182142,35.327232,0.0 -84.182561,35.327575,0.0 -84.182584,35.327936,0.0 -84.182503,35.328047,0.0 -84.181536,35.328775,0.0 -84.180856,35.329165,0.0 -84.18068,35.329172,0.0 -84.180338,35.329332,0.0 -84.180171,35.329483,0.0 -84.179863,35.329496,0.0 -84.179234,35.329993,0.0 -84.179262,35.330425,0.0 -84.179595,35.330808,0.0 -84.179731,35.330874,0.0 -84.180258,35.330851,0.0 -84.18082,35.330683,0.0 -84.181787,35.330642,0.0 -84.182636,35.330822,0.0 -84.183357,35.33108,0.0 -84.184162,35.331262,0.0 -84.184775,35.331551,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="75594">
+            <name>Take Out</name>
+            <styleUrl>#75595</styleUrl>
+            <Point id="75593">
+                <coordinates>-84.184799,35.331501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75599">
+            <name>Put In</name>
+            <styleUrl>#75600</styleUrl>
+            <Point id="75598">
+                <coordinates>-84.168297,35.322201,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,41 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="18257">
+    <Document id="30888">
+        <Style id="30893">
+            <IconStyle id="30894">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30895">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30898">
+            <IconStyle id="30899">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30900">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30903">
+            <IconStyle id="30904">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30905">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30908">
+            <IconStyle id="30909">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30910">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Skookumchuck Rapids - Skookumchuck Narrows Provincial Park</name>
-        <Placemark id="18259">
-            <name>Skookumchuck Rapids - Skookumchuck Narrows Provincial Park</name>
+        <Placemark id="30890">
+            <name>Skookumchuck Rapids - Skookumchuck Narrows Provincial Park (IV)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="18258">
+            <LineString id="30889">
                 <coordinates>-123.929009,49.750032,0.0 -123.90758,49.748272,0.0 -123.90026,49.738805,0.0 -123.898751,49.738141,0.0 -123.897359,49.737501,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="18261">
+        <Placemark id="30892">
             <name>Skookumchuck Trail Head</name>
-            <Point id="18260">
+            <styleUrl>#30893</styleUrl>
+            <Point id="30891">
                 <coordinates>-123.927874,49.746909,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18263">
+        <Placemark id="30897">
             <name>Egmont Marina</name>
-            <Point id="18262">
+            <styleUrl>#30898</styleUrl>
+            <Point id="30896">
                 <coordinates>-123.930207,49.749958,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18265">
+        <Placemark id="30902">
             <name>Skookumchuck Rapids (IV)</name>
-            <Point id="18264">
+            <styleUrl>#30903</styleUrl>
+            <Point id="30901">
                 <coordinates>-123.900598,49.739242,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="18267">
-            <name>Put in</name>
-            <Point id="18266">
-                <coordinates>-123.929009,49.750032,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="18269">
+        <Placemark id="30907">
             <name>Take out</name>
-            <Point id="18268">
+            <styleUrl>#30908</styleUrl>
+            <Point id="30906">
                 <coordinates>-123.897359,49.737501,0.0</coordinates>
             </Point>
         </Placemark>

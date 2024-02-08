@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="5355">
+    <Document id="9199">
+        <Style id="9204">
+            <IconStyle id="9205">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9206">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9209">
+            <IconStyle id="9210">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="9211">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Saar Creek  - Westergreen Rd to Reese Hill Rd</name>
-        <Placemark id="5357">
-            <name>Saar Creek  - Westergreen Rd to Reese Hill Rd</name>
+        <Placemark id="9201">
+            <name>Saar Creek  - Westergreen Rd to Reese Hill Rd (IV+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="5356">
+            <LineString id="9200">
                 <coordinates>-122.233585,48.944059,0.0 -122.234,48.94393,0.0 -122.234518,48.943652,0.0 -122.235907,48.943556,0.0 -122.237845,48.942488,0.0 -122.238402,48.941798,0.0 -122.240202,48.940794,0.0 -122.242316,48.939082,0.0 -122.243216,48.938502,0.0 -122.243948,48.937868,0.0 -122.244116,48.937411,0.0 -122.244116,48.937411,0.0 -122.244673,48.936606,0.0 -122.245505,48.935648,0.0 -122.246123,48.935355,0.0 -122.246405,48.934737,0.0 -122.24668,48.934531,0.0 -122.248557,48.934183,0.0 -122.249076,48.934023,0.0 -122.249626,48.933688,0.0 -122.24977,48.933482,0.0 -122.250251,48.933131,0.0 -122.251304,48.932818,0.0 -122.251869,48.932677,0.0 -122.253082,48.932108,0.0 -122.253326,48.931876,0.0 -122.253364,48.931559,0.0 -122.253601,48.931078,0.0 -122.254051,48.930739,0.0 -122.254402,48.930598,0.0 -122.255096,48.930556,0.0 -122.255653,48.930846,0.0 -122.256202,48.930983,0.0 -122.256858,48.930991,0.0 -122.25756,48.930689,0.0 -122.25811,48.930575,0.0 -122.258636,48.930758,0.0 -122.259185,48.930781,0.0 -122.259674,48.930487,0.0 -122.260368,48.929544,0.0 -122.260681,48.92925,0.0 -122.261787,48.928563,0.0 -122.262588,48.928453,0.0 -122.263038,48.928205,0.0 -122.263626,48.928155,0.0 -122.264534,48.92772,0.0 -122.265105,48.927586,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="5359">
+        <Placemark id="9203">
             <name>Put in</name>
-            <Point id="5358">
+            <styleUrl>#9204</styleUrl>
+            <Point id="9202">
                 <coordinates>-122.233585,48.944059,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="5361">
+        <Placemark id="9208">
             <name>Take out</name>
-            <Point id="5360">
+            <styleUrl>#9209</styleUrl>
+            <Point id="9207">
                 <coordinates>-122.265105,48.927586,0.0</coordinates>
             </Point>
         </Placemark>

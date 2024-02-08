@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="104896">
+        <Style id="104901">
+            <IconStyle id="104902">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104903">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104906">
+            <IconStyle id="104907">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="104908">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Duck River - Old Stone Fort</name>
+        <Placemark id="104898">
+            <name>Duck River - Old Stone Fort (IV-V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="104897">
+                <coordinates>-86.102339,35.486944,0.0 -86.102352,35.48691,0.0 -86.102371,35.486876,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="104900">
+            <name>Take Out</name>
+            <styleUrl>#104901</styleUrl>
+            <Point id="104899">
+                <coordinates>-86.1017,35.4865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="104905">
+            <name>Put In</name>
+            <styleUrl>#104906</styleUrl>
+            <Point id="104904">
+                <coordinates>-86.1017,35.4867,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

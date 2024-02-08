@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="90719">
+        <Style id="90724">
+            <IconStyle id="90725">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="90726">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="90729">
+            <IconStyle id="90730">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="90731">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Grass, Upper South Branch - Spruce Mountain to New Bridge</name>
+        <Placemark id="90721">
+            <name>Grass, Upper South Branch - Spruce Mountain to New Bridge (II-III(V))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="90720">
+                <coordinates>-74.946416,44.293217,0.0 -74.946528,44.293128,0.0 -74.947323,44.292601,0.0 -74.948436,44.291755,0.0 -74.949104,44.29148,0.0 -74.949996,44.291456,0.0 -74.950792,44.291776,0.0 -74.951238,44.291798,0.0 -74.951493,44.291707,0.0 -74.952765,44.291157,0.0 -74.953275,44.290974,0.0 -74.954229,44.290767,0.0 -74.954325,44.290676,0.0 -74.955279,44.290126,0.0 -74.956234,44.289828,0.0 -74.956456,44.289714,0.0 -74.956775,44.289622,0.0 -74.957984,44.289164,0.0 -74.958525,44.28898,0.0 -74.95897,44.2885,0.0 -74.96002,44.288065,0.0 -74.961292,44.287469,0.0 -74.962279,44.28724,0.0 -74.963648,44.287216,0.0 -74.963966,44.287055,0.0 -74.963965,44.28669,0.0 -74.963838,44.286553,0.0 -74.963806,44.286255,0.0 -74.963933,44.286118,0.0 -74.964347,44.286095,0.0 -74.964538,44.286415,0.0 -74.964698,44.28678,0.0 -74.964762,44.286849,0.0 -74.964857,44.287169,0.0 -74.96524,44.287603,0.0 -74.965814,44.288015,0.0 -74.96677,44.288334,0.0 -74.967534,44.288425,0.0 -74.968712,44.28847,0.0 -74.969667,44.288652,0.0 -74.970336,44.288674,0.0 -74.971386,44.288582,0.0 -74.972054,44.288421,0.0 -74.972913,44.288009,0.0 -74.973295,44.287642,0.0 -74.973771,44.286704,0.0 -74.97412,44.286498,0.0 -74.975203,44.286497,0.0 -74.975558,44.286388,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="90723">
+            <name>Take Out</name>
+            <styleUrl>#90724</styleUrl>
+            <Point id="90722">
+                <coordinates>-74.9755,44.2862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="90728">
+            <name>Put In</name>
+            <styleUrl>#90729</styleUrl>
+            <Point id="90727">
+                <coordinates>-74.946,44.2927,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

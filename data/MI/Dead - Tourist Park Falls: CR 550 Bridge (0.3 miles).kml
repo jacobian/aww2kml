@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="21589">
+    <Document id="36249">
+        <Style id="36254">
+            <IconStyle id="36255">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36256">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="36259">
+            <IconStyle id="36260">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36261">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Dead - Tourist Park Falls: CR 550 Bridge (0.3 miles)</name>
-        <Placemark id="21591">
-            <name>Dead - Tourist Park Falls: CR 550 Bridge (0.3 miles)</name>
+        <Placemark id="36251">
+            <name>Dead - Tourist Park Falls: CR 550 Bridge (0.3 miles) (III-IV)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="21590">
+            <LineString id="36250">
                 <coordinates>-87.410603,46.570834,0.0 -87.409921,46.571004,0.0 -87.409843,46.571463,0.0 -87.410127,46.571751,0.0 -87.410056,46.572328,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="21593">
+        <Placemark id="36253">
             <name>Take Out</name>
-            <Point id="21592">
+            <styleUrl>#36254</styleUrl>
+            <Point id="36252">
                 <coordinates>-87.410004,46.571999,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="21595">
+        <Placemark id="36258">
             <name>Put In</name>
-            <Point id="21594">
+            <styleUrl>#36259</styleUrl>
+            <Point id="36257">
                 <coordinates>-87.4095,46.570999,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21597">
-            <name>Put in</name>
-            <Point id="21596">
-                <coordinates>-87.410603,46.570834,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21599">
-            <name>Take out</name>
-            <Point id="21598">
-                <coordinates>-87.410056,46.572328,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

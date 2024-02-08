@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="7827">
+    <Document id="13186">
+        <Style id="13191">
+            <IconStyle id="13192">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="13193">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="13196">
+            <IconStyle id="13197">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="13198">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>South Skunk  Park N Play - 13th Street Mitigated Low Head Dam</name>
-        <Placemark id="7829">
-            <name>South Skunk  Park N Play - 13th Street Mitigated Low Head Dam</name>
+        <Placemark id="13188">
+            <name>South Skunk  Park N Play - 13th Street Mitigated Low Head Dam (I-II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="7828">
+            <LineString id="13187">
                 <coordinates>-93.598014,42.037397,0.0 -93.597604,42.037397,0.0 -93.597314,42.037413,0.0 -93.597261,42.037397,0.0 -93.597261,42.037397,0.0 -93.597132,42.037357,0.0 -93.597014,42.037301,0.0 -93.596842,42.037174,0.0 -93.59675,42.037077,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="7831">
+        <Placemark id="13190">
             <name>Put in</name>
-            <Point id="7830">
+            <styleUrl>#13191</styleUrl>
+            <Point id="13189">
                 <coordinates>-93.598014,42.037397,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="7833">
+        <Placemark id="13195">
             <name>Take out</name>
-            <Point id="7832">
+            <styleUrl>#13196</styleUrl>
+            <Point id="13194">
                 <coordinates>-93.59675,42.037077,0.0</coordinates>
             </Point>
         </Placemark>

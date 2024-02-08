@@ -1,60 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="27005">
+    <Document id="45200">
+        <Style id="45205">
+            <IconStyle id="45206">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45207">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45210">
+            <IconStyle id="45211">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45212">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45215">
+            <IconStyle id="45216">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45217">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45220">
+            <IconStyle id="45221">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45222">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45225">
+            <IconStyle id="45226">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45227">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45230">
+            <IconStyle id="45231">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45232">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Presque Isle - B) Underwood Tower Rd to Steigers Bridge (7.5 miles)</name>
-        <Placemark id="27007">
-            <name>Presque Isle - B) Underwood Tower Rd to Steigers Bridge (7.5 miles)</name>
+        <Placemark id="45202">
+            <name>Presque Isle - B) Underwood Tower Rd to Steigers Bridge (7.5 miles) (II-IV)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="27006">
+            <LineString id="45201">
                 <coordinates>-89.806341,46.558746,0.0 -89.806596,46.558719,0.0 -89.808835,46.558187,0.0 -89.810663,46.558143,0.0 -89.811026,46.558159,0.0 -89.811026,46.558159,0.0 -89.812104,46.558335,0.0 -89.813241,46.55788,0.0 -89.814149,46.557921,0.0 -89.81484,46.558332,0.0 -89.814781,46.558962,0.0 -89.815121,46.559231,0.0 -89.819081,46.55979,0.0 -89.820779,46.561133,0.0 -89.821663,46.561426,0.0 -89.822816,46.562744,0.0 -89.824633,46.562826,0.0 -89.825142,46.563229,0.0 -89.825217,46.564372,0.0 -89.825727,46.564775,0.0 -89.826793,46.565076,0.0 -89.828734,46.566746,0.0 -89.828734,46.566746,0.0 -89.828977,46.567074,0.0 -89.828906,46.56783,0.0 -89.830656,46.570568,0.0 -89.831324,46.571231,0.0 -89.832209,46.571524,0.0 -89.832888,46.572061,0.0 -89.833497,46.573355,0.0 -89.833402,46.574364,0.0 -89.834105,46.574649,0.0 -89.834943,46.575446,0.0 -89.835393,46.576479,0.0 -89.836061,46.577142,0.0 -89.836634,46.578814,0.0 -89.839013,46.580694,0.0 -89.839147,46.581206,0.0 -89.840471,46.582659,0.0 -89.840728,46.58381,0.0 -89.841372,46.584725,0.0 -89.841313,46.585356,0.0 -89.842602,46.587186,0.0 -89.843164,46.588984,0.0 -89.843504,46.589253,0.0 -89.843726,46.590782,0.0 -89.844528,46.591958,0.0 -89.844528,46.591958,0.0 -89.846567,46.593569,0.0 -89.847334,46.595123,0.0 -89.848489,46.596441,0.0 -89.848442,46.596945,0.0 -89.84886,46.597592,0.0 -89.84886,46.597592,0.0 -89.849877,46.599162,0.0 -89.849964,46.600179,0.0 -89.850597,46.601221,0.0 -89.850737,46.603633,0.0 -89.851235,46.604162,0.0 -89.852677,46.604353,0.0 -89.853194,46.604845,0.0 -89.853194,46.604845,0.0 -89.853515,46.605151,0.0 -89.854283,46.606705,0.0 -89.854224,46.607335,0.0 -89.854564,46.607604,0.0 -89.854921,46.609646,0.0 -89.85621,46.611476,0.0 -89.85791,46.612819,0.0 -89.858397,46.613474,0.0 -89.858426,46.615121,0.0 -89.857833,46.615601,0.0 -89.857557,46.616602,0.0 -89.858823,46.618685,0.0 -89.858659,46.62045,0.0 -89.859509,46.621121,0.0 -89.859509,46.621121,0.0 -89.860189,46.621244,0.0 -89.861146,46.62161,0.0 -89.861586,46.62252,0.0 -89.862415,46.623002,0.0 -89.862994,46.623675,0.0 -89.863267,46.624496,0.0 -89.863267,46.624496,0.0 -89.863715,46.625325,0.0 -89.865211,46.62616,0.0 -89.869176,46.628037,0.0 -89.870103,46.628725,0.0 -89.87001,46.629732,0.0 -89.870197,46.630226,0.0 -89.870039,46.631917,0.0 -89.870429,46.632744,0.0 -89.87095,46.633414,0.0 -89.871137,46.635162,0.0 -89.872071,46.637023,0.0 -89.872755,46.637822,0.0 -89.872933,46.639044,0.0 -89.873724,46.639322,0.0 -89.874724,46.639852,0.0 -89.876339,46.641299,0.0 -89.877002,46.641693,0.0 -89.877641,46.641977,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="27009">
+        <Placemark id="45204">
             <name>Nimikon Falls</name>
-            <Point id="27008">
+            <styleUrl>#45205</styleUrl>
+            <Point id="45203">
                 <coordinates>-89.850266,46.600712,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27011">
+        <Placemark id="45209">
             <name>Minnewawa Falls</name>
-            <Point id="27010">
+            <styleUrl>#45210</styleUrl>
+            <Point id="45208">
                 <coordinates>-89.848701,46.596901,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27013">
+        <Placemark id="45214">
             <name>Take Out</name>
-            <Point id="27012">
+            <styleUrl>#45215</styleUrl>
+            <Point id="45213">
                 <coordinates>-89.8775,46.6417,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27015">
+        <Placemark id="45219">
             <name>Put In</name>
-            <Point id="27014">
+            <styleUrl>#45220</styleUrl>
+            <Point id="45218">
                 <coordinates>-89.8063,46.5581,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27017">
+        <Placemark id="45224">
             <name>rapids sequence #2</name>
-            <Point id="27016">
+            <styleUrl>#45225</styleUrl>
+            <Point id="45223">
                 <coordinates>-89.846634,46.5933,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27019">
+        <Placemark id="45229">
             <name>rapids sequence #1</name>
-            <Point id="27018">
+            <styleUrl>#45230</styleUrl>
+            <Point id="45228">
                 <coordinates>-89.840698,46.582699,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27021">
-            <name>Put in</name>
-            <Point id="27020">
-                <coordinates>-89.806341,46.558746,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27023">
-            <name>Take out</name>
-            <Point id="27022">
-                <coordinates>-89.877641,46.641977,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="77324">
+        <Style id="77329">
+            <IconStyle id="77330">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77331">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="77334">
+            <IconStyle id="77335">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="77336">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>New - 02.1 Byllesby Dam to Ivanhoe</name>
+        <Placemark id="77326">
+            <name>New - 02.1 Byllesby Dam to Ivanhoe (II-III)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="77325">
+                <coordinates>-80.935229,36.787152,0.0 -80.934822,36.787578,0.0 -80.933886,36.788556,0.0 -80.932807,36.791101,0.0 -80.930392,36.792454,0.0 -80.929486,36.792629,0.0 -80.928936,36.792632,0.0 -80.928178,36.792753,0.0 -80.927406,36.792945,0.0 -80.926634,36.793136,0.0 -80.925505,36.793283,0.0 -80.924733,36.793475,0.0 -80.924521,36.793489,0.0 -80.923246,36.793577,0.0 -80.92231,36.793689,0.0 -80.922072,36.793718,0.0 -80.92136,36.794062,0.0 -80.921087,36.79428,0.0 -80.920361,36.794695,0.0 -80.919557,36.795497,0.0 -80.91908,36.796268,0.0 -80.918354,36.797587,0.0 -80.918186,36.799771,0.0 -80.918261,36.800757,0.0 -80.918415,36.801355,0.0 -80.918356,36.80142,0.0 -80.921321,36.804943,0.0 -80.923467,36.806042,0.0 -80.924594,36.806365,0.0 -80.926268,36.806468,0.0 -80.927482,36.806585,0.0 -80.928233,36.806499,0.0 -80.92836,36.806551,0.0 -80.932442,36.806555,0.0 -80.933095,36.806226,0.0 -80.935295,36.805117,0.0 -80.937053,36.80518,0.0 -80.938298,36.805591,0.0 -80.939357,36.806328,0.0 -80.940142,36.807221,0.0 -80.940618,36.807853,0.0 -80.941636,36.808659,0.0 -80.942071,36.809071,0.0 -80.942811,36.809769,0.0 -80.942828,36.809786,0.0 -80.943569,36.810592,0.0 -80.943579,36.810604,0.0 -80.943565,36.810674,0.0 -80.943905,36.811259,0.0 -80.94405,36.81215,0.0 -80.944295,36.812502,0.0 -80.945883,36.814168,0.0 -80.946487,36.814802,0.0 -80.948598,36.817293,0.0 -80.948549,36.821823,0.0 -80.948482,36.822154,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="77328">
+            <name>Take Out</name>
+            <styleUrl>#77329</styleUrl>
+            <Point id="77327">
+                <coordinates>-80.949203,36.8223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77333">
+            <name>Put In</name>
+            <styleUrl>#77334</styleUrl>
+            <Point id="77332">
+                <coordinates>-80.935699,36.787601,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

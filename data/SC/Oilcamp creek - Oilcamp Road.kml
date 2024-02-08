@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="115393">
+        <Style id="115398">
+            <IconStyle id="115399">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="115400">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="115403">
+            <IconStyle id="115404">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="115405">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Oilcamp creek - Oilcamp Road</name>
+        <Placemark id="115395">
+            <name>Oilcamp creek - Oilcamp Road (I-III(IV))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="115394">
+                <coordinates>-82.58444,35.10424,0.0 -82.584202,35.104283,0.0 -82.583433,35.104377,0.0 -82.583272,35.104421,0.0 -82.582998,35.104569,0.0 -82.58263,35.104838,0.0 -82.582604,35.104838,0.0 -82.582236,35.105053,0.0 -82.581995,35.105168,0.0 -82.581928,35.105179,0.0 -82.581433,35.105124,0.0 -82.581206,35.105058,0.0 -82.580965,35.105031,0.0 -82.580751,35.105081,0.0 -82.580577,35.105168,0.0 -82.580491,35.105174,0.0 -82.580363,35.105152,0.0 -82.580109,35.104971,0.0 -82.579989,35.105004,0.0 -82.579788,35.105108,0.0 -82.579501,35.105367,0.0 -82.579093,35.105603,0.0 -82.577394,35.106048,0.0 -82.57714,35.106158,0.0 -82.576759,35.106356,0.0 -82.576559,35.106444,0.0 -82.576151,35.106571,0.0 -82.575596,35.106791,0.0 -82.575174,35.106994,0.0 -82.57488,35.107186,0.0 -82.574526,35.107489,0.0 -82.574472,35.107555,0.0 -82.574245,35.108022,0.0 -82.574192,35.108088,0.0 -82.574051,35.108176,0.0 -82.573864,35.108236,0.0 -82.573362,35.108324,0.0 -82.572901,35.10833,0.0 -82.572339,35.108236,0.0 -82.572072,35.108242,0.0 -82.571289,35.108368,0.0 -82.571048,35.108451,0.0 -82.57042,35.108709,0.0 -82.570293,35.108808,0.0 -82.570219,35.108902,0.0 -82.570132,35.109275,0.0 -82.570106,35.109341,0.0 -82.569992,35.109462,0.0 -82.569778,35.109578,0.0 -82.569513,35.109641,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="115397">
+            <name>Take Out</name>
+            <styleUrl>#115398</styleUrl>
+            <Point id="115396">
+                <coordinates>-82.569504,35.1096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115402">
+            <name>Put In</name>
+            <styleUrl>#115403</styleUrl>
+            <Point id="115401">
+                <coordinates>-82.584396,35.104,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

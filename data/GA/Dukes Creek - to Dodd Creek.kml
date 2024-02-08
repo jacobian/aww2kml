@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56799">
+        <Style id="56804">
+            <IconStyle id="56805">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56806">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="56809">
+            <IconStyle id="56810">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="56811">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Dukes Creek - to Dodd Creek</name>
+        <Placemark id="56801">
+            <name>Dukes Creek - to Dodd Creek (V)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="56800">
+                <coordinates>-83.789095,34.70996,0.0 -83.787256,34.709715,0.0 -83.787604,34.70608,0.0 -83.789989,34.703098,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="56803">
+            <name>Take Out</name>
+            <styleUrl>#56804</styleUrl>
+            <Point id="56802">
+                <coordinates>-83.7905,34.7122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="56808">
+            <name>Put In</name>
+            <styleUrl>#56809</styleUrl>
+            <Point id="56807">
+                <coordinates>-83.7943,34.7201,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

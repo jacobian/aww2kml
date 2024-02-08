@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="65511">
+        <Style id="65516">
+            <IconStyle id="65517">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65518">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65521">
+            <IconStyle id="65522">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65523">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65526">
+            <IconStyle id="65527">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65528">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65531">
+            <IconStyle id="65532">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65533">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65536">
+            <IconStyle id="65537">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65538">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65541">
+            <IconStyle id="65542">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65543">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65546">
+            <IconStyle id="65547">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65548">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65551">
+            <IconStyle id="65552">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65553">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65556">
+            <IconStyle id="65557">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65558">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65561">
+            <IconStyle id="65562">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65563">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65566">
+            <IconStyle id="65567">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65568">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65571">
+            <IconStyle id="65572">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65573">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65576">
+            <IconStyle id="65577">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65578">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65581">
+            <IconStyle id="65582">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65583">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65586">
+            <IconStyle id="65587">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65588">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65591">
+            <IconStyle id="65592">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65593">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="65596">
+            <IconStyle id="65597">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="65598">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sugar Creek - Darlington (1.2 miles)</name>
+        <Placemark id="65513">
+            <name>Sugar Creek - Darlington (1.2 miles) (I-II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="65512">
+                <coordinates>-86.852192,40.087769,0.0 -86.85223,40.087755,0.0 -86.8523,40.087732,0.0 -86.853109,40.087471,0.0 -86.853189,40.087445,0.0 -86.853378,40.087398,0.0 -86.853534,40.087367,0.0 -86.853627,40.087353,0.0 -86.853862,40.087309,0.0 -86.854033,40.087281,0.0 -86.854209,40.087269,0.0 -86.855013,40.087245,0.0 -86.85552,40.087253,0.0 -86.856219,40.087263,0.0 -86.856386,40.087266,0.0 -86.857278,40.087252,0.0 -86.85754,40.087235,0.0 -86.857762,40.087217,0.0 -86.857972,40.087195,0.0 -86.857982,40.087194,0.0 -86.85848,40.087114,0.0 -86.858655,40.087091,0.0 -86.859142,40.087072,0.0 -86.859694,40.087061,0.0 -86.860088,40.08702,0.0 -86.860664,40.086912,0.0 -86.86106,40.086802,0.0 -86.861288,40.086681,0.0 -86.86145,40.086607,0.0 -86.861637,40.086475,0.0 -86.861751,40.086373,0.0 -86.861898,40.086204,0.0 -86.862052,40.086042,0.0 -86.862134,40.085991,0.0 -86.862283,40.085921,0.0 -86.862353,40.085904,0.0 -86.862595,40.085863,0.0 -86.862957,40.085836,0.0 -86.863072,40.085831,0.0 -86.863271,40.085838,0.0 -86.86346,40.085858,0.0 -86.86355,40.085881,0.0 -86.86366,40.085901,0.0 -86.863802,40.085899,0.0 -86.863874,40.085876,0.0 -86.863964,40.085807,0.0 -86.864028,40.085777,0.0 -86.864322,40.085611,0.0 -86.864389,40.085574,0.0 -86.864391,40.085572,0.0 -86.864587,40.085438,0.0 -86.864748,40.085328,0.0 -86.864768,40.085317,0.0 -86.864942,40.085198,0.0 -86.865203,40.084993,0.0 -86.865344,40.084863,0.0 -86.865423,40.084761,0.0 -86.865439,40.084737,0.0 -86.865493,40.084656,0.0 -86.865603,40.084518,0.0 -86.865642,40.084484,0.0 -86.86573,40.084418,0.0 -86.865797,40.084369,0.0 -86.865923,40.084292,0.0 -86.866073,40.084212,0.0 -86.866914,40.083859,0.0 -86.868206,40.083419,0.0 -86.868732,40.083247,0.0 -86.868739,40.083244,0.0 -86.869133,40.083155,0.0 -86.869245,40.08314,0.0 -86.869351,40.08313,0.0 -86.869735,40.083096,0.0 -86.869817,40.083091,0.0 -86.870058,40.083085,0.0 -86.870114,40.083085,0.0 -86.870424,40.083104,0.0 -86.870613,40.083115,0.0 -86.870896,40.08313,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="65515">
+            <name>County Line Road / County Road 1200W</name>
+            <styleUrl>#65516</styleUrl>
+            <Point id="65514">
+                <coordinates>-86.695801,40.143398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65520">
+            <name>Low Head Dam (Portage)</name>
+            <styleUrl>#65521</styleUrl>
+            <Point id="65519">
+                <coordinates>-86.900352,40.048122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65525">
+            <name>County Road 175E</name>
+            <styleUrl>#65526</styleUrl>
+            <Point id="65524">
+                <coordinates>-86.87104,40.08317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65530">
+            <name>Covered Bridge: Drainage: ~320 sq.mi.</name>
+            <styleUrl>#65531</styleUrl>
+            <Point id="65529">
+                <coordinates>-86.79364,40.107928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65535">
+            <name>County Road N 700E</name>
+            <styleUrl>#65536</styleUrl>
+            <Point id="65534">
+                <coordinates>-86.77205,40.12417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65540">
+            <name>Railroad Bridge (II)</name>
+            <styleUrl>#65541</styleUrl>
+            <Point id="65539">
+                <coordinates>-86.754066,40.128315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65545">
+            <name>County Road E 500N</name>
+            <styleUrl>#65546</styleUrl>
+            <Point id="65544">
+                <coordinates>-86.79302,40.10981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65550">
+            <name>County Road N 425E</name>
+            <styleUrl>#65551</styleUrl>
+            <Point id="65549">
+                <coordinates>-86.8239,40.10742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65555">
+            <name>Interstate 74</name>
+            <styleUrl>#65556</styleUrl>
+            <Point id="65554">
+                <coordinates>-86.88847,40.07629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65560">
+            <name>Hwy.231</name>
+            <styleUrl>#65561</styleUrl>
+            <Point id="65559">
+                <coordinates>-86.90116,40.04762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65565">
+            <name>Lafayette Avenue</name>
+            <styleUrl>#65566</styleUrl>
+            <Point id="65564">
+                <coordinates>-86.90717,40.05022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65570">
+            <name>County Road 275E</name>
+            <styleUrl>#65571</styleUrl>
+            <Point id="65569">
+                <coordinates>-86.85221,40.08777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65575">
+            <name>Hwy.136</name>
+            <styleUrl>#65576</styleUrl>
+            <Point id="65574">
+                <coordinates>-86.92265,40.05017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65580">
+            <name>USGS gauge: 509 sq.mi.</name>
+            <styleUrl>#65581</styleUrl>
+            <Point id="65579">
+                <coordinates>-86.899836,40.048856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65585">
+            <name>County Road 950E</name>
+            <styleUrl>#65586</styleUrl>
+            <Point id="65584">
+                <coordinates>-86.72425,40.1402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65590">
+            <name>Put-in</name>
+            <styleUrl>#65591</styleUrl>
+            <Point id="65589">
+                <coordinates>-86.852203,40.087799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65595">
+            <name>Take-out</name>
+            <styleUrl>#65596</styleUrl>
+            <Point id="65594">
+                <coordinates>-86.870891,40.08313,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

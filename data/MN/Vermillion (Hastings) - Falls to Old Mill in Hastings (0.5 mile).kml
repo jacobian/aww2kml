@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="19603">
+    <Document id="33099">
+        <Style id="33104">
+            <IconStyle id="33105">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33106">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="33109">
+            <IconStyle id="33110">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="33111">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Vermillion (Hastings) - Falls to Old Mill in Hastings (0.5 mile)</name>
-        <Placemark id="19605">
-            <name>Vermillion (Hastings) - Falls to Old Mill in Hastings (0.5 mile)</name>
+        <Placemark id="33101">
+            <name>Vermillion (Hastings) - Falls to Old Mill in Hastings (0.5 mile) (II-III+)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="19604">
+            <LineString id="33100">
                 <coordinates>-92.850046,44.725284,0.0 -92.848717,44.725627,0.0 -92.847187,44.725881,0.0 -92.846428,44.725842,0.0 -92.845659,44.725758,0.0 -92.843962,44.725497,0.0 -92.843371,44.725601,0.0 -92.841989,44.725802,0.0 -92.841741,44.725835,0.0 -92.841437,44.725943,0.0 -92.841007,44.726229,0.0 -92.840996,44.726545,0.0 -92.841047,44.727131,0.0 -92.841119,44.727928,0.0 -92.841128,44.728191,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="19607">
+        <Placemark id="33103">
             <name>Take Out</name>
-            <Point id="19606">
+            <styleUrl>#33104</styleUrl>
+            <Point id="33102">
                 <coordinates>-92.840897,44.728199,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19609">
+        <Placemark id="33108">
             <name>Put In</name>
-            <Point id="19608">
+            <styleUrl>#33109</styleUrl>
+            <Point id="33107">
                 <coordinates>-92.849998,44.725101,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19611">
-            <name>Put in</name>
-            <Point id="19610">
-                <coordinates>-92.849998,44.725101,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19613">
-            <name>Take out</name>
-            <Point id="19612">
-                <coordinates>-92.840897,44.728199,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

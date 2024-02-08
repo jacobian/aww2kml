@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="80358">
+        <Style id="80363">
+            <IconStyle id="80364">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80365">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="80368">
+            <IconStyle id="80369">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="80370">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Erie Canal - Lock 32 Whitewater Course</name>
+        <Placemark id="80360">
+            <name>Erie Canal - Lock 32 Whitewater Course (II+)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="80359">
+                <coordinates>-77.545619,43.090597,0.0 -77.544961,43.090406,0.0 -77.544397,43.090413,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="80362">
+            <name>Take Out</name>
+            <styleUrl>#80363</styleUrl>
+            <Point id="80361">
+                <coordinates>-77.544403,43.0909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="80367">
+            <name>Put In</name>
+            <styleUrl>#80368</styleUrl>
+            <Point id="80366">
+                <coordinates>-77.545502,43.091,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

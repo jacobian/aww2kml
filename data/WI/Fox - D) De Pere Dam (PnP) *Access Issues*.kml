@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="27217">
+    <Document id="45570">
+        <Style id="45575">
+            <IconStyle id="45576">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45577">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="45580">
+            <IconStyle id="45581">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="45582">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Fox - D) De Pere Dam (PnP) *Access Issues*</name>
-        <Placemark id="27219">
-            <name>Fox - D) De Pere Dam (PnP) *Access Issues*</name>
+        <Placemark id="45572">
+            <name>Fox - D) De Pere Dam (PnP) *Access Issues* (II)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="27218">
+            <LineString id="45571">
                 <coordinates>-88.065066,44.45256,0.0 -88.065768,44.451687,0.0 -88.066031,44.451015,0.0 -88.064074,44.450081,0.0 -88.063415,44.449022,0.0 -88.064204,44.448819,0.0 -88.066241,44.450947,0.0 -88.065606,44.452364,0.0 -88.065112,44.452587,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="27221">
+        <Placemark id="45574">
             <name>Take Out</name>
-            <Point id="27220">
+            <styleUrl>#45575</styleUrl>
+            <Point id="45573">
                 <coordinates>-88.065002,44.451,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="27223">
+        <Placemark id="45579">
             <name>Put In</name>
-            <Point id="27222">
+            <styleUrl>#45580</styleUrl>
+            <Point id="45578">
                 <coordinates>-88.061996,44.449001,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27225">
-            <name>Put in</name>
-            <Point id="27224">
-                <coordinates>-88.065066,44.45256,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27227">
-            <name>Take out</name>
-            <Point id="27226">
-                <coordinates>-88.065112,44.452587,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

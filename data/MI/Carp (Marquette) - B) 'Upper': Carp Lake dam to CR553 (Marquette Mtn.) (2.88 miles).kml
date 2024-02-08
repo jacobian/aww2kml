@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="73829">
+        <Style id="73834">
+            <IconStyle id="73835">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73836">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73839">
+            <IconStyle id="73840">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73841">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73844">
+            <IconStyle id="73845">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73846">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73849">
+            <IconStyle id="73850">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73851">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73854">
+            <IconStyle id="73855">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73856">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73859">
+            <IconStyle id="73860">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73861">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="73864">
+            <IconStyle id="73865">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="73866">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Carp (Marquette) - B) 'Upper': Carp Lake dam to CR553 (Marquette Mtn.) (2.88 miles)</name>
+        <Placemark id="73831">
+            <name>Carp (Marquette) - B) 'Upper': Carp Lake dam to CR553 (Marquette Mtn.) (2.88 miles) (III-V(V+))</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="73830">
+                <coordinates>-87.461099,46.495098,0.0 -87.461063,46.495301,0.0 -87.460831,46.495439,0.0 -87.4605,46.495485,0.0 -87.459971,46.495508,0.0 -87.458879,46.495897,0.0 -87.457688,46.496218,0.0 -87.457026,46.49647,0.0 -87.456629,46.49679,0.0 -87.456463,46.49695,0.0 -87.456365,46.497271,0.0 -87.456265,46.497385,0.0 -87.455802,46.497682,0.0 -87.45524,46.497911,0.0 -87.454843,46.498232,0.0 -87.454579,46.49862,0.0 -87.454613,46.499055,0.0 -87.454646,46.499329,0.0 -87.454713,46.499695,0.0 -87.454581,46.499718,0.0 -87.454647,46.499948,0.0 -87.454052,46.500444,0.0 -87.453854,46.500718,0.0 -87.453291,46.500901,0.0 -87.451868,46.500971,0.0 -87.450908,46.5012,0.0 -87.450379,46.501498,0.0 -87.449685,46.502207,0.0 -87.447765,46.502962,0.0 -87.447071,46.503351,0.0 -87.446542,46.503809,0.0 -87.445681,46.504221,0.0 -87.44492,46.504427,0.0 -87.444357,46.504519,0.0 -87.443331,46.504474,0.0 -87.442305,46.504543,0.0 -87.441742,46.504635,0.0 -87.44108,46.504635,0.0 -87.440782,46.504544,0.0 -87.44012,46.504407,0.0 -87.439557,46.504522,0.0 -87.439094,46.504705,0.0 -87.438432,46.505208,0.0 -87.438399,46.505277,0.0 -87.436579,46.505415,0.0 -87.434891,46.505667,0.0 -87.433732,46.505782,0.0 -87.432309,46.506263,0.0 -87.431747,46.506674,0.0 -87.431516,46.507177,0.0 -87.431384,46.507909,0.0 -87.431285,46.508,0.0 -87.430954,46.508115,0.0 -87.430523,46.508092,0.0 -87.429861,46.507864,0.0 -87.428934,46.507476,0.0 -87.428139,46.507476,0.0 -87.426981,46.507751,0.0 -87.425933,46.508105,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="73833">
+            <name>Falls Sequence (V)</name>
+            <styleUrl>#73834</styleUrl>
+            <Point id="73832">
+                <coordinates>-87.448608,46.502491,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73838">
+            <name>Take Out</name>
+            <styleUrl>#73839</styleUrl>
+            <Point id="73837">
+                <coordinates>-87.425797,46.507702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73843">
+            <name>Put In</name>
+            <styleUrl>#73844</styleUrl>
+            <Point id="73842">
+                <coordinates>-87.461098,46.495098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73848">
+            <name>USGS sampling site</name>
+            <styleUrl>#73849</styleUrl>
+            <Point id="73847">
+                <coordinates>-87.471001,46.494099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73853">
+            <name>Split Ledge (IV)</name>
+            <styleUrl>#73854</styleUrl>
+            <Point id="73852">
+                <coordinates>-87.440392,46.504219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73858">
+            <name>Morgan Falls</name>
+            <styleUrl>#73859</styleUrl>
+            <Point id="73857">
+                <coordinates>-87.437897,46.505402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73863">
+            <name>Braided Channel</name>
+            <styleUrl>#73864</styleUrl>
+            <Point id="73862">
+                <coordinates>-87.424896,46.508202,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

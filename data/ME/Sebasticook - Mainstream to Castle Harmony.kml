@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="126573">
+        <Style id="126578">
+            <IconStyle id="126579">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="126580">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="126583">
+            <IconStyle id="126584">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="126585">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Sebasticook - Mainstream to Castle Harmony</name>
+        <Placemark id="126575">
+            <name>Sebasticook - Mainstream to Castle Harmony (II)</name>
+            <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
+            <LineString id="126574">
+                <coordinates>-69.506332,44.967327,0.0 -69.507062,44.967143,0.0 -69.50744,44.966861,0.0 -69.507643,44.966536,0.0 -69.507818,44.966052,0.0 -69.507897,44.965163,0.0 -69.508112,44.964502,0.0 -69.508628,44.963977,0.0 -69.509347,44.963587,0.0 -69.50951,44.963452,0.0 -69.509687,44.963236,0.0 -69.509752,44.962992,0.0 -69.509712,44.962315,0.0 -69.509443,44.961774,0.0 -69.509403,44.961562,0.0 -69.509715,44.960642,0.0 -69.509685,44.960285,0.0 -69.509524,44.959988,0.0 -69.508968,44.959629,0.0 -69.508838,44.959476,0.0 -69.508661,44.95903,0.0 -69.508706,44.958421,0.0 -69.508585,44.957966,0.0 -69.508343,44.957613,0.0 -69.507889,44.957281,0.0 -69.507743,44.957095,0.0 -69.507718,44.95681,0.0 -69.50755,44.956633,0.0 -69.507533,44.956527,0.0 -69.507772,44.956258,0.0 -69.507816,44.955874,0.0 -69.50744,44.955392,0.0 -69.50736,44.954899,0.0 -69.507244,44.954741,0.0 -69.507117,44.954682,0.0 -69.506769,44.954645,0.0 -69.50583,44.954776,0.0 -69.505456,44.95479,0.0 -69.505375,44.954794,0.0 -69.504973,44.954762,0.0 -69.504809,44.954677,0.0 -69.503978,44.954046,0.0 -69.503427,44.953533,0.0 -69.502975,44.95285,0.0 -69.50224,44.9515,0.0 -69.501237,44.950461,0.0 -69.500787,44.950071,0.0 -69.500481,44.949831,0.0 -69.49982,44.949439,0.0 -69.499743,44.949232,0.0 -69.50005,44.948396,0.0 -69.500265,44.948105,0.0 -69.500379,44.947951,0.0 -69.501385,44.947243,0.0 -69.50207,44.946876,0.0 -69.502453,44.946781,0.0 -69.502748,44.946535,0.0 -69.503245,44.946236,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="126577">
+            <name>Take Out</name>
+            <styleUrl>#126578</styleUrl>
+            <Point id="126576">
+                <coordinates>-69.503403,44.946499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="126582">
+            <name>Put In</name>
+            <styleUrl>#126583</styleUrl>
+            <Point id="126581">
+                <coordinates>-69.506401,44.967602,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

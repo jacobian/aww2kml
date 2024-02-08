@@ -1,59 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="23941">
+    <Document id="40130">
+        <Style id="40135">
+            <IconStyle id="40136">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40137">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40140">
+            <IconStyle id="40141">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40142">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40145">
+            <IconStyle id="40146">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40147">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40150">
+            <IconStyle id="40151">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40152">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40155">
+            <IconStyle id="40156">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40157">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40160">
+            <IconStyle id="40161">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40162">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40165">
+            <IconStyle id="40166">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40167">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="40170">
+            <IconStyle id="40171">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="40172">
+                    <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>Mokelumne - 5. Electra to Middle Bar </name>
-        <Placemark id="23943">
-            <name>Mokelumne - 5. Electra to Middle Bar </name>
+        <Placemark id="40132">
+            <name>Mokelumne - 5. Electra to Middle Bar  (II-III)</name>
             <description>https://www.americanwhitewater.org/content/River/view/river-detail/&lt;built-in function id&gt;/main</description>
-            <LineString id="23942">
+            <LineString id="40131">
                 <coordinates>-120.676945,38.328412,0.0 -120.677313,38.328183,0.0 -120.677919,38.327887,0.0 -120.678703,38.327314,0.0 -120.679334,38.326841,0.0 -120.67996,38.326545,0.0 -120.680731,38.326354,0.0 -120.681566,38.326224,0.0 -120.681981,38.32607,0.0 -120.682651,38.325569,0.0 -120.683094,38.325136,0.0 -120.683535,38.324625,0.0 -120.684315,38.323719,0.0 -120.684453,38.323529,0.0 -120.684744,38.323125,0.0 -120.684965,38.32259,0.0 -120.68523,38.321944,0.0 -120.685477,38.321213,0.0 -120.685746,38.320674,0.0 -120.68596,38.320429,0.0 -120.686521,38.319808,0.0 -120.686959,38.319522,0.0 -120.687707,38.319231,0.0 -120.688074,38.319088,0.0 -120.689937,38.31861,0.0 -120.690857,38.318369,0.0 -120.691555,38.318186,0.0 -120.69242,38.318012,0.0 -120.69453,38.318016,0.0 -120.694902,38.318017,0.0 -120.696009,38.318127,0.0 -120.696921,38.318218,0.0 -120.697741,38.318249,0.0 -120.697781,38.318247,0.0 -120.698844,38.318183,0.0 -120.69969,38.317993,0.0 -120.700126,38.317781,0.0 -120.700974,38.317335,0.0 -120.701284,38.317172,0.0 -120.702232,38.316705,0.0 -120.703493,38.316362,0.0 -120.703832,38.316266,0.0 -120.705777,38.315848,0.0 -120.706266,38.31579,0.0 -120.70709,38.315692,0.0 -120.707369,38.315659,0.0 -120.709406,38.315596,0.0 -120.710831,38.315533,0.0 -120.71148,38.315504,0.0 -120.71236,38.315433,0.0 -120.712849,38.31531,0.0 -120.713613,38.31506,0.0 -120.713825,38.314844,0.0 -120.714144,38.314173,0.0 -120.714666,38.313595,0.0 -120.71495,38.313469,0.0 -120.715306,38.313446,0.0 -120.716144,38.313507,0.0 -120.71715,38.313541,0.0 -120.717618,38.313491,0.0 -120.717919,38.313424,0.0 -120.719427,38.312953,0.0 -120.720727,38.312566,0.0 -120.721258,38.312297,0.0 -120.721527,38.312038,0.0 -120.721663,38.311864,0.0 -120.721895,38.311619,0.0 -120.722256,38.31142,0.0 -120.723055,38.311229,0.0 -120.723862,38.311098,0.0 -120.724397,38.310682,0.0 -120.725664,38.310148,0.0 -120.727003,38.309703,0.0 -120.72766,38.309433,0.0 -120.728572,38.309057,0.0 -120.730054,38.308452,0.0 -120.731049,38.308046,0.0 -120.731757,38.307766,0.0 -120.732047,38.307734,0.0 -120.732431,38.307691,0.0 -120.732878,38.307744,0.0 -120.733271,38.30785,0.0 -120.733545,38.307923,0.0 -120.733821,38.307997,0.0 -120.73484,38.308237,0.0 -120.735381,38.308248,0.0 -120.735868,38.308184,0.0 -120.73697,38.308161,0.0 -120.737469,38.308065,0.0 -120.737946,38.307974,0.0 -120.738535,38.307647,0.0 -120.738749,38.307372,0.0 -120.739189,38.307027,0.0 -120.7401,38.306516,0.0 -120.741097,38.305961,0.0 -120.741578,38.3055,0.0 -120.742123,38.304844,0.0 -120.742276,38.304661,0.0 -120.743375,38.303535,0.0 -120.744592,38.302285,0.0 -120.744724,38.302149,0.0 -120.745089,38.301661,0.0 -120.74558,38.301004,0.0 -120.747804,38.299385,0.0 -120.748349,38.299064,0.0 -120.748948,38.298711,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="23945">
+        <Placemark id="40134">
             <name>S-Turn (II+)</name>
-            <Point id="23944">
+            <styleUrl>#40135</styleUrl>
+            <Point id="40133">
                 <coordinates>-120.700012,38.318138,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23947">
+        <Placemark id="40139">
             <name>Devil's Toilet Bowl (III)</name>
-            <Point id="23946">
+            <styleUrl>#40140</styleUrl>
+            <Point id="40138">
                 <coordinates>-120.722809,38.311275,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23949">
+        <Placemark id="40144">
             <name>Goal Post (II)</name>
-            <Point id="23948">
+            <styleUrl>#40145</styleUrl>
+            <Point id="40143">
                 <coordinates>-120.687958,38.319344,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23951">
+        <Placemark id="40149">
             <name>Boulder Bar (II)</name>
-            <Point id="23950">
+            <styleUrl>#40150</styleUrl>
+            <Point id="40148">
                 <coordinates>-120.682999,38.325901,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23953">
+        <Placemark id="40154">
             <name>49 Bridge / Big Bar Parking </name>
-            <Point id="23952">
+            <styleUrl>#40155</styleUrl>
+            <Point id="40153">
                 <coordinates>-120.720856,38.311768,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23955">
+        <Placemark id="40159">
             <name>Rapid (I)</name>
-            <Point id="23954">
+            <styleUrl>#40160</styleUrl>
+            <Point id="40158">
                 <coordinates>-120.732216,38.307709,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23957">
+        <Placemark id="40164">
             <name>Put in</name>
-            <Point id="23956">
+            <styleUrl>#40165</styleUrl>
+            <Point id="40163">
                 <coordinates>-120.677,38.3285,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="23959">
+        <Placemark id="40169">
             <name>Take out</name>
-            <Point id="23958">
+            <styleUrl>#40170</styleUrl>
+            <Point id="40168">
                 <coordinates>-120.749,38.2988,0.0</coordinates>
             </Point>
         </Placemark>
