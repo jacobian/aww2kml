@@ -19,6 +19,7 @@ LIST_REACHES_QUERY = gql(
                 ploc
                 tloc
                 geom
+                class
                 states {
                     shortkey
                 }
@@ -33,6 +34,18 @@ LIST_REACHES_QUERY = gql(
     }
 """
 )
+
+POI_ICON_MAP = {
+    "putin": "http://maps.google.com/mapfiles/kml/paddle/go.png",
+    "takeout": "http://maps.google.com/mapfiles/kml/paddle/grn-square.png",
+    "access": "http://maps.google.com/mapfiles/kml/paddle/red-circle.png",
+    "portage": "http://maps.google.com/mapfiles/kml/paddle/pause.png",
+    "hazard": "http://maps.google.com/mapfiles/kml/shapes/caution.png",
+    "waterfall": "http://maps.google.com/mapfiles/kml/shapes/water.png",
+    "playspot": "http://maps.google.com/mapfiles/kml/shapes/water.png",
+    "rapid": "http://maps.google.com/mapfiles/kml/shapes/water.png",
+    "other": "http://maps.google.com/mapfiles/kml/paddle/red-circle.png",
+}
 
 
 def get_reaches(client: Client) -> Generator[dict, None, None]:
@@ -52,10 +65,14 @@ def get_reaches(client: Client) -> Generator[dict, None, None]:
 def reach_to_kml(reach: dict) -> simplekml.Kml | None:
     if not reach["geom"]:
         return None
-    
+
     kml = simplekml.Kml(name=f"{reach['river']} - {reach['section']}")
     kml.newlinestring(
-        name=kml.document.name,
+        name=(
+            f"{kml.document.name} ({reach['class']})"
+            if reach["class"]
+            else kml.document.name
+        ),
         coords=[
             (float(x), float(y))
             for x, y in [p.split(" ") for p in reach["geom"].split(",")]
@@ -63,24 +80,42 @@ def reach_to_kml(reach: dict) -> simplekml.Kml | None:
         description=f"https://www.americanwhitewater.org/content/River/view/river-detail/{id}/main",
     )
 
+    has_put_in_poi = False
+    has_take_out_poi = False
+
     for poi in reach["pois"]:
+        # Ignore POIs without a location
         if not poi["rloc"]:
             continue
 
         name = poi["name"]
+
+        # Append rapid rating if given
         if poi["difficulty"] != "N/A":
             name += f" ({poi['difficulty']})"
 
-        # TODO set icon based on character
-        kml.newpoint(
+        try:
+            character = poi["character"][0]
+        except IndexError:
+            character = "other"
+
+        if character == "putin":
+            has_put_in_poi = True
+        if character == "takeout":
+            has_take_out_poi = True
+
+        p = kml.newpoint(
             name=name,
             coords=[poi["rloc"].split(" ")],
         )
+        p.style.iconstyle.icon.href = POI_ICON_MAP[character]
 
-    # TODO: check if there was a take-out and put-in POI and only include
-    # these points if there wasn't.
-    kml.newpoint(name="Put in", coords=[reach["ploc"].split(" ")])
-    kml.newpoint(name="Take out", coords=[reach["tloc"].split(" ")])
+    if not has_put_in_poi:
+        p = kml.newpoint(name="Put in", coords=[reach["ploc"].split(" ")])
+        p.style.iconstyle.icon.href = POI_ICON_MAP["putin"]
+    if not has_take_out_poi:
+        p = kml.newpoint(name="Take out", coords=[reach["tloc"].split(" ")])
+        p.style.iconstyle.icon.href = POI_ICON_MAP["takeout"]
 
     return kml
 
@@ -93,11 +128,15 @@ if __name__ == "__main__":
     client = Client(transport=transport)
     for reach in get_reaches(client):
         if kml := reach_to_kml(reach):
-            for state in filter(None, reach["states"]):
-                dest = (
-                    Path("data")
-                    / state["shortkey"]
-                    / f"{reach["river"]} - {reach['section']}.kml"
+            for state in reach["states"]:
+                if not state["shortkey"]:
+                    continue
+                file_name = (
+                    reach["river"].replace("/", "-")
+                    + " - "
+                    + reach["section"].replace("/", "-")
+                    + ".kml"
                 )
+                dest = Path("data") / state["shortkey"] / file_name
                 dest.parent.mkdir(parents=True, exist_ok=True)
                 kml.save(str(dest))
