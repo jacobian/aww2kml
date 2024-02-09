@@ -56,17 +56,15 @@ def get_reaches(client: Client) -> Generator[dict, None, None]:
         response = client.execute(
             LIST_REACHES_QUERY, {"page": page, "per_page": per_page}
         )
-        yield from response["reaches"]["data"]
+        for reach in response["reaches"]["data"]:
+            if reach["geom"]:
+                yield reach
         if not response["reaches"]["paginatorInfo"]["hasMorePages"]:
             break
         page += 1
 
 
-def reach_to_kml(reach: dict) -> simplekml.Kml | None:
-    if not reach["geom"]:
-        return None
-
-    kml = simplekml.Kml(name=f"{reach['river']} - {reach['section']}")
+def add_reach_to_kml(reach: dict, container: simplekml.Container | None):
     kml.newlinestring(
         name=(
             f"{kml.document.name} ({reach['class']})"
@@ -117,8 +115,6 @@ def reach_to_kml(reach: dict) -> simplekml.Kml | None:
         p = kml.newpoint(name="Take out", coords=[reach["tloc"].split(" ")])
         p.style.iconstyle.icon.href = POI_ICON_MAP["takeout"]
 
-    return kml
-
 
 if __name__ == "__main__":
     transport = HTTPXTransport(
@@ -127,16 +123,16 @@ if __name__ == "__main__":
     )
     client = Client(transport=transport)
     for reach in get_reaches(client):
-        if kml := reach_to_kml(reach):
-            for state in reach["states"]:
-                if not state["shortkey"]:
-                    continue
-                file_name = (
-                    reach["river"].replace("/", "-")
-                    + " - "
-                    + reach["section"].replace("/", "-")
-                    + ".kml"
-                )
-                dest = Path("data") / state["shortkey"] / file_name
-                dest.parent.mkdir(parents=True, exist_ok=True)
-                kml.save(str(dest))
+        kml = simplekml.Kml(name=f"{reach['river']} - {reach['section']}")
+        add_reach_to_kml(reach, kml)
+        for state in reach["states"]:
+            if not state["shortkey"]:
+                continue
+            dest = (
+                Path("data")
+                / state["shortkey"]
+                / reach["river"].replace("/", "-")
+                / (reach["section"].replace("/", "-") + ".kml")
+            )
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            kml.save(str(dest))
