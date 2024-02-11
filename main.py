@@ -1,3 +1,5 @@
+from itertools import groupby
+from operator import itemgetter
 from pathlib import Path
 from typing import Generator
 
@@ -22,6 +24,7 @@ LIST_REACHES_QUERY = gql(
                 class
                 states {
                     shortkey
+                    name
                 }
                 pois {
                     name
@@ -35,7 +38,31 @@ LIST_REACHES_QUERY = gql(
 """
 )
 
-POI_ICON_MAP = {
+LIST_STATES_QUERY = gql(
+    """
+    query listStates {
+        states(aw_only: true, first:1000) {
+            data {
+                shortkey
+                name
+                num_rivers
+            }
+        }
+    }
+    """
+)
+
+
+def get_states(client) -> Generator[dict, None, None]:
+    response = client.execute(LIST_STATES_QUERY)
+    yield from (
+        state
+        for state in response["states"]["data"]
+        if state["shortkey"] and state["num_rivers"] > 0
+    )
+
+
+POI_ICONS = {
     "putin": "http://maps.google.com/mapfiles/kml/paddle/go.png",
     "takeout": "http://maps.google.com/mapfiles/kml/paddle/grn-square.png",
     "access": "http://maps.google.com/mapfiles/kml/paddle/red-circle.png",
@@ -47,10 +74,26 @@ POI_ICON_MAP = {
     "other": "http://maps.google.com/mapfiles/kml/paddle/red-circle.png",
 }
 
+POI_STYLES = {
+    key: simplekml.Style(
+        iconstyle=simplekml.IconStyle(
+            icon=simplekml.Icon(href=value),
+        ),
+    )
+    for key, value in POI_ICONS.items()
+}
+
+RIVER_STYLE = simplekml.Style(
+    linestyle=simplekml.LineStyle(
+        color=simplekml.Color.blue,
+        width=3,
+    ),
+)
+
 
 def get_reaches(client: Client) -> Generator[dict, None, None]:
     page = 0
-    per_page = 250
+    per_page = 100
 
     while True:
         response = client.execute(
@@ -65,18 +108,15 @@ def get_reaches(client: Client) -> Generator[dict, None, None]:
 
 
 def add_reach_to_kml(reach: dict, container: simplekml.Container | None):
-    kml.newlinestring(
-        name=(
-            f"{kml.document.name} ({reach['class']})"
-            if reach["class"]
-            else kml.document.name
-        ),
+    line = container.newlinestring(
+        name=reach_name(reach),
         coords=[
             (float(x), float(y))
             for x, y in [p.split(" ") for p in reach["geom"].split(",")]
         ],
-        description=f"https://www.americanwhitewater.org/content/River/view/river-detail/{id}/main",
+        description=f"https://www.americanwhitewater.org/content/River/view/river-detail/{reach['id']}/main",
     )
+    line.style = RIVER_STYLE
 
     has_put_in_poi = False
     has_take_out_poi = False
@@ -85,12 +125,6 @@ def add_reach_to_kml(reach: dict, container: simplekml.Container | None):
         # Ignore POIs without a location
         if not poi["rloc"]:
             continue
-
-        name = poi["name"]
-
-        # Append rapid rating if given
-        if poi["difficulty"] != "N/A":
-            name += f" ({poi['difficulty']})"
 
         try:
             character = poi["character"][0]
@@ -102,37 +136,65 @@ def add_reach_to_kml(reach: dict, container: simplekml.Container | None):
         if character == "takeout":
             has_take_out_poi = True
 
-        p = kml.newpoint(
-            name=name,
+        p = container.newpoint(
+            name=poi_name(poi),
             coords=[poi["rloc"].split(" ")],
         )
-        p.style.iconstyle.icon.href = POI_ICON_MAP[character]
+        p.style = POI_STYLES[character]
 
     if not has_put_in_poi:
-        p = kml.newpoint(name="Put in", coords=[reach["ploc"].split(" ")])
-        p.style.iconstyle.icon.href = POI_ICON_MAP["putin"]
+        p = container.newpoint(name="Put in", coords=[reach["ploc"].split(" ")])
+        p.style = POI_STYLES["putin"]
     if not has_take_out_poi:
-        p = kml.newpoint(name="Take out", coords=[reach["tloc"].split(" ")])
-        p.style.iconstyle.icon.href = POI_ICON_MAP["takeout"]
+        p = container.newpoint(name="Take out", coords=[reach["tloc"].split(" ")])
+        p.style = POI_STYLES["takeout"]
 
 
-if __name__ == "__main__":
+def poi_name(poi: dict) -> str:
+    name = poi["name"]
+
+    # Append rapid rating if given
+    if poi["difficulty"] and poi["difficulty"] != "N/A":
+        name += f" ({poi['difficulty']})"
+    return name
+
+
+def build_client() -> Client:
     transport = HTTPXTransport(
         url="https://www.americanwhitewater.org/graphql",
         headers={"user-agent": "github.com/jacobian/aww2kml"},
     )
     client = Client(transport=transport)
-    for reach in get_reaches(client):
-        kml = simplekml.Kml(name=f"{reach['river']} - {reach['section']}")
-        add_reach_to_kml(reach, kml)
-        for state in reach["states"]:
-            if not state["shortkey"]:
-                continue
-            dest = (
-                Path("data")
-                / state["shortkey"]
-                / reach["river"].replace("/", "-")
-                / (reach["section"].replace("/", "-") + ".kml")
+    return client
+
+
+def reach_name(reach):
+    return (
+        f"{reach['section']} ({reach['class']})" if reach["class"] else reach["section"]
+    )
+
+
+def main():
+    client = build_client()
+    reaches = get_reaches(client)
+    reaches = sorted(reaches, key=itemgetter("river"))
+    reaches_by_river = groupby(reaches, key=itemgetter("river"))
+
+    for river, river_reaches in reaches_by_river:
+        kml = simplekml.Kml(name=river)
+        states = set()
+        for reach in river_reaches:
+            folder = kml.newfolder(name=reach_name(reach))
+            add_reach_to_kml(reach, folder)
+            states.update(
+                state["shortkey"] for state in reach["states"] if state["shortkey"]
             )
+
+        for state in states:
+            dest = Path("data") / state / (river.replace("/", "-") + ".kml")
             dest.parent.mkdir(parents=True, exist_ok=True)
             kml.save(str(dest))
+
+
+if __name__ == "__main__":
+    main()
