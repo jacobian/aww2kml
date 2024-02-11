@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="57206">
+        <name>Tahquamenon</name>
+        <Folder id="57207">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Upper Falls to Lower Falls (4.1 miles) (IV-V)</name>
+            <Placemark id="57209">
+                <name>Upper Falls to Lower Falls (4.1 miles) (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/6169/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="57208">
+                    <coordinates>-85.255375,46.574447,0.0 -85.254093,46.573329,0.0 -85.253834,46.572672,0.0 -85.252391,46.571414,0.0 -85.250602,46.571146,0.0 -85.25022,46.571243,0.0 -85.249012,46.571911,0.0 -85.248547,46.57251,0.0 -85.248259,46.574267,0.0 -85.247573,46.575103,0.0 -85.245678,46.576607,0.0 -85.24326,46.577942,0.0 -85.241768,46.579223,0.0 -85.240958,46.580812,0.0 -85.240304,46.583686,0.0 -85.239214,46.584744,0.0 -85.237804,46.585523,0.0 -85.236052,46.586148,0.0 -85.228474,46.585422,0.0 -85.227709,46.585616,0.0 -85.227064,46.586201,0.0 -85.226475,46.587553,0.0 -85.225607,46.588375,0.0 -85.225463,46.589253,0.0 -85.225882,46.59005,0.0 -85.225573,46.591933,0.0 -85.225109,46.592532,0.0 -85.223899,46.593199,0.0 -85.219692,46.594266,0.0 -85.214979,46.596182,0.0 -85.21196,46.596706,0.0 -85.210709,46.597625,0.0 -85.209919,46.599088,0.0 -85.208302,46.601122,0.0 -85.208022,46.601264,0.0 -85.206099,46.602241,0.0 -85.205702,46.602443,0.0 -85.204813,46.60339,0.0 -85.203805,46.603946,0.0 -85.20332,46.603907,0.0 -85.202719,46.60386,0.0 -85.201673,46.603489,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="57211">
+                <name>River Wide Ledge (II+)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="57210">
+                    <coordinates>-85.207855,46.601215,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57213">
+                <name>River Wide Ledge Playspot (I)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="57212">
+                    <coordinates>-85.208168,46.601631,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57215">
+                <name>Tom's Challenge (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="57214">
+                    <coordinates>-85.207184,46.603462,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57217">
+                <name>Viewing Platform (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="57216">
+                    <coordinates>-85.20668,46.604023,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57219">
+                <name>Run Out Rapid (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="57218">
+                    <coordinates>-85.206421,46.604404,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57221">
+                <name>Upper Falls (V+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="57220">
+                    <coordinates>-85.256699,46.574799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57223">
+                <name>Minor ledge/wave/shoals</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="57222">
+                    <coordinates>-85.219704,46.5942,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57225">
+                <name>Double Drop (IV+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="57224">
+                    <coordinates>-85.205704,46.602402,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57227">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="57226">
+                    <coordinates>-85.201599,46.603699,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57229">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="57228">
+                    <coordinates>-85.252602,46.579102,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57231">
+                <name>Beginning of Lower Falls Sequence</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="57230">
+                    <coordinates>-85.21109,46.597282,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="40851">
+        <name>Peshekee, W.Br.</name>
+        <Folder id="40852">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Unnamed road to Peshekee River ( 2-4.7 miles) (II-IV)</name>
+            <Placemark id="40854">
+                <name>Unnamed road to Peshekee River ( 2-4.7 miles) (II-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10797/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="40853">
+                    <coordinates>-88.060666,46.580438,0.0 -88.060692,46.580393,0.0 -88.060693,46.579639,0.0 -88.060362,46.579204,0.0 -88.059666,46.578701,0.0 -88.05738,46.577786,0.0 -88.056883,46.577762,0.0 -88.056386,46.578059,0.0 -88.056186,46.578425,0.0 -88.055921,46.578653,0.0 -88.055092,46.578973,0.0 -88.054197,46.579155,0.0 -88.053932,46.579063,0.0 -88.053966,46.578309,0.0 -88.053734,46.578218,0.0 -88.053204,46.578194,0.0 -88.052075,46.578971,0.0 -88.051545,46.579062,0.0 -88.050882,46.579061,0.0 -88.050783,46.578924,0.0 -88.05075,46.578604,0.0 -88.051049,46.578193,0.0 -88.051083,46.57785,0.0 -88.051016,46.577759,0.0 -88.050917,46.577439,0.0 -88.050719,46.577187,0.0 -88.050454,46.57705,0.0 -88.050089,46.577072,0.0 -88.049459,46.577483,0.0 -88.049028,46.577666,0.0 -88.047934,46.577848,0.0 -88.046574,46.578167,0.0 -88.04558,46.578281,0.0 -88.045083,46.578166,0.0 -88.044752,46.577937,0.0 -88.04452,46.577846,0.0 -88.044288,46.5778,0.0 -88.043857,46.578005,0.0 -88.04316,46.578051,0.0 -88.042332,46.577753,0.0 -88.041703,46.577295,0.0 -88.041637,46.577181,0.0 -88.041273,46.576792,0.0 -88.040876,46.576609,0.0 -88.040047,46.576654,0.0 -88.039186,46.575991,0.0 -88.038358,46.575807,0.0 -88.038192,46.57567,0.0 -88.038193,46.57519,0.0 -88.038293,46.574801,0.0 -88.038393,46.574436,0.0 -88.038128,46.574161,0.0 -88.037631,46.574047,0.0 -88.036206,46.574023,0.0 -88.034548,46.574524,0.0 -88.033222,46.574706,0.0 -88.032294,46.574545,0.0 -88.031698,46.574316,0.0 -88.0314,46.574042,0.0 -88.031401,46.57379,0.0 -88.031467,46.573699,0.0 -88.031998,46.573585,0.0 -88.032329,46.573425,0.0 -88.032529,46.573128,0.0 -88.032829,46.572146,0.0 -88.033028,46.571735,0.0 -88.033195,46.571255,0.0 -88.033493,46.570935,0.0 -88.034157,46.570478,0.0 -88.034556,46.570044,0.0 -88.035219,46.569451,0.0 -88.035783,46.56904,0.0 -88.036547,46.568172,0.0 -88.03678,46.567829,0.0 -88.036813,46.567532,0.0 -88.036747,46.567326,0.0 -88.036416,46.567097,0.0 -88.035886,46.567074,0.0 -88.034925,46.567279,0.0 -88.034096,46.567233,0.0 -88.03171,46.567231,0.0 -88.031014,46.567093,0.0 -88.029723,46.566475,0.0 -88.029127,46.566497,0.0 -88.028695,46.566703,0.0 -88.027899,46.567319,0.0 -88.027567,46.567387,0.0 -88.027203,46.567273,0.0 -88.026906,46.566884,0.0 -88.025483,46.565854,0.0 -88.024588,46.565488,0.0 -88.023793,46.565487,0.0 -88.023362,46.565647,0.0 -88.022931,46.565898,0.0 -88.022301,46.56608,0.0 -88.02061,46.566307,0.0 -88.019648,46.566626,0.0 -88.018223,46.566808,0.0 -88.017228,46.567172,0.0 -88.016632,46.567172,0.0 -88.016301,46.56692,0.0 -88.015805,46.566371,0.0 -88.015143,46.565936,0.0 -88.013852,46.565181,0.0 -88.012296,46.564653,0.0 -88.011832,46.564584,0.0 -88.00991,46.564583,0.0 -88.008651,46.564421,0.0 -88.008055,46.564215,0.0 -88.007161,46.564008,0.0 -88.006233,46.564007,0.0 -88.005769,46.564075,0.0 -88.005371,46.564029,0.0 -88.004724,46.563761,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="40856">
+                <name>Dee Lundeen Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="40855">
+                    <coordinates>-88.035004,46.56979,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40858">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="40857">
+                    <coordinates>-88.0045,46.5643,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40860">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="40859">
+                    <coordinates>-88.0606,46.5804,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40862">
+                <name>First gradient (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="40861">
+                    <coordinates>-88.060501,46.580299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40864">
+                <name>Narrows/dells (III)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="40863">
+                    <coordinates>-88.015938,46.566601,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40866">
+                <name>Dee-nouement (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="40865">
+                    <coordinates>-88.031372,46.567299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40868">
+                <name>Island (II+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="40867">
+                    <coordinates>-88.024963,46.56588,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40870">
+                <name>Pre-Dee (II+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="40869">
+                    <coordinates>-88.0336,46.570801,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

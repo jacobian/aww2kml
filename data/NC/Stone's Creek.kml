@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55934">
+        <name>Stone's Creek</name>
+        <Folder id="55935">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Small Dam to Pleasant Green Dam on Eno River (IV+)</name>
+            <Placemark id="55937">
+                <name>Small Dam to Pleasant Green Dam on Eno River (IV+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4259/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="55936">
+                    <coordinates>-79.013207,36.048907,0.0 -79.013047,36.048919,0.0 -79.013003,36.048916,0.0 -79.012979,36.048913,0.0 -79.012955,36.048911,0.0 -79.012932,36.048908,0.0 -79.012909,36.048903,0.0 -79.012886,36.048898,0.0 -79.012863,36.048894,0.0 -79.01284,36.048889,0.0 -79.012818,36.048882,0.0 -79.012796,36.048877,0.0 -79.012774,36.04887,0.0 -79.012751,36.048865,0.0 -79.012726,36.04886,0.0 -79.012704,36.048855,0.0 -79.012681,36.04885,0.0 -79.012658,36.048847,0.0 -79.012635,36.048842,0.0 -79.012612,36.048837,0.0 -79.012589,36.048835,0.0 -79.012566,36.04883,0.0 -79.012543,36.048825,0.0 -79.01252,36.048823,0.0 -79.012496,36.048818,0.0 -79.012473,36.048813,0.0 -79.01245,36.048808,0.0 -79.012427,36.048805,0.0 -79.012404,36.0488,0.0 -79.01238,36.048795,0.0 -79.012357,36.048793,0.0 -79.012334,36.04879,0.0 -79.01231,36.048788,0.0 -79.012287,36.048785,0.0 -79.012264,36.048784,0.0 -79.01224,36.048784,0.0 -79.012216,36.048786,0.0 -79.012193,36.048786,0.0 -79.012169,36.048787,0.0 -79.012145,36.048789,0.0 -79.012121,36.048789,0.0 -79.012099,36.048788,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="55939">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="55938">
+                    <coordinates>-79.0121,36.048698,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55941">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="55940">
+                    <coordinates>-79.013199,36.048801,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

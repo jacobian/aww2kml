@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11279">
+        <name>Claverack Creek</name>
+        <Folder id="11280">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Stottville to Kinderhook Creek (I-II+(IV))</name>
+            <Placemark id="11282">
+                <name>Stottville to Kinderhook Creek (I-II+(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10617/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="11281">
+                    <coordinates>-73.737025,42.286369,0.0 -73.736774,42.286884,0.0 -73.736365,42.286767,0.0 -73.735575,42.286175,0.0 -73.735298,42.286176,0.0 -73.735297,42.286176,0.0 -73.733779,42.286122,0.0 -73.733768,42.286168,0.0 -73.733608,42.286839,0.0 -73.733683,42.287725,0.0 -73.733331,42.288213,0.0 -73.733532,42.289015,0.0 -73.733975,42.289916,0.0 -73.733815,42.290919,0.0 -73.73404,42.291846,0.0 -73.734837,42.292837,0.0 -73.734952,42.292985,0.0 -73.736011,42.293401,0.0 -73.7374,42.29395,0.0 -73.73853,42.294409,0.0 -73.739605,42.295117,0.0 -73.73975,42.295924,0.0 -73.740382,42.29683,0.0 -73.740578,42.297437,0.0 -73.740589,42.297527,0.0 -73.740688,42.29829,0.0 -73.740922,42.299257,0.0 -73.740939,42.299575,0.0 -73.741411,42.299995,0.0 -73.741844,42.300072,0.0 -73.742223,42.300599,0.0 -73.742481,42.30149,0.0 -73.741966,42.30218,0.0 -73.741309,42.303703,0.0 -73.741748,42.304759,0.0 -73.742042,42.305128,0.0 -73.742211,42.305339,0.0 -73.741763,42.306114,0.0 -73.742251,42.307187,0.0 -73.741765,42.308005,0.0 -73.741318,42.309082,0.0 -73.741698,42.309231,0.0 -73.741946,42.309253,0.0 -73.742697,42.309104,0.0 -73.742964,42.309355,0.0 -73.743073,42.30997,0.0 -73.742742,42.31092,0.0 -73.742576,42.3119,0.0 -73.742718,42.313161,0.0 -73.742781,42.313721,0.0 -73.744114,42.31387,0.0 -73.744664,42.315361,0.0 -73.744664,42.315365,0.0 -73.744545,42.315675,0.0 -73.744894,42.316625,0.0 -73.745694,42.317028,0.0 -73.746181,42.317138,0.0 -73.746447,42.316624,0.0 -73.747836,42.315696,0.0 -73.748752,42.314758,0.0 -73.749257,42.313812,0.0 -73.749275,42.312617,0.0 -73.749569,42.312566,0.0 -73.749565,42.3125,0.0 -73.750168,42.312178,0.0 -73.751983,42.311874,0.0 -73.752851,42.312028,0.0 -73.753061,42.313267,0.0 -73.753747,42.314525,0.0 -73.755654,42.314759,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="11284">
+                <name>New Year's Drop (III+)</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="11283">
+                    <coordinates>-73.737099,42.2864,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="11286">
+                <name>Dam Boof (III)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="11285">
+                    <coordinates>-73.735199,42.292801,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="11288">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="11287">
+                    <coordinates>-73.7556,42.3152,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

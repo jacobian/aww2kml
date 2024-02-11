@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="23951">
+        <name>Hillsborough</name>
+        <Folder id="23952">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Rowlett Park, Tampa (II)</name>
+            <Placemark id="23954">
+                <name>Rowlett Park, Tampa (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3183/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="23953">
+                    <coordinates>-82.428646,28.024578,0.0 -82.428682,28.02457,0.0 -82.428682,28.02457,0.0 -82.428907,28.024523,0.0 -82.429226,28.024433,0.0 -82.429226,28.024433,0.0 -82.429371,28.024392,0.0 -82.429371,28.024392,0.0 -82.429444,28.024371,0.0 -82.429905,28.024049,0.0 -82.429991,28.023999,0.0 -82.429991,28.023999,0.0 -82.430656,28.023604,0.0 -82.430771,28.023505,0.0 -82.430771,28.023505,0.0 -82.431117,28.023206,0.0 -82.431745,28.022869,0.0 -82.431745,28.022869,0.0 -82.431858,28.022809,0.0 -82.432461,28.022634,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="23956">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="23955">
+                    <coordinates>-82.428398,28.024799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="23958">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="23957">
+                    <coordinates>-82.428299,28.0247,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

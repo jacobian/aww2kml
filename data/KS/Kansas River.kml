@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26600">
+        <name>Kansas River</name>
+        <Folder id="26601">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Playspot Below I-435 Bridge (PnP) (II)</name>
+            <Placemark id="26603">
+                <name>Playspot Below I-435 Bridge (PnP) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4195/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="26602">
+                    <coordinates>-94.800222,39.041967,0.0 -94.799893,39.042038,0.0 -94.798581,39.04246,0.0 -94.797231,39.042865,0.0 -94.79563,39.043111,0.0 -94.795118,39.043245,0.0 -94.794356,39.043515,0.0 -94.792886,39.044091,0.0 -94.792486,39.044824,0.0 -94.791439,39.045028,0.0 -94.791064,39.045167,0.0 -94.790409,39.045304,0.0 -94.790206,39.045302,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="26605">
+                <name>Playspot (III)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="26604">
+                    <coordinates>-94.786008,39.046477,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26607">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="26606">
+                    <coordinates>-94.790199,39.046001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26609">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="26608">
+                    <coordinates>-94.800003,39.040001,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="26610">
+            <name>Near Lawrence (PnP) (II)</name>
+            <Placemark id="26612">
+                <name>Near Lawrence (PnP) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4193/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="26611">
+                    <coordinates>-95.236391,38.97549,0.0 -95.235529,38.974831,0.0 -95.235108,38.974828,0.0 -95.235056,38.974813,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="26614">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="26613">
+                    <coordinates>-95.235001,38.974998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26616">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="26615">
+                    <coordinates>-95.236,38.976002,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

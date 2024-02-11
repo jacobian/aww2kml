@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9778">
+        <name>Chase Mills Stream</name>
+        <Folder id="9779">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Gardner Lake to East Machias (II)</name>
+            <Placemark id="9781">
+                <name>Gardner Lake to East Machias (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/778/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="9780">
+                    <coordinates>-67.360821,44.755963,0.0 -67.361265,44.755826,0.0 -67.361502,44.755699,0.0 -67.361987,44.75458,0.0 -67.36217,44.754417,0.0 -67.362989,44.753956,0.0 -67.363335,44.753938,0.0 -67.363666,44.754006,0.0 -67.364714,44.754912,0.0 -67.365145,44.755008,0.0 -67.365787,44.755053,0.0 -67.366103,44.754954,0.0 -67.366924,44.754332,0.0 -67.367373,44.754108,0.0 -67.367771,44.754092,0.0 -67.368402,44.754371,0.0 -67.368743,44.754398,0.0 -67.369145,44.75426,0.0 -67.369695,44.753845,0.0 -67.369917,44.753758,0.0 -67.37036,44.753696,0.0 -67.370604,44.753745,0.0 -67.371153,44.753735,0.0 -67.371642,44.753787,0.0 -67.371819,44.753717,0.0 -67.372123,44.753438,0.0 -67.372732,44.753294,0.0 -67.373095,44.753105,0.0 -67.37343,44.753034,0.0 -67.374145,44.752976,0.0 -67.37465,44.753132,0.0 -67.37525,44.753168,0.0 -67.375742,44.753089,0.0 -67.377021,44.752765,0.0 -67.377367,44.752621,0.0 -67.3775,44.752353,0.0 -67.378141,44.752007,0.0 -67.379143,44.751764,0.0 -67.379394,44.751746,0.0 -67.379785,44.751814,0.0 -67.380086,44.751818,0.0 -67.380609,44.751691,0.0 -67.380848,44.75151,0.0 -67.381093,44.751072,0.0 -67.381398,44.750976,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="9783">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="9782">
+                    <coordinates>-67.360802,44.755901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="9785">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="9784">
+                    <coordinates>-67.3815,44.751301,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

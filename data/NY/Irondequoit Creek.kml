@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25546">
+        <name>Irondequoit Creek</name>
+        <Folder id="25547">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Channing H. Philbrick Park (II(III))</name>
+            <Placemark id="25549">
+                <name>Channing H. Philbrick Park (II(III))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3421/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="25548">
+                    <coordinates>-77.481488,43.126586,0.0 -77.481925,43.126723,0.0 -77.482831,43.127179,0.0 -77.484017,43.127292,0.0 -77.484516,43.1272,0.0 -77.484766,43.127063,0.0 -77.485451,43.126079,0.0 -77.485856,43.125782,0.0 -77.486324,43.12569,0.0 -77.487791,43.12578,0.0 -77.48826,43.126053,0.0 -77.488229,43.126236,0.0 -77.487668,43.126534,0.0 -77.487418,43.126809,0.0 -77.487419,43.127266,0.0 -77.487669,43.127403,0.0 -77.488543,43.127448,0.0 -77.489292,43.127287,0.0 -77.489958,43.126863,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="25551">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="25550">
+                    <coordinates>-77.4903,43.1274,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="25553">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="25552">
+                    <coordinates>-77.4816,43.1261,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

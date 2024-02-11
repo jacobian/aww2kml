@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="22340">
+        <name>Great Works</name>
+        <Folder id="22341">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Brattle Street to Leighs Mill Pond (IV-V)</name>
+            <Placemark id="22343">
+                <name>Brattle Street to Leighs Mill Pond (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/803/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="22342">
+                    <coordinates>-70.791878,43.215779,0.0 -70.791966,43.215691,0.0 -70.792645,43.215403,0.0 -70.792882,43.21538,0.0 -70.793093,43.215525,0.0 -70.793204,43.21591,0.0 -70.793253,43.216625,0.0 -70.793113,43.216947,0.0 -70.79326,43.217549,0.0 -70.793383,43.217703,0.0 -70.79379,43.2179,0.0 -70.794812,43.217986,0.0 -70.7959,43.218317,0.0 -70.796269,43.218552,0.0 -70.796984,43.219359,0.0 -70.797314,43.219405,0.0 -70.797973,43.219288,0.0 -70.799067,43.219756,0.0 -70.800304,43.219978,0.0 -70.801031,43.22003,0.0 -70.801703,43.219961,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="22345">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="22344">
+                    <coordinates>-70.801697,43.219898,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="22347">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="22346">
+                    <coordinates>-70.792,43.2159,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

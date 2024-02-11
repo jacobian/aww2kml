@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="39038">
+        <name>Oswego</name>
+        <Folder id="39039">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Just below the Lock 7 Dam (I)</name>
+            <Placemark id="39041">
+                <name>Just below the Lock 7 Dam (I)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3992/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="39040">
+                    <coordinates>-76.48531,43.432033,0.0 -76.487457,43.436983,0.0 -76.489676,43.439751,0.0 -76.491731,43.441853,0.0 -76.49383,43.443193,0.0 -76.495155,43.443521,0.0 -76.495187,43.443539,0.0 -76.49607,43.444042,0.0 -76.498267,43.445653,0.0 -76.499082,43.445904,0.0 -76.500266,43.446722,0.0 -76.501394,43.446892,0.0 -76.501968,43.446978,0.0 -76.503825,43.448538,0.0 -76.504471,43.448763,0.0 -76.505279,43.449653,0.0 -76.50635,43.451479,0.0 -76.506343,43.452118,0.0 -76.507421,43.453305,0.0 -76.509897,43.457648,0.0 -76.510669,43.459755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="39043">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="39042">
+                    <coordinates>-76.510002,43.459999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="39045">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="39044">
+                    <coordinates>-76.489998,43.43,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

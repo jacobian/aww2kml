@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="47502">
+        <name>Rushford Lake Outlet</name>
+        <Folder id="47503">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Rushford Lake to the Genesee River (II-IV)</name>
+            <Placemark id="47505">
+                <name>Rushford Lake to the Genesee River (II-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1397/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="47504">
+                    <coordinates>-78.180567,42.383743,0.0 -78.180391,42.384154,0.0 -78.180021,42.384497,0.0 -78.178881,42.384909,0.0 -78.177832,42.38491,0.0 -78.176198,42.384362,0.0 -78.175365,42.38395,0.0 -78.17481,42.383905,0.0 -78.174532,42.384157,0.0 -78.174533,42.385048,0.0 -78.17512,42.386465,0.0 -78.17512,42.38706,0.0 -78.17475,42.387265,0.0 -78.174349,42.387266,0.0 -78.173116,42.386832,0.0 -78.171759,42.387038,0.0 -78.17068,42.387015,0.0 -78.169261,42.386421,0.0 -78.166331,42.385988,0.0 -78.164851,42.386103,0.0 -78.163248,42.386423,0.0 -78.160719,42.387544,0.0 -78.160072,42.387704,0.0 -78.15927,42.387522,0.0 -78.158746,42.386996,0.0 -78.156833,42.385602,0.0 -78.156154,42.384779,0.0 -78.156154,42.384665,0.0 -78.155321,42.383453,0.0 -78.15505,42.383277,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="47507">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="47506">
+                    <coordinates>-78.1551,42.3832,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="47509">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="47508">
+                    <coordinates>-78.1807,42.3838,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

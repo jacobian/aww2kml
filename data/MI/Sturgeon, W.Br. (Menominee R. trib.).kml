@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56630">
+        <name>Sturgeon, W.Br. (Menominee R. trib.)</name>
+        <Folder id="56631">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Metropolitan to Calumet Mine Road (5.77 miles) (II-IV)</name>
+            <Placemark id="56633">
+                <name>Metropolitan to Calumet Mine Road (5.77 miles) (II-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/6627/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="56632">
+                    <coordinates>-87.882001,45.989101,0.0 -87.880613,45.989116,0.0 -87.878908,45.989208,0.0 -87.877924,45.989093,0.0 -87.876055,45.989002,0.0 -87.875137,45.989025,0.0 -87.874186,45.989025,0.0 -87.873923,45.988934,0.0 -87.873464,45.988614,0.0 -87.873202,45.988339,0.0 -87.873169,45.988134,0.0 -87.872874,45.987859,0.0 -87.872546,45.987768,0.0 -87.871693,45.987768,0.0 -87.869234,45.988271,0.0 -87.868775,45.988248,0.0 -87.868086,45.988316,0.0 -87.867856,45.988248,0.0 -87.867135,45.988316,0.0 -87.86684,45.988431,0.0 -87.866577,45.988614,0.0 -87.865856,45.988842,0.0 -87.865761,45.988763,0.0 -87.864901,45.988883,0.0 -87.863581,45.98931,0.0 -87.860658,45.989515,0.0 -87.859533,45.989827,0.0 -87.856657,45.989654,0.0 -87.856304,45.989449,0.0 -87.856182,45.989367,0.0 -87.854706,45.988955,0.0 -87.853952,45.988772,0.0 -87.853887,45.988727,0.0 -87.852772,45.988452,0.0 -87.852673,45.988338,0.0 -87.852017,45.988155,0.0 -87.851526,45.987858,0.0 -87.851493,45.987675,0.0 -87.850476,45.987172,0.0 -87.850313,45.987012,0.0 -87.849395,45.986349,0.0 -87.848542,45.986189,0.0 -87.847755,45.986143,0.0 -87.846968,45.986211,0.0 -87.846443,45.986119,0.0 -87.846083,45.985936,0.0 -87.845755,45.985639,0.0 -87.845657,45.984862,0.0 -87.845428,45.984588,0.0 -87.845067,45.984245,0.0 -87.843297,45.983216,0.0 -87.842543,45.982827,0.0 -87.841494,45.982027,0.0 -87.841428,45.981844,0.0 -87.841035,45.981455,0.0 -87.841003,45.981295,0.0 -87.84074,45.981066,0.0 -87.840741,45.980015,0.0 -87.840774,45.979329,0.0 -87.840709,45.978803,0.0 -87.840512,45.978552,0.0 -87.840545,45.97846,0.0 -87.84025,45.978049,0.0 -87.839726,45.977751,0.0 -87.838644,45.9775,0.0 -87.838316,45.977202,0.0 -87.838284,45.977019,0.0 -87.838349,45.976379,0.0 -87.838481,45.976219,0.0 -87.838776,45.975465,0.0 -87.838809,45.974551,0.0 -87.838941,45.974048,0.0 -87.839072,45.973774,0.0 -87.839367,45.973499,0.0 -87.84081,45.973043,0.0 -87.841433,45.97254,0.0 -87.841696,45.972266,0.0 -87.841728,45.9719,0.0 -87.841565,45.971786,0.0 -87.841565,45.971626,0.0 -87.841401,45.971534,0.0 -87.841401,45.970825,0.0 -87.841992,45.970094,0.0 -87.842156,45.969774,0.0 -87.842058,45.969477,0.0 -87.841697,45.969225,0.0 -87.840911,45.969019,0.0 -87.840648,45.968814,0.0 -87.840583,45.968448,0.0 -87.840813,45.967968,0.0 -87.841206,45.967694,0.0 -87.841796,45.967648,0.0 -87.842616,45.967785,0.0 -87.843206,45.967808,0.0 -87.844091,45.967603,0.0 -87.844944,45.967146,0.0 -87.846255,45.966689,0.0 -87.84773,45.966369,0.0 -87.849271,45.966118,0.0 -87.852812,45.964976,0.0 -87.856451,45.963513,0.0 -87.857598,45.963125,0.0 -87.858745,45.962896,0.0 -87.86045,45.962851,0.0 -87.861072,45.963011,0.0 -87.861564,45.963102,0.0 -87.862121,45.963125,0.0 -87.863105,45.962965,0.0 -87.863629,45.962737,0.0 -87.864055,45.962394,0.0 -87.864219,45.961548,0.0 -87.864678,45.960817,0.0 -87.865498,45.960497,0.0 -87.865858,45.960177,0.0 -87.866055,45.959971,0.0 -87.866546,45.959628,0.0 -87.867759,45.959011,0.0 -87.867923,45.958828,0.0 -87.868087,45.958714,0.0 -87.868874,45.957822,0.0 -87.869037,45.957662,0.0 -87.869496,45.956908,0.0 -87.869516,45.956846,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="56635">
+                <name>Upper Mill Pond Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="56634">
+                    <coordinates>-87.854897,45.988998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56637">
+                <name>Lower Mill Pond Falls (III+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="56636">
+                    <coordinates>-87.851501,45.9879,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56639">
+                <name>Head of Gradient</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="56638">
+                    <coordinates>-87.856445,45.989555,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56641">
+                <name>Camp Suicide Road</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="56640">
+                    <coordinates>-87.843201,45.982719,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56643">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="56642">
+                    <coordinates>-87.87,45.957,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56645">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="56644">
+                    <coordinates>-87.882,45.989,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56647">
+                <name>*Possible* minor rapids</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56646">
+                    <coordinates>-87.838898,45.974468,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56649">
+                <name>Unnamed (truck trail?) road</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56648">
+                    <coordinates>-87.840477,45.978031,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56651">
+                <name>*Possible* rapids</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56650">
+                    <coordinates>-87.845352,45.967041,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56653">
+                <name>Perhaps random rips</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56652">
+                    <coordinates>-87.853752,45.964661,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56655">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56654">
+                    <coordinates>-87.978699,46.012501,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

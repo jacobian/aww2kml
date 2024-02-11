@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="44417">
+        <name>Quinebaug</name>
+        <Folder id="44418">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Below Route 6 (III)</name>
+            <Placemark id="44420">
+                <name>Below Route 6 (III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/453/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="44419">
+                    <coordinates>-71.887756,41.802066,0.0 -71.887249,41.801814,0.0 -71.887003,41.801406,0.0 -71.886751,41.800991,0.0 -71.886474,41.800719,0.0 -71.886457,41.800346,0.0 -71.886499,41.800062,0.0 -71.886591,41.799718,0.0 -71.88659,41.799329,0.0 -71.886348,41.798753,0.0 -71.885902,41.797809,0.0 -71.885681,41.797021,0.0 -71.88571,41.796566,0.0 -71.885868,41.796145,0.0 -71.886079,41.795582,0.0 -71.886397,41.795311,0.0 -71.886909,41.795164,0.0 -71.887965,41.794939,0.0 -71.888531,41.794685,0.0 -71.889015,41.794408,0.0 -71.889957,41.7936,0.0 -71.890135,41.793206,0.0 -71.890121,41.792776,0.0 -71.889766,41.792036,0.0 -71.889718,41.791465,0.0 -71.889816,41.790722,0.0 -71.889755,41.789716,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="44422">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="44421">
+                    <coordinates>-71.889278,41.789745,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44424">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="44423">
+                    <coordinates>-71.888103,41.80137,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

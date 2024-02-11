@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14333">
+        <name>Cross Creek</name>
+        <Folder id="14334">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>01. Cross Creek (V+)</name>
+            <Placemark id="14336">
+                <name>01. Cross Creek (V+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4301/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="14335">
+                    <coordinates>-106.420023,39.55322,0.0 -106.419984,39.553268,0.0 -106.419984,39.553268,0.0 -106.419947,39.553311,0.0 -106.41969,39.553584,0.0 -106.419325,39.554172,0.0 -106.419196,39.554486,0.0 -106.419057,39.554709,0.0 -106.418939,39.554817,0.0 -106.418585,39.555032,0.0 -106.418349,39.555206,0.0 -106.41822,39.555446,0.0 -106.418016,39.55571,0.0 -106.417705,39.555992,0.0 -106.417705,39.555992,0.0 -106.417533,39.556149,0.0 -106.417265,39.55648,0.0 -106.417243,39.556546,0.0 -106.417222,39.556835,0.0 -106.417297,39.556992,0.0 -106.417372,39.5571,0.0 -106.417544,39.55729,0.0 -106.417608,39.557389,0.0 -106.417716,39.557621,0.0 -106.417769,39.557803,0.0 -106.417769,39.557803,0.0 -106.417769,39.558208,0.0 -106.417748,39.558291,0.0 -106.417651,39.558514,0.0 -106.41749,39.558804,0.0 -106.417447,39.558945,0.0 -106.417383,39.559036,0.0 -106.417329,39.559209,0.0 -106.417319,39.559391,0.0 -106.417351,39.559664,0.0 -106.417383,39.559747,0.0 -106.417447,39.559863,0.0 -106.417651,39.55997,0.0 -106.418037,39.560028,0.0 -106.418445,39.560036,0.0 -106.418746,39.560136,0.0 -106.418971,39.560301,0.0 -106.4191,39.560417,0.0 -106.419314,39.560739,0.0 -106.419379,39.56088,0.0 -106.419476,39.561246,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="14338">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="14337">
+                    <coordinates>-106.41,39.5699,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="14340">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="14339">
+                    <coordinates>-106.416,39.565,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

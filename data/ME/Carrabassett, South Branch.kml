@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8697">
+        <name>Carrabassett, South Branch</name>
+        <Folder id="8698">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>AT Trail to Rt 27 Bridge (IV-V)</name>
+            <Placemark id="8700">
+                <name>AT Trail to Rt 27 Bridge (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11402/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="8699">
+                    <coordinates>-70.343406,45.049833,0.0 -70.343418,45.050684,0.0 -70.342837,45.052055,0.0 -70.341675,45.053358,0.0 -70.341256,45.053975,0.0 -70.340707,45.05505,0.0 -70.340513,45.056033,0.0 -70.340478,45.060216,0.0 -70.340413,45.060788,0.0 -70.339865,45.061794,0.0 -70.339639,45.061976,0.0 -70.338896,45.063188,0.0 -70.338572,45.06472,0.0 -70.337926,45.06616,0.0 -70.337087,45.067554,0.0 -70.335343,45.069565,0.0 -70.334149,45.070799,0.0 -70.333761,45.071325,0.0 -70.333245,45.072422,0.0 -70.332115,45.073359,0.0 -70.331308,45.07377,0.0 -70.329146,45.074478,0.0 -70.326435,45.075277,0.0 -70.32524,45.075986,0.0 -70.32466,45.076145,0.0 -70.323304,45.076122,0.0 -70.32211,45.076396,0.0 -70.320463,45.07811,0.0 -70.319753,45.078406,0.0 -70.317397,45.079023,0.0 -70.316041,45.079548,0.0 -70.315974,45.079592,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="8702">
+                <name>Rt 27 Bridge Take-out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="8701">
+                    <coordinates>-70.315974,45.079592,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8704">
+                <name>AT Trail Put-in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="8703">
+                    <coordinates>-70.345347,45.049875,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

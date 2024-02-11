@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="43851">
+        <name>Powder Mill Creek</name>
+        <Folder id="43852">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>above Powderhorn Falls to Cty.513 (2 miles) (II-IV+)</name>
+            <Placemark id="43854">
+                <name>above Powderhorn Falls to Cty.513 (2 miles) (II-IV+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2698/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="43853">
+                    <coordinates>-90.07867,46.490683,0.0 -90.078321,46.491287,0.0 -90.078254,46.492086,0.0 -90.078089,46.492429,0.0 -90.078021,46.493114,0.0 -90.077889,46.493411,0.0 -90.077853,46.495284,0.0 -90.07772,46.495718,0.0 -90.077819,46.495901,0.0 -90.07815,46.496084,0.0 -90.07858,46.496267,0.0 -90.079042,46.496656,0.0 -90.079571,46.496793,0.0 -90.079637,46.49693,0.0 -90.079703,46.497204,0.0 -90.079802,46.497433,0.0 -90.080331,46.497798,0.0 -90.080529,46.498027,0.0 -90.080661,46.498507,0.0 -90.080727,46.498941,0.0 -90.080859,46.499238,0.0 -90.080858,46.49996,0.0 -90.081019,46.50201,0.0 -90.081118,46.502353,0.0 -90.081283,46.502444,0.0 -90.081118,46.502787,0.0 -90.081051,46.502901,0.0 -90.081018,46.503129,0.0 -90.081448,46.503427,0.0 -90.08158,46.503998,0.0 -90.082009,46.504592,0.0 -90.082042,46.505277,0.0 -90.082174,46.505551,0.0 -90.082174,46.50594,0.0 -90.082041,46.506031,0.0 -90.081876,46.506214,0.0 -90.08171,46.507013,0.0 -90.081378,46.507379,0.0 -90.080783,46.507858,0.0 -90.080484,46.508315,0.0 -90.080319,46.508772,0.0 -90.080186,46.508932,0.0 -90.080021,46.508977,0.0 -90.07969,46.508931,0.0 -90.078466,46.508634,0.0 -90.077076,46.508542,0.0 -90.076018,46.508564,0.0 -90.074794,46.508221,0.0 -90.073702,46.508312,0.0 -90.072742,46.508586,0.0 -90.072444,46.508814,0.0 -90.072311,46.509111,0.0 -90.072368,46.509738,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="43856">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="43855">
+                    <coordinates>-90.072357,46.509739,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43858">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="43857">
+                    <coordinates>-90.078606,46.490646,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43860">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="43859">
+                    <coordinates>-90.072998,46.510799,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

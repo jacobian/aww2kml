@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="51791">
+        <name>Sheep Creek (MF Boise trib)</name>
+        <Folder id="51792">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Last half mile before Middle Fork Boise River (III-IV)</name>
+            <Placemark id="51794">
+                <name>Last half mile before Middle Fork Boise River (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1169/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="51793">
+                    <coordinates>-115.659221,43.689099,0.0 -115.659457,43.689294,0.0 -115.659602,43.689412,0.0 -115.659732,43.689584,0.0 -115.659907,43.689839,0.0 -115.660014,43.690061,0.0 -115.660083,43.690198,0.0 -115.660083,43.690412,0.0 -115.660106,43.690675,0.0 -115.660144,43.690873,0.0 -115.660213,43.691087,0.0 -115.660274,43.691312,0.0 -115.660266,43.691499,0.0 -115.660236,43.69175,0.0 -115.660197,43.692071,0.0 -115.660083,43.692479,0.0 -115.660022,43.692754,0.0 -115.659991,43.692979,0.0 -115.659991,43.69315,0.0 -115.660052,43.693337,0.0 -115.660144,43.693498,0.0 -115.660236,43.693574,0.0 -115.660381,43.693662,0.0 -115.660617,43.693791,0.0 -115.661083,43.694097,0.0 -115.661617,43.694379,0.0 -115.661754,43.694501,0.0 -115.661876,43.694692,0.0 -115.661891,43.694848,0.0 -115.661891,43.695012,0.0 -115.661861,43.695226,0.0 -115.661845,43.695485,0.0 -115.661777,43.695966,0.0 -115.661647,43.69629,0.0 -115.661487,43.696542,0.0 -115.661388,43.696732,0.0 -115.661254,43.696785,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="51796">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="51795">
+                    <coordinates>-115.660202,43.696701,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51798">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="51797">
+                    <coordinates>-115.658699,43.689602,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

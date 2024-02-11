@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="50374">
+        <name>Sand Island Creek</name>
+        <Folder id="50375">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>logging road (off of Camp 6 road) to Black River (2 + 1 miles) (II-III)</name>
+            <Placemark id="50377">
+                <name>logging road (off of Camp 6 road) to Black River (2 + 1 miles) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/6653/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="50376">
+                    <coordinates>-90.025795,46.618842,0.0 -90.025916,46.618617,0.0 -90.026116,46.618388,0.0 -90.027939,46.618276,0.0 -90.028636,46.618048,0.0 -90.029433,46.617478,0.0 -90.03109,46.617434,0.0 -90.031687,46.617457,0.0 -90.032583,46.617298,0.0 -90.03434,46.617276,0.0 -90.034605,46.617162,0.0 -90.035369,46.616569,0.0 -90.035833,46.616501,0.0 -90.036396,46.61673,0.0 -90.037125,46.616913,0.0 -90.037523,46.616914,0.0 -90.037987,46.616845,0.0 -90.038518,46.616617,0.0 -90.039347,46.616572,0.0 -90.04054,46.616779,0.0 -90.042032,46.61694,0.0 -90.042363,46.616872,0.0 -90.042928,46.616484,0.0 -90.043624,46.616553,0.0 -90.043988,46.616782,0.0 -90.044186,46.617353,0.0 -90.044517,46.617604,0.0 -90.044782,46.617627,0.0 -90.045644,46.617422,0.0 -90.04644,46.617332,0.0 -90.047004,46.617469,0.0 -90.047865,46.618178,0.0 -90.048627,46.618338,0.0 -90.050251,46.618522,0.0 -90.050848,46.618317,0.0 -90.051246,46.618295,0.0 -90.051644,46.618409,0.0 -90.052041,46.618432,0.0 -90.052937,46.618136,0.0 -90.053866,46.617931,0.0 -90.055457,46.617955,0.0 -90.055822,46.617886,0.0 -90.057215,46.617476,0.0 -90.058342,46.617271,0.0 -90.058773,46.617363,0.0 -90.059071,46.617729,0.0 -90.059071,46.617797,0.0 -90.059236,46.617957,0.0 -90.059898,46.618894,0.0 -90.060494,46.619991,0.0 -90.060559,46.620265,0.0 -90.060659,46.620334,0.0 -90.060791,46.620654,0.0 -90.060956,46.620905,0.0 -90.061122,46.621088,0.0 -90.061255,46.621179,0.0 -90.061785,46.621385,0.0 -90.061784,46.621398,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="50379">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="50378">
+                    <coordinates>-90.061798,46.621399,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="50381">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="50380">
+                    <coordinates>-90.025902,46.6189,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="44595">
+        <name>Rapid Lightning Creek</name>
+        <Folder id="44596">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Near Sandpoint (III-IV(V))</name>
+            <Placemark id="44598">
+                <name>Near Sandpoint (III-IV(V))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4792/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="44597">
+                    <coordinates>-116.377421,48.377851,0.0 -116.377476,48.377689,0.0 -116.377605,48.377518,0.0 -116.377798,48.377369,0.0 -116.378249,48.377205,0.0 -116.379064,48.377034,0.0 -116.379064,48.377034,0.0 -116.379231,48.377006,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="44600">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="44599">
+                    <coordinates>-116.377421,48.377851,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44602">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="44601">
+                    <coordinates>-116.379231,48.377006,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

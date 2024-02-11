@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3313">
+        <name>Berry Creek (current beta needed)</name>
+        <Folder id="3314">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>CR 245 to FM 971 (16 miles) (II)</name>
+            <Placemark id="3316">
+                <name>CR 245 to FM 971 (16 miles) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2773/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="3315">
+                    <coordinates>-97.790603,30.775008,0.0 -97.614241,30.676283,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="3318">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="3317">
+                    <coordinates>-97.6142,30.6763,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3320">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="3319">
+                    <coordinates>-97.7906,30.775,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

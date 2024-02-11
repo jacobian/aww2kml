@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="44970">
+        <name>Red Cedar</name>
+        <Folder id="44971">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Hwy.12 in Menomonie to CTH.D in Irvington (0.5 - 3.9 miles) (I-II)</name>
+            <Placemark id="44973">
+                <name>Hwy.12 in Menomonie to CTH.D in Irvington (0.5 - 3.9 miles) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2938/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="44972">
+                    <coordinates>-91.932158,44.883411,0.0 -91.933693,44.883202,0.0 -91.934662,44.882978,0.0 -91.935462,44.882594,0.0 -91.936003,44.882238,0.0 -91.936409,44.881746,0.0 -91.936584,44.881141,0.0 -91.936521,44.880217,0.0 -91.936552,44.879222,0.0 -91.936881,44.878361,0.0 -91.937273,44.877429,0.0 -91.937507,44.876662,0.0 -91.937667,44.875407,0.0 -91.9377,44.875144,0.0 -91.93774,44.87438,0.0 -91.93782,44.873847,0.0 -91.938154,44.873147,0.0 -91.9384,44.872727,0.0 -91.938881,44.872523,0.0 -91.938913,44.87251,0.0 -91.939429,44.872385,0.0 -91.940077,44.872305,0.0 -91.940658,44.872179,0.0 -91.941176,44.871834,0.0 -91.941263,44.871776,0.0 -91.941606,44.871354,0.0 -91.941842,44.870633,0.0 -91.942265,44.869654,0.0 -91.942434,44.868888,0.0 -91.94251,44.868382,0.0 -91.942593,44.867822,0.0 -91.942626,44.86685,0.0 -91.942571,44.865706,0.0 -91.94267,44.864779,0.0 -91.942936,44.863988,0.0 -91.943528,44.863215,0.0 -91.944388,44.862691,0.0 -91.944676,44.862548,0.0 -91.945284,44.86226,0.0 -91.946185,44.861967,0.0 -91.94705,44.861582,0.0 -91.94785,44.861198,0.0 -91.948322,44.860728,0.0 -91.948846,44.859886,0.0 -91.948936,44.859411,0.0 -91.949039,44.858865,0.0 -91.949206,44.85803,0.0 -91.948791,44.8568,0.0 -91.948542,44.856156,0.0 -91.947914,44.854895,0.0 -91.947454,44.853793,0.0 -91.946957,44.852552,0.0 -91.946495,44.851381,0.0 -91.946473,44.851047,0.0 -91.946427,44.850341,0.0 -91.946466,44.849554,0.0 -91.94658,44.849133,0.0 -91.946668,44.84881,0.0 -91.947165,44.847634,0.0 -91.947838,44.846374,0.0 -91.948728,44.844809,0.0 -91.949909,44.843216,0.0 -91.951038,44.841994,0.0 -91.95201,44.840937,0.0 -91.952813,44.839674,0.0 -91.953629,44.83833,0.0 -91.953905,44.83784,0.0 -91.954013,44.83719,0.0 -91.953929,44.836637,0.0 -91.953835,44.836173,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="44975">
+                <name>Railroad Rips (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="44974">
+                    <coordinates>-91.933609,44.883114,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44977">
+                <name>Con-Agra Wave (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="44976">
+                    <coordinates>-91.9366,44.880901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44979">
+                <name>Hwy.29/Hudson Road</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="44978">
+                    <coordinates>-91.938202,44.8755,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44981">
+                <name>Stout Wave (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="44980">
+                    <coordinates>-91.936798,44.8801,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44983">
+                <name>Tainter Wave (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="44982">
+                    <coordinates>-91.936501,44.880402,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44985">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="44984">
+                    <coordinates>-91.953697,44.836201,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44987">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="44986">
+                    <coordinates>-91.932198,44.883701,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="44988">
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>A) Williamston, McCormick Park (0.1 miles) (I)</name>
+            <Placemark id="44990">
+                <name>A) Williamston, McCormick Park (0.1 miles) (I)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3728/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="44989">
+                    <coordinates>-84.283079,42.691434,0.0 -84.283423,42.691244,0.0 -84.283641,42.69097,0.0 -84.283765,42.69049,0.0 -84.283859,42.690261,0.0 -84.2842,42.690056,0.0 -84.284636,42.689922,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="44992">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="44991">
+                    <coordinates>-84.284599,42.6898,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44994">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="44993">
+                    <coordinates>-84.283096,42.691465,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44996">
+                <name>Gauge: 163 sq.mi.</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="44995">
+                    <coordinates>-84.219002,42.682999,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="44997">
+            <name>B) MSU Wave (0.1 miles) (I(II))</name>
+            <Placemark id="44999">
+                <name>B) MSU Wave (0.1 miles) (I(II))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3729/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="44998">
+                    <coordinates>-84.482028,42.728934,0.0 -84.482314,42.729072,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="45001">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="45000">
+                    <coordinates>-84.482238,42.72923,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="45003">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="45002">
+                    <coordinates>-84.481951,42.729093,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="45005">
+                <name>Gauge location</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="45004">
+                    <coordinates>-84.478013,42.72755,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

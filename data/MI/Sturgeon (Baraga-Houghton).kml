@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56468">
+        <name>Sturgeon (Baraga/Houghton)</name>
+        <Folder id="56469">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>F) ~1.7 miles below Prickett Dam (PnP) (II)</name>
+            <Placemark id="56471">
+                <name>F) ~1.7 miles below Prickett Dam (PnP) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10789/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="56470">
+                    <coordinates>-88.657038,46.731903,0.0 -88.657167,46.731707,0.0 -88.657167,46.731707,0.0 -88.657018,46.731934,0.0 -88.656557,46.732324,0.0 -88.655424,46.732754,0.0 -88.655424,46.732754,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="56473">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="56472">
+                    <coordinates>-88.655424,46.732754,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56475">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="56474">
+                    <coordinates>-88.657038,46.731903,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="56476">
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>E) Sturgeon Gorge: Sturgeon Falls to NF2270/FSR193 (4.87 miles) (II-III(V+))</name>
+            <Placemark id="56478">
+                <name>E) Sturgeon Gorge: Sturgeon Falls to NF2270/FSR193 (4.87 miles) (II-III(V+))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2601/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="56477">
+                    <coordinates>-88.685045,46.638894,0.0 -88.685057,46.638976,0.0 -88.685124,46.639113,0.0 -88.685323,46.639273,0.0 -88.687447,46.639363,0.0 -88.688177,46.6395,0.0 -88.688808,46.639774,0.0 -88.688874,46.639934,0.0 -88.688842,46.640391,0.0 -88.688577,46.640734,0.0 -88.688411,46.641122,0.0 -88.688411,46.641305,0.0 -88.68871,46.641419,0.0 -88.689639,46.64151,0.0 -88.690635,46.641738,0.0 -88.692063,46.642377,0.0 -88.694651,46.642993,0.0 -88.694951,46.643267,0.0 -88.69505,46.643449,0.0 -88.694985,46.643884,0.0 -88.694819,46.644067,0.0 -88.693758,46.644776,0.0 -88.693758,46.645118,0.0 -88.693925,46.645256,0.0 -88.694157,46.645255,0.0 -88.695782,46.644911,0.0 -88.69628,46.644957,0.0 -88.69711,46.645208,0.0 -88.69794,46.645664,0.0 -88.698339,46.646144,0.0 -88.698606,46.646784,0.0 -88.698639,46.647104,0.0 -88.698806,46.6474,0.0 -88.69937,46.647857,0.0 -88.699437,46.648017,0.0 -88.699503,46.648063,0.0 -88.699603,46.648405,0.0 -88.699738,46.649388,0.0 -88.699837,46.649457,0.0 -88.699837,46.649571,0.0 -88.70017,46.649753,0.0 -88.701663,46.650072,0.0 -88.702924,46.649911,0.0 -88.703621,46.649682,0.0 -88.704383,46.649179,0.0 -88.704748,46.649087,0.0 -88.705312,46.649133,0.0 -88.705711,46.649315,0.0 -88.706275,46.649498,0.0 -88.708964,46.65009,0.0 -88.709794,46.650203,0.0 -88.710126,46.650432,0.0 -88.710093,46.650592,0.0 -88.709662,46.650752,0.0 -88.707738,46.650959,0.0 -88.707008,46.651234,0.0 -88.706644,46.651508,0.0 -88.706445,46.651806,0.0 -88.706512,46.6524,0.0 -88.706678,46.652583,0.0 -88.707973,46.653061,0.0 -88.708272,46.65313,0.0 -88.709666,46.653174,0.0 -88.709932,46.653448,0.0 -88.710032,46.653837,0.0 -88.710232,46.654065,0.0 -88.710564,46.654339,0.0 -88.710697,46.654522,0.0 -88.710598,46.654819,0.0 -88.710433,46.655139,0.0 -88.710002,46.655368,0.0 -88.709637,46.655391,0.0 -88.708608,46.655461,0.0 -88.708276,46.655712,0.0 -88.70821,46.655895,0.0 -88.708211,46.656421,0.0 -88.708444,46.65674,0.0 -88.708577,46.657152,0.0 -88.708644,46.65722,0.0 -88.708744,46.657494,0.0 -88.709309,46.658088,0.0 -88.709608,46.658156,0.0 -88.709708,46.658385,0.0 -88.710539,46.659024,0.0 -88.710772,46.659321,0.0 -88.710838,46.659504,0.0 -88.71094,46.660898,0.0 -88.711107,46.66156,0.0 -88.71134,46.662131,0.0 -88.711507,46.662405,0.0 -88.711806,46.662588,0.0 -88.712071,46.662634,0.0 -88.712702,46.662587,0.0 -88.7131,46.662404,0.0 -88.713232,46.66213,0.0 -88.71323,46.66085,0.0 -88.713296,46.660576,0.0 -88.713661,46.660256,0.0 -88.714125,46.660118,0.0 -88.71469,46.660118,0.0 -88.715221,46.660209,0.0 -88.715686,46.66046,0.0 -88.715786,46.660665,0.0 -88.715754,46.661488,0.0 -88.715622,46.661991,0.0 -88.71569,46.662676,0.0 -88.715989,46.662905,0.0 -88.717151,46.663155,0.0 -88.717783,46.66368,0.0 -88.718381,46.664091,0.0 -88.71971,46.66473,0.0 -88.719843,46.664821,0.0 -88.71991,46.665072,0.0 -88.719811,46.665507,0.0 -88.719414,46.66601,0.0 -88.718983,46.666536,0.0 -88.718519,46.666902,0.0 -88.717921,46.666994,0.0 -88.717622,46.666902,0.0 -88.717024,46.666423,0.0 -88.71646,46.666492,0.0 -88.716294,46.666629,0.0 -88.716328,46.667041,0.0 -88.716628,46.667406,0.0 -88.717359,46.668182,0.0 -88.717493,46.668479,0.0 -88.716963,46.669325,0.0 -88.716964,46.669783,0.0 -88.717861,46.670513,0.0 -88.717929,46.671039,0.0 -88.718029,46.671221,0.0 -88.718361,46.671335,0.0 -88.718925,46.671243,0.0 -88.719389,46.6709,0.0 -88.719588,46.67058,0.0 -88.720052,46.670191,0.0 -88.720284,46.670077,0.0 -88.720649,46.670122,0.0 -88.720982,46.670373,0.0 -88.721149,46.671036,0.0 -88.721161,46.67105,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="56480">
+                <name>Sturgeon Falls</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="56479">
+                    <coordinates>-88.692604,46.64249,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56482">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="56481">
+                    <coordinates>-88.7211,46.671101,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56484">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="56483">
+                    <coordinates>-88.684998,46.638901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56486">
+                <name>marked rapids (#1)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56485">
+                    <coordinates>-88.693703,46.644901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56488">
+                <name>marked rapids (#2)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56487">
+                    <coordinates>-88.705101,46.648899,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56490">
+                <name>marked rapids (#3)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56489">
+                    <coordinates>-88.706398,46.652401,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56492">
+                <name>marked rapids (#4)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56491">
+                    <coordinates>-88.708199,46.655701,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56494">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56493">
+                    <coordinates>-88.720703,46.671001,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

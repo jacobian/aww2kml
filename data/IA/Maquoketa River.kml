@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="32654">
+        <name>Maquoketa River</name>
+        <Folder id="32655">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Manchester Whitewater Park (I-II)</name>
+            <Placemark id="32657">
+                <name>Manchester Whitewater Park (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10410/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="32656">
+                    <coordinates>-91.458888,42.482622,0.0 -91.458769,42.482542,0.0 -91.458715,42.482482,0.0 -91.458644,42.482389,0.0 -91.458587,42.48229,0.0 -91.458553,42.482223,0.0 -91.45852,42.482155,0.0 -91.458495,42.482086,0.0 -91.458449,42.481948,0.0 -91.458426,42.481842,0.0 -91.45838,42.481594,0.0 -91.45837,42.481452,0.0 -91.458346,42.48131,0.0 -91.458334,42.481251,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="32659">
+                <name>#2 (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32658">
+                    <coordinates>-91.458649,42.482396,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32661">
+                <name>#1 (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32660">
+                    <coordinates>-91.45875,42.48252,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32663">
+                <name>#3 (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32662">
+                    <coordinates>-91.458649,42.482396,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32665">
+                <name>#4 (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32664">
+                    <coordinates>-91.458509,42.482126,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32667">
+                <name>High Stakes Wave (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32666">
+                    <coordinates>-91.458485,42.482056,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32669">
+                <name>#5 (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32668">
+                    <coordinates>-91.458462,42.481986,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32671">
+                <name>#6 (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32670">
+                    <coordinates>-91.458426,42.481843,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32673">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="32672">
+                    <coordinates>-91.458099,42.4813,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32675">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="32674">
+                    <coordinates>-91.458702,42.482899,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="32676">
+            <name>Manchester Whitewater Park (I-II)</name>
+            <Placemark id="32678">
+                <name>Manchester Whitewater Park (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10410/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="32677">
+                    <coordinates>-91.458888,42.482622,0.0 -91.458769,42.482542,0.0 -91.458715,42.482482,0.0 -91.458644,42.482389,0.0 -91.458587,42.48229,0.0 -91.458553,42.482223,0.0 -91.45852,42.482155,0.0 -91.458495,42.482086,0.0 -91.458449,42.481948,0.0 -91.458426,42.481842,0.0 -91.45838,42.481594,0.0 -91.45837,42.481452,0.0 -91.458346,42.48131,0.0 -91.458334,42.481251,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="32680">
+                <name>#2 (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32679">
+                    <coordinates>-91.458649,42.482396,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32682">
+                <name>#1 (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32681">
+                    <coordinates>-91.45875,42.48252,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32684">
+                <name>#3 (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32683">
+                    <coordinates>-91.458649,42.482396,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32686">
+                <name>#4 (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32685">
+                    <coordinates>-91.458509,42.482126,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32688">
+                <name>High Stakes Wave (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32687">
+                    <coordinates>-91.458485,42.482056,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32690">
+                <name>#5 (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32689">
+                    <coordinates>-91.458462,42.481986,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32692">
+                <name>#6 (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="32691">
+                    <coordinates>-91.458426,42.481843,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32694">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="32693">
+                    <coordinates>-91.458099,42.4813,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32696">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="32695">
+                    <coordinates>-91.458702,42.482899,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="34873">
+        <name>Mississippi</name>
+        <Folder id="34874">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Chain of Rocks (Riverview Drive, north St. Louis) (PnP) (III-IV)</name>
+            <Placemark id="34876">
+                <name>Chain of Rocks (Riverview Drive, north St. Louis) (PnP) (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2950/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="34875">
+                    <coordinates>-90.17137,38.756909,0.0 -90.176104,38.75972,0.0 -90.180516,38.761161,0.0 -90.181003,38.759607,0.0 -90.179945,38.756882,0.0 -90.176096,38.754676,0.0 -90.171459,38.755377,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="34878">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="34877">
+                    <coordinates>-90.182198,38.7561,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34880">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="34879">
+                    <coordinates>-90.181396,38.7589,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="34881">
+            <name>Sauk Rapids (PnP) (II(III))</name>
+            <Placemark id="34883">
+                <name>Sauk Rapids (PnP) (II(III))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3734/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="34882">
+                    <coordinates>-94.168653,45.585961,0.0 -94.168258,45.58532,0.0 -94.168075,45.585018,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="34885">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="34884">
+                    <coordinates>-94.169098,45.5844,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34887">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="34886">
+                    <coordinates>-94.169403,45.585499,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

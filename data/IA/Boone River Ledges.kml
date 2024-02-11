@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5719">
+        <name>Boone River Ledges</name>
+        <Folder id="5720">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Natural river ledge, short run Park N Play feature (I(II))</name>
+            <Placemark id="5722">
+                <name>Natural river ledge, short run Park N Play feature (I(II))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3185/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="5721">
+                    <coordinates>-93.809411,42.387057,0.0 -93.810794,42.387588,0.0 -93.811777,42.387774,0.0 -93.81304,42.387872,0.0 -93.814143,42.388186,0.0 -93.81518,42.388383,0.0 -93.817023,42.389002,0.0 -93.817964,42.389723,0.0 -93.818974,42.390646,0.0 -93.819128,42.391126,0.0 -93.818991,42.391632,0.0 -93.818666,42.392239,0.0 -93.818255,42.39268,0.0 -93.817776,42.393148,0.0 -93.817554,42.393502,0.0 -93.817434,42.393907,0.0 -93.817656,42.394311,0.0 -93.818136,42.394969,0.0 -93.819283,42.396459,0.0 -93.819643,42.396939,0.0 -93.820276,42.397205,0.0 -93.821303,42.398102,0.0 -93.821509,42.398417,0.0 -93.821543,42.39886,0.0 -93.821235,42.399188,0.0 -93.820704,42.399555,0.0 -93.820362,42.399555,0.0 -93.819574,42.399391,0.0 -93.81877,42.399252,0.0 -93.817845,42.399024,0.0 -93.816938,42.398733,0.0 -93.815842,42.398379,0.0 -93.814918,42.39819,0.0 -93.81413,42.398354,0.0 -93.813874,42.398594,0.0 -93.813394,42.399062,0.0 -93.813138,42.399403,0.0 -93.813155,42.400615,0.0 -93.813206,42.401133,0.0 -93.813155,42.401437,0.0 -93.81312,42.401664,0.0 -93.81271,42.402435,0.0 -93.81235,42.402827,0.0 -93.811734,42.403409,0.0 -93.810792,42.404268,0.0 -93.810347,42.40466,0.0 -93.810193,42.404774,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="5724">
+                <name>USGS Gauge Location</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="5723">
+                    <coordinates>-93.806,42.432549,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="5726">
+                <name>Put In: Albright's Canoe Access, 42.4046, -93.8093</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="5725">
+                    <coordinates>-93.818057,42.390017,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="5728">
+                <name>Take Out: Bever Bridge Canoe Access, 42.3874, -938095</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="5727">
+                    <coordinates>-93.808891,42.386624,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="5730">
+                <name>Boone River Ledges (II+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="5729">
+                    <coordinates>-93.821417,42.398277,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

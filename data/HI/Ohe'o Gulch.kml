@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="38492">
+        <name>Ohe'o Gulch</name>
+        <Folder id="38493">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Seven Sacred Pools (IV-V+)</name>
+            <Placemark id="38495">
+                <name>Seven Sacred Pools (IV-V+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4635/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="38494">
+                    <coordinates>-156.048478,20.665159,0.0 -156.047675,20.664963,0.0 -156.046974,20.664886,0.0 -156.046781,20.664842,0.0 -156.046705,20.664809,0.0 -156.046494,20.664661,0.0 -156.046243,20.664408,0.0 -156.046167,20.664265,0.0 -156.04605,20.664149,0.0 -156.045869,20.66405,0.0 -156.045775,20.664066,0.0 -156.045627,20.664003,0.0 -156.045536,20.663967,0.0 -156.045255,20.66389,0.0 -156.045015,20.663857,0.0 -156.04484,20.663852,0.0 -156.044483,20.66389,0.0 -156.044349,20.663874,0.0 -156.043209,20.663841,0.0 -156.043121,20.663808,0.0 -156.042905,20.663676,0.0 -156.042679,20.663541,0.0 -156.042432,20.663412,0.0 -156.042321,20.663329,0.0 -156.042291,20.663329,0.0 -156.042135,20.66319,0.0 -156.042017,20.663049,0.0 -156.04197,20.663005,0.0 -156.041625,20.662862,0.0 -156.041274,20.66279,0.0 -156.04121,20.662746,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="38497">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="38496">
+                    <coordinates>-156.041107,20.662701,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="38499">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="38498">
+                    <coordinates>-156.048492,20.6651,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="60450">
+        <name>Villa Mann Creek</name>
+        <Folder id="60451">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>W.Whitaker Ave. to Wilson Park Creek (0.57 mi.) (II)</name>
+            <Placemark id="60453">
+                <name>W.Whitaker Ave. to Wilson Park Creek (0.57 mi.) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11365/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="60452">
+                    <coordinates>-87.943761,42.965153,0.0 -87.943525,42.965456,0.0 -87.943373,42.965588,0.0 -87.943167,42.965752,0.0 -87.942872,42.965971,0.0 -87.942239,42.966422,0.0 -87.941906,42.966771,0.0 -87.941883,42.9687,0.0 -87.94166,42.968935,0.0 -87.940937,42.969462,0.0 -87.940699,42.969566,0.0 -87.940452,42.969645,0.0 -87.94018,42.969661,0.0 -87.938481,42.969655,0.0 -87.938244,42.969693,0.0 -87.938068,42.969772,0.0 -87.937947,42.969867,0.0 -87.937752,42.970156,0.0 -87.937927,42.970302,0.0 -87.938152,42.970546,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="60455">
+                <name>Take-out Parking</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="60454">
+                    <coordinates>-87.932923,42.970349,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60457">
+                <name>Put-in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="60456">
+                    <coordinates>-87.943761,42.965153,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60459">
+                <name>First Slide</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="60458">
+                    <coordinates>-87.941902,42.967854,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60461">
+                <name>Wilson Slide (II)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="60460">
+                    <coordinates>-87.937824,42.970049,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60463">
+                <name>Take-out: Pedestrian Bridge</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="60462">
+                    <coordinates>-87.938147,42.970541,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60465">
+                <name>Rec Center Jump (II)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="60464">
+                    <coordinates>-87.940944,42.969457,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60467">
+                <name>Plainfield Jump (II)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="60466">
+                    <coordinates>-87.941883,42.968701,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60469">
+                <name>20th Street Jump (II)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="60468">
+                    <coordinates>-87.93916,42.969657,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

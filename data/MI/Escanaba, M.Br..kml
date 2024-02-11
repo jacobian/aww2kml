@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18747">
+        <name>Escanaba, M.Br.</name>
+        <Folder id="18748">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>B) Co.Rd.CG to 1.2 mile above CR565 (10.8 miles,+1.6 miles for lower) (II-IV+)</name>
+            <Placemark id="18750">
+                <name>B) Co.Rd.CG to 1.2 mile above CR565 (10.8 miles,+1.6 miles for lower) (II-IV+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2683/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="18749">
+                    <coordinates>-87.747074,46.385181,0.0 -87.746952,46.385229,0.0 -87.743452,46.385553,0.0 -87.741603,46.38592,0.0 -87.741074,46.385898,0.0 -87.738365,46.38549,0.0 -87.737407,46.385239,0.0 -87.736844,46.38492,0.0 -87.735985,46.384715,0.0 -87.735192,46.38467,0.0 -87.734003,46.384717,0.0 -87.733475,46.384877,0.0 -87.73275,46.385586,0.0 -87.731892,46.386159,0.0 -87.731331,46.386411,0.0 -87.729812,46.386503,0.0 -87.729548,46.386778,0.0 -87.729517,46.387647,0.0 -87.729418,46.387875,0.0 -87.729055,46.388059,0.0 -87.728428,46.388151,0.0 -87.728097,46.388105,0.0 -87.727271,46.387649,0.0 -87.72618,46.387284,0.0 -87.725618,46.387239,0.0 -87.724892,46.387354,0.0 -87.723406,46.387835,0.0 -87.722383,46.388065,0.0 -87.721161,46.388248,0.0 -87.720765,46.388386,0.0 -87.720732,46.388775,0.0 -87.720799,46.388934,0.0 -87.7208,46.389506,0.0 -87.720668,46.38962,0.0 -87.720272,46.389803,0.0 -87.718884,46.389873,0.0 -87.718125,46.389965,0.0 -87.717497,46.389852,0.0 -87.717167,46.390012,0.0 -87.71687,46.390446,0.0 -87.716904,46.390515,0.0 -87.716574,46.390789,0.0 -87.71631,46.39111,0.0 -87.716343,46.391407,0.0 -87.716906,46.391818,0.0 -87.718856,46.392616,0.0 -87.719551,46.393096,0.0 -87.719749,46.393347,0.0 -87.719783,46.393896,0.0 -87.719487,46.394239,0.0 -87.719157,46.394513,0.0 -87.718298,46.394674,0.0 -87.716779,46.394652,0.0 -87.715259,46.394859,0.0 -87.714697,46.394768,0.0 -87.712781,46.394793,0.0 -87.712319,46.394953,0.0 -87.711692,46.395365,0.0 -87.710272,46.39596,0.0 -87.708984,46.396213,0.0 -87.708093,46.396465,0.0 -87.707069,46.396923,0.0 -87.706805,46.396923,0.0 -87.706276,46.39658,0.0 -87.705416,46.396192,0.0 -87.704424,46.395667,0.0 -87.703665,46.395576,0.0 -87.700624,46.394801,0.0 -87.699996,46.394779,0.0 -87.699501,46.394894,0.0 -87.698708,46.394894,0.0 -87.698378,46.39478,0.0 -87.697914,46.394415,0.0 -87.697649,46.393661,0.0 -87.697648,46.392746,0.0 -87.697713,46.392106,0.0 -87.697581,46.3919,0.0 -87.697382,46.391626,0.0 -87.696853,46.391398,0.0 -87.695664,46.391147,0.0 -87.694937,46.390965,0.0 -87.694012,46.390828,0.0 -87.693417,46.390806,0.0 -87.692856,46.390943,0.0 -87.692327,46.391287,0.0 -87.691733,46.391538,0.0 -87.691238,46.391607,0.0 -87.690643,46.391493,0.0 -87.688924,46.390854,0.0 -87.688462,46.390649,0.0 -87.688131,46.390398,0.0 -87.688096,46.38882,0.0 -87.687765,46.388226,0.0 -87.686211,46.386513,0.0 -87.685649,46.38601,0.0 -87.684293,46.385074,0.0 -87.683632,46.384731,0.0 -87.683038,46.384549,0.0 -87.682674,46.384526,0.0 -87.681485,46.38471,0.0 -87.680858,46.38455,0.0 -87.679403,46.383751,0.0 -87.678412,46.383088,0.0 -87.678081,46.382723,0.0 -87.678048,46.382311,0.0 -87.678312,46.3819,0.0 -87.678443,46.381511,0.0 -87.678344,46.381442,0.0 -87.678311,46.381214,0.0 -87.677485,46.38046,0.0 -87.676857,46.380117,0.0 -87.675998,46.379889,0.0 -87.675436,46.379821,0.0 -87.672068,46.379982,0.0 -87.671605,46.380234,0.0 -87.670681,46.381012,0.0 -87.670318,46.381217,0.0 -87.669625,46.381378,0.0 -87.669096,46.381309,0.0 -87.667577,46.380853,0.0 -87.665529,46.380808,0.0 -87.664406,46.380602,0.0 -87.663943,46.380328,0.0 -87.663546,46.37978,0.0 -87.663249,46.379437,0.0 -87.662588,46.37898,0.0 -87.661894,46.378752,0.0 -87.661068,46.378706,0.0 -87.660441,46.379027,0.0 -87.659814,46.379164,0.0 -87.658658,46.379233,0.0 -87.658196,46.379142,0.0 -87.65737,46.378868,0.0 -87.657105,46.378685,0.0 -87.65661,46.378205,0.0 -87.656246,46.377908,0.0 -87.655718,46.377885,0.0 -87.655123,46.378068,0.0 -87.65476,46.378068,0.0 -87.653934,46.377863,0.0 -87.652316,46.377177,0.0 -87.650631,46.376378,0.0 -87.650433,46.376149,0.0 -87.650367,46.375784,0.0 -87.650796,46.375578,0.0 -87.651555,46.375486,0.0 -87.653041,46.375463,0.0 -87.653438,46.375394,0.0 -87.654395,46.375074,0.0 -87.654428,46.37496,0.0 -87.654461,46.374777,0.0 -87.653701,46.374366,0.0 -87.652578,46.373977,0.0 -87.651356,46.373726,0.0 -87.648714,46.37343,0.0 -87.64845,46.373224,0.0 -87.648186,46.372973,0.0 -87.648053,46.372584,0.0 -87.647921,46.372515,0.0 -87.647756,46.37167,0.0 -87.647755,46.371007,0.0 -87.647854,46.370824,0.0 -87.648449,46.370184,0.0 -87.648746,46.369909,0.0 -87.648878,46.369681,0.0 -87.64901,46.369589,0.0 -87.64891,46.369178,0.0 -87.648712,46.369064,0.0 -87.648217,46.368858,0.0 -87.647127,46.368881,0.0 -87.645575,46.369224,0.0 -87.645278,46.369156,0.0 -87.644948,46.368927,0.0 -87.644881,46.368493,0.0 -87.64574,46.367419,0.0 -87.645938,46.366847,0.0 -87.646036,46.366664,0.0 -87.646036,46.36607,0.0 -87.646003,46.365841,0.0 -87.645904,46.365773,0.0 -87.645772,46.365316,0.0 -87.645739,46.364447,0.0 -87.64587,46.364036,0.0 -87.646035,46.363784,0.0 -87.646762,46.363258,0.0 -87.646893,46.362984,0.0 -87.64686,46.362641,0.0 -87.64653,46.36223,0.0 -87.64577,46.361498,0.0 -87.645242,46.361087,0.0 -87.644945,46.36079,0.0 -87.643987,46.360013,0.0 -87.643855,46.359807,0.0 -87.643723,46.359739,0.0 -87.643524,46.359167,0.0 -87.643392,46.357499,0.0 -87.64326,46.357224,0.0 -87.642929,46.357064,0.0 -87.642203,46.357087,0.0 -87.640949,46.357499,0.0 -87.639991,46.357751,0.0 -87.639628,46.358071,0.0 -87.639397,46.358459,0.0 -87.639298,46.358665,0.0 -87.638539,46.359076,0.0 -87.637747,46.359534,0.0 -87.637318,46.3599,0.0 -87.636955,46.360517,0.0 -87.636922,46.360837,0.0 -87.636724,46.361088,0.0 -87.636526,46.36118,0.0 -87.636163,46.361157,0.0 -87.635832,46.360883,0.0 -87.635601,46.360586,0.0 -87.635469,46.360288,0.0 -87.635073,46.35974,0.0 -87.634709,46.359466,0.0 -87.634313,46.359306,0.0 -87.633653,46.359351,0.0 -87.632663,46.359534,0.0 -87.632332,46.359511,0.0 -87.631936,46.359397,0.0 -87.631705,46.35926,0.0 -87.631144,46.359329,0.0 -87.630384,46.359717,0.0 -87.630153,46.359946,0.0 -87.630219,46.360174,0.0 -87.631573,46.360769,0.0 -87.631606,46.361272,0.0 -87.631243,46.361523,0.0 -87.630781,46.361683,0.0 -87.630088,46.361569,0.0 -87.629427,46.361615,0.0 -87.62847,46.362072,0.0 -87.627446,46.362369,0.0 -87.626621,46.362575,0.0 -87.626027,46.362598,0.0 -87.625465,46.362415,0.0 -87.625135,46.362209,0.0 -87.624871,46.361843,0.0 -87.624871,46.361706,0.0 -87.624607,46.361203,0.0 -87.624376,46.360952,0.0 -87.623484,46.360358,0.0 -87.623022,46.360335,0.0 -87.622494,46.360723,0.0 -87.621833,46.360929,0.0 -87.621107,46.36102,0.0 -87.620414,46.360929,0.0 -87.620249,46.360815,0.0 -87.619919,46.360495,0.0 -87.619853,46.360357,0.0 -87.619853,46.36022,0.0 -87.619688,46.359946,0.0 -87.618466,46.359557,0.0 -87.61807,46.359489,0.0 -87.617541,46.360083,0.0 -87.616848,46.360334,0.0 -87.615561,46.360632,0.0 -87.614966,46.3607,0.0 -87.614669,46.360609,0.0 -87.614306,46.360426,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="18752">
+                <name>Granite Canyon (IV)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="18751">
+                    <coordinates>-87.706,46.396,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18754">
+                <name>Island Ledges (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="18753">
+                    <coordinates>-87.711998,46.396,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18756">
+                <name>Squeeze, Rock Island, Play Waves (III+)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="18755">
+                    <coordinates>-87.664,46.38,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18758">
+                <name>Second City Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="18757">
+                    <coordinates>-87.717003,46.395,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18760">
+                <name>Half-Dome (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="18759">
+                    <coordinates>-87.707,46.397,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18762">
+                <name>White City Falls (III+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="18761">
+                    <coordinates>-87.719002,46.389999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18764">
+                <name>Middle FInger (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="18763">
+                    <coordinates>-87.63,46.362,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18766">
+                <name>Jumblewood Sluice (III)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="18765">
+                    <coordinates>-87.654,46.375,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18768">
+                <name>USGS sampling site</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="18767">
+                    <coordinates>-87.747,46.385,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18770">
+                <name>Farmstead Falls (III)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="18769">
+                    <coordinates>-87.644,46.358,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18772">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="18771">
+                    <coordinates>-87.613998,46.361,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="18773">
+            <name>D) Cataract Basin Dam to powerhouse (0.9 miles) (III-IV)</name>
+            <Placemark id="18775">
+                <name>D) Cataract Basin Dam to powerhouse (0.9 miles) (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2684/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="18774">
+                    <coordinates>-87.512416,46.315734,0.0 -87.511157,46.315911,0.0 -87.510662,46.316116,0.0 -87.509902,46.316733,0.0 -87.509505,46.317007,0.0 -87.509504,46.317647,0.0 -87.5098,46.31799,0.0 -87.510459,46.318242,0.0 -87.51069,46.318379,0.0 -87.510689,46.318928,0.0 -87.510326,46.31911,0.0 -87.510028,46.319202,0.0 -87.508907,46.319063,0.0 -87.507687,46.318651,0.0 -87.506565,46.318695,0.0 -87.505839,46.318809,0.0 -87.505146,46.319105,0.0 -87.50475,46.319036,0.0 -87.50419,46.31883,0.0 -87.503037,46.318074,0.0 -87.501744,46.317539,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="18777">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="18776">
+                    <coordinates>-87.501801,46.317402,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18779">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="18778">
+                    <coordinates>-87.512398,46.315601,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="18780">
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>C) 1.2 mile above CR565 to 0.4 mile below CR565 (1.6 miles) (II-IV)</name>
+            <Placemark id="18782">
+                <name>C) 1.2 mile above CR565 to 0.4 mile below CR565 (1.6 miles) (II-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4322/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="18781">
+                    <coordinates>-87.614688,46.360614,0.0 -87.614669,46.360609,0.0 -87.614306,46.360426,0.0 -87.614141,46.360129,0.0 -87.614108,46.359854,0.0 -87.613844,46.359191,0.0 -87.612788,46.357751,0.0 -87.612755,46.357385,0.0 -87.612887,46.357271,0.0 -87.613613,46.357157,0.0 -87.613679,46.356974,0.0 -87.614175,46.356265,0.0 -87.614175,46.355808,0.0 -87.614307,46.35558,0.0 -87.614769,46.355374,0.0 -87.615132,46.355123,0.0 -87.615264,46.354871,0.0 -87.615297,46.354483,0.0 -87.615165,46.354391,0.0 -87.615165,46.354323,0.0 -87.615033,46.354094,0.0 -87.614505,46.353728,0.0 -87.61434,46.35366,0.0 -87.613911,46.353637,0.0 -87.613383,46.353774,0.0 -87.613152,46.353774,0.0 -87.612756,46.353408,0.0 -87.61269,46.352905,0.0 -87.612591,46.352745,0.0 -87.612294,46.352494,0.0 -87.611898,46.352357,0.0 -87.611402,46.352334,0.0 -87.610445,46.352471,0.0 -87.609422,46.352311,0.0 -87.608002,46.352242,0.0 -87.607309,46.35215,0.0 -87.606352,46.351579,0.0 -87.605824,46.351373,0.0 -87.604834,46.351304,0.0 -87.603348,46.350961,0.0 -87.601038,46.350709,0.0 -87.600642,46.350595,0.0 -87.599651,46.35032,0.0 -87.599362,46.350175,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="18784">
+                <name>Boulder Garden (II+)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="18783">
+                    <coordinates>-87.60746,46.352104,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18786">
+                <name>Lower 5-6-5 (III)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="18785">
+                    <coordinates>-87.601517,46.35062,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18788">
+                <name>Hump Rock (II+)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="18787">
+                    <coordinates>-87.614731,46.355846,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18790">
+                <name>5-6-5 Rapids (III+)</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="18789">
+                    <coordinates>-87.604271,46.350979,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18792">
+                <name>Hwy.35</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="18791">
+                    <coordinates>-87.530998,46.314999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18794">
+                <name>Logjam Island (III+)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="18793">
+                    <coordinates>-87.612541,46.352787,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18796">
+                <name>'Homme Side'/'Sweet Side' (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="18795">
+                    <coordinates>-87.598,46.348,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18798">
+                <name>*Possible Alternate Exit*</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="18797">
+                    <coordinates>-87.596001,46.342999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18800">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="18799">
+                    <coordinates>-87.5994,46.3501,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18802">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="18801">
+                    <coordinates>-87.6146,46.3609,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18804">
+                <name>Three Mile Island (II+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18803">
+                    <coordinates>-87.558998,46.330002,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="18805">
+            <name>A) Greenwood Reservoir/Dam to Co.Rd.Ch (3 miles) (II-III+(IV))</name>
+            <Placemark id="18807">
+                <name>A) Greenwood Reservoir/Dam to Co.Rd.Ch (3 miles) (II-III+(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10804/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="18806">
+                    <coordinates>-87.804346,46.443285,0.0 -87.802229,46.442463,0.0 -87.8008,46.442341,0.0 -87.800522,46.44226,0.0 -87.799837,46.44178,0.0 -87.797303,46.441627,0.0 -87.796311,46.440807,0.0 -87.794863,46.44072,0.0 -87.793131,46.439982,0.0 -87.792407,46.439938,0.0 -87.790534,46.440333,0.0 -87.78981,46.440289,0.0 -87.788063,46.439677,0.0 -87.787268,46.438741,0.0 -87.787425,46.437483,0.0 -87.78648,46.436285,0.0 -87.786543,46.435782,0.0 -87.785459,46.434842,0.0 -87.785411,46.434771,0.0 -87.785378,46.434657,0.0 -87.785279,46.434542,0.0 -87.785279,46.434428,0.0 -87.784454,46.433742,0.0 -87.78419,46.433376,0.0 -87.784158,46.432964,0.0 -87.784423,46.432668,0.0 -87.785117,46.432485,0.0 -87.785613,46.432188,0.0 -87.786508,46.431298,0.0 -87.787897,46.430407,0.0 -87.788328,46.429928,0.0 -87.788329,46.429356,0.0 -87.787933,46.428716,0.0 -87.787834,46.428464,0.0 -87.787373,46.427504,0.0 -87.787308,46.426544,0.0 -87.78754,46.426224,0.0 -87.7884,46.425996,0.0 -87.790549,46.425678,0.0 -87.791012,46.425518,0.0 -87.791343,46.425198,0.0 -87.791575,46.424833,0.0 -87.792071,46.424467,0.0 -87.792931,46.424171,0.0 -87.794055,46.423943,0.0 -87.795313,46.422869,0.0 -87.795875,46.42239,0.0 -87.796008,46.422207,0.0 -87.796372,46.422002,0.0 -87.796934,46.422002,0.0 -87.797331,46.421842,0.0 -87.797926,46.421294,0.0 -87.798224,46.42086,0.0 -87.798258,46.42054,0.0 -87.798093,46.420197,0.0 -87.797664,46.419854,0.0 -87.797003,46.419556,0.0 -87.796541,46.41951,0.0 -87.79611,46.41983,0.0 -87.79611,46.419899,0.0 -87.796011,46.41999,0.0 -87.796011,46.420036,0.0 -87.795845,46.420287,0.0 -87.795448,46.420538,0.0 -87.795146,46.420643,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="18809">
+                <name>Third Major Pitch (IV)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18808">
+                    <coordinates>-87.810471,46.428829,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18811">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="18810">
+                    <coordinates>-87.7952,46.4208,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18813">
+                <name>Dam Drop (IV)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18812">
+                    <coordinates>-87.804802,46.441559,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18815">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="18814">
+                    <coordinates>-87.805,46.4416,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18817">
+                <name>Private footbridge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18816">
+                    <coordinates>-87.810364,46.430679,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18819">
+                <name>Riffles and rips (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18818">
+                    <coordinates>-87.808998,46.424599,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18821">
+                <name>Private footbridge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18820">
+                    <coordinates>-87.812347,46.43449,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18823">
+                <name>Fourth Pitch (IV)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18822">
+                    <coordinates>-87.81208,46.426739,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18825">
+                <name>Co.Rd.Ch</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18824">
+                    <coordinates>-87.797997,46.4202,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18827">
+                <name>One more shot of gradient (III+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18826">
+                    <coordinates>-87.772591,46.400719,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18829">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18828">
+                    <coordinates>-87.810402,46.435799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18831">
+                <name>Second Pitch (IV)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18830">
+                    <coordinates>-87.805,46.439999,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

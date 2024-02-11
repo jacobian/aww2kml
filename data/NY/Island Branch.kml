@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25564">
+        <name>Island Branch</name>
+        <Folder id="25565">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Emoryville Road to Island Branch R (I)</name>
+            <Placemark id="25567">
+                <name>Emoryville Road to Island Branch R (I)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1328/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="25566">
+                    <coordinates>-75.411477,44.321203,0.0 -75.411541,44.320997,0.0 -75.411604,44.320311,0.0 -75.412782,44.319213,0.0 -75.412845,44.319053,0.0 -75.412876,44.318047,0.0 -75.413354,44.317635,0.0 -75.413895,44.317429,0.0 -75.414851,44.317337,0.0 -75.415424,44.317451,0.0 -75.416603,44.317611,0.0 -75.417049,44.317634,0.0 -75.417272,44.317497,0.0 -75.417558,44.317222,0.0 -75.417622,44.317062,0.0 -75.418004,44.316604,0.0 -75.418513,44.316307,0.0 -75.419245,44.316124,0.0 -75.420392,44.316055,0.0 -75.420742,44.315963,0.0 -75.421347,44.315483,0.0 -75.42211,44.314316,0.0 -75.42211,44.314133,0.0 -75.422237,44.314019,0.0 -75.422246,44.313868,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="25569">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="25568">
+                    <coordinates>-75.417397,44.325901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="25571">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="25570">
+                    <coordinates>-75.422798,44.3139,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56589">
+        <name>Sturgeon, W.Br. (Houghton)</name>
+        <Folder id="56590">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Newberry Rd to S.Laird Rd (5.7 miles) (I-IV)</name>
+            <Placemark id="56592">
+                <name>Newberry Rd to S.Laird Rd (5.7 miles) (I-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3709/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="56591">
+                    <coordinates>-88.814495,46.72306,0.0 -88.814367,46.723076,0.0 -88.813769,46.723053,0.0 -88.812739,46.723052,0.0 -88.812008,46.72312,0.0 -88.811675,46.723417,0.0 -88.81121,46.72344,0.0 -88.810479,46.723211,0.0 -88.810081,46.722914,0.0 -88.809449,46.722913,0.0 -88.808685,46.72321,0.0 -88.807654,46.723415,0.0 -88.80679,46.723506,0.0 -88.805029,46.723528,0.0 -88.804165,46.723848,0.0 -88.803433,46.724281,0.0 -88.802901,46.724692,0.0 -88.802735,46.724761,0.0 -88.80217,46.724692,0.0 -88.802203,46.724372,0.0 -88.802703,46.723755,0.0 -88.802869,46.723413,0.0 -88.802803,46.723161,0.0 -88.80267,46.722955,0.0 -88.802239,46.722658,0.0 -88.800777,46.722497,0.0 -88.798685,46.721559,0.0 -88.797622,46.721261,0.0 -88.796392,46.721306,0.0 -88.795827,46.721557,0.0 -88.793565,46.722972,0.0 -88.792967,46.723155,0.0 -88.792601,46.723155,0.0 -88.792236,46.723086,0.0 -88.792137,46.72288,0.0 -88.791805,46.722697,0.0 -88.791273,46.722765,0.0 -88.790841,46.722948,0.0 -88.790475,46.723267,0.0 -88.790208,46.723633,0.0 -88.789941,46.72425,0.0 -88.789874,46.724867,0.0 -88.789974,46.725027,0.0 -88.789939,46.725712,0.0 -88.789706,46.725895,0.0 -88.789274,46.725918,0.0 -88.788676,46.725734,0.0 -88.787713,46.725162,0.0 -88.787614,46.724934,0.0 -88.787316,46.724659,0.0 -88.786917,46.724545,0.0 -88.78602,46.72459,0.0 -88.78592,46.724658,0.0 -88.785952,46.725298,0.0 -88.785619,46.725549,0.0 -88.785054,46.725777,0.0 -88.783957,46.725959,0.0 -88.78379,46.726439,0.0 -88.783524,46.726553,0.0 -88.783292,46.726553,0.0 -88.782561,46.726415,0.0 -88.781896,46.726461,0.0 -88.781297,46.72678,0.0 -88.781197,46.72694,0.0 -88.781064,46.727283,0.0 -88.780565,46.727625,0.0 -88.780066,46.727807,0.0 -88.779966,46.727967,0.0 -88.779998,46.728539,0.0 -88.779566,46.728812,0.0 -88.779366,46.728835,0.0 -88.778702,46.728789,0.0 -88.777905,46.728446,0.0 -88.777307,46.728445,0.0 -88.77724,46.728536,0.0 -88.777173,46.728971,0.0 -88.776707,46.729313,0.0 -88.776573,46.729701,0.0 -88.776706,46.729861,0.0 -88.776671,46.730593,0.0 -88.776438,46.730935,0.0 -88.776271,46.731324,0.0 -88.77627,46.731941,0.0 -88.776469,46.732169,0.0 -88.777,46.732558,0.0 -88.778262,46.733222,0.0 -88.778329,46.733405,0.0 -88.778229,46.733519,0.0 -88.777165,46.733724,0.0 -88.776799,46.733975,0.0 -88.776764,46.73482,0.0 -88.776231,46.735231,0.0 -88.77643,46.735734,0.0 -88.77633,46.735848,0.0 -88.775831,46.736099,0.0 -88.773903,46.736372,0.0 -88.772872,46.73644,0.0 -88.77254,46.736599,0.0 -88.77224,46.736828,0.0 -88.772007,46.737193,0.0 -88.771474,46.737581,0.0 -88.771175,46.737741,0.0 -88.770676,46.737786,0.0 -88.769945,46.737534,0.0 -88.769513,46.737602,0.0 -88.76918,46.737831,0.0 -88.769047,46.738013,0.0 -88.768847,46.738173,0.0 -88.768547,46.738584,0.0 -88.768514,46.738835,0.0 -88.768512,46.739567,0.0 -88.768645,46.739772,0.0 -88.769242,46.74023,0.0 -88.769641,46.740482,0.0 -88.769607,46.740847,0.0 -88.768975,46.741121,0.0 -88.768709,46.741304,0.0 -88.768375,46.741692,0.0 -88.768342,46.741966,0.0 -88.76628,46.742193,0.0 -88.766114,46.742352,0.0 -88.766013,46.742787,0.0 -88.765979,46.743244,0.0 -88.765478,46.744249,0.0 -88.765279,46.74434,0.0 -88.76498,46.744157,0.0 -88.764914,46.743928,0.0 -88.764549,46.743676,0.0 -88.763983,46.743745,0.0 -88.762652,46.744703,0.0 -88.76222,46.744726,0.0 -88.761821,46.744451,0.0 -88.761689,46.744131,0.0 -88.761623,46.744108,0.0 -88.76159,46.743994,0.0 -88.76149,46.743902,0.0 -88.761258,46.743651,0.0 -88.761291,46.743422,0.0 -88.761425,46.743239,0.0 -88.761392,46.742965,0.0 -88.761126,46.742782,0.0 -88.7611,46.742781,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="56594">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="56593">
+                    <coordinates>-88.7611,46.7428,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56596">
+                <name>Small ledge/wave/rapids</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56595">
+                    <coordinates>-88.782623,46.726299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56598">
+                <name>Unnamed Creek</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56597">
+                    <coordinates>-88.777199,46.728401,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56600">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="56599">
+                    <coordinates>-88.8145,46.7231,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56602">
+                <name>Greenier Creek</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56601">
+                    <coordinates>-88.768349,46.741821,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56604">
+                <name>Perjury Creek</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56603">
+                    <coordinates>-88.783928,46.725922,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56606">
+                <name>Slide/ledge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56605">
+                    <coordinates>-88.785622,46.72443,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56608">
+                <name>West Branch Falls?</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56607">
+                    <coordinates>-88.793633,46.722382,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56610">
+                <name>Slide</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56609">
+                    <coordinates>-88.785606,46.72443,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56612">
+                <name>Unnamed Creek</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56611">
+                    <coordinates>-88.778542,46.733292,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56614">
+                <name>First drop sequence</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56613">
+                    <coordinates>-88.802971,46.723469,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56616">
+                <name>Snagfest may begin here</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56615">
+                    <coordinates>-88.796402,46.7211,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56618">
+                <name>Island</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56617">
+                    <coordinates>-88.779121,46.728951,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56620">
+                <name>Unnamed Creek</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56619">
+                    <coordinates>-88.786201,46.7243,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56622">
+                <name>Access?</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56621">
+                    <coordinates>-88.801498,46.7248,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56624">
+                <name>Short Ledge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56623">
+                    <coordinates>-88.789742,46.725319,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56626">
+                <name>Short Ledge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56625">
+                    <coordinates>-88.789841,46.725121,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56628">
+                <name>Ledge/drop</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56627">
+                    <coordinates>-88.790749,46.723011,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

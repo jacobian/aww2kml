@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="59316">
+        <name>Turkey</name>
+        <Folder id="59317">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Elkader Whitewater Park (PnP) (II(III))</name>
+            <Placemark id="59319">
+                <name>Elkader Whitewater Park (PnP) (II(III))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10638/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="59318">
+                    <coordinates>-91.402456,42.853615,0.0 -91.402419,42.853573,0.0 -91.402183,42.853261,0.0 -91.402102,42.85313,0.0 -91.402027,42.853038,0.0 -91.401999,42.853009,0.0 -91.401935,42.852927,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="59321">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="59320">
+                    <coordinates>-91.4021,42.8528,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="59323">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="59322">
+                    <coordinates>-91.4027,42.8534,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="59324">
+            <name>Elkader Whitewater Park (PnP) (II(III))</name>
+            <Placemark id="59326">
+                <name>Elkader Whitewater Park (PnP) (II(III))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10638/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="59325">
+                    <coordinates>-91.402456,42.853615,0.0 -91.402419,42.853573,0.0 -91.402183,42.853261,0.0 -91.402102,42.85313,0.0 -91.402027,42.853038,0.0 -91.401999,42.853009,0.0 -91.401935,42.852927,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="59328">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="59327">
+                    <coordinates>-91.4021,42.8528,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="59330">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="59329">
+                    <coordinates>-91.4027,42.8534,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="59331">
+            <name>Vernon Springs Park (rock-arch rapids) (I-II)</name>
+            <Placemark id="59333">
+                <name>Vernon Springs Park (rock-arch rapids) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10320/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="59332">
+                    <coordinates>-92.138299,43.347268,0.0 -92.138028,43.347271,0.0 -92.13781,43.347247,0.0 -92.13778,43.347236,0.0 -92.137368,43.347134,0.0 -92.137323,43.347106,0.0 -92.137255,43.347095,0.0 -92.137193,43.3471,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="59335">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="59334">
+                    <coordinates>-92.1372,43.3472,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="59337">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="59336">
+                    <coordinates>-92.1383,43.3474,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

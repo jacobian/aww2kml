@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="35987">
+        <name>Muddy Creek (Susquehanna trib)</name>
+        <Folder id="35988">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>2. Paper Mill Road  to  Susquehanna River (Cold Creek Park) (II(III))</name>
+            <Placemark id="35990">
+                <name>2. Paper Mill Road  to  Susquehanna River (Cold Creek Park) (II(III))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1645/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="35989">
+                    <coordinates>-76.31633,39.77325,0.0 -76.316614,39.773656,0.0 -76.316774,39.773792,0.0 -76.316774,39.773792,0.0 -76.317258,39.774201,0.0 -76.317719,39.77453,0.0 -76.318395,39.774563,0.0 -76.319726,39.774184,0.0 -76.32068,39.774003,0.0 -76.321431,39.773953,0.0 -76.321607,39.77397,0.0 -76.321607,39.77397,0.0 -76.322869,39.774093,0.0 -76.32377,39.774291,0.0 -76.324296,39.774481,0.0 -76.324618,39.774769,0.0 -76.324672,39.774827,0.0 -76.324886,39.775231,0.0 -76.3248,39.77594,0.0 -76.324253,39.776864,0.0 -76.323652,39.777375,0.0 -76.322719,39.777655,0.0 -76.321903,39.777598,0.0 -76.321388,39.777466,0.0 -76.320831,39.777449,0.0 -76.320369,39.777639,0.0 -76.320176,39.778068,0.0 -76.320283,39.778587,0.0 -76.321045,39.779593,0.0 -76.321045,39.779593,0.0 -76.32171,39.780822,0.0 -76.322601,39.78191,0.0 -76.322869,39.782347,0.0 -76.322869,39.782347,0.0 -76.322944,39.782594,0.0 -76.322794,39.782891,0.0 -76.321957,39.783353,0.0 -76.321378,39.783452,0.0 -76.320595,39.783229,0.0 -76.319286,39.782718,0.0 -76.318502,39.782116,0.0 -76.317902,39.781819,0.0 -76.317387,39.78177,0.0 -76.316185,39.781786,0.0 -76.315702,39.781638,0.0 -76.315488,39.78144,0.0 -76.315155,39.780698,0.0 -76.314951,39.780129,0.0 -76.314694,39.77989,0.0 -76.314383,39.779758,0.0 -76.314383,39.779758,0.0 -76.314039,39.779667,0.0 -76.313599,39.779725,0.0 -76.312773,39.780385,0.0 -76.312258,39.780459,0.0 -76.311743,39.780632,0.0 -76.311486,39.780912,0.0 -76.311486,39.780912,0.0 -76.310971,39.782034,0.0 -76.310531,39.783369,0.0 -76.310617,39.78374,0.0 -76.311282,39.784532,0.0 -76.311625,39.785356,0.0 -76.311754,39.786057,0.0 -76.311711,39.786486,0.0 -76.311518,39.786684,0.0 -76.311518,39.786684,0.0 -76.311014,39.786931,0.0 -76.310445,39.786906,0.0 -76.30963,39.786601,0.0 -76.307473,39.78534,0.0 -76.306926,39.784944,0.0 -76.306164,39.78473,0.0 -76.305006,39.78473,0.0 -76.30433,39.784845,0.0 -76.303117,39.785332,0.0 -76.302173,39.786008,0.0 -76.301551,39.786816,0.0 -76.301122,39.787805,0.0 -76.301122,39.787805,0.0 -76.300843,39.788596,0.0 -76.300274,39.789429,0.0 -76.299609,39.790031,0.0 -76.299609,39.790031,0.0 -76.299266,39.790286,0.0 -76.299266,39.790286,0.0 -76.296294,39.791201,0.0 -76.292979,39.791515,0.0 -76.292979,39.791515,0.0 -76.288092,39.779753,0.0 -76.288092,39.779753,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="35992">
+                <name>Take-out - Cold Creek Park</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35991">
+                    <coordinates>-76.288092,39.779753,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35994">
+                <name>Flatwater Paddle</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35993">
+                    <coordinates>-76.299266,39.790286,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35996">
+                <name>Paper Mill Rd. Put-in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="35995">
+                    <coordinates>-76.31633,39.77325,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35998">
+                <name>&quot;Snap Falls&quot; (III)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="35997">
+                    <coordinates>-76.321408,39.777471,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36000">
+                <name>&quot;Muddy Creek Falls&quot; (V) (V)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="35999">
+                    <coordinates>-76.316223,39.781785,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36002">
+                <name>&quot;Gumdrop&quot; (II+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36001">
+                    <coordinates>-76.310713,39.783854,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36004">
+                <name>&quot;Screaming Left&quot; (II+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36003">
+                    <coordinates>-76.313448,39.779846,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36006">
+                <name>&quot;Mumbling Right&quot; (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36005">
+                    <coordinates>-76.312773,39.780385,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36008">
+                <name>Unnamed ledge (II-)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36007">
+                    <coordinates>-76.314973,39.78019,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36010">
+                <name>Waterfall river left</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="36009">
+                    <coordinates>-76.311584,39.786617,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36012">
+                <name>&quot;Triple Drop&quot; (III)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36011">
+                    <coordinates>-76.30963,39.786601,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

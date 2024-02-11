@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="51640">
+        <name>Sewell Mill Creek</name>
+        <Folder id="51641">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Murdock Road to Sewell Mill Road (II-III)</name>
+            <Placemark id="51643">
+                <name>Murdock Road to Sewell Mill Road (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/5073/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="51642">
+                    <coordinates>-84.459186,33.987127,0.0 -84.459083,33.987081,0.0 -84.458822,33.986919,0.0 -84.458549,33.986587,0.0 -84.458443,33.98648,0.0 -84.458071,33.986329,0.0 -84.457995,33.986262,0.0 -84.457917,33.986248,0.0 -84.457768,33.986519,0.0 -84.457684,33.986713,0.0 -84.457672,33.987104,0.0 -84.457629,33.987482,0.0 -84.457591,33.987703,0.0 -84.45748,33.987753,0.0 -84.457088,33.987758,0.0 -84.456821,33.987766,0.0 -84.456681,33.987724,0.0 -84.456374,33.987508,0.0 -84.456298,33.987428,0.0 -84.455987,33.98737,0.0 -84.455769,33.9873,0.0 -84.455677,33.987233,0.0 -84.455652,33.98701,0.0 -84.455482,33.986419,0.0 -84.455286,33.986167,0.0 -84.454888,33.985832,0.0 -84.454746,33.985739,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="51645">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="51644">
+                    <coordinates>-84.454903,33.9855,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51647">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="51646">
+                    <coordinates>-84.459198,33.987099,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="63593">
+        <name>Wolf, Little W.Br.</name>
+        <Folder id="63594">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Above Neopit Millpond (1.4 miles) ***ACCESS ISSUES*** (II-III+)</name>
+            <Placemark id="63596">
+                <name>Above Neopit Millpond (1.4 miles) ***ACCESS ISSUES*** (II-III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/6551/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="63595">
+                    <coordinates>-88.883379,44.995279,0.0 -88.883109,44.995121,0.0 -88.882207,44.994755,0.0 -88.881788,44.994573,0.0 -88.881143,44.993956,0.0 -88.880917,44.993498,0.0 -88.880852,44.992904,0.0 -88.880626,44.992424,0.0 -88.880497,44.992241,0.0 -88.880465,44.992036,0.0 -88.880304,44.991899,0.0 -88.88011,44.991236,0.0 -88.880046,44.990824,0.0 -88.879949,44.990321,0.0 -88.879724,44.989933,0.0 -88.879627,44.989613,0.0 -88.879562,44.989567,0.0 -88.879401,44.988973,0.0 -88.879272,44.988356,0.0 -88.879337,44.987921,0.0 -88.879498,44.987738,0.0 -88.880303,44.986938,0.0 -88.880593,44.986458,0.0 -88.880754,44.985635,0.0 -88.880882,44.985452,0.0 -88.881204,44.985178,0.0 -88.881559,44.984995,0.0 -88.881752,44.984835,0.0 -88.882009,44.984424,0.0 -88.881687,44.983875,0.0 -88.881268,44.983601,0.0 -88.880753,44.983418,0.0 -88.879175,44.983304,0.0 -88.87882,44.983235,0.0 -88.877951,44.98303,0.0 -88.876211,44.982275,0.0 -88.875664,44.982161,0.0 -88.875084,44.982184,0.0 -88.874311,44.982344,0.0 -88.873184,44.98287,0.0 -88.872669,44.983236,0.0 -88.872561,44.983418,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="63598">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="63597">
+                    <coordinates>-88.8727,44.9835,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63600">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="63599">
+                    <coordinates>-88.8836,44.9949,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63602">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63601">
+                    <coordinates>-88.865097,44.983002,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

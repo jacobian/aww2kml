@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18025">
+        <name>Elk Creek, East Fork</name>
+        <Folder id="18026">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>First bridge to second bridge (III-IV)</name>
+            <Placemark id="18028">
+                <name>First bridge to second bridge (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/5016/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="18027">
+                    <coordinates>-79.463195,37.569472,0.0 -79.463317,37.56932,0.0 -79.463538,37.569237,0.0 -79.463676,37.569144,0.0 -79.464255,37.568743,0.0 -79.464594,37.568622,0.0 -79.465077,37.568512,0.0 -79.465643,37.568413,0.0 -79.466126,37.568292,0.0 -79.466436,37.568165,0.0 -79.466678,37.568012,0.0 -79.466781,37.567902,0.0 -79.467057,37.567671,0.0 -79.467299,37.567544,0.0 -79.467526,37.567544,0.0 -79.467989,37.567506,0.0 -79.468334,37.567396,0.0 -79.46863,37.567176,0.0 -79.468872,37.566967,0.0 -79.469127,37.56683,0.0 -79.469396,37.566791,0.0 -79.470266,37.566846,0.0 -79.470887,37.566923,0.0 -79.471667,37.566994,0.0 -79.472102,37.567005,0.0 -79.472447,37.566994,0.0 -79.473358,37.566829,0.0 -79.474117,37.566719,0.0 -79.474358,37.566718,0.0 -79.4746,37.566729,0.0 -79.474876,37.566784,0.0 -79.475566,37.566894,0.0 -79.476015,37.566938,0.0 -79.47636,37.566949,0.0 -79.476498,37.566976,0.0 -79.477188,37.566976,0.0 -79.477692,37.566959,0.0 -79.478016,37.566921,0.0 -79.478292,37.566849,0.0 -79.478554,37.566794,0.0 -79.479265,37.566711,0.0 -79.479748,37.566629,0.0 -79.480128,37.566508,0.0 -79.480348,37.566464,0.0 -79.480555,37.566398,0.0 -79.480783,37.566299,0.0 -79.48099,37.566178,0.0 -79.481266,37.565942,0.0 -79.481418,37.565848,0.0 -79.482212,37.565941,0.0 -79.482281,37.565969,0.0 -79.482646,37.566271,0.0 -79.482937,37.5666,0.0 -79.483164,37.566836,0.0 -79.483489,37.567122,0.0 -79.483958,37.56744,0.0 -79.484179,37.567605,0.0 -79.484204,37.567655,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="18030">
+                <name>Put-in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="18029">
+                    <coordinates>-79.463177,37.56947,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18032">
+                <name>Take-out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="18031">
+                    <coordinates>-79.484208,37.567749,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18034">
+                <name>Last Drop (III+)</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="18033">
+                    <coordinates>-79.484208,37.567749,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

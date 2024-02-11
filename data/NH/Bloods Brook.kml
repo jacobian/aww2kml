@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5327">
+        <name>Bloods Brook</name>
+        <Folder id="5328">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>The Ledges (V)</name>
+            <Placemark id="5330">
+                <name>The Ledges (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3242/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="5329">
+                    <coordinates>-72.314418,43.605399,0.0 -72.314917,43.60539,0.0 -72.315596,43.60551,0.0 -72.315884,43.605624,0.0 -72.316012,43.60579,0.0 -72.316012,43.606177,0.0 -72.315966,43.606446,0.0 -72.316005,43.606517,0.0 -72.316012,43.606703,0.0 -72.316035,43.606743,0.0 -72.316071,43.606762,0.0 -72.316141,43.606781,0.0 -72.317145,43.60682,0.0 -72.317808,43.606795,0.0 -72.317998,43.606759,0.0 -72.318595,43.606576,0.0 -72.318844,43.606531,0.0 -72.319024,43.60652,0.0 -72.319292,43.606552,0.0 -72.319524,43.606599,0.0 -72.320926,43.60701,0.0 -72.321242,43.607022,0.0 -72.321789,43.606941,0.0 -72.32236,43.60691,0.0 -72.3227,43.606863,0.0 -72.323476,43.606796,0.0 -72.323603,43.606762,0.0 -72.323991,43.606719,0.0 -72.325253,43.606442,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="5332">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="5331">
+                    <coordinates>-72.325246,43.606411,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="5334">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="5333">
+                    <coordinates>-72.314418,43.605404,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

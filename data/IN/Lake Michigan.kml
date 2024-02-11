@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="28706">
+        <name>Lake Michigan</name>
+        <Folder id="28707">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Various (Indiana) locations (I-V)</name>
+            <Placemark id="28709">
+                <name>Various (Indiana) locations (I-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10182/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="28708">
+                    <coordinates>-87.523975,41.712452,0.0 -87.488678,41.682287,0.0 -87.465288,41.675458,0.0 -87.448916,41.683875,0.0 -87.4234,41.689432,0.0 -87.417659,41.689591,0.0 -87.405326,41.679428,0.0 -87.407452,41.669105,0.0 -87.419147,41.659415,0.0 -87.434457,41.653696,0.0 -87.420636,41.640826,0.0 -87.41128,41.642891,0.0 -87.367052,41.629701,0.0 -87.324313,41.625092,0.0 -87.292206,41.623344,0.0 -87.286252,41.620324,0.0 -87.239686,41.623026,0.0 -87.179724,41.631291,0.0 -87.174195,41.633675,0.0 -87.145277,41.645116,0.0 -87.130393,41.648929,0.0 -87.119549,41.646864,0.0 -87.065541,41.661639,0.0 -87.015359,41.680063,0.0 -86.923503,41.713404,0.0 -86.910107,41.724832,0.0 -86.900538,41.730386,0.0 -86.824629,41.760529,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="28711">
+                <name>Michigan City</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28710">
+                    <coordinates>-86.904404,41.7281,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28713">
+                <name>&quot;Shooters&quot;/Whiting Park / Whihala Beach County Park</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28712">
+                    <coordinates>-87.491898,41.684601,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28715">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="28714">
+                    <coordinates>-87.5173,41.7018,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28717">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="28716">
+                    <coordinates>-86.8251,41.7601,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28719">
+                <name>West Beach / Ogden Dunes</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="28718">
+                    <coordinates>-87.208313,41.626095,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28721">
+                <name>Beverly Shores</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="28720">
+                    <coordinates>-87.009918,41.681118,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28723">
+                <name>Indiana Dunes</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="28722">
+                    <coordinates>-87.064804,41.662876,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="28724">
+            <name>Various (Wisconsin) locations (I-V)</name>
+            <Placemark id="28726">
+                <name>Various (Wisconsin) locations (I-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10176/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="28725">
+                    <coordinates>-87.801685,42.493073,0.0 -87.807282,42.587689,0.0 -87.819661,42.616294,0.0 -87.782784,42.705803,0.0 -87.776595,42.725129,0.0 -87.781752,42.752137,0.0 -87.774532,42.769934,0.0 -87.75777,42.781481,0.0 -87.823787,42.835109,0.0 -87.844159,42.875753,0.0 -87.847512,42.899133,0.0 -87.839259,42.912734,0.0 -87.844933,42.930862,0.0 -87.843386,42.945588,0.0 -87.845964,42.962368,0.0 -87.856279,42.978218,0.0 -87.886967,43.000288,0.0 -87.895219,43.025744,0.0 -87.881552,43.052977,0.0 -87.862984,43.071253,0.0 -87.876394,43.100069,0.0 -87.899603,43.123952,0.0 -87.900119,43.138066,0.0 -87.88052,43.171364,0.0 -87.895219,43.201293,0.0 -87.893414,43.211819,0.0 -87.910692,43.237187,0.0 -87.911723,43.252779,0.0 -87.888256,43.305744,0.0 -87.882067,43.345327,0.0 -87.87691,43.36997,0.0 -87.862984,43.384778,0.0 -87.857569,43.400706,0.0 -87.826623,43.432737,0.0 -87.803156,43.460154,0.0 -87.79052,43.494211,0.0 -87.793099,43.528063,0.0 -87.79052,43.541786,0.0 -87.791294,43.554309,0.0 -87.784331,43.571313,0.0 -87.758285,43.605308,0.0 -87.703615,43.684259,0.0 -87.702068,43.708242,0.0 -87.709546,43.730235,0.0 -87.703099,43.746817,0.0 -87.702326,43.757062,0.0 -87.694589,43.763581,0.0 -87.70671,43.776554,0.0 -87.725793,43.809688,0.0 -87.728372,43.835178,0.0 -87.727856,43.852445,0.0 -87.735592,43.87457,0.0 -87.726051,43.901519,0.0 -87.717798,43.940977,0.0 -87.699747,43.960471,0.0 -87.694074,43.987937,0.0 -87.685048,44.017802,0.0 -87.666738,44.041905,0.0 -87.653845,44.055065,0.0 -87.652813,44.067249,0.0 -87.655392,44.07818,0.0 -87.648945,44.088368,0.0 -87.647913,44.101703,0.0 -87.628006,44.11892,0.0 -87.564052,44.142427,0.0 -87.535169,44.161855,0.0 -87.517892,44.179218,0.0 -87.506862,44.203513,0.0 -87.504541,44.217006,0.0 -87.517177,44.250578,0.0 -87.538839,44.291017,0.0 -87.544254,44.306151,0.0 -87.545028,44.32478,0.0 -87.533424,44.341382,0.0 -87.532908,44.349865,0.0 -87.518209,44.368855,0.0 -87.51563,44.381211,0.0 -87.516919,44.394111,0.0 -87.50222,44.434083,0.0 -87.498868,44.459793,0.0 -87.483395,44.497697,0.0 -87.477464,44.523259,0.0 -87.468389,44.55071,0.0 -87.44543,44.586919,0.0 -87.435704,44.604514,0.0 -87.405532,44.626542,0.0 -87.387222,44.649846,0.0 -87.375618,44.676033,0.0 -87.352666,44.704266,0.0 -87.34003,44.723324,0.0 -87.335646,44.748089,0.0 -87.320174,44.768598,0.0 -87.316821,44.774823,0.0 -87.319142,44.785256,0.0 -87.309245,44.797461,0.0 -87.301251,44.804963,0.0 -87.280621,44.81466,0.0 -87.267727,44.845751,0.0 -87.233687,44.860376,0.0 -87.206094,44.873881,0.0 -87.206094,44.881373,0.0 -87.206351,44.887585,0.0 -87.216151,44.89745,0.0 -87.214088,44.907679,0.0 -87.199647,44.919002,0.0 -87.177727,44.92594,0.0 -87.171022,44.933974,0.0 -87.176953,44.942005,0.0 -87.187268,44.946021,0.0 -87.188042,44.969379,0.0 -87.179016,44.981419,0.0 -87.172569,44.985563,0.0 -87.165864,45.001429,0.0 -87.152455,45.008722,0.0 -87.139045,45.012551,0.0 -87.123314,45.041166,0.0 -87.123314,45.056495,0.0 -87.121509,45.066695,0.0 -87.10681,45.070884,0.0 -87.096237,45.067241,0.0 -87.097527,45.059409,0.0 -87.092369,45.053762,0.0 -87.079217,45.057223,0.0 -87.077928,45.070884,0.0 -87.062455,45.080354,0.0 -87.04853,45.091824,0.0 -87.050335,45.102018,0.0 -87.04853,45.107297,0.0 -87.051624,45.119672,0.0 -87.05704,45.123857,0.0 -87.044403,45.134955,0.0 -87.027641,45.146051,0.0 -87.04558,45.171009,0.0 -87.037844,45.197001,0.0 -87.03707,45.211174,0.0 -86.998131,45.212445,0.0 -86.982142,45.21517,0.0 -86.976469,45.226614,0.0 -86.972085,45.244981,0.0 -86.982916,45.254059,0.0 -86.974921,45.270758,0.0 -86.971311,45.278561,0.0 -86.981368,45.295434,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="28728">
+                <name>Vincennes Circle</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="28727">
+                    <coordinates>-87.777539,42.764616,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28730">
+                <name>Racine: North Beach</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28729">
+                    <coordinates>-87.779999,42.737801,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28732">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="28731">
+                    <coordinates>-86.9772,45.2904,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28734">
+                <name>Sheboygan</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28733">
+                    <coordinates>-87.696198,43.763008,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28736">
+                <name>Racine: Crestview</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28735">
+                    <coordinates>-87.809601,42.819698,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28738">
+                <name>Kenosha: Simmons Island Park</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28737">
+                    <coordinates>-87.815697,42.596001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28740">
+                <name>Racine: Wind Point</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28739">
+                    <coordinates>-87.758698,42.781502,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28742">
+                <name>Kenosha: Eichleman Park</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28741">
+                    <coordinates>-87.814003,42.579102,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28744">
+                <name>Racine: 16th Street</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28743">
+                    <coordinates>-87.782303,42.710602,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28746">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="28745">
+                    <coordinates>-87.8022,42.4931,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28748">
+                <name>Racine: 5.5 Mile &amp; Charles</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="28747">
+                    <coordinates>-87.795799,42.806099,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="28749">
+            <name>Various (Illinois) locations (I-V)</name>
+            <Placemark id="28751">
+                <name>Various (Illinois) locations (I-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10181/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="28750">
+                    <coordinates>-87.802255,42.491462,0.0 -87.792471,42.486076,0.0 -87.800252,42.419774,0.0 -87.802881,42.366311,0.0 -87.824274,42.339834,0.0 -87.827919,42.315934,0.0 -87.823482,42.264285,0.0 -87.806684,42.225241,0.0 -87.769128,42.168963,0.0 -87.730267,42.117348,0.0 -87.679716,42.079093,0.0 -87.667514,42.058507,0.0 -87.655629,42.006928,0.0 -87.631067,41.966244,0.0 -87.631384,41.960352,0.0 -87.636296,41.948803,0.0 -87.620133,41.914551,0.0 -87.597901,41.892673,0.0 -87.604398,41.866598,0.0 -87.602338,41.839226,0.0 -87.586809,41.810058,0.0 -87.573497,41.796251,0.0 -87.559552,41.768364,0.0 -87.540726,41.758544,0.0 -87.530742,41.748613,0.0 -87.523453,41.726249,0.0 -87.525037,41.709216,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="28753">
+                <name>Waukegan - North Beach Park</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28752">
+                    <coordinates>-87.816704,42.363602,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28755">
+                <name>Montrose</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28754">
+                    <coordinates>-87.635597,41.966499,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28757">
+                <name>Tower Road</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28756">
+                    <coordinates>-87.731598,42.115501,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28759">
+                <name>Illinois Beach State Park</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="28758">
+                    <coordinates>-87.805,42.430199,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28761">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="28760">
+                    <coordinates>-87.5243,41.7076,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28763">
+                <name>59th St.Harbour/Promontory Point</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="28762">
+                    <coordinates>-87.578514,41.791073,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28765">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="28764">
+                    <coordinates>-87.8042,42.491,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

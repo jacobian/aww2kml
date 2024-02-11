@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="42314">
+        <name>Planter Creek</name>
+        <Folder id="42315">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>A) Hwy.28 to Wertanen Rd (0.15-0.96 miles) (III-IV)</name>
+            <Placemark id="42317">
+                <name>A) Hwy.28 to Wertanen Rd (0.15-0.96 miles) (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2692/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="42316">
+                    <coordinates>-89.928864,46.48941,0.0 -89.927972,46.490415,0.0 -89.927146,46.491078,0.0 -89.92609,46.492632,0.0 -89.92586,46.493203,0.0 -89.92606,46.494072,0.0 -89.926098,46.497247,0.0 -89.927092,46.498366,0.0 -89.927752,46.498821,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="42319">
+                <name>Cashew Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="42318">
+                    <coordinates>-89.929001,46.489101,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42321">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="42320">
+                    <coordinates>-89.927696,46.498901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42323">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="42322">
+                    <coordinates>-89.930901,46.488098,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42325">
+                <name>Wertanen Road, 1st Encounter</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="42324">
+                    <coordinates>-89.927597,46.490601,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42327">
+                <name>Wertanen Road, 2nd Encounter</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="42326">
+                    <coordinates>-89.927628,46.498604,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="42328">
+            <name>B) Hwy.519 to conf.w.Jackson Creek (2.2 miles) (II-III+)</name>
+            <Placemark id="42330">
+                <name>B) Hwy.519 to conf.w.Jackson Creek (2.2 miles) (II-III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10202/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="42329">
+                    <coordinates>-89.936433,46.506959,0.0 -89.937128,46.507073,0.0 -89.93779,46.507256,0.0 -89.938418,46.507278,0.0 -89.938518,46.507552,0.0 -89.938584,46.507758,0.0 -89.938783,46.508055,0.0 -89.939313,46.508283,0.0 -89.940571,46.508488,0.0 -89.940968,46.508693,0.0 -89.94163,46.509195,0.0 -89.942061,46.509652,0.0 -89.943088,46.510382,0.0 -89.943485,46.510565,0.0 -89.943915,46.51061,0.0 -89.944676,46.510678,0.0 -89.945537,46.511043,0.0 -89.946563,46.511545,0.0 -89.947656,46.51191,0.0 -89.948417,46.511887,0.0 -89.949045,46.511726,0.0 -89.949376,46.511521,0.0 -89.950104,46.511314,0.0 -89.951361,46.511177,0.0 -89.952486,46.51097,0.0 -89.953147,46.51097,0.0 -89.955563,46.511219,0.0 -89.957086,46.511561,0.0 -89.958807,46.512131,0.0 -89.961688,46.513157,0.0 -89.962913,46.513909,0.0 -89.963311,46.513978,0.0 -89.963939,46.513931,0.0 -89.964435,46.513725,0.0 -89.964997,46.51336,0.0 -89.965658,46.513085,0.0 -89.96847,46.512511,0.0 -89.969462,46.512442,0.0 -89.970687,46.512464,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="42332">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="42331">
+                    <coordinates>-89.9707,46.5126,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42334">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="42333">
+                    <coordinates>-89.9366,46.5047,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42336">
+                <name>RR Crossing</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="42335">
+                    <coordinates>-89.947083,46.511681,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42338">
+                <name>&quot;Root Beer Falls&quot;</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="42337">
+                    <coordinates>-89.938087,46.506939,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42340">
+                <name>Railroad Embankment</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="42339">
+                    <coordinates>-89.951996,46.510689,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42342">
+                <name>Confluence, Jackson Creek</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="42341">
+                    <coordinates>-89.970634,46.512653,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42344">
+                <name>Powerline Crossing</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="42343">
+                    <coordinates>-89.948502,46.512001,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

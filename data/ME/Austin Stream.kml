@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1644">
+        <name>Austin Stream</name>
+        <Folder id="1645">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>South Branch to Bingham (III-V(V+))</name>
+            <Placemark id="1647">
+                <name>South Branch to Bingham (III-V(V+))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/760/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="1646">
+                    <coordinates>-69.812443,45.132258,0.0 -69.812503,45.132193,0.0 -69.81269,45.132074,0.0 -69.813095,45.131937,0.0 -69.813541,45.131953,0.0 -69.813968,45.131766,0.0 -69.814522,45.13177,0.0 -69.815161,45.131662,0.0 -69.816146,45.131387,0.0 -69.816703,45.131345,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="1649">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="1648">
+                    <coordinates>-69.8167,45.1313,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1651">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="1650">
+                    <coordinates>-69.8126,45.1324,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

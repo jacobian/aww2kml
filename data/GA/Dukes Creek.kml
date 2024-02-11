@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17020">
+        <name>Dukes Creek</name>
+        <Folder id="17021">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>to Dodd Creek (V)</name>
+            <Placemark id="17023">
+                <name>to Dodd Creek (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/5138/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="17022">
+                    <coordinates>-83.789095,34.70996,0.0 -83.787256,34.709715,0.0 -83.787604,34.70608,0.0 -83.789989,34.703098,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="17025">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="17024">
+                    <coordinates>-83.7905,34.7122,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="17027">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="17026">
+                    <coordinates>-83.7943,34.7201,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

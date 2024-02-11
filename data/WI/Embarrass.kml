@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18348">
+        <name>Embarrass</name>
+        <Folder id="18349">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Hayman Falls (0.5 mile) (III)</name>
+            <Placemark id="18351">
+                <name>Hayman Falls (0.5 mile) (III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2701/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="18350">
+                    <coordinates>-88.846334,44.744295,0.0 -88.846376,44.744559,0.0 -88.846472,44.744811,0.0 -88.846504,44.745496,0.0 -88.846375,44.745702,0.0 -88.845413,44.746068,0.0 -88.844643,44.746662,0.0 -88.844514,44.746936,0.0 -88.844482,44.747119,0.0 -88.844546,44.747165,0.0 -88.844578,44.747256,0.0 -88.844931,44.747622,0.0 -88.844899,44.747896,0.0 -88.844546,44.748056,0.0 -88.843808,44.748171,0.0 -88.843295,44.748102,0.0 -88.843005,44.748127,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="18353">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="18352">
+                    <coordinates>-88.843002,44.7481,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18355">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="18354">
+                    <coordinates>-88.846298,44.744301,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18357">
+                <name>Confluence, N.Br.Embarrass</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="18356">
+                    <coordinates>-88.83507,44.74814,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

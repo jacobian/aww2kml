@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="51326">
+        <name>Scioto</name>
+        <Folder id="51327">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>O'Shaughnessy Dam (IV)</name>
+            <Placemark id="51329">
+                <name>O'Shaughnessy Dam (IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3104/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="51328">
+                    <coordinates>-83.126044,40.154081,0.0 -83.126044,40.154063,0.0 -83.126049,40.153766,0.0 -83.125867,40.152546,0.0 -83.125465,40.151657,0.0 -83.125244,40.151241,0.0 -83.125247,40.151234,0.0 -83.125252,40.151162,0.0 -83.125245,40.151056,0.0 -83.125228,40.150963,0.0 -83.125258,40.150897,0.0 -83.12527,40.150862,0.0 -83.125304,40.150722,0.0 -83.125332,40.150581,0.0 -83.125332,40.150545,0.0 -83.125308,40.150404,0.0 -83.125254,40.150305,0.0 -83.12523,40.150274,0.0 -83.125201,40.150246,0.0 -83.125167,40.150221,0.0 -83.125059,40.150152,0.0 -83.125009,40.149951,0.0 -83.124983,40.14981,0.0 -83.124919,40.149638,0.0 -83.124885,40.149572,0.0 -83.124784,40.149411,0.0 -83.124712,40.14928,0.0 -83.124637,40.149111,0.0 -83.124551,40.148985,0.0 -83.12443,40.148833,0.0 -83.124402,40.148804,0.0 -83.124369,40.148778,0.0 -83.124263,40.148707,0.0 -83.124183,40.148668,0.0 -83.124099,40.148636,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="51331">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="51330">
+                    <coordinates>-83.123764,40.148914,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51333">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="51332">
+                    <coordinates>-83.12384,40.154026,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

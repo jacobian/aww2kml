@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="42932">
+        <name>Potash</name>
+        <Folder id="42933">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Blandford Rd - Russel, MA to Westfield River (V)</name>
+            <Placemark id="42935">
+                <name>Blandford Rd - Russel, MA to Westfield River (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4694/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="42934">
+                    <coordinates>-72.850608,42.165931,0.0 -72.850464,42.165873,0.0 -72.850387,42.165822,0.0 -72.850295,42.165667,0.0 -72.850279,42.165347,0.0 -72.850202,42.165233,0.0 -72.849849,42.165016,0.0 -72.849757,42.164999,0.0 -72.849449,42.164999,0.0 -72.849203,42.164936,0.0 -72.848942,42.164753,0.0 -72.848619,42.16473,0.0 -72.848327,42.164616,0.0 -72.847789,42.164513,0.0 -72.847512,42.164411,0.0 -72.846944,42.164308,0.0 -72.846729,42.164216,0.0 -72.846344,42.163913,0.0 -72.846283,42.163811,0.0 -72.845729,42.163251,0.0 -72.845122,42.162828,0.0 -72.844661,42.162473,0.0 -72.844307,42.162302,0.0 -72.844184,42.162319,0.0 -72.843247,42.162336,0.0 -72.842386,42.16232,0.0 -72.84171,42.1624,0.0 -72.841134,42.162594,0.0 -72.840673,42.1628,0.0 -72.840442,42.162937,0.0 -72.840043,42.163115,0.0 -72.839628,42.163201,0.0 -72.839121,42.163195,0.0 -72.839028,42.163172,0.0 -72.838859,42.163172,0.0 -72.83826,42.163001,0.0 -72.837907,42.162978,0.0 -72.837568,42.162915,0.0 -72.837154,42.16291,0.0 -72.836462,42.162921,0.0 -72.836093,42.162973,0.0 -72.83607,42.162978,0.0 -72.835893,42.163053,0.0 -72.835755,42.163144,0.0 -72.835678,42.163236,0.0 -72.835555,42.163442,0.0 -72.835425,42.163785,0.0 -72.835363,42.16383,0.0 -72.835102,42.16391,0.0 -72.834887,42.164048,0.0 -72.834564,42.164162,0.0 -72.833934,42.164248,0.0 -72.833028,42.16426,0.0 -72.832336,42.164294,0.0 -72.831199,42.164283,0.0 -72.830999,42.16434,0.0 -72.830799,42.164471,0.0 -72.830753,42.164546,0.0 -72.830745,42.1647,0.0 -72.830853,42.165083,0.0 -72.830853,42.165558,0.0 -72.830776,42.165758,0.0 -72.830669,42.165918,0.0 -72.830561,42.16605,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="42937">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="42936">
+                    <coordinates>-72.8305,42.166,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42939">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="42938">
+                    <coordinates>-72.8507,42.1657,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

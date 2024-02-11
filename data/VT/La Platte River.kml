@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="28559">
+        <name>La Platte River</name>
+        <Folder id="28560">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Upper La Platte River Natural Area to Route 7 (II-III+)</name>
+            <Placemark id="28562">
+                <name>Upper La Platte River Natural Area to Route 7 (II-III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11423/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="28561">
+                    <coordinates>-73.210262,44.362369,0.0 -73.210421,44.362083,0.0 -73.210389,44.361877,0.0 -73.210802,44.361489,0.0 -73.211408,44.361305,0.0 -73.212651,44.36183,0.0 -73.213065,44.361898,0.0 -73.214436,44.361829,0.0 -73.215424,44.362034,0.0 -73.215902,44.361965,0.0 -73.216156,44.361484,0.0 -73.216729,44.36121,0.0 -73.217208,44.361461,0.0 -73.217655,44.362375,0.0 -73.21791,44.362672,0.0 -73.218261,44.362854,0.0 -73.219982,44.363105,0.0 -73.220684,44.363333,0.0 -73.221386,44.363766,0.0 -73.221545,44.363972,0.0 -73.221578,44.364269,0.0 -73.221323,44.364521,0.0 -73.219507,44.36498,0.0 -73.219348,44.365208,0.0 -73.219349,44.365597,0.0 -73.219509,44.36578,0.0 -73.220306,44.366099,0.0 -73.220529,44.366236,0.0 -73.220657,44.366579,0.0 -73.220437,44.36818,0.0 -73.220215,44.368728,0.0 -73.21961,44.369118,0.0 -73.217442,44.369234,0.0 -73.217156,44.369417,0.0 -73.216011,44.370904,0.0 -73.21579,44.372207,0.0 -73.215854,44.372435,0.0 -73.216109,44.372732,0.0 -73.21646,44.372961,0.0 -73.218118,44.373462,0.0 -73.220064,44.374375,0.0 -73.220511,44.374695,0.0 -73.220543,44.375061,0.0 -73.220193,44.375427,0.0 -73.22013,44.375747,0.0 -73.220321,44.37593,0.0 -73.220227,44.376616,0.0 -73.220418,44.376753,0.0 -73.221151,44.376569,0.0 -73.221661,44.376386,0.0 -73.221916,44.376408,0.0 -73.222203,44.376591,0.0 -73.222331,44.376842,0.0 -73.222077,44.37746,0.0 -73.221822,44.377643,0.0 -73.221185,44.377941,0.0 -73.220867,44.378238,0.0 -73.220741,44.378993,0.0 -73.221443,44.379952,0.0 -73.221445,44.380661,0.0 -73.220682,44.382011,0.0 -73.220555,44.382788,0.0 -73.220684,44.383497,0.0 -73.220876,44.383702,0.0 -73.222088,44.384364,0.0 -73.224384,44.385025,0.0 -73.224863,44.385436,0.0 -73.224896,44.385642,0.0 -73.224195,44.3861,0.0 -73.224196,44.386443,0.0 -73.225057,44.386716,0.0 -73.22527,44.386726,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="28564">
+                <name>Put-in</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="28563">
+                    <coordinates>-73.210696,44.365076,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28566">
+                <name>Take-Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="28565">
+                    <coordinates>-73.22527,44.386726,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28568">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="28567">
+                    <coordinates>-73.210262,44.362369,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

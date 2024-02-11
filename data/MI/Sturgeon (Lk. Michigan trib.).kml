@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56555">
+        <name>Sturgeon (Lk. Michigan trib.)</name>
+        <Folder id="56556">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Ten Mile Rapids (0.6 miles) (I-II)</name>
+            <Placemark id="56558">
+                <name>Ten Mile Rapids (0.6 miles) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10814/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="56557">
+                    <coordinates>-86.705697,45.949926,0.0 -86.705565,45.949034,0.0 -86.705368,45.948851,0.0 -86.705302,45.948646,0.0 -86.705138,45.948463,0.0 -86.705073,45.948395,0.0 -86.704974,45.948097,0.0 -86.704941,45.94796,0.0 -86.704809,45.947823,0.0 -86.704711,45.947618,0.0 -86.704284,45.946978,0.0 -86.704251,45.946635,0.0 -86.704414,45.946429,0.0 -86.705168,45.946314,0.0 -86.705495,45.946131,0.0 -86.705691,45.945857,0.0 -86.705756,45.945422,0.0 -86.705789,45.945262,0.0 -86.70582,45.944325,0.0 -86.705918,45.943868,0.0 -86.706048,45.943456,0.0 -86.706179,45.943365,0.0 -86.706482,45.942746,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="56560">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="56559">
+                    <coordinates>-86.707,45.943,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56562">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="56561">
+                    <coordinates>-86.706,45.95,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56564">
+                <name>Lower Ten Mile (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56563">
+                    <coordinates>-86.705772,45.945175,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56566">
+                <name>Campground</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56565">
+                    <coordinates>-86.707741,45.93829,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56568">
+                <name>Upper Ten Mile (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56567">
+                    <coordinates>-86.705421,45.949207,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56570">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56569">
+                    <coordinates>-86.705704,45.943001,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

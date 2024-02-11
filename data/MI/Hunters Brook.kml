@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="24799">
+        <name>Hunters Brook</name>
+        <Folder id="24800">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Boney Falls Road to Escanaba River (1 to 3.4 miles) (II-III)</name>
+            <Placemark id="24802">
+                <name>Boney Falls Road to Escanaba River (1 to 3.4 miles) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/6678/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="24801">
+                    <coordinates>-87.274825,45.966039,0.0 -87.273222,45.965171,0.0 -87.272206,45.964736,0.0 -87.271125,45.964392,0.0 -87.270404,45.964277,0.0 -87.267454,45.964183,0.0 -87.266176,45.963999,0.0 -87.264997,45.963655,0.0 -87.263162,45.96299,0.0 -87.262245,45.962555,0.0 -87.261656,45.962189,0.0 -87.2611,45.961708,0.0 -87.261035,45.961571,0.0 -87.260871,45.961456,0.0 -87.260806,45.961365,0.0 -87.260315,45.961022,0.0 -87.259725,45.960907,0.0 -87.259069,45.960883,0.0 -87.258151,45.960997,0.0 -87.257135,45.961018,0.0 -87.255956,45.960789,0.0 -87.254743,45.960627,0.0 -87.254022,45.960627,0.0 -87.252514,45.960739,0.0 -87.251203,45.960738,0.0 -87.250122,45.960507,0.0 -87.249696,45.960347,0.0 -87.248711,45.959823,0.0 -87.247956,45.959184,0.0 -87.247693,45.958955,0.0 -87.247135,45.958544,0.0 -87.246479,45.958316,0.0 -87.244151,45.957839,0.0 -87.242905,45.957451,0.0 -87.241658,45.956813,0.0 -87.240148,45.955968,0.0 -87.239197,45.955581,0.0 -87.238279,45.955376,0.0 -87.237721,45.955194,0.0 -87.237098,45.954691,0.0 -87.236573,45.954349,0.0 -87.235326,45.953847,0.0 -87.234407,45.953162,0.0 -87.234046,45.952843,0.0 -87.233324,45.952249,0.0 -87.232667,45.951838,0.0 -87.230962,45.950925,0.0 -87.230568,45.950674,0.0 -87.229387,45.950035,0.0 -87.227714,45.949328,0.0 -87.225451,45.948141,0.0 -87.224664,45.947982,0.0 -87.224041,45.94796,0.0 -87.223026,45.948121,0.0 -87.222108,45.94819,0.0 -87.220961,45.947848,0.0 -87.220239,45.947689,0.0 -87.219191,45.947644,0.0 -87.218044,45.947736,0.0 -87.218036,45.947661,0.0 -87.217967,45.947683,0.0 -87.21793,45.947695,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="24804">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="24803">
+                    <coordinates>-87.2179,45.9476,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="24806">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="24805">
+                    <coordinates>-87.2749,45.9659,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="24808">
+                <name>Boney Falls H Road</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="24807">
+                    <coordinates>-87.234398,45.953201,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

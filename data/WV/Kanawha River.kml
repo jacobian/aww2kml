@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26567">
+        <name>Kanawha River</name>
+        <Folder id="26568">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Kanawha Falls near Gauley Bridge (IV-V+)</name>
+            <Placemark id="26570">
+                <name>Kanawha Falls near Gauley Bridge (IV-V+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2391/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="26569">
+                    <coordinates>-81.213898,38.148533,0.0 -81.213776,38.148793,0.0 -81.213302,38.148708,0.0 -81.21293,38.148155,0.0 -81.212824,38.147459,0.0 -81.212964,38.147187,0.0 -81.213138,38.146974,0.0 -81.213276,38.146753,0.0 -81.213391,38.146611,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="26572">
+                <name>High Falls</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="26571">
+                    <coordinates>-81.212518,38.149668,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26574">
+                <name>Powerhouse</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="26573">
+                    <coordinates>-81.213833,38.148405,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26576">
+                <name>Rapid in the Crease...</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="26575">
+                    <coordinates>-81.212186,38.15293,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26578">
+                <name>Depth Perception</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="26577">
+                    <coordinates>-81.211573,38.150996,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26580">
+                <name>Put-In &amp; Take-Out</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="26579">
+                    <coordinates>-81.213465,38.146624,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26582">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="26581">
+                    <coordinates>-81.213391,38.146611,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

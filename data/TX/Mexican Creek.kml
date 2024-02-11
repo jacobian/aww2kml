@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="33960">
+        <name>Mexican Creek</name>
+        <Folder id="33961">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Medina Lake to Medina CR 271 (1.1 mile) (IV-V)</name>
+            <Placemark id="33963">
+                <name>Medina Lake to Medina CR 271 (1.1 mile) (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4575/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="33962">
+                    <coordinates>-98.937033,29.543013,0.0 -98.93711,29.542808,0.0 -98.937091,29.542642,0.0 -98.936953,29.542384,0.0 -98.936915,29.542076,0.0 -98.936934,29.541894,0.0 -98.936997,29.541806,0.0 -98.937299,29.541724,0.0 -98.937664,29.541696,0.0 -98.93784,29.541652,0.0 -98.938022,29.541526,0.0 -98.938054,29.541278,0.0 -98.938286,29.540618,0.0 -98.938205,29.540376,0.0 -98.938205,29.540046,0.0 -98.938349,29.539798,0.0 -98.938827,29.539182,0.0 -98.938928,29.538995,0.0 -98.938941,29.538736,0.0 -98.938991,29.538637,0.0 -98.938985,29.538549,0.0 -98.938941,29.538379,0.0 -98.938771,29.538236,0.0 -98.93857,29.538175,0.0 -98.937726,29.538181,0.0 -98.937481,29.538131,0.0 -98.937311,29.538043,0.0 -98.937192,29.537889,0.0 -98.937148,29.537487,0.0 -98.937097,29.537328,0.0 -98.93704,29.537062,0.0 -98.936984,29.537009,0.0 -98.936852,29.536987,0.0 -98.936537,29.536888,0.0 -98.93645,29.536835,0.0 -98.936336,29.536777,0.0 -98.936095,29.536532,0.0 -98.935986,29.536436,0.0 -98.93578,29.536256,0.0 -98.93546,29.536067,0.0 -98.935292,29.535958,0.0 -98.935191,29.535771,0.0 -98.935065,29.535215,0.0 -98.935034,29.534962,0.0 -98.934946,29.53472,0.0 -98.934858,29.534533,0.0 -98.934839,29.534318,0.0 -98.934914,29.533752,0.0 -98.934958,29.533509,0.0 -98.935172,29.533372,0.0 -98.935273,29.533163,0.0 -98.935556,29.533075,0.0 -98.935602,29.532837,0.0 -98.935476,29.532088,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="33965">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="33964">
+                    <coordinates>-98.935997,29.532,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33967">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="33966">
+                    <coordinates>-98.936996,29.542999,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

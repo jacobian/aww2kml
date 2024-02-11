@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6491">
+        <name>Broad Brook</name>
+        <Folder id="6492">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Above Powerlines to Lower Ashuelot (IV+)</name>
+            <Placemark id="6494">
+                <name>Above Powerlines to Lower Ashuelot (IV+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4487/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="6493">
+                    <coordinates>-72.424459,42.80013,0.0 -72.424459,42.800045,0.0 -72.424346,42.799772,0.0 -72.4242,42.799544,0.0 -72.424179,42.799413,0.0 -72.424216,42.79927,0.0 -72.424269,42.799204,0.0 -72.424775,42.7989,0.0 -72.424796,42.798859,0.0 -72.42498,42.798821,0.0 -72.42507,42.798766,0.0 -72.42532,42.798955,0.0 -72.425511,42.798897,0.0 -72.425525,42.798811,0.0 -72.425471,42.798642,0.0 -72.425584,42.798571,0.0 -72.425718,42.79844,0.0 -72.425811,42.798198,0.0 -72.425866,42.79812,0.0 -72.425946,42.798028,0.0 -72.426036,42.797956,0.0 -72.426282,42.79778,0.0 -72.426619,42.797582,0.0 -72.426795,42.797329,0.0 -72.426893,42.79722,0.0 -72.426944,42.797188,0.0 -72.427272,42.797011,0.0 -72.427511,42.797017,0.0 -72.427585,42.797,0.0 -72.427689,42.796732,0.0 -72.427825,42.796514,0.0 -72.427832,42.796449,0.0 -72.427859,42.796423,0.0 -72.428024,42.796374,0.0 -72.428328,42.796336,0.0 -72.42836,42.796275,0.0 -72.428421,42.796227,0.0 -72.42858,42.796029,0.0 -72.428671,42.795942,0.0 -72.428743,42.795776,0.0 -72.428777,42.795735,0.0 -72.428941,42.795414,0.0 -72.428993,42.795159,0.0 -72.428993,42.794992,0.0 -72.428942,42.794739,0.0 -72.42874,42.794424,0.0 -72.428644,42.794129,0.0 -72.428628,42.793336,0.0 -72.428666,42.792702,0.0 -72.428808,42.792269,0.0 -72.429001,42.79226,0.0 -72.429188,42.79221,0.0 -72.429232,42.792184,0.0 -72.429865,42.791514,0.0 -72.430387,42.791228,0.0 -72.430544,42.791155,0.0 -72.430641,42.791135,0.0 -72.430819,42.791125,0.0 -72.431125,42.791146,0.0 -72.431445,42.791234,0.0 -72.431706,42.791244,0.0 -72.432019,42.791328,0.0 -72.43254,42.79142,0.0 -72.432965,42.791457,0.0 -72.433739,42.791425,0.0 -72.434358,42.791322,0.0 -72.434805,42.791147,0.0 -72.435222,42.791107,0.0 -72.43584,42.791148,0.0 -72.436935,42.791424,0.0 -72.437084,42.791437,0.0 -72.437367,42.791412,0.0 -72.437688,42.791185,0.0 -72.437807,42.79089,0.0 -72.438053,42.79063,0.0 -72.438224,42.790499,0.0 -72.43847,42.790419,0.0 -72.438671,42.790279,0.0 -72.438746,42.790177,0.0 -72.43882,42.789999,0.0 -72.43873,42.789231,0.0 -72.438858,42.789,0.0 -72.439491,42.788339,0.0 -72.439722,42.788047,0.0 -72.439624,42.787836,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6496">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="6495">
+                    <coordinates>-72.424573,42.80013,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6498">
+                <name>The Percolator (IV+)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="6497">
+                    <coordinates>-72.428634,42.793654,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6500">
+                <name>The Fungi Express (IV)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="6499">
+                    <coordinates>-72.432767,42.79144,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6502">
+                <name>Potential (IV+)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="6501">
+                    <coordinates>-72.437158,42.79143,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6504">
+                <name>The Gangler (V)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="6503">
+                    <coordinates>-72.438077,42.790611,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6506">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="6505">
+                    <coordinates>-72.439624,42.787836,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

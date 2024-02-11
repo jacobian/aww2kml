@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="45191">
+        <name>Reed Creek</name>
+        <Folder id="45192">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Major Grahams Rd, Route 619, AKA the Loop (I-II+(IV))</name>
+            <Placemark id="45194">
+                <name>Major Grahams Rd, Route 619, AKA the Loop (I-II+(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2000/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="45193">
+                    <coordinates>-80.888776,36.93806,0.0 -80.888795,36.938101,0.0 -80.888804,36.938283,0.0 -80.888947,36.938482,0.0 -80.888942,36.938734,0.0 -80.889253,36.939461,0.0 -80.88954,36.939858,0.0 -80.88956,36.93991,0.0 -80.889661,36.940163,0.0 -80.889659,36.940278,0.0 -80.889656,36.940415,0.0 -80.889919,36.940702,0.0 -80.889893,36.941277,0.0 -80.890038,36.94139,0.0 -80.890119,36.941549,0.0 -80.890132,36.941573,0.0 -80.890154,36.941865,0.0 -80.890172,36.941947,0.0 -80.890227,36.942198,0.0 -80.890208,36.942409,0.0 -80.890194,36.942508,0.0 -80.890382,36.942712,0.0 -80.890541,36.943058,0.0 -80.890535,36.94331,0.0 -80.890716,36.94355,0.0 -80.890779,36.94392,0.0 -80.890854,36.944001,0.0 -80.890651,36.944771,0.0 -80.890415,36.945031,0.0 -80.88994,36.945332,0.0 -80.8896,36.945651,0.0 -80.889184,36.945888,0.0 -80.888649,36.946037,0.0 -80.887583,36.946083,0.0 -80.886725,36.946011,0.0 -80.886553,36.945953,0.0 -80.886111,36.945644,0.0 -80.885359,36.944826,0.0 -80.884846,36.943966,0.0 -80.884019,36.943066,0.0 -80.883992,36.942998,0.0 -80.883898,36.942761,0.0 -80.883914,36.942682,0.0 -80.883955,36.942479,0.0 -80.884138,36.942032,0.0 -80.884374,36.941773,0.0 -80.884939,36.941483,0.0 -80.886228,36.941465,0.0 -80.886711,36.941345,0.0 -80.887023,36.941168,0.0 -80.887197,36.940997,0.0 -80.887252,36.940943,0.0 -80.887362,36.940632,0.0 -80.887363,36.940594,0.0 -80.88738,36.940092,0.0 -80.887249,36.939715,0.0 -80.887231,36.939663,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="45196">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="45195">
+                    <coordinates>-80.887253,36.939655,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="45198">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="45197">
+                    <coordinates>-80.888603,36.938141,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

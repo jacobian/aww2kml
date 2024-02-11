@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="53093">
+        <name>Sloan Creek</name>
+        <Folder id="53094">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>to NF Sauk (IV-V)</name>
+            <Placemark id="53096">
+                <name>to NF Sauk (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4409/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="53095">
+                    <coordinates>-121.290345,48.048358,0.0 -121.290308,48.048556,0.0 -121.290338,48.048732,0.0 -121.290495,48.048914,0.0 -121.290622,48.04902,0.0 -121.290862,48.049226,0.0 -121.291093,48.049445,0.0 -121.291271,48.049668,0.0 -121.29141,48.049769,0.0 -121.29178,48.049973,0.0 -121.292138,48.05023,0.0 -121.292295,48.050376,0.0 -121.292414,48.050482,0.0 -121.292498,48.050645,0.0 -121.292523,48.050767,0.0 -121.29262,48.051078,0.0 -121.292647,48.051286,0.0 -121.292587,48.051519,0.0 -121.292479,48.051787,0.0 -121.292497,48.051886,0.0 -121.292563,48.052,0.0 -121.292801,48.052143,0.0 -121.293159,48.052288,0.0 -121.293331,48.05238,0.0 -121.293454,48.052454,0.0 -121.293553,48.052581,0.0 -121.293583,48.052685,0.0 -121.293543,48.052793,0.0 -121.293495,48.052873,0.0 -121.293117,48.053187,0.0 -121.292996,48.053311,0.0 -121.292915,48.053391,0.0 -121.292806,48.053556,0.0 -121.292687,48.053972,0.0 -121.292662,48.054413,0.0 -121.292604,48.05483,0.0 -121.29249,48.055265,0.0 -121.292267,48.055981,0.0 -121.292128,48.056456,0.0 -121.291957,48.056962,0.0 -121.29185,48.057347,0.0 -121.291741,48.057539,0.0 -121.291628,48.057713,0.0 -121.291397,48.057966,0.0 -121.291259,48.058031,0.0 -121.291048,48.058155,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="53098">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="53097">
+                    <coordinates>-121.290993,48.05806,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="53100">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="53099">
+                    <coordinates>-121.290741,48.048431,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26489">
+        <name>Kadunce</name>
+        <Folder id="26490">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Superior Hiking Trail footbridge to Hwy 61 (0.5 mile) (IV-V)</name>
+            <Placemark id="26492">
+                <name>Superior Hiking Trail footbridge to Hwy 61 (0.5 mile) (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2530/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="26491">
+                    <coordinates>-90.15582,47.806037,0.0 -90.155994,47.805818,0.0 -90.156333,47.805544,0.0 -90.156502,47.804859,0.0 -90.156332,47.804128,0.0 -90.156332,47.803352,0.0 -90.156162,47.802552,0.0 -90.156263,47.801319,0.0 -90.1565,47.801136,0.0 -90.157042,47.800862,0.0 -90.157279,47.800039,0.0 -90.157278,47.798486,0.0 -90.156566,47.797002,0.0 -90.155887,47.79602,0.0 -90.155785,47.795083,0.0 -90.155105,47.79406,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="26494">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="26493">
+                    <coordinates>-90.155197,47.793999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26496">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="26495">
+                    <coordinates>-90.155899,47.806099,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

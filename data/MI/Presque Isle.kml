@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="43972">
+        <name>Presque Isle</name>
+        <Folder id="43973">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>C) Steigers Bridge to South Boundary Road (8.2 miles) (III-V)</name>
+            <Placemark id="43975">
+                <name>C) Steigers Bridge to South Boundary Road (8.2 miles) (III-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/940/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="43974">
+                    <coordinates>-89.877622,46.641968,0.0 -89.87847,46.642345,0.0 -89.87847,46.642345,0.0 -89.879605,46.64245,0.0 -89.880611,46.642566,0.0 -89.881349,46.642828,0.0 -89.88167,46.643477,0.0 -89.881853,46.644243,0.0 -89.882895,46.645611,0.0 -89.883312,46.646317,0.0 -89.88365,46.647601,0.0 -89.88467,46.648967,0.0 -89.88467,46.648967,0.0 -89.885196,46.649193,0.0 -89.88617,46.648883,0.0 -89.888125,46.648971,0.0 -89.889622,46.64929,0.0 -89.890537,46.648826,0.0 -89.892511,46.648713,0.0 -89.895452,46.649147,0.0 -89.896466,46.649192,0.0 -89.89758,46.648939,0.0 -89.899182,46.648909,0.0 -89.901088,46.648742,0.0 -89.904521,46.647786,0.0 -89.907609,46.647419,0.0 -89.909244,46.647039,0.0 -89.909948,46.646779,0.0 -89.909948,46.646779,0.0 -89.91376,46.645374,0.0 -89.916259,46.645082,0.0 -89.917787,46.645856,0.0 -89.919355,46.646984,0.0 -89.921282,46.647372,0.0 -89.923095,46.648209,0.0 -89.925906,46.650048,0.0 -89.929138,46.652056,0.0 -89.932079,46.652489,0.0 -89.933927,46.652168,0.0 -89.935252,46.652354,0.0 -89.935252,46.652354,0.0 -89.935506,46.652389,0.0 -89.936899,46.653056,0.0 -89.939649,46.654832,0.0 -89.939649,46.654832,0.0 -89.940508,46.657402,0.0 -89.940527,46.657761,0.0 -89.940527,46.657761,0.0 -89.940574,46.658672,0.0 -89.941867,46.660502,0.0 -89.941739,46.661889,0.0 -89.941089,46.663,0.0 -89.941031,46.663631,0.0 -89.940256,46.664103,0.0 -89.938607,46.664157,0.0 -89.93822,46.664393,0.0 -89.938174,46.664897,0.0 -89.938843,46.66556,0.0 -89.940249,46.668155,0.0 -89.940508,46.669306,0.0 -89.940128,46.671442,0.0 -89.940128,46.671442,0.0 -89.940353,46.672972,0.0 -89.940988,46.674013,0.0 -89.942192,46.674826,0.0 -89.943647,46.674891,0.0 -89.94415,46.675131,0.0 -89.94415,46.675131,0.0 -89.944522,46.675309,0.0 -89.944464,46.67594,0.0 -89.943872,46.67642,0.0 -89.943825,46.676925,0.0 -89.94391,46.677008,0.0 -89.94391,46.677008,0.0 -89.945165,46.678251,0.0 -89.946609,46.678441,0.0 -89.948657,46.678025,0.0 -89.955049,46.678054,0.0 -89.956106,46.678481,0.0 -89.957744,46.678553,0.0 -89.958778,46.679232,0.0 -89.95848,46.680485,0.0 -89.957706,46.680958,0.0 -89.957659,46.681462,0.0 -89.958318,46.682251,0.0 -89.958202,46.683512,0.0 -89.956847,46.684339,0.0 -89.956789,46.68497,0.0 -89.957629,46.685767,0.0 -89.958505,46.686185,0.0 -89.959596,46.686233,0.0 -89.960905,46.685911,0.0 -89.964169,46.686182,0.0 -89.964692,46.686458,0.0 -89.96542,46.68649,0.0 -89.966194,46.686018,0.0 -89.96674,46.686042,0.0 -89.967081,46.68631,0.0 -89.966989,46.687319,0.0 -89.967329,46.687587,0.0 -89.970571,46.68811,0.0 -89.971775,46.688923,0.0 -89.971876,46.689814,0.0 -89.971102,46.690286,0.0 -89.970865,46.690276,0.0 -89.970865,46.690276,0.0 -89.969828,46.69023,0.0 -89.969169,46.689441,0.0 -89.968465,46.689157,0.0 -89.967679,46.689756,0.0 -89.967416,46.690631,0.0 -89.968597,46.691696,0.0 -89.969825,46.692257,0.0 -89.973818,46.692559,0.0 -89.974329,46.692961,0.0 -89.974165,46.695691,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="43977">
+                <name>Lepisto Falls (III+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="43976">
+                    <coordinates>-89.940498,46.6586,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43979">
+                <name>Iagoo Falls (III+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="43978">
+                    <coordinates>-89.941704,46.661999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43981">
+                <name>Triple Drop (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="43980">
+                    <coordinates>-89.910553,46.646439,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43983">
+                <name>Nakomis Falls (III+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="43982">
+                    <coordinates>-89.915527,46.645115,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43985">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="43984">
+                    <coordinates>-89.974297,46.695202,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43987">
+                <name>begin increased gradient</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="43986">
+                    <coordinates>-89.901093,46.648579,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43989">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="43988">
+                    <coordinates>-89.877502,46.641701,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43991">
+                <name>Confluence with Copper Creek</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="43990">
+                    <coordinates>-89.93541,46.652016,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43993">
+                <name>Big Rock</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="43992">
+                    <coordinates>-89.904602,46.647598,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43995">
+                <name>USGS site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="43994">
+                    <coordinates>-89.974098,46.696098,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="43996">
+            <name>B) Underwood Tower Rd to Steigers Bridge (7.5 miles) (II-IV)</name>
+            <Placemark id="43998">
+                <name>B) Underwood Tower Rd to Steigers Bridge (7.5 miles) (II-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/939/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="43997">
+                    <coordinates>-89.806341,46.558746,0.0 -89.806596,46.558719,0.0 -89.808835,46.558187,0.0 -89.810663,46.558143,0.0 -89.811026,46.558159,0.0 -89.811026,46.558159,0.0 -89.812104,46.558335,0.0 -89.813241,46.55788,0.0 -89.814149,46.557921,0.0 -89.81484,46.558332,0.0 -89.814781,46.558962,0.0 -89.815121,46.559231,0.0 -89.819081,46.55979,0.0 -89.820779,46.561133,0.0 -89.821663,46.561426,0.0 -89.822816,46.562744,0.0 -89.824633,46.562826,0.0 -89.825142,46.563229,0.0 -89.825217,46.564372,0.0 -89.825727,46.564775,0.0 -89.826793,46.565076,0.0 -89.828734,46.566746,0.0 -89.828734,46.566746,0.0 -89.828977,46.567074,0.0 -89.828906,46.56783,0.0 -89.830656,46.570568,0.0 -89.831324,46.571231,0.0 -89.832209,46.571524,0.0 -89.832888,46.572061,0.0 -89.833497,46.573355,0.0 -89.833402,46.574364,0.0 -89.834105,46.574649,0.0 -89.834943,46.575446,0.0 -89.835393,46.576479,0.0 -89.836061,46.577142,0.0 -89.836634,46.578814,0.0 -89.839013,46.580694,0.0 -89.839147,46.581206,0.0 -89.840471,46.582659,0.0 -89.840728,46.58381,0.0 -89.841372,46.584725,0.0 -89.841313,46.585356,0.0 -89.842602,46.587186,0.0 -89.843164,46.588984,0.0 -89.843504,46.589253,0.0 -89.843726,46.590782,0.0 -89.844528,46.591958,0.0 -89.844528,46.591958,0.0 -89.846567,46.593569,0.0 -89.847334,46.595123,0.0 -89.848489,46.596441,0.0 -89.848442,46.596945,0.0 -89.84886,46.597592,0.0 -89.84886,46.597592,0.0 -89.849877,46.599162,0.0 -89.849964,46.600179,0.0 -89.850597,46.601221,0.0 -89.850737,46.603633,0.0 -89.851235,46.604162,0.0 -89.852677,46.604353,0.0 -89.853194,46.604845,0.0 -89.853194,46.604845,0.0 -89.853515,46.605151,0.0 -89.854283,46.606705,0.0 -89.854224,46.607335,0.0 -89.854564,46.607604,0.0 -89.854921,46.609646,0.0 -89.85621,46.611476,0.0 -89.85791,46.612819,0.0 -89.858397,46.613474,0.0 -89.858426,46.615121,0.0 -89.857833,46.615601,0.0 -89.857557,46.616602,0.0 -89.858823,46.618685,0.0 -89.858659,46.62045,0.0 -89.859509,46.621121,0.0 -89.859509,46.621121,0.0 -89.860189,46.621244,0.0 -89.861146,46.62161,0.0 -89.861586,46.62252,0.0 -89.862415,46.623002,0.0 -89.862994,46.623675,0.0 -89.863267,46.624496,0.0 -89.863267,46.624496,0.0 -89.863715,46.625325,0.0 -89.865211,46.62616,0.0 -89.869176,46.628037,0.0 -89.870103,46.628725,0.0 -89.87001,46.629732,0.0 -89.870197,46.630226,0.0 -89.870039,46.631917,0.0 -89.870429,46.632744,0.0 -89.87095,46.633414,0.0 -89.871137,46.635162,0.0 -89.872071,46.637023,0.0 -89.872755,46.637822,0.0 -89.872933,46.639044,0.0 -89.873724,46.639322,0.0 -89.874724,46.639852,0.0 -89.876339,46.641299,0.0 -89.877002,46.641693,0.0 -89.877641,46.641977,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="44000">
+                <name>Nimikon Falls</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="43999">
+                    <coordinates>-89.850266,46.600712,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44002">
+                <name>Minnewawa Falls</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="44001">
+                    <coordinates>-89.848701,46.596901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44004">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="44003">
+                    <coordinates>-89.8775,46.6417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44006">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="44005">
+                    <coordinates>-89.8063,46.5581,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44008">
+                <name>rapids sequence #2</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="44007">
+                    <coordinates>-89.846634,46.5933,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44010">
+                <name>rapids sequence #1</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="44009">
+                    <coordinates>-89.840698,46.582699,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="44011">
+            <name>D) 'Bottom Presque': South Boundary Rd to Lake Superior (1.1 miles) (IV-V)</name>
+            <Placemark id="44013">
+                <name>D) 'Bottom Presque': South Boundary Rd to Lake Superior (1.1 miles) (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2643/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="44012">
+                    <coordinates>-89.974194,46.695196,0.0 -89.973979,46.698772,0.0 -89.972338,46.700726,0.0 -89.971789,46.702728,0.0 -89.970558,46.704194,0.0 -89.970539,46.704402,0.0 -89.970466,46.705203,0.0 -89.971413,46.707006,0.0 -89.971555,46.707277,0.0 -89.972909,46.708343,0.0 -89.97383,46.709094,0.0 -89.974055,46.709476,0.0 -89.9741,46.709606,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="44015">
+                <name>Manido Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="44014">
+                    <coordinates>-89.971001,46.703999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44017">
+                <name>Nawadaha Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="44016">
+                    <coordinates>-89.974503,46.698601,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44019">
+                <name>Manabezho Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="44018">
+                    <coordinates>-89.971802,46.707401,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44021">
+                <name>Swinging Bridge (Zoom Flume) (IV)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="44020">
+                    <coordinates>-89.972198,46.708,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44023">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="44022">
+                    <coordinates>-89.974297,46.695202,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44025">
+                <name>USGS site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="44024">
+                    <coordinates>-89.974098,46.696098,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44027">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="44026">
+                    <coordinates>-89.974073,46.709528,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="44028">
+            <name>A) Yondota Falls to Copps Mine Rd (1.5 miles) (IV(V))</name>
+            <Placemark id="44030">
+                <name>A) Yondota Falls to Copps Mine Rd (1.5 miles) (IV(V))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3834/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="44029">
+                    <coordinates>-89.681384,46.430131,0.0 -89.681564,46.4302,0.0 -89.683216,46.429857,0.0 -89.683976,46.429879,0.0 -89.684604,46.430221,0.0 -89.685232,46.430404,0.0 -89.685728,46.430769,0.0 -89.686457,46.431774,0.0 -89.687283,46.432253,0.0 -89.689134,46.432572,0.0 -89.689465,46.432846,0.0 -89.689698,46.434354,0.0 -89.689368,46.434674,0.0 -89.689138,46.435633,0.0 -89.688577,46.436433,0.0 -89.688479,46.436776,0.0 -89.687753,46.437942,0.0 -89.687886,46.438581,0.0 -89.688449,46.439335,0.0 -89.689177,46.439974,0.0 -89.690268,46.440316,0.0 -89.691095,46.441115,0.0 -89.692253,46.441914,0.0 -89.69265,46.442051,0.0 -89.693279,46.442553,0.0 -89.693511,46.443239,0.0 -89.693082,46.443924,0.0 -89.693017,46.444381,0.0 -89.693811,46.44502,0.0 -89.694103,46.445196,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="44032">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="44031">
+                    <coordinates>-89.694099,46.445202,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44034">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="44033">
+                    <coordinates>-89.681396,46.430099,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44036">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="44035">
+                    <coordinates>-89.692398,46.3722,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44038">
+                <name>end of Yondota Falls sequence</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="44037">
+                    <coordinates>-89.686,46.431,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

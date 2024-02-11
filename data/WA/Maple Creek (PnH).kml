@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="32638">
+        <name>Maple Creek (PnH)</name>
+        <Folder id="32639">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Maple Creek Falls (IV(V))</name>
+            <Placemark id="32641">
+                <name>Maple Creek Falls (IV(V))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11584/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="32640">
+                    <coordinates>-122.076789,48.926271,0.0 -122.076554,48.925999,0.0 -122.075761,48.925454,0.0 -122.075448,48.924881,0.0 -122.074273,48.924172,0.0 -122.073953,48.923603,0.0 -122.07364,48.923275,0.0 -122.072328,48.922692,0.0 -122.071733,48.92157,0.0 -122.071878,48.921318,0.0 -122.071962,48.921231,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="32643">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="32642">
+                    <coordinates>-122.076789,48.926271,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32645">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="32644">
+                    <coordinates>-122.071962,48.921231,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="32646">
+            <name>Maple Creek Falls (IV(V))</name>
+            <Placemark id="32648">
+                <name>Maple Creek Falls (IV(V))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11584/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="32647">
+                    <coordinates>-122.076789,48.926271,0.0 -122.076554,48.925999,0.0 -122.075761,48.925454,0.0 -122.075448,48.924881,0.0 -122.074273,48.924172,0.0 -122.073953,48.923603,0.0 -122.07364,48.923275,0.0 -122.072328,48.922692,0.0 -122.071733,48.92157,0.0 -122.071878,48.921318,0.0 -122.071962,48.921231,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="32650">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="32649">
+                    <coordinates>-122.076789,48.926271,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32652">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="32651">
+                    <coordinates>-122.071962,48.921231,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

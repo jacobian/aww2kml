@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="12114">
+        <name>Cobscook Falls</name>
+        <Folder id="12115">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Dennys Bay to Cobscook Bay (II-III)</name>
+            <Placemark id="12117">
+                <name>Dennys Bay to Cobscook Bay (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/782/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="12116">
+                    <coordinates>-67.133721,44.879796,0.0 -67.132408,44.879625,0.0 -67.131575,44.879773,0.0 -67.129922,44.879949,0.0 -67.129771,44.879933,0.0 -67.129056,44.880884,0.0 -67.128285,44.88233,0.0 -67.128,44.882713,0.0 -67.127396,44.883108,0.0 -67.12657,44.883922,0.0 -67.126287,44.884264,0.0 -67.126125,44.884896,0.0 -67.125699,44.885155,0.0 -67.124466,44.886062,0.0 -67.124467,44.886886,0.0 -67.124651,44.887631,0.0 -67.124294,44.888224,0.0 -67.12155,44.889318,0.0 -67.119253,44.890306,0.0 -67.117831,44.890035,0.0 -67.11682,44.890081,0.0 -67.116377,44.889957,0.0 -67.113033,44.889776,0.0 -67.110962,44.891394,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="12119">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="12118">
+                    <coordinates>-67.112999,44.894001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="12121">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="12120">
+                    <coordinates>-67.133499,44.8815,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

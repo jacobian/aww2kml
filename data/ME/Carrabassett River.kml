@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8676">
+        <name>Carrabassett River</name>
+        <Folder id="8677">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="11">
+                <IconStyle id="10">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="9">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Redington Road to Airport (III-IV(V))</name>
+            <Placemark id="8679">
+                <name>Redington Road to Airport (III-IV(V))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11399/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="8678">
+                    <coordinates>-70.256128,45.092259,0.0 -70.254255,45.0926,0.0 -70.253126,45.092599,0.0 -70.251319,45.092323,0.0 -70.24951,45.092407,0.0 -70.247155,45.092912,0.0 -70.246284,45.093027,0.0 -70.243701,45.092847,0.0 -70.243217,45.092985,0.0 -70.241509,45.094038,0.0 -70.240702,45.094245,0.0 -70.239702,45.09436,0.0 -70.239056,45.094224,0.0 -70.238281,45.093905,0.0 -70.237538,45.093768,0.0 -70.234149,45.093657,0.0 -70.233342,45.093475,0.0 -70.232502,45.093133,0.0 -70.231952,45.092676,0.0 -70.230724,45.091854,0.0 -70.229723,45.091558,0.0 -70.228141,45.091171,0.0 -70.225688,45.090899,0.0 -70.225042,45.090945,0.0 -70.220428,45.091521,0.0 -70.220428,45.091521,0.0 -70.220073,45.091475,0.0 -70.219872,45.091343,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="8681">
+                <name>Redington Road Put-in </name>
+                <styleUrl>#2</styleUrl>
+                <Point id="8680">
+                    <coordinates>-70.256128,45.092259,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8683">
+                <name>Airport/Narrow Guage Trail bridge</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="8682">
+                    <coordinates>-70.221302,45.090055,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8685">
+                <name>first ledge (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="8684">
+                    <coordinates>-70.248785,45.092562,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8687">
+                <name>Baileys</name>
+                <styleUrl>#11</styleUrl>
+                <Point id="8686">
+                    <coordinates>-70.239852,45.094343,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8689">
+                <name>First Rapid after portage (IV)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="8688">
+                    <coordinates>-70.237698,45.094174,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8691">
+                <name>First Rapid after portage (IV)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="8690">
+                    <coordinates>-70.237698,45.094174,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8693">
+                <name>Whale's Tail (IV)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="8692">
+                    <coordinates>-70.235997,45.094191,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8695">
+                <name>Staircase/Island Rapid</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="8694">
+                    <coordinates>-70.227763,45.090985,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

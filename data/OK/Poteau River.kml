@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="43082">
+        <name>Poteau River</name>
+        <Folder id="43083">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Wister Wave (PnP) (II-III)</name>
+            <Placemark id="43085">
+                <name>Wister Wave (PnP) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10158/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="43084">
+                    <coordinates>-94.71512,34.938032,0.0 -94.714877,34.938292,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="43087">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="43086">
+                    <coordinates>-94.7151,34.9385,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43089">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="43088">
+                    <coordinates>-94.7153,34.9382,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

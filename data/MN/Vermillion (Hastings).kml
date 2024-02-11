@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="60441">
+        <name>Vermillion (Hastings)</name>
+        <Folder id="60442">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Falls to Old Mill in Hastings (0.5 mile) (II-III+)</name>
+            <Placemark id="60444">
+                <name>Falls to Old Mill in Hastings (0.5 mile) (II-III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2865/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="60443">
+                    <coordinates>-92.850046,44.725284,0.0 -92.848717,44.725627,0.0 -92.847187,44.725881,0.0 -92.846428,44.725842,0.0 -92.845659,44.725758,0.0 -92.843962,44.725497,0.0 -92.843371,44.725601,0.0 -92.841989,44.725802,0.0 -92.841741,44.725835,0.0 -92.841437,44.725943,0.0 -92.841007,44.726229,0.0 -92.840996,44.726545,0.0 -92.841047,44.727131,0.0 -92.841119,44.727928,0.0 -92.841128,44.728191,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="60446">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="60445">
+                    <coordinates>-92.840897,44.728199,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60448">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="60447">
+                    <coordinates>-92.849998,44.725101,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

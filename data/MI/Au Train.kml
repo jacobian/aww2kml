@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1516">
+        <name>Au Train</name>
+        <Folder id="1517">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>M94/Dam to below power house (0.6 mile) (III-IV+)</name>
+            <Placemark id="1519">
+                <name>M94/Dam to below power house (0.6 mile) (III-IV+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4323/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="1518">
+                    <coordinates>-86.8502,46.331709,0.0 -86.850179,46.331809,0.0 -86.850171,46.332014,0.0 -86.850236,46.33334,0.0 -86.850434,46.33398,0.0 -86.850533,46.334323,0.0 -86.850599,46.334689,0.0 -86.850697,46.334826,0.0 -86.850664,46.334963,0.0 -86.850796,46.335054,0.0 -86.851027,46.335786,0.0 -86.851093,46.336289,0.0 -86.851225,46.3367,0.0 -86.851258,46.337157,0.0 -86.851488,46.33782,0.0 -86.851752,46.338392,0.0 -86.851851,46.338849,0.0 -86.851851,46.339192,0.0 -86.851605,46.339532,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="1521">
+                <name>Upper Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="1520">
+                    <coordinates>-86.851,46.336,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1523">
+                <name>Au Train Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="1522">
+                    <coordinates>-86.853,46.339,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1525">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="1524">
+                    <coordinates>-86.8517,46.3396,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1527">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="1526">
+                    <coordinates>-86.8511,46.3319,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

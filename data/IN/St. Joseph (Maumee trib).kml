@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55233">
+        <name>St. Joseph (Maumee trib)</name>
+        <Folder id="55234">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Spencerville Takeout (PnP) (I(II))</name>
+            <Placemark id="55236">
+                <name>Spencerville Takeout (PnP) (I(II))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10215/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="55235">
+                    <coordinates>-84.917639,41.281399,0.0 -84.918707,41.281513,0.0 -84.91956,41.281965,0.0 -84.91948,41.28204,0.0 -84.919314,41.282087,0.0 -84.918281,41.281592,0.0 -84.917575,41.281427,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="55238">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="55237">
+                    <coordinates>-84.917999,41.280998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55240">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="55239">
+                    <coordinates>-84.919998,41.282001,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

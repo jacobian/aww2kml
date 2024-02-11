@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="35180">
+        <name>Mongaup</name>
+        <Folder id="35181">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Rio Powerhouse to Delaware River (II+(III))</name>
+            <Placemark id="35183">
+                <name>Rio Powerhouse to Delaware River (II+(III))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1349/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="35182">
+                    <coordinates>-74.758458,41.461693,0.0 -74.758487,41.461526,0.0 -74.758642,41.461402,0.0 -74.758716,41.461362,0.0 -74.758768,41.461206,0.0 -74.759238,41.461137,0.0 -74.759529,41.461024,0.0 -74.759897,41.460692,0.0 -74.759807,41.460169,0.0 -74.759944,41.45941,0.0 -74.759813,41.458751,0.0 -74.759461,41.45751,0.0 -74.759271,41.45665,0.0 -74.7588,41.455565,0.0 -74.758714,41.454649,0.0 -74.758805,41.454292,0.0 -74.759394,41.453587,0.0 -74.760031,41.452384,0.0 -74.760659,41.451316,0.0 -74.761647,41.449855,0.0 -74.761862,41.448561,0.0 -74.76192,41.447653,0.0 -74.761938,41.445277,0.0 -74.761691,41.444593,0.0 -74.761342,41.444242,0.0 -74.760359,41.444055,0.0 -74.759628,41.443874,0.0 -74.759145,41.443129,0.0 -74.758781,41.442673,0.0 -74.75851,41.442447,0.0 -74.75827,41.442156,0.0 -74.758171,41.441936,0.0 -74.75758,41.440785,0.0 -74.757182,41.439503,0.0 -74.75721,41.439262,0.0 -74.757056,41.439076,0.0 -74.756691,41.438559,0.0 -74.756247,41.43738,0.0 -74.756018,41.435218,0.0 -74.755711,41.434366,0.0 -74.755455,41.43408,0.0 -74.754969,41.433629,0.0 -74.754359,41.433417,0.0 -74.75388,41.433437,0.0 -74.752794,41.433615,0.0 -74.752317,41.43354,0.0 -74.751488,41.432949,0.0 -74.751212,41.43248,0.0 -74.751162,41.431785,0.0 -74.751348,41.430923,0.0 -74.751965,41.430279,0.0 -74.754319,41.429416,0.0 -74.754798,41.429109,0.0 -74.755699,41.428179,0.0 -74.756175,41.427694,0.0 -74.756116,41.427054,0.0 -74.755323,41.425669,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="35185">
+                <name>Cliffs (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35184">
+                    <coordinates>-74.758499,41.4617,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35187">
+                <name>Upper section</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35186">
+                    <coordinates>-74.753606,41.475148,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35189">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="35188">
+                    <coordinates>-74.758499,41.4617,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35191">
+                <name>Just go Left (II)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="35190">
+                    <coordinates>-74.758997,41.456018,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35193">
+                <name>Bridge Rapid (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35192">
+                    <coordinates>-74.755824,41.426546,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35195">
+                <name>Takeout on the Delaware (Downstream)</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35194">
+                    <coordinates>-74.754204,41.4258,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35197">
+                <name>Canoe Lunch Spot (I)</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35196">
+                    <coordinates>-74.755824,41.426546,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35199">
+                <name>Beach Takeout</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35198">
+                    <coordinates>-74.7537,41.4258,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35201">
+                <name>Boof Rock Lunch Spot (II+)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="35200">
+                    <coordinates>-74.759452,41.443626,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35203">
+                <name>Makeout Takeout (Upper)</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35202">
+                    <coordinates>-74.756362,41.427281,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35205">
+                <name>Takeout on the Delaware (Upstream)</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35204">
+                    <coordinates>-74.756662,41.424377,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35207">
+                <name>Powerhouse wave (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="35206">
+                    <coordinates>-74.758499,41.4617,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35209">
+                <name>Lower Rapid (II+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35208">
+                    <coordinates>-74.754452,41.433414,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

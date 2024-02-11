@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26464">
+        <name>Jungle Creek</name>
+        <Folder id="26465">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>From the road (V+)</name>
+            <Placemark id="26467">
+                <name>From the road (V+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4647/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="26466">
+                    <coordinates>-113.489733,47.884453,0.0 -113.489722,47.884487,0.0 -113.489717,47.884659,0.0 -113.489682,47.884776,0.0 -113.489622,47.884913,0.0 -113.489507,47.885023,0.0 -113.489377,47.885098,0.0 -113.489247,47.885164,0.0 -113.489143,47.885238,0.0 -113.489068,47.885339,0.0 -113.48902,47.885413,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="26469">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="26468">
+                    <coordinates>-113.489,47.8842,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26471">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="26470">
+                    <coordinates>-113.489,47.8854,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

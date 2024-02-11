@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="22679">
+        <name>Greenleaf Creek</name>
+        <Folder id="22680">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Hwy.96/Day Street to Hwy.32/57/Greenleaf Road (2 miles) (II-III+(IV))</name>
+            <Placemark id="22682">
+                <name>Hwy.96/Day Street to Hwy.32/57/Greenleaf Road (2 miles) (II-III+(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10237/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="22681">
+                    <coordinates>-88.075105,44.313683,0.0 -88.075164,44.313359,0.0 -88.075324,44.313291,0.0 -88.076184,44.313199,0.0 -88.076598,44.313085,0.0 -88.076693,44.312857,0.0 -88.076248,44.312468,0.0 -88.076216,44.312193,0.0 -88.076312,44.312079,0.0 -88.077267,44.311965,0.0 -88.078064,44.311668,0.0 -88.07851,44.3116,0.0 -88.079274,44.311851,0.0 -88.079911,44.311852,0.0 -88.080102,44.311646,0.0 -88.080134,44.3108,0.0 -88.081058,44.310343,0.0 -88.081377,44.309909,0.0 -88.0816,44.309543,0.0 -88.081632,44.309154,0.0 -88.081473,44.308857,0.0 -88.081474,44.308308,0.0 -88.081729,44.307897,0.0 -88.082366,44.307028,0.0 -88.082589,44.306845,0.0 -88.082876,44.306365,0.0 -88.083067,44.306136,0.0 -88.083449,44.306091,0.0 -88.083863,44.306434,0.0 -88.084086,44.306548,0.0 -88.084468,44.306571,0.0 -88.084627,44.306526,0.0 -88.084691,44.306434,0.0 -88.084723,44.305977,0.0 -88.085042,44.30568,0.0 -88.085456,44.305566,0.0 -88.086284,44.305543,0.0 -88.087557,44.305909,0.0 -88.087812,44.305909,0.0 -88.088481,44.305772,0.0 -88.089818,44.30527,0.0 -88.090551,44.305247,0.0 -88.091474,44.30559,0.0 -88.09211,44.306025,0.0 -88.092301,44.306231,0.0 -88.092428,44.306734,0.0 -88.092811,44.306985,0.0 -88.09418,44.307283,0.0 -88.094848,44.307283,0.0 -88.095262,44.307169,0.0 -88.096058,44.306849,0.0 -88.096632,44.306758,0.0 -88.096897,44.306813,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="22684">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="22683">
+                    <coordinates>-88.0969,44.3068,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="22686">
+                <name>Powerline clearing</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="22685">
+                    <coordinates>-88.088097,44.305698,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="22688">
+                <name>Apparent small ledge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="22687">
+                    <coordinates>-88.0812,44.309898,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="22690">
+                <name>Powerline Ledge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="22689">
+                    <coordinates>-88.081398,44.3097,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="22692">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="22691">
+                    <coordinates>-88.0752,44.3137,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="22694">
+                <name>Fence!</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="22693">
+                    <coordinates>-88.081299,44.308899,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

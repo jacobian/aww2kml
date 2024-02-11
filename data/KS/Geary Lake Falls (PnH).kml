@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21524">
+        <name>Geary Lake Falls (PnH)</name>
+        <Folder id="21525">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Spillway to hiking trail (V)</name>
+            <Placemark id="21527">
+                <name>Spillway to hiking trail (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11375/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="21526">
+                    <coordinates>-96.86687,38.904228,0.0 -96.867225,38.904816,0.0 -96.867244,38.905132,0.0 -96.86711,38.90525,0.0 -96.866912,38.905386,0.0 -96.866967,38.905594,0.0 -96.867215,38.906035,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="21529">
+                <name>The falls (V)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="21528">
+                    <coordinates>-96.86708,38.904548,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="21531">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="21530">
+                    <coordinates>-96.86687,38.904228,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="21533">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="21532">
+                    <coordinates>-96.867215,38.906035,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

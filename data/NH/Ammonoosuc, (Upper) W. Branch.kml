@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="726">
+        <name>Ammonoosuc, (Upper) W. Branch</name>
+        <Folder id="727">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>West Branch of the Upper (IV)</name>
+            <Placemark id="729">
+                <name>West Branch of the Upper (IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1156/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="728">
+                    <coordinates>-71.369475,44.502433,0.0 -71.369463,44.502281,0.0 -71.369087,44.500844,0.0 -71.36901,44.500594,0.0 -71.368902,44.500488,0.0 -71.368526,44.500311,0.0 -71.367492,44.500153,0.0 -71.367346,44.500057,0.0 -71.367053,44.499365,0.0 -71.366837,44.499081,0.0 -71.366573,44.49879,0.0 -71.366517,44.498633,0.0 -71.366006,44.497915,0.0 -71.36567,44.497688,0.0 -71.365518,44.497551,0.0 -71.36539,44.497369,0.0 -71.365318,44.497285,0.0 -71.364967,44.497167,0.0 -71.364783,44.497049,0.0 -71.364647,44.496921,0.0 -71.364535,44.496915,0.0 -71.36416,44.496787,0.0 -71.363881,44.496703,0.0 -71.363673,44.496707,0.0 -71.363561,44.49675,0.0 -71.36337,44.496858,0.0 -71.36321,44.496901,0.0 -71.362771,44.496667,0.0 -71.362667,44.496683,0.0 -71.362524,44.49674,0.0 -71.36222,44.496854,0.0 -71.361965,44.496896,0.0 -71.361693,44.496883,0.0 -71.361477,44.496838,0.0 -71.361238,44.496771,0.0 -71.361145,44.496718,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="731">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="730">
+                    <coordinates>-71.361099,44.496799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="733">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="732">
+                    <coordinates>-71.369904,44.502399,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

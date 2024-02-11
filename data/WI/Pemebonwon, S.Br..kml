@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="40494">
+        <name>Pemebonwon, S.Br.</name>
+        <Folder id="40495">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Pembine (Hwy 141/8) to below Kremlin Rd (Park-n-Huck or 2.9 miles) (II-III(IV))</name>
+            <Placemark id="40497">
+                <name>Pembine (Hwy 141/8) to below Kremlin Rd (Park-n-Huck or 2.9 miles) (II-III(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3733/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="40496">
+                    <coordinates>-87.974618,45.6418,0.0 -87.974618,45.641857,0.0 -87.974781,45.642314,0.0 -87.974945,45.642497,0.0 -87.974945,45.642634,0.0 -87.975043,45.642703,0.0 -87.975109,45.643388,0.0 -87.974882,45.64396,0.0 -87.974557,45.644326,0.0 -87.974199,45.644647,0.0 -87.973972,45.645013,0.0 -87.973842,45.645378,0.0 -87.973452,45.645973,0.0 -87.973257,45.646133,0.0 -87.973192,45.646248,0.0 -87.973029,45.646271,0.0 -87.97241,45.646705,0.0 -87.971922,45.647003,0.0 -87.971205,45.64721,0.0 -87.969641,45.647531,0.0 -87.968208,45.648127,0.0 -87.967328,45.648196,0.0 -87.96622,45.647968,0.0 -87.964329,45.64797,0.0 -87.963253,45.647742,0.0 -87.961427,45.646943,0.0 -87.960938,45.646669,0.0 -87.960351,45.646464,0.0 -87.959634,45.646556,0.0 -87.959275,45.646671,0.0 -87.958395,45.64674,0.0 -87.957711,45.646535,0.0 -87.956341,45.646033,0.0 -87.954939,45.645645,0.0 -87.953179,45.645578,0.0 -87.952103,45.645419,0.0 -87.95181,45.64535,0.0 -87.950278,45.645534,0.0 -87.95005,45.645443,0.0 -87.949756,45.645146,0.0 -87.949593,45.644735,0.0 -87.949462,45.64462,0.0 -87.949396,45.643935,0.0 -87.949624,45.643614,0.0 -87.950242,45.643317,0.0 -87.95109,45.643156,0.0 -87.953142,45.642332,0.0 -87.95337,45.642126,0.0 -87.953304,45.641714,0.0 -87.95314,45.641372,0.0 -87.952748,45.640618,0.0 -87.952585,45.640481,0.0 -87.952487,45.640275,0.0 -87.952161,45.639978,0.0 -87.951671,45.63975,0.0 -87.95102,45.639842,0.0 -87.949978,45.640299,0.0 -87.949489,45.640345,0.0 -87.949163,45.640277,0.0 -87.948543,45.640049,0.0 -87.945447,45.639891,0.0 -87.945023,45.639868,0.0 -87.944307,45.640006,0.0 -87.943557,45.640121,0.0 -87.943166,45.639778,0.0 -87.942872,45.639435,0.0 -87.94235,45.639047,0.0 -87.942187,45.638864,0.0 -87.941763,45.63859,0.0 -87.941706,45.638582,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="40499">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="40498">
+                    <coordinates>-87.941704,45.638599,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40501">
+                <name>Kremlin Road</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="40500">
+                    <coordinates>-87.946907,45.639923,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40503">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="40502">
+                    <coordinates>-87.974602,45.6418,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40505">
+                <name>Minor rips #2</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="40504">
+                    <coordinates>-87.951942,45.64098,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40507">
+                <name>Minor rips</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="40506">
+                    <coordinates>-87.958824,45.647118,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40509">
+                <name>Hwy.141/Crain Lane</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="40508">
+                    <coordinates>-87.964996,45.648499,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

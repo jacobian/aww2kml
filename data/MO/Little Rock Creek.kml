@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="30997">
+        <name>Little Rock Creek</name>
+        <Folder id="30998">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Off of Highway E (east of USFS Marble Creek Campground) to Highway E bridge (1 mile) (IV+)</name>
+            <Placemark id="31000">
+                <name>Off of Highway E (east of USFS Marble Creek Campground) to Highway E bridge (1 mile) (IV+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2954/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="30999">
+                    <coordinates>-90.501299,37.457584,0.0 -90.501184,37.457566,0.0 -90.500889,37.457587,0.0 -90.500526,37.457633,0.0 -90.500287,37.457673,0.0 -90.500128,37.457706,0.0 -90.500071,37.457705,0.0 -90.499937,37.457666,0.0 -90.49988,37.457665,0.0 -90.499732,37.457707,0.0 -90.499617,37.457767,0.0 -90.499455,37.457881,0.0 -90.499271,37.457976,0.0 -90.499156,37.458019,0.0 -90.499042,37.458071,0.0 -90.498872,37.458085,0.0 -90.498737,37.458064,0.0 -90.498637,37.45799,0.0 -90.498549,37.457925,0.0 -90.498403,37.457913,0.0 -90.498233,37.457909,0.0 -90.498052,37.457915,0.0 -90.497883,37.457902,0.0 -90.497748,37.457881,0.0 -90.497546,37.45785,0.0 -90.497309,37.457836,0.0 -90.497151,37.457823,0.0 -90.496739,37.457548,0.0 -90.496473,37.457467,0.0 -90.496228,37.457362,0.0 -90.49605,37.457259,0.0 -90.495896,37.457157,0.0 -90.495785,37.457073,0.0 -90.49564,37.457016,0.0 -90.495441,37.456895,0.0 -90.495274,37.456828,0.0 -90.49514,37.45678,0.0 -90.494972,37.456723,0.0 -90.494792,37.456692,0.0 -90.494533,37.456659,0.0 -90.494231,37.456572,0.0 -90.493938,37.456539,0.0 -90.493769,37.456517,0.0 -90.493567,37.456477,0.0 -90.493388,37.456428,0.0 -90.493176,37.456351,0.0 -90.492997,37.456275,0.0 -90.492886,37.45621,0.0 -90.492799,37.456136,0.0 -90.492701,37.456017,0.0 -90.492616,37.455844,0.0 -90.49257,37.455761,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="31002">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="31001">
+                    <coordinates>-90.4925,37.455799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="31004">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="31003">
+                    <coordinates>-90.501297,37.4576,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

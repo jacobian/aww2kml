@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8923">
+        <name>Cascadilla Creek</name>
+        <Folder id="8924">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Hoy Rd. to Ithaca (IV-V)</name>
+            <Placemark id="8926">
+                <name>Hoy Rd. to Ithaca (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2916/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="8925">
+                    <coordinates>-76.47677,42.44328,0.0 -76.47709,42.442999,0.0 -76.477275,42.442633,0.0 -76.477645,42.442335,0.0 -76.478633,42.442105,0.0 -76.479405,42.44215,0.0 -76.480023,42.442333,0.0 -76.480703,42.442606,0.0 -76.481876,42.442788,0.0 -76.482741,42.442993,0.0 -76.484656,42.44322,0.0 -76.487096,42.443172,0.0 -76.488516,42.443353,0.0 -76.489875,42.44326,0.0 -76.491449,42.442961,0.0 -76.492097,42.442778,0.0 -76.492623,42.442892,0.0 -76.493951,42.442913,0.0 -76.494479,42.44307,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="8928">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="8927">
+                    <coordinates>-76.494499,42.443001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8930">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="8929">
+                    <coordinates>-76.4767,42.443199,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

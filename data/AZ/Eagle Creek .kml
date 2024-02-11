@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17279">
+        <name>Eagle Creek </name>
+        <Folder id="17280">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>unspecified (IV)</name>
+            <Placemark id="17282">
+                <name>unspecified (IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/115/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="17281">
+                    <coordinates>-109.439379,33.060147,0.0 -109.439379,33.060147,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="17284">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="17283">
+                    <coordinates>-109.495,33.331,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="17286">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="17285">
+                    <coordinates>-109.48,33.478,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

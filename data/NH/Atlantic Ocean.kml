@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1507">
+        <name>Atlantic Ocean</name>
+        <Folder id="1508">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Jenness Beach (I(V))</name>
+            <Placemark id="1510">
+                <name>Jenness Beach (I(V))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4184/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="1509">
+                    <coordinates>-70.75899,42.989657,0.0 -70.758852,42.989799,0.0 -70.7579,42.990596,0.0 -70.75755,42.99084,0.0 -70.757208,42.991016,0.0 -70.756932,42.99124,0.0 -70.756544,42.991446,0.0 -70.756239,42.991588,0.0 -70.75565,42.991755,0.0 -70.755194,42.991801,0.0 -70.754806,42.991647,0.0 -70.754342,42.991495,0.0 -70.753946,42.991422,0.0 -70.753469,42.991359,0.0 -70.752565,42.991226,0.0 -70.752206,42.991199,0.0 -70.751564,42.991234,0.0 -70.751124,42.991285,0.0 -70.750727,42.991329,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="1512">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="1511">
+                    <coordinates>-70.750603,42.99044,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1514">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="1513">
+                    <coordinates>-70.758957,42.989624,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

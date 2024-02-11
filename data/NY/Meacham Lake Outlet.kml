@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="33334">
+        <name>Meacham Lake Outlet</name>
+        <Folder id="33335">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Rte. 30 Bridge to Rice Brook (III-IV)</name>
+            <Placemark id="33337">
+                <name>Rte. 30 Bridge to Rice Brook (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4250/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="33336">
+                    <coordinates>-74.308952,44.553748,0.0 -74.309659,44.553969,0.0 -74.310267,44.554267,0.0 -74.310522,44.554519,0.0 -74.310746,44.554816,0.0 -74.311257,44.555205,0.0 -74.313782,44.556304,0.0 -74.314198,44.556602,0.0 -74.315828,44.55738,0.0 -74.316372,44.557449,0.0 -74.317299,44.557312,0.0 -74.318611,44.55681,0.0 -74.319027,44.556787,0.0 -74.31941,44.556856,0.0 -74.319986,44.556788,0.0 -74.320434,44.556582,0.0 -74.320946,44.556582,0.0 -74.321489,44.556834,0.0 -74.321809,44.557314,0.0 -74.321936,44.557795,0.0 -74.322128,44.558092,0.0 -74.322351,44.558252,0.0 -74.322767,44.558367,0.0 -74.323471,44.558459,0.0 -74.324334,44.558825,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="33339">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="33338">
+                    <coordinates>-74.324501,44.558701,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33341">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="33340">
+                    <coordinates>-74.308998,44.5536,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

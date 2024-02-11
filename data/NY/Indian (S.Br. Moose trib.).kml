@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25414">
+        <name>Indian (S.Br. Moose trib.)</name>
+        <Folder id="25415">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Brooktrout Lake to South Branch Moose (III-IV)</name>
+            <Placemark id="25417">
+                <name>Brooktrout Lake to South Branch Moose (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1327/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="25416">
+                    <coordinates>-74.783956,43.602321,0.0 -74.784791,43.602436,0.0 -74.785357,43.602711,0.0 -74.78718,43.604405,0.0 -74.787651,43.605046,0.0 -74.787682,43.605297,0.0 -74.787631,43.605343,0.0 -74.787885,43.606298,0.0 -74.788362,43.606581,0.0 -74.788593,43.60667,0.0 -74.789506,43.606991,0.0 -74.790292,43.607083,0.0 -74.790607,43.607312,0.0 -74.791078,43.607907,0.0 -74.791518,43.608273,0.0 -74.793249,43.608366,0.0 -74.793847,43.608549,0.0 -74.794507,43.609007,0.0 -74.795294,43.609282,0.0 -74.796867,43.609352,0.0 -74.797528,43.609512,0.0 -74.797905,43.609879,0.0 -74.797874,43.610107,0.0 -74.797369,43.610679,0.0 -74.797243,43.61125,0.0 -74.797022,43.611502,0.0 -74.796046,43.612027,0.0 -74.796045,43.612622,0.0 -74.796453,43.613262,0.0 -74.796705,43.613491,0.0 -74.796705,43.613674,0.0 -74.797082,43.614178,0.0 -74.79708,43.615664,0.0 -74.796889,43.616968,0.0 -74.796763,43.617196,0.0 -74.794621,43.61875,0.0 -74.79418,43.618864,0.0 -74.792637,43.618886,0.0 -74.792448,43.619023,0.0 -74.792196,43.619457,0.0 -74.79207,43.619526,0.0 -74.791188,43.619548,0.0 -74.790873,43.619662,0.0 -74.790747,43.619822,0.0 -74.790747,43.620074,0.0 -74.791124,43.620531,0.0 -74.791092,43.62076,0.0 -74.790903,43.621012,0.0 -74.790336,43.621034,0.0 -74.789864,43.621285,0.0 -74.789139,43.621856,0.0 -74.788383,43.622085,0.0 -74.785801,43.622449,0.0 -74.785549,43.622586,0.0 -74.785391,43.622814,0.0 -74.785327,43.623523,0.0 -74.784854,43.624049,0.0 -74.784318,43.62446,0.0 -74.783247,43.625077,0.0 -74.782774,43.625396,0.0 -74.781986,43.626082,0.0 -74.781797,43.626425,0.0 -74.781748,43.626978,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="25419">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="25418">
+                    <coordinates>-74.782,43.627,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="25421">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="25420">
+                    <coordinates>-74.784,43.602,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

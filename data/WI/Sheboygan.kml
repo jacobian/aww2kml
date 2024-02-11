@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="51716">
+        <name>Sheboygan</name>
+        <Folder id="51717">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>downtown Sheboygan Falls (0.3 mile) (II-IV)</name>
+            <Placemark id="51719">
+                <name>downtown Sheboygan Falls (0.3 mile) (II-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3472/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="51718">
+                    <coordinates>-87.811911,43.731197,0.0 -87.811389,43.73075,0.0 -87.811043,43.730315,0.0 -87.809877,43.728942,0.0 -87.809721,43.727776,0.0 -87.809685,43.727697,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="51721">
+                <name>Monroe Street Ledges (III)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="51720">
+                    <coordinates>-87.810333,43.728835,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51723">
+                <name>Wall Wave (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="51722">
+                    <coordinates>-87.81037,43.728366,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51725">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="51724">
+                    <coordinates>-87.809898,43.7276,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51727">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="51726">
+                    <coordinates>-87.811996,43.731098,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51729">
+                <name>Dam 2!</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="51728">
+                    <coordinates>-87.782303,43.732101,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51731">
+                <name>Dam 1!</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="51730">
+                    <coordinates>-87.788498,43.728298,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51733">
+                <name>Parking</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="51732">
+                    <coordinates>-87.808403,43.724499,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51735">
+                <name>Johnsonville Dam</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="51734">
+                    <coordinates>-87.909798,43.798302,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51737">
+                <name>Confluence w.Onion River</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="51736">
+                    <coordinates>-87.804787,43.723488,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51739">
+                <name>Lower Ledge (III)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="51738">
+                    <coordinates>-87.80979,43.727567,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="51740">
+            <name>downtown Sheboygan Falls (0.3 mile) (II-IV)</name>
+            <Placemark id="51742">
+                <name>downtown Sheboygan Falls (0.3 mile) (II-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3472/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="51741">
+                    <coordinates>-87.811911,43.731197,0.0 -87.811389,43.73075,0.0 -87.811043,43.730315,0.0 -87.809877,43.728942,0.0 -87.809721,43.727776,0.0 -87.809685,43.727697,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="51744">
+                <name>Monroe Street Ledges (III)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="51743">
+                    <coordinates>-87.810333,43.728835,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51746">
+                <name>Wall Wave (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="51745">
+                    <coordinates>-87.81037,43.728366,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51748">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="51747">
+                    <coordinates>-87.809898,43.7276,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51750">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="51749">
+                    <coordinates>-87.811996,43.731098,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51752">
+                <name>Dam 2!</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="51751">
+                    <coordinates>-87.782303,43.732101,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51754">
+                <name>Dam 1!</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="51753">
+                    <coordinates>-87.788498,43.728298,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51756">
+                <name>Parking</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="51755">
+                    <coordinates>-87.808403,43.724499,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51758">
+                <name>Johnsonville Dam</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="51757">
+                    <coordinates>-87.909798,43.798302,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51760">
+                <name>Confluence w.Onion River</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="51759">
+                    <coordinates>-87.804787,43.723488,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51762">
+                <name>Lower Ledge (III)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="51761">
+                    <coordinates>-87.80979,43.727567,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

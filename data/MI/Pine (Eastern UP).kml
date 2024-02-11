@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="41659">
+        <name>Pine (Eastern UP)</name>
+        <Folder id="41660">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>B) N Srv Road to Dixie Highway (Hwy.134) (3.3 miles) (I-II)</name>
+            <Placemark id="41662">
+                <name>B) N Srv Road to Dixie Highway (Hwy.134) (3.3 miles) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10757/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="41661">
+                    <coordinates>-84.637831,46.095767,0.0 -84.638028,46.095606,0.0 -84.638488,46.094829,0.0 -84.638882,46.094372,0.0 -84.639867,46.093618,0.0 -84.640261,46.093138,0.0 -84.640491,46.091973,0.0 -84.64095,46.09147,0.0 -84.641607,46.090922,0.0 -84.642428,46.090053,0.0 -84.64338,46.089207,0.0 -84.644102,46.088545,0.0 -84.644365,46.088133,0.0 -84.645087,46.087402,0.0 -84.645284,46.087013,0.0 -84.645284,46.086465,0.0 -84.645186,46.086396,0.0 -84.645021,46.085757,0.0 -84.645054,46.085185,0.0 -84.645087,46.084934,0.0 -84.645382,46.084591,0.0 -84.645842,46.084225,0.0 -84.647451,46.083448,0.0 -84.647582,46.083151,0.0 -84.647713,46.082466,0.0 -84.647811,46.082191,0.0 -84.648731,46.081483,0.0 -84.648862,46.081186,0.0 -84.649551,46.079312,0.0 -84.649682,46.078557,0.0 -84.65001,46.07762,0.0 -84.650206,46.077278,0.0 -84.651158,46.076569,0.0 -84.651519,46.076249,0.0 -84.651552,46.075838,0.0 -84.651421,46.075792,0.0 -84.651388,46.075404,0.0 -84.651241,46.07521,0.0 -84.650799,46.074788,0.0 -84.649249,46.074277,0.0 -84.648144,46.073295,0.0 -84.648209,46.072919,0.0 -84.647054,46.071171,0.0 -84.647205,46.070294,0.0 -84.648008,46.069853,0.0 -84.649968,46.069658,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="41664">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="41663">
+                    <coordinates>-84.650002,46.07,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41666">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="41665">
+                    <coordinates>-84.638,46.096001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41668">
+                <name>Possible minor rips</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="41667">
+                    <coordinates>-84.640648,46.091702,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41670">
+                <name>Island/Rips</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="41669">
+                    <coordinates>-84.647408,46.083202,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41672">
+                <name>Possible minor rips #3</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="41671">
+                    <coordinates>-84.651276,46.075535,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41674">
+                <name>Possible minor rips #4</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="41673">
+                    <coordinates>-84.647949,46.073208,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="41675">
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>A) W.Prairie Road to S.River Road (3.25 miles) (I-II)</name>
+            <Placemark id="41677">
+                <name>A) W.Prairie Road to S.River Road (3.25 miles) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10756/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="41676">
+                    <coordinates>-84.612252,46.191918,0.0 -84.612081,46.191398,0.0 -84.611917,46.190005,0.0 -84.611819,46.18989,0.0 -84.611555,46.189799,0.0 -84.610865,46.189662,0.0 -84.610634,46.189524,0.0 -84.610437,46.18925,0.0 -84.610536,46.18877,0.0 -84.610635,46.188656,0.0 -84.610635,46.187925,0.0 -84.610503,46.187536,0.0 -84.609681,46.186599,0.0 -84.609287,46.186005,0.0 -84.608925,46.185708,0.0 -84.608629,46.185616,0.0 -84.608333,46.185594,0.0 -84.607675,46.185731,0.0 -84.606457,46.18573,0.0 -84.605799,46.185822,0.0 -84.605404,46.186004,0.0 -84.604549,46.186575,0.0 -84.603891,46.186895,0.0 -84.602607,46.187146,0.0 -84.600962,46.187534,0.0 -84.599975,46.187602,0.0 -84.599613,46.18742,0.0 -84.599482,46.187214,0.0 -84.599087,46.186825,0.0 -84.597837,46.185865,0.0 -84.597278,46.185545,0.0 -84.595864,46.185202,0.0 -84.595502,46.185019,0.0 -84.595173,46.184676,0.0 -84.595108,46.183899,0.0 -84.594878,46.183511,0.0 -84.594253,46.182962,0.0 -84.593958,46.182505,0.0 -84.593728,46.181751,0.0 -84.593366,46.181248,0.0 -84.592906,46.180882,0.0 -84.591229,46.180287,0.0 -84.590801,46.179967,0.0 -84.590472,46.179579,0.0 -84.590407,46.179053,0.0 -84.590638,46.178528,0.0 -84.590539,46.178162,0.0 -84.590244,46.177819,0.0 -84.588633,46.176676,0.0 -84.588205,46.176196,0.0 -84.588206,46.175625,0.0 -84.588338,46.175419,0.0 -84.588601,46.175168,0.0 -84.589588,46.174643,0.0 -84.590082,46.174163,0.0 -84.590312,46.173775,0.0 -84.59028,46.173135,0.0 -84.590181,46.172838,0.0 -84.590182,46.172266,0.0 -84.59061,46.171672,0.0 -84.591301,46.171307,0.0 -84.591795,46.170987,0.0 -84.591926,46.170759,0.0 -84.591927,46.170439,0.0 -84.591861,46.170256,0.0 -84.591499,46.169936,0.0 -84.590809,46.169479,0.0 -84.589987,46.16925,0.0 -84.587455,46.169089,0.0 -84.586303,46.168791,0.0 -84.585186,46.168403,0.0 -84.583936,46.167717,0.0 -84.583279,46.167031,0.0 -84.582951,46.166254,0.0 -84.582458,46.165728,0.0 -84.582163,46.165294,0.0 -84.582057,46.164982,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="41679">
+                <name>S.Mackinac Trail Rips</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="41678">
+                    <coordinates>-84.5979,46.185902,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41681">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="41680">
+                    <coordinates>-84.582001,46.165001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41683">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="41682">
+                    <coordinates>-84.612,46.192001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41685">
+                <name>Apparent rapids/shoals #1</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="41684">
+                    <coordinates>-84.612297,46.192101,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41687">
+                <name>Possible obstruction/shoals</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="41686">
+                    <coordinates>-84.607666,46.185707,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41689">
+                <name>Apparent rapids/shoals #3</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="41688">
+                    <coordinates>-84.590851,46.17997,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41691">
+                <name>Apparent rapids/shoals #4</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="41690">
+                    <coordinates>-84.581947,46.165291,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

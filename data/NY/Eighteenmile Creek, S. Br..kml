@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17818">
+        <name>Eighteenmile Creek, S. Br.</name>
+        <Folder id="17819">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>New Oregon Rd. to East Church Rd. (II-V)</name>
+            <Placemark id="17821">
+                <name>New Oregon Rd. to East Church Rd. (II-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/5051/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="17820">
+                    <coordinates>-78.819401,42.608207,0.0 -78.819536,42.608193,0.0 -78.81966,42.60817,0.0 -78.82,42.608628,0.0 -78.821021,42.609017,0.0 -78.821856,42.609246,0.0 -78.822568,42.609155,0.0 -78.823033,42.608995,0.0 -78.823281,42.608538,0.0 -78.823777,42.608104,0.0 -78.82452,42.607875,0.0 -78.825015,42.607899,0.0 -78.825572,42.608127,0.0 -78.82616,42.608448,0.0 -78.827366,42.60982,0.0 -78.827551,42.610163,0.0 -78.82755,42.611604,0.0 -78.827735,42.612564,0.0 -78.827921,42.61277,0.0 -78.829313,42.613228,0.0 -78.829592,42.613526,0.0 -78.829746,42.613892,0.0 -78.830644,42.614464,0.0 -78.831231,42.615653,0.0 -78.831416,42.616156,0.0 -78.831385,42.616933,0.0 -78.831199,42.617299,0.0 -78.830486,42.617916,0.0 -78.830424,42.618328,0.0 -78.830702,42.618534,0.0 -78.830795,42.619014,0.0 -78.83095,42.619197,0.0 -78.831785,42.619632,0.0 -78.831971,42.619677,0.0 -78.832125,42.619906,0.0 -78.834137,42.621027,0.0 -78.836397,42.621806,0.0 -78.836799,42.622195,0.0 -78.836799,42.622606,0.0 -78.83717,42.623315,0.0 -78.838005,42.623933,0.0 -78.838098,42.624116,0.0 -78.83819,42.625053,0.0 -78.838345,42.625351,0.0 -78.838809,42.625717,0.0 -78.840048,42.625969,0.0 -78.841843,42.626495,0.0 -78.842462,42.627501,0.0 -78.842554,42.628325,0.0 -78.842647,42.628462,0.0 -78.842709,42.628759,0.0 -78.843358,42.629605,0.0 -78.843389,42.629788,0.0 -78.843885,42.630177,0.0 -78.844473,42.630497,0.0 -78.846144,42.631161,0.0 -78.847538,42.631505,0.0 -78.848157,42.631848,0.0 -78.848466,42.633448,0.0 -78.849363,42.634729,0.0 -78.849456,42.635141,0.0 -78.84992,42.635735,0.0 -78.850075,42.636078,0.0 -78.850198,42.63697,0.0 -78.850601,42.637748,0.0 -78.851127,42.638388,0.0 -78.851436,42.639531,0.0 -78.8519,42.640286,0.0 -78.852984,42.641498,0.0 -78.853819,42.643053,0.0 -78.853819,42.6437,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="17823">
+                <name>Clarksburg Falls (V)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="17822">
+                    <coordinates>-78.830978,42.619408,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="17825">
+                <name>Kromer's Falls (V)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="17824">
+                    <coordinates>-78.852707,42.640991,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="17827">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="17826">
+                    <coordinates>-78.8538,42.6437,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="17829">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="17828">
+                    <coordinates>-78.8194,42.6082,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

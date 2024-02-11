@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="33532">
+        <name>Menomonee</name>
+        <Folder id="33533">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>C) MenTosa: Hart Park Lane to 4202 W.Bluemound Road (2.55 miles) (II-III)</name>
+            <Placemark id="33535">
+                <name>C) MenTosa: Hart Park Lane to 4202 W.Bluemound Road (2.55 miles) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2654/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="33534">
+                    <coordinates>-88.011461,43.049838,0.0 -88.011303,43.049878,0.0 -88.010616,43.049902,0.0 -88.009307,43.049714,0.0 -88.008868,43.049627,0.0 -88.007966,43.048867,0.0 -88.007344,43.048389,0.0 -88.006968,43.0482,0.0 -88.006121,43.04802,0.0 -88.006003,43.047975,0.0 -88.005841,43.047828,0.0 -88.005794,43.047893,0.0 -88.005756,43.047879,0.0 -88.005477,43.047542,0.0 -88.00522,43.04635,0.0 -88.004791,43.045597,0.0 -88.004383,43.045299,0.0 -88.003728,43.045064,0.0 -88.002795,43.044837,0.0 -88.002484,43.04479,0.0 -88.002484,43.04479,0.0 -88.001733,43.044994,0.0 -88.001325,43.045221,0.0 -88.000553,43.045519,0.0 -88.000091,43.045495,0.0 -88.000091,43.045495,0.0 -87.999512,43.045519,0.0 -87.999008,43.045448,0.0 -87.997978,43.045135,0.0 -87.996916,43.044468,0.0 -87.996898,43.044457,0.0 -87.996898,43.044457,0.0 -87.995607,43.043621,0.0 -87.994298,43.042963,0.0 -87.993364,43.042712,0.0 -87.992452,43.042782,0.0 -87.99168,43.042782,0.0 -87.990489,43.042508,0.0 -87.989309,43.04239,0.0 -87.988654,43.042414,0.0 -87.987249,43.042304,0.0 -87.986816,43.04233,0.0 -87.986816,43.04233,0.0 -87.982571,43.042586,0.0 -87.978516,43.042986,0.0 -87.977867,43.043046,0.0 -87.977867,43.043046,0.0 -87.977829,43.043049,0.0 -87.976863,43.042978,0.0 -87.975276,43.0425,0.0 -87.974181,43.041904,0.0 -87.973366,43.041747,0.0 -87.973001,43.0417,0.0 -87.972625,43.041818,0.0 -87.97225,43.042202,0.0 -87.972089,43.04232,0.0 -87.971499,43.042414,0.0 -87.969031,43.042022,0.0 -87.968538,43.041818,0.0 -87.968162,43.041567,0.0 -87.967916,43.041222,0.0 -87.967755,43.040885,0.0 -87.967347,43.040399,0.0 -87.966918,43.040038,0.0 -87.966253,43.039646,0.0 -87.966014,43.039448,0.0 -87.966014,43.039448,0.0 -87.965574,43.039084,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="33537">
+                <name>Pedestrian Bridge (Tosa Plaza)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33536">
+                    <coordinates>-88.008003,43.049,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33539">
+                <name>Hank Aaron State Trail / Selig Drive</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="33538">
+                    <coordinates>-87.967003,43.029999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33541">
+                <name>Railroad Trestle Chicane (RTC) (II+)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33540">
+                    <coordinates>-87.968002,43.040001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33543">
+                <name>W.Monarch Place: Drainage area: ~133 sq.mi.</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="33542">
+                    <coordinates>-87.968002,43.041,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33545">
+                <name>Railroad Rips (RRR) (II)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33544">
+                    <coordinates>-87.972,43.042,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33547">
+                <name>ARF/UAW (Another Rubble Field/Up Against the Wall) (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="33546">
+                    <coordinates>-87.978996,43.042999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33549">
+                <name>Doyne Park Waves (DPW) (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="33548">
+                    <coordinates>-87.980003,43.042999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33551">
+                <name>Jacobus Bridge Pier (JBP) (II+)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33550">
+                    <coordinates>-87.992996,43.042999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33553">
+                <name>Third (Railroad) Crossing Wave (TCW) (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="33552">
+                    <coordinates>-87.968002,43.034,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33555">
+                <name>Bikeway Bridge (Hart Park) (I)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="33554">
+                    <coordinates>-88.003998,43.044998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33557">
+                <name>Confluence with Honey Creek (10.3 sq.mi.) (I)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="33556">
+                    <coordinates>-88.001999,43.044998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33559">
+                <name>USGS Gauge: 123 sq.mi.</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33558">
+                    <coordinates>-88.00006,43.045569,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33561">
+                <name>Cleft-Rock</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33560">
+                    <coordinates>-87.987999,43.042,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33563">
+                <name>Trenton Waves (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="33562">
+                    <coordinates>-87.986,43.042,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33565">
+                <name>Bluemound Road ***RECOMMENDED TAKE-OUT! ***</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="33564">
+                    <coordinates>-87.966982,43.038581,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33567">
+                <name>Remediation Rips (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="33566">
+                    <coordinates>-87.971001,43.042,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33569">
+                <name>Little Ender Spot (LES)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="33568">
+                    <coordinates>-87.980871,43.042754,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33571">
+                <name>Hawley-Wood Hole (HWH) (II+)</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="33570">
+                    <coordinates>-87.983002,43.042,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33573">
+                <name>Parkway Access</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="33572">
+                    <coordinates>-87.996002,43.043999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33575">
+                <name>Alternate Put-in: Red Store Lot</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="33574">
+                    <coordinates>-88.011002,43.049999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33577">
+                <name>**Put-in: Hart Park**</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="33576">
+                    <coordinates>-88.007004,43.049,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33579">
+                <name>Hart Park Rips (HPR) (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33578">
+                    <coordinates>-88.005841,43.047828,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="33580">
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>A) *2023.03.15 CLOSED DUE TO WOOD* MenFalls: Main Street to Arthur Ave (0.4 mile) (II-III)</name>
+            <Placemark id="33582">
+                <name>A) *2023.03.15 CLOSED DUE TO WOOD* MenFalls: Main Street to Arthur Ave (0.4 mile) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2653/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="33581">
+                    <coordinates>-88.114403,43.179328,0.0 -88.114192,43.179097,0.0 -88.114064,43.178894,0.0 -88.113978,43.1788,0.0 -88.11372,43.17846,0.0 -88.11372,43.17846,0.0 -88.11313,43.177681,0.0 -88.112347,43.177134,0.0 -88.112133,43.176836,0.0 -88.112004,43.176265,0.0 -88.111821,43.176062,0.0 -88.111667,43.175995,0.0 -88.111667,43.175995,0.0 -88.111188,43.175788,0.0 -88.109289,43.17535,0.0 -88.109208,43.175294,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="33584">
+                <name>Lower Dells (II)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="33583">
+                    <coordinates>-88.113297,43.177799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33586">
+                <name>Pilgrim Road</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="33585">
+                    <coordinates>-88.103587,43.173053,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33588">
+                <name>Confluence (I)</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="33587">
+                    <coordinates>-88.111099,43.1758,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33590">
+                <name>Take-out: Arthur Avenue</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="33589">
+                    <coordinates>-88.108971,43.175167,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33592">
+                <name>Upper Dells (II+)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="33591">
+                    <coordinates>-88.113762,43.178707,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33594">
+                <name>First Pitch (II)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="33593">
+                    <coordinates>-88.114098,43.178902,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33596">
+                <name>Bridge Wave (II+)</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="33595">
+                    <coordinates>-88.114433,43.179352,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33598">
+                <name>Heart of the Dells (II+)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33597">
+                    <coordinates>-88.113701,43.178299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33600">
+                <name>Kil'n Ledge (III)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="33599">
+                    <coordinates>-88.112701,43.177299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33602">
+                <name>Undercut (Overhanging) Wall</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33601">
+                    <coordinates>-88.112198,43.176899,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33604">
+                <name>Sweeping Left-hand Bend (II)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33603">
+                    <coordinates>-88.112,43.175999,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="33605">
+            <Style id="11">
+                <IconStyle id="10">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="9">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>B) MenWesTosa: Hartung Park to Hart Park (3.66 miles) (I-II)</name>
+            <Placemark id="33607">
+                <name>B) MenWesTosa: Hartung Park to Hart Park (3.66 miles) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11046/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="33606">
+                    <coordinates>-88.041549,43.08131,0.0 -88.041471,43.081163,0.0 -88.040473,43.080179,0.0 -88.040475,43.079196,0.0 -88.040881,43.078464,0.0 -88.040664,43.077938,0.0 -88.040383,43.07748,0.0 -88.038544,43.076564,0.0 -88.037858,43.076198,0.0 -88.036923,43.075739,0.0 -88.036549,43.07535,0.0 -88.036363,43.07487,0.0 -88.036176,43.074069,0.0 -88.036053,43.072949,0.0 -88.035898,43.072628,0.0 -88.035742,43.072171,0.0 -88.035775,43.07137,0.0 -88.035962,43.071142,0.0 -88.036243,43.071005,0.0 -88.036711,43.071005,0.0 -88.037179,43.071028,0.0 -88.037585,43.0708,0.0 -88.037772,43.070526,0.0 -88.037929,43.070068,0.0 -88.037961,43.069268,0.0 -88.037899,43.069177,0.0 -88.037838,43.068399,0.0 -88.037744,43.06833,0.0 -88.037744,43.068239,0.0 -88.037339,43.067827,0.0 -88.037279,43.066454,0.0 -88.036874,43.066248,0.0 -88.036593,43.066019,0.0 -88.036531,43.065768,0.0 -88.036906,43.065539,0.0 -88.037125,43.065082,0.0 -88.037157,43.064533,0.0 -88.037282,43.064328,0.0 -88.037283,43.063802,0.0 -88.03694,43.06323,0.0 -88.036692,43.062658,0.0 -88.036598,43.062589,0.0 -88.036536,43.062406,0.0 -88.035913,43.061948,0.0 -88.035726,43.061651,0.0 -88.035664,43.061468,0.0 -88.035446,43.061124,0.0 -88.035384,43.060987,0.0 -88.035228,43.060896,0.0 -88.035166,43.060712,0.0 -88.035041,43.060621,0.0 -88.034979,43.060506,0.0 -88.034823,43.060392,0.0 -88.034637,43.060072,0.0 -88.034294,43.059774,0.0 -88.033421,43.059316,0.0 -88.0318,43.059292,0.0 -88.031613,43.059223,0.0 -88.031301,43.058971,0.0 -88.031239,43.058834,0.0 -88.031114,43.058605,0.0 -88.031052,43.058354,0.0 -88.030866,43.058102,0.0 -88.029308,43.056866,0.0 -88.028809,43.056659,0.0 -88.027874,43.056338,0.0 -88.025879,43.056131,0.0 -88.024289,43.055672,0.0 -88.023167,43.055168,0.0 -88.0227,43.054733,0.0 -88.022606,43.054527,0.0 -88.022608,43.053406,0.0 -88.022827,43.053087,0.0 -88.022921,43.052904,0.0 -88.022922,43.052538,0.0 -88.022579,43.052217,0.0 -88.021613,43.051599,0.0 -88.021052,43.051347,0.0 -88.018776,43.051002,0.0 -88.017094,43.050314,0.0 -88.016408,43.050199,0.0 -88.015659,43.05013,0.0 -88.015285,43.050198,0.0 -88.014443,43.05022,0.0 -88.01382,43.049854,0.0 -88.013103,43.049693,0.0 -88.012105,43.049669,0.0 -88.011294,43.049874,0.0 -88.010608,43.049896,0.0 -88.009298,43.049712,0.0 -88.008862,43.04962,0.0 -88.007959,43.048864,0.0 -88.007683,43.048651,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="33609">
+                <name>Hansen Golf Course Bridge</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33608">
+                    <coordinates>-88.031876,43.059022,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33611">
+                <name>Hoyt Park *** Alternate Put-in or Take-out ***</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="33610">
+                    <coordinates>-88.024827,43.054836,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33613">
+                <name>Rubble Rips (II)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="33612">
+                    <coordinates>-88.022521,43.053295,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33615">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="33614">
+                    <coordinates>-88.007683,43.048651,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33617">
+                <name>Bridge/Mall: Harwood Ave.</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33616">
+                    <coordinates>-88.008473,43.049194,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33619">
+                <name>Confluence: Underwood Creek</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33618">
+                    <coordinates>-88.033426,43.059217,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33621">
+                <name>Railroad Culverts</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33620">
+                    <coordinates>-88.063998,43.11399,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33623">
+                <name>Massive, Persistent Snag</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33622">
+                    <coordinates>-88.054712,43.106607,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33625">
+                <name>Bridge: Hampton Avenue</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33624">
+                    <coordinates>-88.054739,43.104924,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33627">
+                <name>Island</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33626">
+                    <coordinates>-88.0558,43.09635,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33629">
+                <name>Webster Park</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="33628">
+                    <coordinates>-88.0533,43.1012,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33631">
+                <name>Menomonee River Parkway at W.Congress St.</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="33630">
+                    <coordinates>-88.0554,43.0963,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33633">
+                <name>Hartung Park Ledge</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="33632">
+                    <coordinates>-88.040959,43.080702,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33635">
+                <name>Mt.Mary Shoals</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33634">
+                    <coordinates>-88.036264,43.074357,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33637">
+                <name>Swan Boulevard</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33636">
+                    <coordinates>-88.027471,43.05621,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33639">
+                <name>Hoyt Park Suspension Bridge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33638">
+                    <coordinates>-88.022509,43.05434,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33641">
+                <name>Bridge: Capitol Drive</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33640">
+                    <coordinates>-88.054406,43.089253,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33643">
+                <name>Bridge: Currie Park Golf</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33642">
+                    <coordinates>-88.052126,43.08794,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33645">
+                <name>Bridge: Currie Park Golf</name>
+                <styleUrl>#11</styleUrl>
+                <Point id="33644">
+                    <coordinates>-88.050211,43.08546,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33647">
+                <name>Bridge: Curie Park Golf</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33646">
+                    <coordinates>-88.050206,43.085596,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33649">
+                <name>Bridge: Hwy.100 / Mayfair Road</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33648">
+                    <coordinates>-88.047744,43.084566,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33651">
+                <name>Bridge: Burleigh Street</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33650">
+                    <coordinates>-88.036476,43.075006,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33653">
+                <name>Bridge: North Ave.</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33652">
+                    <coordinates>-88.034842,43.060353,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33655">
+                <name>Bridge: Harmonee Avenue</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33654">
+                    <coordinates>-88.009687,43.049673,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33657">
+                <name>Box Culvert / Transect (II)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="33656">
+                    <coordinates>-88.025122,43.055878,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33659">
+                <name>Butler Frontier Park</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="33658">
+                    <coordinates>-88.070531,43.1131,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33661">
+                <name>Second rubble rips (I)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="33660">
+                    <coordinates>-88.01748,43.05032,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33663">
+                <name>Bridge: Interstate 41/Hwy.45</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33662">
+                    <coordinates>-88.057689,43.108651,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33665">
+                <name>Wave Train (and Train Wave?) (I)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="33664">
+                    <coordinates>-88.014,43.049999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33667">
+                <name>Bridge: 124th Street (60.64 sq.mi.)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33666">
+                    <coordinates>-88.065698,43.114379,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33669">
+                <name>Hartung Park (Menomonee River Parkway) *** Recommended Put-in ***</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="33668">
+                    <coordinates>-88.040957,43.082242,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33671">
+                <name>Railroad Bridge</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="33670">
+                    <coordinates>-88.008043,43.048891,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33673">
+                <name>Oak Leaf Trail (bike path) Bridge / Red Store Lot</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="33672">
+                    <coordinates>-88.011684,43.049775,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

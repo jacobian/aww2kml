@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2851">
+        <name>Beaver</name>
+        <Folder id="2852">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>B) Co.Rd.3/Airport Rd. to Glen Avon Falls (2.85 miles) (II-III(V))</name>
+            <Placemark id="2854">
+                <name>B) Co.Rd.3/Airport Rd. to Glen Avon Falls (2.85 miles) (II-III(V))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2522/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="2853">
+                    <coordinates>-91.379237,47.253793,0.0 -91.379234,47.253742,0.0 -91.378966,47.253445,0.0 -91.379201,47.252828,0.0 -91.378563,47.252485,0.0 -91.377288,47.252394,0.0 -91.375979,47.252166,0.0 -91.375173,47.251846,0.0 -91.374334,47.251183,0.0 -91.373764,47.251549,0.0 -91.373428,47.252531,0.0 -91.372488,47.253308,0.0 -91.372186,47.253788,0.0 -91.37185,47.25461,0.0 -91.370575,47.255182,0.0 -91.369837,47.255547,0.0 -91.367923,47.255821,0.0 -91.367151,47.256073,0.0 -91.365574,47.256827,0.0 -91.364902,47.256781,0.0 -91.364366,47.25621,0.0 -91.363896,47.255593,0.0 -91.363325,47.255364,0.0 -91.362553,47.255501,0.0 -91.362083,47.255821,0.0 -91.361513,47.256301,0.0 -91.361177,47.256872,0.0 -91.361278,47.257215,0.0 -91.361915,47.258083,0.0 -91.36168,47.258609,0.0 -91.361243,47.258768,0.0 -91.359834,47.258883,0.0 -91.357753,47.258882,0.0 -91.357081,47.25943,0.0 -91.356611,47.260139,0.0 -91.356107,47.261236,0.0 -91.35557,47.261738,0.0 -91.355066,47.261852,0.0 -91.354697,47.261784,0.0 -91.354126,47.261304,0.0 -91.353589,47.261189,0.0 -91.351273,47.261486,0.0 -91.350031,47.261623,0.0 -91.349427,47.261897,0.0 -91.349292,47.262034,0.0 -91.349091,47.262742,0.0 -91.349258,47.263588,0.0 -91.349526,47.264182,0.0 -91.349257,47.264799,0.0 -91.348384,47.265416,0.0 -91.34778,47.265598,0.0 -91.346739,47.265598,0.0 -91.345698,47.265895,0.0 -91.345027,47.265735,0.0 -91.344121,47.265163,0.0 -91.343181,47.26498,0.0 -91.342111,47.264915,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="2856">
+                <name>Light Rapids</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="2855">
+                    <coordinates>-91.36953,47.255562,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2858">
+                <name>Glen Avon Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="2857">
+                    <coordinates>-91.344704,47.265499,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2860">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="2859">
+                    <coordinates>-91.3421,47.2651,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2862">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="2861">
+                    <coordinates>-91.3791,47.2538,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2864">
+                <name>Confluence, W.Br.Beaver</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="2863">
+                    <coordinates>-91.374001,47.250999,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="2865">
+            <name>2. Eagle Section (V)</name>
+            <Placemark id="2867">
+                <name>2. Eagle Section (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2614/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="2866">
+                    <coordinates>-75.194069,43.901964,0.0 -75.194914,43.903018,0.0 -75.195483,43.903775,0.0 -75.195891,43.904092,0.0 -75.19618,43.90444,0.0 -75.196341,43.904803,0.0 -75.196878,43.905491,0.0 -75.197511,43.90604,0.0 -75.199163,43.908413,0.0 -75.199474,43.909008,0.0 -75.200139,43.909673,0.0 -75.200421,43.909857,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="2869">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="2868">
+                    <coordinates>-75.200421,43.909857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2871">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="2870">
+                    <coordinates>-75.194801,43.901798,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="2872">
+            <name>3. Taylorville Section (III-IV)</name>
+            <Placemark id="2874">
+                <name>3. Taylorville Section (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2612/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="2873">
+                    <coordinates>-75.311072,43.926646,0.0 -75.311177,43.926334,0.0 -75.31127,43.926169,0.0 -75.31135,43.926085,0.0 -75.311678,43.925663,0.0 -75.311842,43.925388,0.0 -75.312802,43.925395,0.0 -75.313631,43.925652,0.0 -75.314,43.925503,0.0 -75.314239,43.925271,0.0 -75.314441,43.925333,0.0 -75.314704,43.925567,0.0 -75.315212,43.925749,0.0 -75.315969,43.925414,0.0 -75.316517,43.925659,0.0 -75.317067,43.925685,0.0 -75.317636,43.925779,0.0 -75.318446,43.926034,0.0 -75.318643,43.926064,0.0 -75.318643,43.926064,0.0 -75.319047,43.926127,0.0 -75.319877,43.925741,0.0 -75.320007,43.925697,0.0 -75.320296,43.925673,0.0 -75.320903,43.925676,0.0 -75.321547,43.925578,0.0 -75.321547,43.925578,0.0 -75.321708,43.925586,0.0 -75.322019,43.925655,0.0 -75.322266,43.925756,0.0 -75.322545,43.925862,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="2876">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="2875">
+                    <coordinates>-75.322197,43.926102,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2878">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="2877">
+                    <coordinates>-75.311072,43.926646,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="2879">
+            <Style id="11">
+                <IconStyle id="10">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="9">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>1. Moshier Section (IV-V)</name>
+            <Placemark id="2881">
+                <name>1. Moshier Section (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2613/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="2880">
+                    <coordinates>-75.111184,43.886359,0.0 -75.111305,43.886334,0.0 -75.113182,43.886635,0.0 -75.114148,43.886403,0.0 -75.114663,43.88648,0.0 -75.117635,43.885545,0.0 -75.118493,43.885684,0.0 -75.119973,43.886689,0.0 -75.122023,43.887022,0.0 -75.122538,43.887316,0.0 -75.122645,43.887424,0.0 -75.122645,43.887424,0.0 -75.123181,43.88747,0.0 -75.123847,43.887053,0.0 -75.124319,43.886875,0.0 -75.12463,43.88662,0.0 -75.124919,43.886419,0.0 -75.126024,43.886094,0.0 -75.126464,43.885707,0.0 -75.126851,43.884949,0.0 -75.127162,43.884586,0.0 -75.127827,43.884331,0.0 -75.129029,43.883627,0.0 -75.129501,43.882892,0.0 -75.130488,43.882073,0.0 -75.130831,43.881586,0.0 -75.130992,43.881547,0.0 -75.131593,43.880673,0.0 -75.131775,43.880124,0.0 -75.13273,43.879397,0.0 -75.133427,43.878616,0.0 -75.135348,43.875646,0.0 -75.135852,43.874502,0.0 -75.136389,43.872352,0.0 -75.136389,43.872352,0.0 -75.136552,43.872203,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="2883">
+                <name>First Falls (III)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="2882">
+                    <coordinates>-75.116891,43.885779,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2885">
+                <name>Second Falls (III)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="2884">
+                    <coordinates>-75.118724,43.885841,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2887">
+                <name>Mauser's Faceplant (IV)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="2886">
+                    <coordinates>-75.120258,43.886735,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2889">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="2888">
+                    <coordinates>-75.1362,43.872,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2891">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="2890">
+                    <coordinates>-75.1119,43.8863,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2893">
+                <name>Put-in slide (V+)</name>
+                <styleUrl>#11</styleUrl>
+                <Point id="2892">
+                    <coordinates>-75.109519,43.887504,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="2894">
+            <name>C) Lax Lake Rd/CR4 to Hwy 61 (2 miles) (IV-V+)</name>
+            <Placemark id="2896">
+                <name>C) Lax Lake Rd/CR4 to Hwy 61 (2 miles) (IV-V+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2521/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="2895">
+                    <coordinates>-91.322217,47.273697,0.0 -91.321285,47.273266,0.0 -91.320446,47.273289,0.0 -91.32011,47.272992,0.0 -91.319775,47.272534,0.0 -91.319339,47.272374,0.0 -91.317794,47.272442,0.0 -91.31766,47.272465,0.0 -91.317056,47.272282,0.0 -91.31568,47.271458,0.0 -91.314875,47.27075,0.0 -91.31407,47.270452,0.0 -91.312996,47.270429,0.0 -91.312055,47.270702,0.0 -91.311351,47.270633,0.0 -91.310646,47.270199,0.0 -91.309607,47.268804,0.0 -91.308701,47.268415,0.0 -91.306956,47.267592,0.0 -91.302492,47.267406,0.0 -91.301351,47.26736,0.0 -91.300343,47.267405,0.0 -91.298866,47.267289,0.0 -91.298799,47.267198,0.0 -91.298633,47.266444,0.0 -91.298768,47.265827,0.0 -91.298735,47.265461,0.0 -91.297829,47.264958,0.0 -91.297662,47.264798,0.0 -91.297529,47.26393,0.0 -91.297597,47.263313,0.0 -91.297799,47.262536,0.0 -91.297968,47.262102,0.0 -91.298036,47.261668,0.0 -91.297701,47.261096,0.0 -91.296795,47.260387,0.0 -91.29663,47.260323,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="2898">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="2897">
+                    <coordinates>-91.2966,47.2604,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2900">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="2899">
+                    <coordinates>-91.3224,47.2733,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2902">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="2901">
+                    <coordinates>-91.295998,47.260201,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="2903">
+            <name>A) North Shore Snomobile Trail to CR3/Airport Road (7.2 miles) (II-IV)</name>
+            <Placemark id="2905">
+                <name>A) North Shore Snomobile Trail to CR3/Airport Road (7.2 miles) (II-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10776/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="2904">
+                    <coordinates>-91.429004,47.300834,0.0 -91.428516,47.300643,0.0 -91.427205,47.300301,0.0 -91.426298,47.300256,0.0 -91.425626,47.300416,0.0 -91.424686,47.300828,0.0 -91.423981,47.300874,0.0 -91.423174,47.300577,0.0 -91.422301,47.299983,0.0 -91.421629,47.299801,0.0 -91.420755,47.299938,0.0 -91.419815,47.30035,0.0 -91.418807,47.300441,0.0 -91.418337,47.300282,0.0 -91.4179,47.299825,0.0 -91.417631,47.299345,0.0 -91.417227,47.29898,0.0 -91.416891,47.298226,0.0 -91.415916,47.297198,0.0 -91.415681,47.296992,0.0 -91.414539,47.296855,0.0 -91.413128,47.29697,0.0 -91.411952,47.296765,0.0 -91.409835,47.295806,0.0 -91.409029,47.295577,0.0 -91.407752,47.294755,0.0 -91.407719,47.294412,0.0 -91.408289,47.293658,0.0 -91.408994,47.293064,0.0 -91.409128,47.292493,0.0 -91.409228,47.291875,0.0 -91.4099,47.29119,0.0 -91.410269,47.290961,0.0 -91.410504,47.290915,0.0 -91.411143,47.291623,0.0 -91.411815,47.291989,0.0 -91.412722,47.291989,0.0 -91.413024,47.291829,0.0 -91.413158,47.291463,0.0 -91.413191,47.290777,0.0 -91.413594,47.290206,0.0 -91.413627,47.289452,0.0 -91.413425,47.288881,0.0 -91.413425,47.288766,0.0 -91.413828,47.288698,0.0 -91.414298,47.28888,0.0 -91.414836,47.288926,0.0 -91.415238,47.288697,0.0 -91.415641,47.288057,0.0 -91.416111,47.287692,0.0 -91.417219,47.287303,0.0 -91.417487,47.287211,0.0 -91.417017,47.286389,0.0 -91.417016,47.285955,0.0 -91.417184,47.285383,0.0 -91.416948,47.285064,0.0 -91.416646,47.284812,0.0 -91.416679,47.28431,0.0 -91.417048,47.284035,0.0 -91.41688,47.283532,0.0 -91.416477,47.28335,0.0 -91.415906,47.283121,0.0 -91.41557,47.282825,0.0 -91.415234,47.282848,0.0 -91.414529,47.283031,0.0 -91.413455,47.283099,0.0 -91.412716,47.283168,0.0 -91.412313,47.282734,0.0 -91.411943,47.282094,0.0 -91.410834,47.281501,0.0 -91.410565,47.281204,0.0 -91.410767,47.280838,0.0 -91.411807,47.279947,0.0 -91.412277,47.278918,0.0 -91.412209,47.278507,0.0 -91.411873,47.278416,0.0 -91.410631,47.278416,0.0 -91.409489,47.278096,0.0 -91.408851,47.277754,0.0 -91.408548,47.277411,0.0 -91.408212,47.276908,0.0 -91.407809,47.276657,0.0 -91.40744,47.276634,0.0 -91.406701,47.276932,0.0 -91.405862,47.276886,0.0 -91.405425,47.276681,0.0 -91.405325,47.276452,0.0 -91.405492,47.275812,0.0 -91.405324,47.275424,0.0 -91.405055,47.27531,0.0 -91.404619,47.27547,0.0 -91.40425,47.275927,0.0 -91.404149,47.276018,0.0 -91.403645,47.275904,0.0 -91.40351,47.274693,0.0 -91.403208,47.274396,0.0 -91.402369,47.274214,0.0 -91.40079,47.27346,0.0 -91.399917,47.272912,0.0 -91.398641,47.272775,0.0 -91.396895,47.273026,0.0 -91.395821,47.272912,0.0 -91.395552,47.272707,0.0 -91.395216,47.271724,0.0 -91.394746,47.271222,0.0 -91.39441,47.271107,0.0 -91.393,47.271268,0.0 -91.392497,47.271131,0.0 -91.391791,47.270514,0.0 -91.391589,47.269257,0.0 -91.391858,47.26896,0.0 -91.3931,47.267977,0.0 -91.393234,47.267474,0.0 -91.392395,47.26672,0.0 -91.392159,47.266241,0.0 -91.390749,47.264847,0.0 -91.389876,47.263247,0.0 -91.388667,47.262539,0.0 -91.388667,47.262151,0.0 -91.388667,47.262013,0.0 -91.387123,47.26126,0.0 -91.386015,47.261305,0.0 -91.384203,47.261694,0.0 -91.383666,47.261648,0.0 -91.383196,47.261054,0.0 -91.382961,47.259843,0.0 -91.382725,47.259615,0.0 -91.381383,47.259249,0.0 -91.379772,47.258792,0.0 -91.376851,47.257924,0.0 -91.376617,47.257673,0.0 -91.376784,47.25749,0.0 -91.377456,47.257376,0.0 -91.377456,47.257124,0.0 -91.377019,47.256713,0.0 -91.376986,47.25637,0.0 -91.37769,47.256027,0.0 -91.377892,47.255684,0.0 -91.377925,47.255296,0.0 -91.378429,47.254908,0.0 -91.378899,47.254611,0.0 -91.379268,47.254382,0.0 -91.379242,47.253898,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="2907">
+                <name>First mile</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="2906">
+                    <coordinates>-91.411797,47.2971,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2909">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="2908">
+                    <coordinates>-91.3792,47.2539,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2911">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="2910">
+                    <coordinates>-91.4289,47.3011,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2913">
+                <name>Head of gradient</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="2912">
+                    <coordinates>-91.4123,47.282902,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2915">
+                <name>Confluence, Thirtynine Creek</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="2914">
+                    <coordinates>-91.407097,47.2952,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2917">
+                <name>Railroad</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="2916">
+                    <coordinates>-91.392059,47.268761,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2919">
+                <name>Head of gradient</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="2918">
+                    <coordinates>-91.4394,47.302502,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

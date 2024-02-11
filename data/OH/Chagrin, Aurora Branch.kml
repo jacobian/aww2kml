@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9699">
+        <name>Chagrin, Aurora Branch</name>
+        <Folder id="9700">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Chagrin Reservation (III-IV)</name>
+            <Placemark id="9702">
+                <name>Chagrin Reservation (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3422/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="9701">
+                    <coordinates>-81.412174,41.411169,0.0 -81.41258,41.410831,0.0 -81.413249,41.410442,0.0 -81.413765,41.410487,0.0 -81.4141,41.410602,0.0 -81.415103,41.411356,0.0 -81.415194,41.411516,0.0 -81.415164,41.412157,0.0 -81.415073,41.412615,0.0 -81.414922,41.413873,0.0 -81.413678,41.416985,0.0 -81.412464,41.419296,0.0 -81.411522,41.420601,0.0 -81.411371,41.421219,0.0 -81.411462,41.422019,0.0 -81.411949,41.422957,0.0 -81.412466,41.422888,0.0 -81.414199,41.423071,0.0 -81.415992,41.423047,0.0 -81.416631,41.423253,0.0 -81.417178,41.423665,0.0 -81.417452,41.424236,0.0 -81.417425,41.425167,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="9704">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="9703">
+                    <coordinates>-81.418602,41.425201,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="9706">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="9705">
+                    <coordinates>-81.412201,41.411201,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

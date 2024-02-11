@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="31482">
+        <name>Little, Middle Prong</name>
+        <Folder id="31483">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>1) Thunderhead and Lynn Camp Prong confluence to next bridge (IV)</name>
+            <Placemark id="31485">
+                <name>1) Thunderhead and Lynn Camp Prong confluence to next bridge (IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4491/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="31484">
+                    <coordinates>-83.669804,35.617878,0.0 -83.669864,35.617895,0.0 -83.669939,35.617935,0.0 -83.670024,35.617976,0.0 -83.670093,35.618009,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="31487">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="31486">
+                    <coordinates>-83.6698,35.6171,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="31489">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="31488">
+                    <coordinates>-83.670097,35.618,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

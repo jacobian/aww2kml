@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="54452">
+        <name>Southridge Ditch</name>
+        <Folder id="54453">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>S.76th to Root River Parkway (0.45 mile) **Access Issues** (II)</name>
+            <Placemark id="54455">
+                <name>S.76th to Root River Parkway (0.45 mile) **Access Issues** (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10998/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="54454">
+                    <coordinates>-88.008784,42.950384,0.0 -88.010681,42.950384,0.0 -88.011061,42.950335,0.0 -88.01159,42.950173,0.0 -88.012276,42.950002,0.0 -88.013168,42.949905,0.0 -88.013876,42.949789,0.0 -88.014581,42.949478,0.0 -88.015016,42.949218,0.0 -88.015345,42.948912,0.0 -88.015582,42.948361,0.0 -88.015742,42.947712,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="54457">
+                <name>Take-out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="54456">
+                    <coordinates>-88.01575,42.9477,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54459">
+                <name>First Jump</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="54458">
+                    <coordinates>-88.009599,42.95038,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54461">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="54460">
+                    <coordinates>-88.0087,42.9504,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54463">
+                <name>Second Jump</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="54462">
+                    <coordinates>-88.010393,42.950384,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54465">
+                <name>Third Jump</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="54464">
+                    <coordinates>-88.011956,42.950081,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54467">
+                <name>Fourth Jump</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="54466">
+                    <coordinates>-88.01409,42.949695,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54469">
+                <name>Fifth Jump</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="54468">
+                    <coordinates>-88.015117,42.949124,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54471">
+                <name>Sixth Jump</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="54470">
+                    <coordinates>-88.01546,42.948645,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54473">
+                <name>Final Jump</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="54472">
+                    <coordinates>-88.015671,42.947999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54475">
+                <name>Alt.Put-in: 78th &amp; Abbott Ave</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="54474">
+                    <coordinates>-88.011237,42.950486,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

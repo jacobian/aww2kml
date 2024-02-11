@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="23591">
+        <name>Haw River</name>
+        <Folder id="23592">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Glencoe to Red Slide (I-II)</name>
+            <Placemark id="23594">
+                <name>Glencoe to Red Slide (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11575/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="23593">
+                    <coordinates>-79.427084,36.136355,0.0 -79.426952,36.136281,0.0 -79.424896,36.135485,0.0 -79.422113,36.132936,0.0 -79.421394,36.132582,0.0 -79.419694,36.132343,0.0 -79.41772,36.131177,0.0 -79.415915,36.130873,0.0 -79.414361,36.13024,0.0 -79.41107,36.127504,0.0 -79.408003,36.124139,0.0 -79.402061,36.119838,0.0 -79.402061,36.119838,0.0 -79.398033,36.115718,0.0 -79.395686,36.113401,0.0 -79.393473,36.111475,0.0 -79.39274,36.111,0.0 -79.392352,36.110821,0.0 -79.391363,36.110365,0.0 -79.390148,36.109566,0.0 -79.388445,36.108308,0.0 -79.386922,36.107043,0.0 -79.385318,36.106063,0.0 -79.384489,36.104927,0.0 -79.381681,36.102501,0.0 -79.381681,36.102501,0.0 -79.380554,36.101834,0.0 -79.380554,36.101834,0.0 -79.379663,36.10082,0.0 -79.377718,36.099531,0.0 -79.376392,36.098328,0.0 -79.375928,36.098263,0.0 -79.374292,36.097017,0.0 -79.372239,36.09622,0.0 -79.37073,36.095119,0.0 -79.36984,36.094105,0.0 -79.36984,36.094105,0.0 -79.369313,36.092888,0.0 -79.369696,36.091165,0.0 -79.36961,36.090712,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="23596">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="23595">
+                    <coordinates>-79.427084,36.136355,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="23598">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="23597">
+                    <coordinates>-79.36961,36.090712,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

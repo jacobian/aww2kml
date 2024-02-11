@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="32477">
+        <name>Maligne River</name>
+        <Folder id="32478">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Canyon (IV-V)</name>
+            <Placemark id="32480">
+                <name>Canyon (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11328/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="32479">
+                    <coordinates>-118.005713,52.916705,0.0 -118.005941,52.916885,0.0 -118.006166,52.916986,0.0 -118.006163,52.917139,0.0 -118.006397,52.917134,0.0 -118.006658,52.917075,0.0 -118.006914,52.917104,0.0 -118.007222,52.917218,0.0 -118.007485,52.917424,0.0 -118.007802,52.917587,0.0 -118.008243,52.917724,0.0 -118.008363,52.917938,0.0 -118.008608,52.918099,0.0 -118.009109,52.918328,0.0 -118.009499,52.918565,0.0 -118.009543,52.918748,0.0 -118.009311,52.918898,0.0 -118.009223,52.919112,0.0 -118.009516,52.919323,0.0 -118.009755,52.919405,0.0 -118.010395,52.919644,0.0 -118.010706,52.919731,0.0 -118.011017,52.919818,0.0 -118.011344,52.919885,0.0 -118.011585,52.920013,0.0 -118.011843,52.920156,0.0 -118.01212,52.920342,0.0 -118.012406,52.920554,0.0 -118.012838,52.920763,0.0 -118.013218,52.921057,0.0 -118.013337,52.921276,0.0 -118.013526,52.921431,0.0 -118.013976,52.92173,0.0 -118.014543,52.92185,0.0 -118.015164,52.921916,0.0 -118.015656,52.921976,0.0 -118.016166,52.92195,0.0 -118.016624,52.92179,0.0 -118.016975,52.921566,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="32482">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="32481">
+                    <coordinates>-118.005713,52.916705,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32484">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="32483">
+                    <coordinates>-118.016975,52.921566,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

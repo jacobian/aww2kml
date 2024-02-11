@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="59051">
+        <name>Trumansburg Creek</name>
+        <Folder id="59052">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Trumansburg to Rt. 89 (IV-V(V+))</name>
+            <Placemark id="59054">
+                <name>Trumansburg to Rt. 89 (IV-V(V+))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4650/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="59053">
+                    <coordinates>-76.648207,42.541239,0.0 -76.647982,42.541297,0.0 -76.647889,42.541457,0.0 -76.646807,42.541686,0.0 -76.645756,42.542372,0.0 -76.644921,42.543127,0.0 -76.643808,42.543814,0.0 -76.64254,42.544043,0.0 -76.641983,42.544294,0.0 -76.641612,42.54617,0.0 -76.640932,42.547199,0.0 -76.640252,42.547931,0.0 -76.638984,42.548846,0.0 -76.638675,42.549166,0.0 -76.638118,42.550195,0.0 -76.636726,42.550744,0.0 -76.634994,42.551339,0.0 -76.634252,42.551659,0.0 -76.634077,42.551912,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="59056">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="59055">
+                    <coordinates>-76.634201,42.551998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="59058">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="59057">
+                    <coordinates>-76.6483,42.541599,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

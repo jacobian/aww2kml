@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10849">
+        <name>Christiana Creek</name>
+        <Folder id="10850">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Willowdale Park to Beardsley Park (1.8 miles) (I-II)</name>
+            <Placemark id="10852">
+                <name>Willowdale Park to Beardsley Park (1.8 miles) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3349/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="10851">
+                    <coordinates>-85.979785,41.701138,0.0 -85.979174,41.700612,0.0 -85.979112,41.700338,0.0 -85.979173,41.699903,0.0 -85.979295,41.699766,0.0 -85.979691,41.699559,0.0 -85.98021,41.69949,0.0 -85.980241,41.699559,0.0 -85.981095,41.699398,0.0 -85.981308,41.699238,0.0 -85.981856,41.698185,0.0 -85.981855,41.697704,0.0 -85.981672,41.697567,0.0 -85.981427,41.69727,0.0 -85.981396,41.696744,0.0 -85.980755,41.696424,0.0 -85.980632,41.696127,0.0 -85.98057,41.69583,0.0 -85.980173,41.695441,0.0 -85.979715,41.695213,0.0 -85.979166,41.695305,0.0 -85.979013,41.695488,0.0 -85.978617,41.695626,0.0 -85.978311,41.695603,0.0 -85.977823,41.695443,0.0 -85.976236,41.69549,0.0 -85.975564,41.695559,0.0 -85.973428,41.695721,0.0 -85.972573,41.695539,0.0 -85.971657,41.695174,0.0 -85.97123,41.695174,0.0 -85.970924,41.695289,0.0 -85.970314,41.695427,0.0 -85.970101,41.695381,0.0 -85.969521,41.695404,0.0 -85.96888,41.695702,0.0 -85.9683,41.69568,0.0 -85.968208,41.695497,0.0 -85.968208,41.695016,0.0 -85.968359,41.694399,0.0 -85.96842,41.694284,0.0 -85.968542,41.694238,0.0 -85.968603,41.693781,0.0 -85.96845,41.693392,0.0 -85.968052,41.692958,0.0 -85.96796,41.692752,0.0 -85.967864,41.692705,0.0 -85.967665,41.692491,0.0 -85.968393,41.69217,0.0 -85.971763,41.692434,0.0 -85.974078,41.691734,0.0 -85.975448,41.69189,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="10854">
+                <name>Put-in: Willowdale Park (1320 Olive Street)</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="10853">
+                    <coordinates>-85.981216,41.699093,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10856">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="10855">
+                    <coordinates>-85.975381,41.692478,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10858">
+                <name>Cassopolis Street Bridge Rapid</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10857">
+                    <coordinates>-85.971823,41.695254,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10860">
+                <name>Take-out: Beardsley Park</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10859">
+                    <coordinates>-85.975916,41.692436,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10862">
+                <name>Kroger Wave (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10861">
+                    <coordinates>-85.96842,41.69394,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10864">
+                <name>Island Park Waves (St. Joseph River)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10863">
+                    <coordinates>-85.9695,41.691595,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10866">
+                <name>Sewer Pipe Rapids (Main Street Bridge) (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10865">
+                    <coordinates>-85.976409,41.695472,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10868">
+                <name>High Dive Park Dam (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10867">
+                    <coordinates>-85.968754,41.69422,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10870">
+                <name>St. Joseph River Eddy</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10869">
+                    <coordinates>-85.967773,41.692772,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10872">
+                <name>Railroad Bridge/Railroad Rapid (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10871">
+                    <coordinates>-85.977643,41.695368,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10874">
+                <name>Wellfield Botanical Gardens Dam (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10873">
+                    <coordinates>-85.980776,41.696313,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="35519">
+        <name>Moormans, South Fork</name>
+        <Folder id="35520">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Above Sugar Hollow Reservoir (III-IV(V))</name>
+            <Placemark id="35522">
+                <name>Above Sugar Hollow Reservoir (III-IV(V))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10266/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="35521">
+                    <coordinates>-78.755326,38.133412,0.0 -78.755305,38.133428,0.0 -78.755271,38.133439,0.0 -78.755104,38.133527,0.0 -78.754909,38.133697,0.0 -78.754867,38.133757,0.0 -78.754797,38.133878,0.0 -78.754749,38.134021,0.0 -78.754714,38.134224,0.0 -78.7547,38.134339,0.0 -78.754714,38.134433,0.0 -78.754797,38.134691,0.0 -78.754818,38.134812,0.0 -78.754797,38.134927,0.0 -78.754776,38.134982,0.0 -78.75472,38.135064,0.0 -78.754692,38.135081,0.0 -78.754602,38.135136,0.0 -78.75449,38.135185,0.0 -78.754198,38.135289,0.0 -78.754129,38.1353,0.0 -78.754045,38.135306,0.0 -78.753802,38.135295,0.0 -78.753691,38.1353,0.0 -78.7536,38.135316,0.0 -78.753385,38.135388,0.0 -78.753267,38.135453,0.0 -78.753176,38.135508,0.0 -78.752738,38.13581,0.0 -78.752425,38.136013,0.0 -78.752091,38.136205,0.0 -78.751945,38.136277,0.0 -78.75182,38.136331,0.0 -78.751688,38.136364,0.0 -78.751569,38.136397,0.0 -78.751416,38.136408,0.0 -78.751152,38.136391,0.0 -78.750985,38.136408,0.0 -78.750818,38.13643,0.0 -78.750408,38.136528,0.0 -78.750144,38.136616,0.0 -78.749822,38.136693,0.0 -78.749532,38.136751,0.0 -78.749488,38.136767,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="35524">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35523">
+                    <coordinates>-78.7675,38.1187,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35526">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="35525">
+                    <coordinates>-78.7495,38.1368,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55647">
+        <name>Steinacher Creek</name>
+        <Folder id="55648">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Steinacher Falls Run (V)</name>
+            <Placemark id="55650">
+                <name>Steinacher Falls Run (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11389/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="55649">
+                    <coordinates>-123.418528,41.383488,0.0 -123.418661,41.383571,0.0 -123.418908,41.383603,0.0 -123.419198,41.383619,0.0 -123.419412,41.383603,0.0 -123.419711,41.383494,0.0 -123.419711,41.383494,0.0 -123.419786,41.383467,0.0 -123.419786,41.383467,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="55652">
+                <name>Steinacher Falls (V)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="55651">
+                    <coordinates>-123.419423,41.383599,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55654">
+                <name>Parking Area</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="55653">
+                    <coordinates>-123.421396,41.377674,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55656">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="55655">
+                    <coordinates>-123.418528,41.383488,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55658">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="55657">
+                    <coordinates>-123.419786,41.383467,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

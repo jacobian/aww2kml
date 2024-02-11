@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="23032">
+        <name>Gum Creek</name>
+        <Folder id="23033">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Mini Gorge (0.75 mile) (III-IV)</name>
+            <Placemark id="23035">
+                <name>Mini Gorge (0.75 mile) (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/6555/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="23034">
+                    <coordinates>-93.661123,35.253566,0.0 -93.661268,35.25365,0.0 -93.661406,35.253706,0.0 -93.661621,35.25375,0.0 -93.661809,35.253767,0.0 -93.662024,35.253777,0.0 -93.662407,35.25381,0.0 -93.66254,35.2538,0.0 -93.662787,35.253734,0.0 -93.663103,35.253625,0.0 -93.663482,35.253499,0.0 -93.663765,35.253382,0.0 -93.664018,35.253338,0.0 -93.664314,35.253383,0.0 -93.664423,35.253475,0.0 -93.664516,35.253762,0.0 -93.66467,35.253895,0.0 -93.664998,35.253926,0.0 -93.665307,35.253932,0.0 -93.665473,35.254021,0.0 -93.665485,35.254131,0.0 -93.665036,35.25445,0.0 -93.665005,35.254585,0.0 -93.664997,35.254657,0.0 -93.665098,35.254713,0.0 -93.665259,35.254708,0.0 -93.665546,35.254652,0.0 -93.666063,35.254565,0.0 -93.666459,35.254543,0.0 -93.666718,35.254603,0.0 -93.666932,35.254624,0.0 -93.667221,35.254631,0.0 -93.668147,35.254564,0.0 -93.668997,35.254522,0.0 -93.669199,35.254576,0.0 -93.669667,35.254822,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="23037">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="23036">
+                    <coordinates>-93.669685,35.254787,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="23039">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="23038">
+                    <coordinates>-93.66114,35.253536,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

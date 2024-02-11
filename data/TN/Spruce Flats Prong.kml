@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="54867">
+        <name>Spruce Flats Prong</name>
+        <Folder id="54868">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Honey Cove Branch confluence to Middle Prong Little River (V+)</name>
+            <Placemark id="54870">
+                <name>Honey Cove Branch confluence to Middle Prong Little River (V+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/5066/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="54869">
+                    <coordinates>-83.680847,35.633805,0.0 -83.680898,35.633831,0.0 -83.680967,35.633862,0.0 -83.681035,35.633886,0.0 -83.681101,35.633913,0.0 -83.681159,35.633978,0.0 -83.681202,35.634054,0.0 -83.681273,35.634099,0.0 -83.681306,35.634098,0.0 -83.681382,35.634119,0.0 -83.681446,35.634165,0.0 -83.681508,35.634215,0.0 -83.681576,35.634254,0.0 -83.681669,35.634283,0.0 -83.681765,35.634304,0.0 -83.681852,35.634315,0.0 -83.68194,35.634319,0.0 -83.682028,35.634325,0.0 -83.682118,35.634338,0.0 -83.682192,35.634347,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="54872">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="54871">
+                    <coordinates>-83.680901,35.633701,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54874">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="54873">
+                    <coordinates>-83.682198,35.6343,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

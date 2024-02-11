@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3756">
+        <name>Big Garlic</name>
+        <Folder id="3757">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Goldmine Rd to Cty 550 (4 miles) (III-V)</name>
+            <Placemark id="3759">
+                <name>Goldmine Rd to Cty 550 (4 miles) (III-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2623/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="3758">
+                    <coordinates>-87.626666,46.664184,0.0 -87.626297,46.664245,0.0 -87.625832,46.664016,0.0 -87.625533,46.663948,0.0 -87.625135,46.663902,0.0 -87.624637,46.66397,0.0 -87.624139,46.664199,0.0 -87.623408,46.664793,0.0 -87.623276,46.664976,0.0 -87.623143,46.665365,0.0 -87.622678,46.665662,0.0 -87.621449,46.666165,0.0 -87.621151,46.666462,0.0 -87.621184,46.666713,0.0 -87.621483,46.666987,0.0 -87.621449,46.667193,0.0 -87.621018,46.66749,0.0 -87.620055,46.667719,0.0 -87.619756,46.667673,0.0 -87.618992,46.667582,0.0 -87.617664,46.667216,0.0 -87.616237,46.66749,0.0 -87.615805,46.667444,0.0 -87.615373,46.667307,0.0 -87.614311,46.667216,0.0 -87.613282,46.667284,0.0 -87.612651,46.667581,0.0 -87.611356,46.668495,0.0 -87.609795,46.669318,0.0 -87.607736,46.670209,0.0 -87.605677,46.670757,0.0 -87.602157,46.671214,0.0 -87.601294,46.671465,0.0 -87.600896,46.671785,0.0 -87.600729,46.672082,0.0 -87.600696,46.672334,0.0 -87.601061,46.672654,0.0 -87.601028,46.672837,0.0 -87.600297,46.673156,0.0 -87.600098,46.673339,0.0 -87.5995,46.674185,0.0 -87.599035,46.674596,0.0 -87.59837,46.674916,0.0 -87.597773,46.674962,0.0 -87.59681,46.674938,0.0 -87.59598,46.674847,0.0 -87.595814,46.674755,0.0 -87.594884,46.674115,0.0 -87.594187,46.673818,0.0 -87.593158,46.673886,0.0 -87.592925,46.674115,0.0 -87.59236,46.674709,0.0 -87.592094,46.674937,0.0 -87.591629,46.675097,0.0 -87.590965,46.675051,0.0 -87.590168,46.674845,0.0 -87.589969,46.674731,0.0 -87.589803,46.674708,0.0 -87.589704,46.674754,0.0 -87.589537,46.674959,0.0 -87.589238,46.675211,0.0 -87.588475,46.675325,0.0 -87.587312,46.675507,0.0 -87.586648,46.675713,0.0 -87.586083,46.676284,0.0 -87.585385,46.676581,0.0 -87.58429,46.676535,0.0 -87.5816,46.676282,0.0 -87.581035,46.676374,0.0 -87.58067,46.676533,0.0 -87.578212,46.67699,0.0 -87.577514,46.677378,0.0 -87.576916,46.677881,0.0 -87.575952,46.67932,0.0 -87.575454,46.679663,0.0 -87.574789,46.679982,0.0 -87.574324,46.680462,0.0 -87.573991,46.681033,0.0 -87.573525,46.681696,0.0 -87.572595,46.68229,0.0 -87.57111,46.682833,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="3761">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="3760">
+                    <coordinates>-87.571098,46.6828,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3763">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="3762">
+                    <coordinates>-87.626701,46.664398,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3765">
+                <name>Confluence, unnamed creek</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="3764">
+                    <coordinates>-87.589996,46.6745,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3767">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="3766">
+                    <coordinates>-87.573196,46.7024,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3769">
+                <name>Falls Sequence</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="3768">
+                    <coordinates>-87.589081,46.675056,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3771">
+                <name>Falls</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="3770">
+                    <coordinates>-87.619301,46.667702,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3773">
+                <name>Falls</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="3772">
+                    <coordinates>-87.603508,46.671001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3775">
+                <name>Falls Sequence</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="3774">
+                    <coordinates>-87.573799,46.681301,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

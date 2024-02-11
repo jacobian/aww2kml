@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14372">
+        <name>Crow Creek</name>
+        <Folder id="14373">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Cty 3 to Lake Superior (2.95 miles) ** ACCESS ISSUES ** (IV)</name>
+            <Placemark id="14375">
+                <name>Cty 3 to Lake Superior (2.95 miles) ** ACCESS ISSUES ** (IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2518/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="14374">
+                    <coordinates>-91.573278,47.126574,0.0 -91.572206,47.126356,0.0 -91.570733,47.125692,0.0 -91.570165,47.125121,0.0 -91.570131,47.124938,0.0 -91.569864,47.124435,0.0 -91.569831,47.123886,0.0 -91.569698,47.123681,0.0 -91.568392,47.123794,0.0 -91.567521,47.123588,0.0 -91.566852,47.123039,0.0 -91.56692,47.122422,0.0 -91.567122,47.121691,0.0 -91.566989,47.120343,0.0 -91.56709,47.119954,0.0 -91.567425,47.11968,0.0 -91.567527,47.119132,0.0 -91.566691,47.117715,0.0 -91.566056,47.117166,0.0 -91.565688,47.116937,0.0 -91.565487,47.116548,0.0 -91.565287,47.116137,0.0 -91.564551,47.115382,0.0 -91.56472,47.114537,0.0 -91.564218,47.114057,0.0 -91.563884,47.113394,0.0 -91.562981,47.112891,0.0 -91.562814,47.112571,0.0 -91.562647,47.112114,0.0 -91.562414,47.111793,0.0 -91.562046,47.111199,0.0 -91.56131,47.110696,0.0 -91.561078,47.109279,0.0 -91.56071,47.108982,0.0 -91.559874,47.108661,0.0 -91.559941,47.108273,0.0 -91.560544,47.107908,0.0 -91.560511,47.107679,0.0 -91.560076,47.107564,0.0 -91.558971,47.107381,0.0 -91.558771,47.107152,0.0 -91.558772,47.106604,0.0 -91.558304,47.106215,0.0 -91.556196,47.105208,0.0 -91.555193,47.104865,0.0 -91.552549,47.10484,0.0 -91.55198,47.10468,0.0 -91.551345,47.104062,0.0 -91.55081,47.103971,0.0 -91.549605,47.103993,0.0 -91.548835,47.103649,0.0 -91.547732,47.102757,0.0 -91.546461,47.102185,0.0 -91.546194,47.101911,0.0 -91.546161,47.101728,0.0 -91.54596,47.101705,0.0 -91.544757,47.100539,0.0 -91.544993,47.099625,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="14377">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="14376">
+                    <coordinates>-91.545036,47.099556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="14379">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="14378">
+                    <coordinates>-91.573227,47.126827,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

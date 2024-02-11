@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8635">
+        <name>Carp (Porkies)</name>
+        <Folder id="8636">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>above Shining Cloud Falls to Lake Superior (1.7 miles) (IV(V))</name>
+            <Placemark id="8638">
+                <name>above Shining Cloud Falls to Lake Superior (1.7 miles) (IV(V))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2688/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="8637">
+                    <coordinates>-89.859618,46.759957,0.0 -89.859964,46.759742,0.0 -89.859998,46.759171,0.0 -89.860231,46.759012,0.0 -89.860231,46.757915,0.0 -89.860431,46.757687,0.0 -89.861428,46.757595,0.0 -89.862359,46.757161,0.0 -89.863389,46.757025,0.0 -89.864187,46.756773,0.0 -89.865018,46.756705,0.0 -89.865284,46.756728,0.0 -89.865949,46.757025,0.0 -89.866846,46.757664,0.0 -89.867078,46.757824,0.0 -89.867311,46.75787,0.0 -89.868408,46.757961,0.0 -89.868741,46.757984,0.0 -89.869405,46.75835,0.0 -89.869904,46.758464,0.0 -89.871101,46.758464,0.0 -89.871599,46.758578,0.0 -89.872164,46.758875,0.0 -89.872729,46.759264,0.0 -89.872829,46.759424,0.0 -89.872995,46.759698,0.0 -89.873161,46.760109,0.0 -89.87356,46.76052,0.0 -89.873859,46.760817,0.0 -89.874524,46.761205,0.0 -89.875156,46.761342,0.0 -89.876818,46.761754,0.0 -89.87745,46.762325,0.0 -89.877516,46.762416,0.0 -89.877882,46.762713,0.0 -89.878846,46.763353,0.0 -89.879012,46.763581,0.0 -89.879079,46.763878,0.0 -89.879178,46.763946,0.0 -89.879178,46.764061,0.0 -89.879245,46.764152,0.0 -89.879378,46.764472,0.0 -89.879744,46.765454,0.0 -89.880242,46.766094,0.0 -89.880608,46.766391,0.0 -89.881074,46.766688,0.0 -89.881506,46.766802,0.0 -89.883002,46.76687,0.0 -89.8836,46.76703,0.0 -89.885169,46.767928,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="8640">
+                <name>Shining Cloud Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="8639">
+                    <coordinates>-89.867104,46.7579,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8642">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="8641">
+                    <coordinates>-89.8853,46.7677,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8644">
+                <name>Ledge Series</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8643">
+                    <coordinates>-89.874458,46.761139,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8646">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="8645">
+                    <coordinates>-89.859398,46.759602,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8648">
+                <name>Bathtub Falls</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8647">
+                    <coordinates>-89.877289,46.76223,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8650">
+                <name>Final Drop</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8649">
+                    <coordinates>-89.884537,46.767071,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8652">
+                <name>Drainage Area</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8651">
+                    <coordinates>-89.861137,46.757469,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8654">
+                <name>Drop</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8653">
+                    <coordinates>-89.865898,46.757099,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8656">
+                <name>Drop</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8655">
+                    <coordinates>-89.870956,46.758438,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8658">
+                <name>Big Carp Falls?</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8657">
+                    <coordinates>-89.872864,46.759968,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

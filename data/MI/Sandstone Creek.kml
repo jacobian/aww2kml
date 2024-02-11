@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="50426">
+        <name>Sandstone Creek</name>
+        <Folder id="50427">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>roadside along Hwy.45 (up to 1.44 miles) (IV)</name>
+            <Placemark id="50429">
+                <name>roadside along Hwy.45 (up to 1.44 miles) (IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2693/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="50428">
+                    <coordinates>-89.171652,46.676674,0.0 -89.171389,46.67671,0.0 -89.171024,46.676893,0.0 -89.170626,46.677602,0.0 -89.170527,46.677945,0.0 -89.170361,46.678402,0.0 -89.170096,46.678676,0.0 -89.16847,46.679431,0.0 -89.167143,46.6803,0.0 -89.166512,46.680871,0.0 -89.166446,46.681008,0.0 -89.166479,46.681443,0.0 -89.166546,46.681625,0.0 -89.166514,46.682973,0.0 -89.166249,46.683385,0.0 -89.166149,46.683682,0.0 -89.166051,46.684802,0.0 -89.165885,46.685419,0.0 -89.165852,46.685807,0.0 -89.165621,46.686676,0.0 -89.165488,46.686995,0.0 -89.165455,46.687338,0.0 -89.165356,46.687407,0.0 -89.165256,46.687773,0.0 -89.165324,46.688846,0.0 -89.166155,46.690034,0.0 -89.166421,46.690468,0.0 -89.166521,46.690925,0.0 -89.166588,46.691725,0.0 -89.166356,46.692433,0.0 -89.166025,46.693233,0.0 -89.165451,46.694331,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="50431">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="50430">
+                    <coordinates>-89.1652,46.6942,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="50433">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="50432">
+                    <coordinates>-89.1716,46.6763,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="50435">
+                <name>Short-warmup</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="50434">
+                    <coordinates>-89.1661,46.689899,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="50437">
+                <name>Slightly longer, still roadside</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="50436">
+                    <coordinates>-89.165901,46.685799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="50439">
+                <name>One-mile (more-or-less)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="50438">
+                    <coordinates>-89.167,46.680099,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="50441">
+                <name>Rip-Snortin' Start!</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="50440">
+                    <coordinates>-89.171501,46.676403,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

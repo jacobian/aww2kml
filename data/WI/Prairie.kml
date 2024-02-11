@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="43934">
+        <name>Prairie</name>
+        <Folder id="43935">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Haymeadow Creek (Hwy.17) to Prairie Rd. (2.4-3.9 miles) (II)</name>
+            <Placemark id="43937">
+                <name>Haymeadow Creek (Hwy.17) to Prairie Rd. (2.4-3.9 miles) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2854/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="43936">
+                    <coordinates>-89.547421,45.264945,0.0 -89.54744,45.265093,0.0 -89.54741,45.265418,0.0 -89.547399,45.265532,0.0 -89.547994,45.265939,0.0 -89.548747,45.266707,0.0 -89.549319,45.266903,0.0 -89.551036,45.267139,0.0 -89.552319,45.267222,0.0 -89.55232,45.267119,0.0 -89.552429,45.266819,0.0 -89.552903,45.266595,0.0 -89.553558,45.266479,0.0 -89.554487,45.266504,0.0 -89.555339,45.266475,0.0 -89.555919,45.266338,0.0 -89.556531,45.265975,0.0 -89.558814,45.264048,0.0 -89.559476,45.263126,0.0 -89.559465,45.262557,0.0 -89.559712,45.262117,0.0 -89.559904,45.260913,0.0 -89.559407,45.26017,0.0 -89.559304,45.259707,0.0 -89.559659,45.259106,0.0 -89.560292,45.257969,0.0 -89.560539,45.257444,0.0 -89.561624,45.256932,0.0 -89.56239,45.25629,0.0 -89.562666,45.256043,0.0 -89.562759,45.256036,0.0 -89.563031,45.256013,0.0 -89.563811,45.255543,0.0 -89.564256,45.255103,0.0 -89.564881,45.254912,0.0 -89.565963,45.254755,0.0 -89.566572,45.254725,0.0 -89.568155,45.254721,0.0 -89.568809,45.254766,0.0 -89.569493,45.254887,0.0 -89.570132,45.254932,0.0 -89.570651,45.254827,0.0 -89.572479,45.254554,0.0 -89.575509,45.254431,0.0 -89.57662,45.254441,0.0 -89.57822,45.254178,0.0 -89.578975,45.254014,0.0 -89.580802,45.253978,0.0 -89.581281,45.253979,0.0 -89.582003,45.254073,0.0 -89.583341,45.254283,0.0 -89.584596,45.254438,0.0 -89.585996,45.254497,0.0 -89.587419,45.254405,0.0 -89.589172,45.254143,0.0 -89.589926,45.254038,0.0 -89.590001,45.254022,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="43939">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="43938">
+                    <coordinates>-89.589996,45.254002,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43941">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="43940">
+                    <coordinates>-89.546997,45.264999,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

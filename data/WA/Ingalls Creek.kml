@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25491">
+        <name>Ingalls Creek</name>
+        <Folder id="25492">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Ingalls Creek Rd. to Peshastin Creek (IV)</name>
+            <Placemark id="25494">
+                <name>Ingalls Creek Rd. to Peshastin Creek (IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3527/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="25493">
+                    <coordinates>-120.672911,47.462867,0.0 -120.672433,47.463048,0.0 -120.671604,47.463233,0.0 -120.670638,47.46347,0.0 -120.670292,47.463611,0.0 -120.669463,47.463986,0.0 -120.669118,47.464123,0.0 -120.668496,47.464218,0.0 -120.667461,47.463797,0.0 -120.666286,47.463701,0.0 -120.665942,47.463563,0.0 -120.665182,47.463467,0.0 -120.664629,47.463235,0.0 -120.664008,47.462953,0.0 -120.663594,47.462859,0.0 -120.66311,47.462813,0.0 -120.662489,47.462998,0.0 -120.661867,47.463094,0.0 -120.661384,47.463327,0.0 -120.661023,47.463491,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="25496">
+                <name>Ingall's Creek Trailhead, Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="25495">
+                    <coordinates>-120.672867,47.462749,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="25498">
+                <name>Pehsastin Creek Confluence, Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="25497">
+                    <coordinates>-120.660927,47.46328,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

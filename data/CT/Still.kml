@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55743">
+        <name>Still</name>
+        <Folder id="55744">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Above Sandy Brook (V)</name>
+            <Placemark id="55746">
+                <name>Above Sandy Brook (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/456/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="55745">
+                    <coordinates>-73.039804,41.974059,0.0 -73.039875,41.974002,0.0 -73.039934,41.973972,0.0 -73.04001,41.973889,0.0 -73.039156,41.973098,0.0 -73.038585,41.972776,0.0 -73.038174,41.972486,0.0 -73.037936,41.972321,0.0 -73.037519,41.971829,0.0 -73.037422,41.971692,0.0 -73.03726,41.971462,0.0 -73.037195,41.971408,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="55748">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="55747">
+                    <coordinates>-73.037201,41.971401,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55750">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="55749">
+                    <coordinates>-73.039807,41.974063,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

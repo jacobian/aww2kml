@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="57001">
+        <name>Swan</name>
+        <Folder id="57002">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Bigfork Dam to Bigfork Powerhouse (III-IV)</name>
+            <Placemark id="57004">
+                <name>Bigfork Dam to Bigfork Powerhouse (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1028/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="57003">
+                    <coordinates>-114.053004,48.062285,0.0 -114.053007,48.062285,0.0 -114.05337,48.062284,0.0 -114.05369,48.062312,0.0 -114.054091,48.062337,0.0 -114.054598,48.062378,0.0 -114.054944,48.062431,0.0 -114.055314,48.062543,0.0 -114.055712,48.062605,0.0 -114.056159,48.062741,0.0 -114.056382,48.062839,0.0 -114.056679,48.063033,0.0 -114.056949,48.063224,0.0 -114.057223,48.063356,0.0 -114.057513,48.063434,0.0 -114.057848,48.063461,0.0 -114.058303,48.06348,0.0 -114.058839,48.063498,0.0 -114.059256,48.063477,0.0 -114.059661,48.063435,0.0 -114.060004,48.063318,0.0 -114.060237,48.063226,0.0 -114.061403,48.063077,0.0 -114.062874,48.063105,0.0 -114.062998,48.063163,0.0 -114.063688,48.06311,0.0 -114.065336,48.063189,0.0 -114.066284,48.063286,0.0 -114.066409,48.063344,0.0 -114.066618,48.063316,0.0 -114.067233,48.063383,0.0 -114.067955,48.063252,0.0 -114.068143,48.063153,0.0 -114.070191,48.062921,0.0 -114.070802,48.062398,0.0 -114.071134,48.061652,0.0 -114.071053,48.061367,0.0 -114.070587,48.061059,0.0 -114.070498,48.060553,0.0 -114.070952,48.06005,0.0 -114.071876,48.059432,0.0 -114.072115,48.059355,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="57006">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="57005">
+                    <coordinates>-114.071999,48.058998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57008">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="57007">
+                    <coordinates>-114.053001,48.061798,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

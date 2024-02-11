@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21562">
+        <name>Genesse</name>
+        <Folder id="21563">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Lower Falls to Seth Green Island (II)</name>
+            <Placemark id="21565">
+                <name>Lower Falls to Seth Green Island (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11435/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="21564">
+                    <coordinates>-77.628251,43.180408,0.0 -77.628633,43.181073,0.0 -77.627435,43.18611,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="21567">
+                <name>Lower Falls Put-in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="21566">
+                    <coordinates>-77.628474,43.180472,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="21569">
+                <name>Take Out: Look for the obvious access road on river right after the rapid.  (II)</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="21568">
+                    <coordinates>-77.626582,43.185907,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

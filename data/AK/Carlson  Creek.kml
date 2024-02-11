@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8554">
+        <name>Carlson  Creek</name>
+        <Folder id="8555">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Lower Canyon to Tidewater (II-III(IV))</name>
+            <Placemark id="8557">
+                <name>Lower Canyon to Tidewater (II-III(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3748/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="8556">
+                    <coordinates>-134.195144,58.314672,0.0 -134.193342,58.314173,0.0 -134.192725,58.314098,0.0 -134.191665,58.313766,0.0 -134.190793,58.313905,0.0 -134.188959,58.31501,0.0 -134.188091,58.315068,0.0 -134.187111,58.314811,0.0 -134.185181,58.314769,0.0 -134.184691,58.31486,0.0 -134.184327,58.315101,0.0 -134.183774,58.315218,0.0 -134.183252,58.315159,0.0 -134.181781,58.315591,0.0 -134.180512,58.315749,0.0 -134.179247,58.31594,0.0 -134.177175,58.31648,0.0 -134.176748,58.316621,0.0 -134.174519,58.316571,0.0 -134.173965,58.31658,0.0 -134.172336,58.316846,0.0 -134.172036,58.316763,0.0 -134.171641,58.316148,0.0 -134.170945,58.315658,0.0 -134.169601,58.315159,0.0 -134.168632,58.314761,0.0 -134.167177,58.31442,0.0 -134.166165,58.314221,0.0 -134.165391,58.313988,0.0 -134.165074,58.313664,0.0 -134.165043,58.312739,0.0 -134.164584,58.311742,0.0 -134.163872,58.311243,0.0 -134.163113,58.311102,0.0 -134.161943,58.311351,0.0 -134.161066,58.311443,0.0 -134.160053,58.311343,0.0 -134.159279,58.311052,0.0 -134.158757,58.310712,0.0 -134.158409,58.31028,0.0 -134.158694,58.309756,0.0 -134.158994,58.30926,0.0 -134.158852,58.309019,0.0 -134.15814,58.308596,0.0 -134.15697,58.308139,0.0 -134.156363,58.308056,0.0 -134.15543,58.308155,0.0 -134.152742,58.308704,0.0 -134.152236,58.308654,0.0 -134.150813,58.307964,0.0 -134.149343,58.307565,0.0 -134.148173,58.306959,0.0 -134.145785,58.30661,0.0 -134.142512,58.30597,0.0 -134.139953,58.305188,0.0 -134.138798,58.304698,0.0 -134.135446,58.305304,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="8559">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="8558">
+                    <coordinates>-134.195144,58.314672,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8561">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="8560">
+                    <coordinates>-134.135446,58.305304,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

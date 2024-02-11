@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="44306">
+        <name>Quakake Creek (Lehigh trib.)</name>
+        <Folder id="44307">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Hudsondale to Black Creek Junction (II-III)</name>
+            <Placemark id="44309">
+                <name>Hudsondale to Black Creek Junction (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11609/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="44308">
+                    <coordinates>-75.855453,40.921666,0.0 -75.855187,40.921213,0.0 -75.855157,40.920412,0.0 -75.855157,40.920412,0.0 -75.854132,40.920068,0.0 -75.853589,40.920183,0.0 -75.853197,40.920389,0.0 -75.852834,40.921212,0.0 -75.852412,40.921487,0.0 -75.849607,40.922104,0.0 -75.848249,40.922699,0.0 -75.843241,40.924414,0.0 -75.841883,40.925237,0.0 -75.835878,40.927912,0.0 -75.833464,40.929078,0.0 -75.831835,40.929581,0.0 -75.827792,40.930609,0.0 -75.824985,40.931546,0.0 -75.823748,40.931729,0.0 -75.822391,40.931728,0.0 -75.822391,40.931728,0.0 -75.822257,40.931621,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="44311">
+                <name>Take-out - Black Creek Junction, Weatherly, PA</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="44310">
+                    <coordinates>-75.822257,40.931621,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44313">
+                <name>Put-in - Hudsondale, PA</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="44312">
+                    <coordinates>-75.855453,40.921666,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="44314">
+            <name>Hudsondale to Black Creek Junction (II-III)</name>
+            <Placemark id="44316">
+                <name>Hudsondale to Black Creek Junction (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11609/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="44315">
+                    <coordinates>-75.855453,40.921666,0.0 -75.855187,40.921213,0.0 -75.855157,40.920412,0.0 -75.855157,40.920412,0.0 -75.854132,40.920068,0.0 -75.853589,40.920183,0.0 -75.853197,40.920389,0.0 -75.852834,40.921212,0.0 -75.852412,40.921487,0.0 -75.849607,40.922104,0.0 -75.848249,40.922699,0.0 -75.843241,40.924414,0.0 -75.841883,40.925237,0.0 -75.835878,40.927912,0.0 -75.833464,40.929078,0.0 -75.831835,40.929581,0.0 -75.827792,40.930609,0.0 -75.824985,40.931546,0.0 -75.823748,40.931729,0.0 -75.822391,40.931728,0.0 -75.822391,40.931728,0.0 -75.822257,40.931621,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="44318">
+                <name>Take-out - Black Creek Junction, Weatherly, PA</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="44317">
+                    <coordinates>-75.822257,40.931621,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44320">
+                <name>Put-in - Hudsondale, PA</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="44319">
+                    <coordinates>-75.855453,40.921666,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

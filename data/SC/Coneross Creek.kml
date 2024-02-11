@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13053">
+        <name>Coneross Creek</name>
+        <Folder id="13054">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>SC 59 to Coneross Hydro Plant Park (II-III(IV))</name>
+            <Placemark id="13056">
+                <name>SC 59 to Coneross Hydro Plant Park (II-III(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3395/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="13055">
+                    <coordinates>-82.970026,34.636787,0.0 -82.969964,34.636795,0.0 -82.969759,34.636738,0.0 -82.969602,34.636622,0.0 -82.969438,34.636424,0.0 -82.969421,34.636287,0.0 -82.969468,34.636134,0.0 -82.969689,34.635985,0.0 -82.969844,34.635797,0.0 -82.969886,34.635666,0.0 -82.969869,34.635399,0.0 -82.969665,34.635161,0.0 -82.969468,34.635053,0.0 -82.969279,34.634949,0.0 -82.967743,34.634276,0.0 -82.967262,34.634004,0.0 -82.96704,34.633796,0.0 -82.966948,34.633609,0.0 -82.966963,34.633455,0.0 -82.96708,34.633172,0.0 -82.9673,34.632849,0.0 -82.967414,34.632565,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="13058">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="13057">
+                    <coordinates>-82.970001,34.6366,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="13060">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="13059">
+                    <coordinates>-82.967499,34.632599,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="34532">
+        <name>Miller, East Fork</name>
+        <Folder id="34533">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>along FR 6412 (V)</name>
+            <Placemark id="34535">
+                <name>along FR 6412 (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3584/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="34534">
+                    <coordinates>-121.377925,47.634158,0.0 -121.377859,47.634178,0.0 -121.377737,47.634181,0.0 -121.377697,47.634175,0.0 -121.377604,47.634156,0.0 -121.377441,47.634582,0.0 -121.377267,47.634803,0.0 -121.377228,47.635428,0.0 -121.377287,47.636019,0.0 -121.377232,47.63663,0.0 -121.377173,47.636768,0.0 -121.377075,47.637155,0.0 -121.377001,47.637419,0.0 -121.376977,47.637603,0.0 -121.376959,47.637742,0.0 -121.377023,47.638108,0.0 -121.377047,47.638193,0.0 -121.377063,47.638283,0.0 -121.377096,47.638379,0.0 -121.377122,47.638592,0.0 -121.377063,47.638738,0.0 -121.376949,47.638863,0.0 -121.376857,47.638936,0.0 -121.376769,47.639075,0.0 -121.376763,47.639189,0.0 -121.376769,47.639324,0.0 -121.376822,47.639587,0.0 -121.376756,47.639732,0.0 -121.376368,47.640358,0.0 -121.376299,47.640506,0.0 -121.376185,47.640677,0.0 -121.376078,47.640874,0.0 -121.375933,47.641061,0.0 -121.375717,47.641313,0.0 -121.375543,47.641506,0.0 -121.375358,47.641602,0.0 -121.375129,47.641796,0.0 -121.37501,47.641861,0.0 -121.374808,47.641947,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="34537">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="34536">
+                    <coordinates>-121.375,47.642399,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34539">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="34538">
+                    <coordinates>-121.377998,47.634399,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

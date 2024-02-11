@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="59439">
+        <name>Twelve Mile Creek</name>
+        <Folder id="59440">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Sawmill Rd to Lake Erie (IV-V)</name>
+            <Placemark id="59442">
+                <name>Sawmill Rd to Lake Erie (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10356/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="59441">
+                    <coordinates>-79.910133,42.196967,0.0 -79.910363,42.197885,0.0 -79.909933,42.20063,0.0 -79.909995,42.201865,0.0 -79.910119,42.202186,0.0 -79.910396,42.202529,0.0 -79.911319,42.203009,0.0 -79.91255,42.204266,0.0 -79.913813,42.206691,0.0 -79.914521,42.2074,0.0 -79.914798,42.207788,0.0 -79.914614,42.208429,0.0 -79.915045,42.209435,0.0 -79.91483,42.210442,0.0 -79.914871,42.211009,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="59444">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="59443">
+                    <coordinates>-79.915,42.211,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="59446">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="59445">
+                    <coordinates>-79.91,42.197,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

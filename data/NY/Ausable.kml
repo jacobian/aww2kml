@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1547">
+        <name>Ausable</name>
+        <Folder id="1548">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>7. Ausable Chasm to US Route 9 (IV+)</name>
+            <Placemark id="1550">
+                <name>7. Ausable Chasm to US Route 9 (IV+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1236/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="1549">
+                    <coordinates>-73.462179,44.524341,0.0 -73.462512,44.52448,0.0 -73.463608,44.524999,0.0 -73.463454,44.525588,0.0 -73.462601,44.526594,0.0 -73.461741,44.526971,0.0 -73.461743,44.527653,0.0 -73.461761,44.527793,0.0 -73.461536,44.52873,0.0 -73.461272,44.52903,0.0 -73.461226,44.529868,0.0 -73.46146,44.53052,0.0 -73.461796,44.530981,0.0 -73.462299,44.532123,0.0 -73.462704,44.533196,0.0 -73.463662,44.533451,0.0 -73.464643,44.533647,0.0 -73.465038,44.533803,0.0 -73.46495,44.53403,0.0 -73.464191,44.535372,0.0 -73.464225,44.53556,0.0 -73.465047,44.535893,0.0 -73.465294,44.536163,0.0 -73.465547,44.53646,0.0 -73.465774,44.536848,0.0 -73.465727,44.537125,0.0 -73.465574,44.537247,0.0 -73.465121,44.537915,0.0 -73.464625,44.538233,0.0 -73.464129,44.538427,0.0 -73.463329,44.538387,0.0 -73.462909,44.53836,0.0 -73.462511,44.538321,0.0 -73.461118,44.538741,0.0 -73.460568,44.539227,0.0 -73.460401,44.539374,0.0 -73.459489,44.540212,0.0 -73.458643,44.54129,0.0 -73.458406,44.54174,0.0 -73.458234,44.541966,0.0 -73.457962,44.542407,0.0 -73.457876,44.542741,0.0 -73.458007,44.542946,0.0 -73.458285,44.543166,0.0 -73.458595,44.54337,0.0 -73.458907,44.54351,0.0 -73.459351,44.543901,0.0 -73.459463,44.544166,0.0 -73.459725,44.544568,0.0 -73.459979,44.544844,0.0 -73.460679,44.545464,0.0 -73.461088,44.545939,0.0 -73.461328,44.54616,0.0 -73.461649,44.546123,0.0 -73.461863,44.546224,0.0 -73.462359,44.546578,0.0 -73.46246,44.546684,0.0 -73.462725,44.547236,0.0 -73.462489,44.547784,0.0 -73.461813,44.548567,0.0 -73.461233,44.549006,0.0 -73.461427,44.551421,0.0 -73.461479,44.552704,0.0 -73.460007,44.554171,0.0 -73.457777,44.555249,0.0 -73.453406,44.557445,0.0 -73.450235,44.558488,0.0 -73.449125,44.558658,0.0 -73.448971,44.558675,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="1552">
+                <name>2nd Rapid (III+)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="1551">
+                    <coordinates>-73.46344,44.525005,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1554">
+                <name>Long One (IV)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="1553">
+                    <coordinates>-73.462158,44.526905,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1556">
+                <name>Mike's Hole (lead-in) (IV+)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="1555">
+                    <coordinates>-73.461678,44.528053,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1558">
+                <name>Elephant Head (IV+)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="1557">
+                    <coordinates>-73.462357,44.526852,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1560">
+                <name>Horseshoe Falls (III+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="1559">
+                    <coordinates>-73.462776,44.524536,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1562">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="1561">
+                    <coordinates>-73.448997,44.558899,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1564">
+                <name>Diagonal Slide (IV)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="1563">
+                    <coordinates>-73.461922,44.52747,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1566">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="1565">
+                    <coordinates>-73.462196,44.5243,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="32928">
+        <name>Massie's Creek</name>
+        <Folder id="32929">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Wilberforce (III)</name>
+            <Placemark id="32931">
+                <name>Wilberforce (III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3667/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="32930">
+                    <coordinates>-83.812899,39.738963,0.0 -83.813587,39.738724,0.0 -83.814348,39.738262,0.0 -83.814681,39.738205,0.0 -83.815354,39.738277,0.0 -83.81586,39.738343,0.0 -83.816413,39.738496,0.0 -83.816889,39.738698,0.0 -83.81734,39.739002,0.0 -83.817457,39.739169,0.0 -83.817687,39.73929,0.0 -83.818183,39.739555,0.0 -83.818629,39.739846,0.0 -83.819197,39.740133,0.0 -83.819904,39.740231,0.0 -83.820615,39.740349,0.0 -83.821055,39.740496,0.0 -83.821325,39.740655,0.0 -83.821601,39.740775,0.0 -83.821826,39.740796,0.0 -83.822342,39.740853,0.0 -83.822373,39.740866,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="32933">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="32932">
+                    <coordinates>-83.822403,39.740799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32935">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="32934">
+                    <coordinates>-83.812798,39.738701,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

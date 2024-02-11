@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="34218">
+        <name>Mill Brook (Fayston/Waitsfield)</name>
+        <Folder id="34219">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>German Flats Road to Route 100 (II-IV)</name>
+            <Placemark id="34221">
+                <name>German Flats Road to Route 100 (II-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11242/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="34220">
+                    <coordinates>-72.871857,44.18516,0.0 -72.871857,44.184725,0.0 -72.871857,44.184725,0.0 -72.871762,44.184199,0.0 -72.871381,44.183605,0.0 -72.871095,44.183468,0.0 -72.87065,44.183445,0.0 -72.87011,44.183582,0.0 -72.86957,44.183651,0.0 -72.868395,44.183422,0.0 -72.867537,44.183399,0.0 -72.86598,44.183513,0.0 -72.864805,44.183513,0.0 -72.863852,44.183353,0.0 -72.863185,44.183055,0.0 -72.861438,44.181729,0.0 -72.860803,44.181523,0.0 -72.860231,44.1815,0.0 -72.859659,44.181637,0.0 -72.859119,44.181889,0.0 -72.857657,44.1831,0.0 -72.853972,44.183671,0.0 -72.85286,44.183922,0.0 -72.851589,44.184036,0.0 -72.850795,44.183967,0.0 -72.85016,44.183738,0.0 -72.848985,44.183075,0.0 -72.848413,44.182961,0.0 -72.846761,44.182937,0.0 -72.845427,44.1828,0.0 -72.844824,44.182571,0.0 -72.843554,44.181794,0.0 -72.842791,44.18145,0.0 -72.842633,44.180787,0.0 -72.841522,44.180101,0.0 -72.840855,44.179735,0.0 -72.839997,44.179529,0.0 -72.839044,44.179574,0.0 -72.838759,44.179323,0.0 -72.837203,44.178225,0.0 -72.836663,44.178133,0.0 -72.836313,44.178271,0.0 -72.836294,44.178284,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="34223">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="34222">
+                    <coordinates>-72.843102,44.181078,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34225">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="34224">
+                    <coordinates>-72.872396,44.185874,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

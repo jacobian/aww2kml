@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="35969">
+        <name>Muddy Creek (Slippery Rock trib)</name>
+        <Folder id="35970">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>to Slippery Rock Creek (V)</name>
+            <Placemark id="35972">
+                <name>to Slippery Rock Creek (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3217/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="35971">
+                    <coordinates>-80.17601,40.97836,0.0 -80.176105,40.978349,0.0 -80.176468,40.978384,0.0 -80.177031,40.97842,0.0 -80.177554,40.978313,0.0 -80.177723,40.978333,0.0 -80.177958,40.9785,0.0 -80.178233,40.978787,0.0 -80.178355,40.979178,0.0 -80.178371,40.979367,0.0 -80.178661,40.979695,0.0 -80.178852,40.979972,0.0 -80.178971,40.980101,0.0 -80.179224,40.980207,0.0 -80.179507,40.980166,0.0 -80.179743,40.980226,0.0 -80.179755,40.980059,0.0 -80.179762,40.98005,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="35974">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35973">
+                    <coordinates>-80.179703,40.98,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35976">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="35975">
+                    <coordinates>-80.176003,40.978298,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

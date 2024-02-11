@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="51317">
+        <name>Schuylkill</name>
+        <Folder id="51318">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Flat Rock Dam (I)</name>
+            <Placemark id="51320">
+                <name>Flat Rock Dam (I)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4529/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="51319">
+                    <coordinates>-75.248541,40.041548,0.0 -75.248099,40.041214,0.0 -75.247469,40.040513,0.0 -75.24701,40.039877,0.0 -75.246978,40.039828,0.0 -75.246896,40.039703,0.0 -75.24653,40.039436,0.0 -75.246316,40.039053,0.0 -75.245908,40.038081,0.0 -75.245108,40.037258,0.0 -75.244309,40.036745,0.0 -75.243031,40.036216,0.0 -75.242094,40.035638,0.0 -75.241497,40.035141,0.0 -75.24129,40.034801,0.0 -75.24126,40.034764,0.0 -75.24121,40.034704,0.0 -75.241092,40.034559,0.0 -75.240864,40.034277,0.0 -75.240752,40.034159,0.0 -75.239294,40.03289,0.0 -75.237818,40.031969,0.0 -75.237762,40.031934,0.0 -75.237035,40.031481,0.0 -75.234606,40.029925,0.0 -75.23232,40.028108,0.0 -75.230404,40.027417,0.0 -75.229552,40.026847,0.0 -75.228055,40.026092,0.0 -75.22705,40.025585,0.0 -75.223696,40.023712,0.0 -75.222151,40.022612,0.0 -75.221947,40.022545,0.0 -75.221896,40.022529,0.0 -75.219917,40.021881,0.0 -75.219288,40.021565,0.0 -75.218054,40.020944,0.0 -75.216349,40.019477,0.0 -75.214269,40.017274,0.0 -75.211871,40.015154,0.0 -75.210445,40.014302,0.0 -75.209001,40.013442,0.0 -75.208065,40.012869,0.0 -75.207584,40.012603,0.0 -75.207323,40.012441,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="51322">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="51321">
+                    <coordinates>-75.2071,40.012798,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51324">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="51323">
+                    <coordinates>-75.248199,40.042,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

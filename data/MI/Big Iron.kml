@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3804">
+        <name>Big Iron</name>
+        <Folder id="3805">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>White Pine to Silver City (5.6 miles) (II-III)</name>
+            <Placemark id="3807">
+                <name>White Pine to Silver City (5.6 miles) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2689/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="3806">
+                    <coordinates>-89.588774,46.76218,0.0 -89.588641,46.762263,0.0 -89.588342,46.762674,0.0 -89.588375,46.763383,0.0 -89.588474,46.763474,0.0 -89.588507,46.76368,0.0 -89.588773,46.764365,0.0 -89.588906,46.764479,0.0 -89.589105,46.765051,0.0 -89.589304,46.766079,0.0 -89.589236,46.767061,0.0 -89.589103,46.767244,0.0 -89.588904,46.767358,0.0 -89.588239,46.767358,0.0 -89.587474,46.767175,0.0 -89.585679,46.76658,0.0 -89.584382,46.766625,0.0 -89.583684,46.766968,0.0 -89.583185,46.76731,0.0 -89.582885,46.767881,0.0 -89.581654,46.769252,0.0 -89.580722,46.770234,0.0 -89.580489,46.770599,0.0 -89.580522,46.771171,0.0 -89.581186,46.772199,0.0 -89.581318,46.772679,0.0 -89.581385,46.772724,0.0 -89.581783,46.773935,0.0 -89.581816,46.774141,0.0 -89.581916,46.774187,0.0 -89.581915,46.774529,0.0 -89.582015,46.774598,0.0 -89.582048,46.774781,0.0 -89.582347,46.775535,0.0 -89.582513,46.776403,0.0 -89.582478,46.777545,0.0 -89.582378,46.777888,0.0 -89.582145,46.778482,0.0 -89.581712,46.779327,0.0 -89.581013,46.780126,0.0 -89.580314,46.781269,0.0 -89.580346,46.781908,0.0 -89.580579,46.782365,0.0 -89.580911,46.782822,0.0 -89.581143,46.783576,0.0 -89.581076,46.783759,0.0 -89.579512,46.784809,0.0 -89.579246,46.785129,0.0 -89.579046,46.785586,0.0 -89.579012,46.786294,0.0 -89.578945,46.787597,0.0 -89.578878,46.787665,0.0 -89.578711,46.787916,0.0 -89.577879,46.788761,0.0 -89.577746,46.78899,0.0 -89.577646,46.789355,0.0 -89.577479,46.789584,0.0 -89.576547,46.790246,0.0 -89.576247,46.790611,0.0 -89.576114,46.791045,0.0 -89.576014,46.791799,0.0 -89.57578,46.792599,0.0 -89.57568,46.793193,0.0 -89.575712,46.794152,0.0 -89.575845,46.794426,0.0 -89.575944,46.794586,0.0 -89.576044,46.794838,0.0 -89.576076,46.795934,0.0 -89.576176,46.796323,0.0 -89.576309,46.796665,0.0 -89.576374,46.797397,0.0 -89.576407,46.797876,0.0 -89.575808,46.798859,0.0 -89.575341,46.799292,0.0 -89.574576,46.799749,0.0 -89.574485,46.799803,0.0 -89.574013,46.800189,0.0 -89.573998,46.802216,0.0 -89.572818,46.803048,0.0 -89.572744,46.803805,0.0 -89.573399,46.804596,0.0 -89.573312,46.805479,0.0 -89.57111,46.807403,0.0 -89.570452,46.808513,0.0 -89.569649,46.809236,0.0 -89.568478,46.811842,0.0 -89.568669,46.813625,0.0 -89.570634,46.815999,0.0 -89.570462,46.817765,0.0 -89.570559,46.817904,0.0 -89.57239,46.820516,0.0 -89.572291,46.821526,0.0 -89.570879,46.822854,0.0 -89.568784,46.825543,0.0 -89.568673,46.826679,0.0 -89.569813,46.828126,0.0 -89.57015,46.830297,0.0 -89.570352,46.830796,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="3809">
+                <name>Bonanza Falls (III+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="3808">
+                    <coordinates>-89.570396,46.8172,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3811">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="3810">
+                    <coordinates>-89.570099,46.830898,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3813">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="3812">
+                    <coordinates>-89.5886,46.761902,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3815">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="3814">
+                    <coordinates>-89.5821,46.773602,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

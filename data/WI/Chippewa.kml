@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10609">
+        <name>Chippewa</name>
+        <Folder id="10610">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>C) Lake Wissota Spillway (PnP) (II-III)</name>
+            <Placemark id="10612">
+                <name>C) Lake Wissota Spillway (PnP) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10958/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="10611">
+                    <coordinates>-91.34144,44.944108,0.0 -91.342526,44.943786,0.0 -91.344194,44.943034,0.0 -91.344613,44.94239,0.0 -91.34439,44.941738,0.0 -91.34569,44.940718,0.0 -91.34755,44.940752,0.0 -91.351138,44.942564,0.0 -91.352972,44.943233,0.0 -91.354461,44.944184,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="10614">
+                <name>&quot;NOCC&quot; (Narrow Overflow Connecting Channel)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="10613">
+                    <coordinates>-91.3426,44.941,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10616">
+                <name>&quot;ROC&quot; (Rejoined Overflow Channel)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="10615">
+                    <coordinates>-91.345,44.9414,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10618">
+                <name>&quot;FOC&quot; (First Overflow Channel)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="10617">
+                    <coordinates>-91.3433,44.9434,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10620">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="10619">
+                    <coordinates>-91.3544,44.9442,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10622">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="10621">
+                    <coordinates>-91.3405,44.9442,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10624">
+                <name>Main Channel</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10623">
+                    <coordinates>-91.347,44.9405,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10626">
+                <name>&quot;SOC&quot; (Second Overflow Channel)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10625">
+                    <coordinates>-91.3414,44.9425,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="10627">
+            <name>Mount Pleasant (1 mile) (I-II)</name>
+            <Placemark id="10629">
+                <name>Mount Pleasant (1 mile) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3800/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="10628">
+                    <coordinates>-84.78478,43.600898,0.0 -84.784799,43.600944,0.0 -84.784927,43.601131,0.0 -84.784927,43.601838,0.0 -84.784734,43.60211,0.0 -84.784616,43.602498,0.0 -84.784625,43.602592,0.0 -84.784625,43.602592,0.0 -84.784638,43.602724,0.0 -84.784724,43.602824,0.0 -84.784724,43.602824,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="10631">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="10630">
+                    <coordinates>-84.778,43.607201,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10633">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="10632">
+                    <coordinates>-84.784599,43.600899,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="10634">
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>D) Downtown Eau Claire (PnP) (II)</name>
+            <Placemark id="10636">
+                <name>D) Downtown Eau Claire (PnP) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2942/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="10635">
+                    <coordinates>-91.511311,44.827382,0.0 -91.508578,44.821582,0.0 -91.508572,44.821562,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="10638">
+                <name>Parking: Gravel Lot</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="10637">
+                    <coordinates>-91.507004,44.821999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10640">
+                <name>Stairs (Fishing Access)</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="10639">
+                    <coordinates>-91.507004,44.821999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10642">
+                <name>Stairs (Fishing Access)</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="10641">
+                    <coordinates>-91.509003,44.826,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10644">
+                <name>Parking: Put-in/Fishing Access</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="10643">
+                    <coordinates>-91.510002,44.827999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10646">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10645">
+                    <coordinates>-91.507004,44.821999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10648">
+                <name>Outflow Wave(s) (III+)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="10647">
+                    <coordinates>-91.511002,44.827,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10650">
+                <name>Random ledge/waves</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="10649">
+                    <coordinates>-91.510594,44.82586,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10652">
+                <name>Main Ledge</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="10651">
+                    <coordinates>-91.509122,44.822736,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="10653">
+            <name>A) Belille Falls (Arpin Dam) to powerhouse (1 mile) (I-II)</name>
+            <Placemark id="10655">
+                <name>A) Belille Falls (Arpin Dam) to powerhouse (1 mile) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2287/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="10654">
+                    <coordinates>-91.204353,45.761988,0.0 -91.204399,45.761961,0.0 -91.204676,45.761866,0.0 -91.20497,45.761741,0.0 -91.205102,45.761453,0.0 -91.205209,45.761195,0.0 -91.205387,45.761097,0.0 -91.205563,45.760933,0.0 -91.205633,45.760687,0.0 -91.20559,45.760564,0.0 -91.204993,45.759739,0.0 -91.205111,45.759581,0.0 -91.206686,45.758303,0.0 -91.206872,45.758244,0.0 -91.207025,45.758101,0.0 -91.207512,45.757271,0.0 -91.208067,45.756076,0.0 -91.208031,45.755394,0.0 -91.207903,45.754721,0.0 -91.207915,45.754398,0.0 -91.207756,45.754098,0.0 -91.207351,45.75364,0.0 -91.206146,45.752595,0.0 -91.206007,45.752366,0.0 -91.205759,45.752242,0.0 -91.205357,45.752201,0.0 -91.204967,45.752282,0.0 -91.204282,45.752218,0.0 -91.203425,45.751703,0.0 -91.203388,45.751274,0.0 -91.203672,45.750767,0.0 -91.203682,45.750496,0.0 -91.203713,45.75039,0.0 -91.203993,45.750164,0.0 -91.204243,45.749777,0.0 -91.204419,45.749649,0.0 -91.204676,45.749445,0.0 -91.204823,45.749107,0.0 -91.20477,45.748861,0.0 -91.204807,45.748648,0.0 -91.204967,45.748268,0.0 -91.205111,45.748078,0.0 -91.205176,45.747794,0.0 -91.205141,45.747655,0.0 -91.205236,45.747455,0.0 -91.205311,45.747246,0.0 -91.205497,45.747031,0.0 -91.205954,45.746829,0.0 -91.206291,45.746608,0.0 -91.20676,45.746389,0.0 -91.207123,45.746086,0.0 -91.207545,45.745887,0.0 -91.20845,45.74525,0.0 -91.208718,45.745146,0.0 -91.209374,45.744749,0.0 -91.209874,45.744569,0.0 -91.210104,45.744379,0.0 -91.210297,45.744335,0.0 -91.210653,45.744347,0.0 -91.212099,45.743981,0.0 -91.213536,45.743431,0.0 -91.214043,45.743188,0.0 -91.214461,45.742922,0.0 -91.215393,45.742159,0.0 -91.215605,45.741913,0.0 -91.215789,45.741577,0.0 -91.215937,45.740795,0.0 -91.215868,45.740007,0.0 -91.215897,45.739756,0.0 -91.216103,45.739428,0.0 -91.21631,45.738714,0.0 -91.216241,45.738354,0.0 -91.216367,45.737791,0.0 -91.216234,45.736464,0.0 -91.216056,45.735829,0.0 -91.216107,45.735557,0.0 -91.215936,45.735144,0.0 -91.215679,45.734839,0.0 -91.21543,45.734659,0.0 -91.215208,45.734025,0.0 -91.214882,45.733619,0.0 -91.214,45.732824,0.0 -91.213194,45.732271,0.0 -91.212885,45.731984,0.0 -91.212746,45.731752,0.0 -91.212636,45.731401,0.0 -91.212477,45.730295,0.0 -91.212557,45.729871,0.0 -91.212451,45.729593,0.0 -91.211944,45.72897,0.0 -91.210885,45.728182,0.0 -91.21067,45.727708,0.0 -91.210212,45.727139,0.0 -91.20934,45.726554,0.0 -91.208226,45.725874,0.0 -91.207872,45.725284,0.0 -91.208177,45.724909,0.0 -91.208597,45.724608,0.0 -91.209413,45.724644,0.0 -91.209676,45.724536,0.0 -91.209802,45.724404,0.0 -91.210291,45.724144,0.0 -91.210597,45.723903,0.0 -91.211407,45.723835,0.0 -91.211962,45.723884,0.0 -91.212602,45.724013,0.0 -91.212807,45.72401,0.0 -91.215476,45.723499,0.0 -91.216302,45.723211,0.0 -91.216716,45.722991,0.0 -91.217227,45.722543,0.0 -91.217624,45.722041,0.0 -91.217764,45.721475,0.0 -91.21777,45.720936,0.0 -91.217732,45.720686,0.0 -91.217592,45.720378,0.0 -91.21745,45.720187,0.0 -91.217067,45.719853,0.0 -91.216765,45.719358,0.0 -91.216541,45.71862,0.0 -91.216525,45.718117,0.0 -91.217019,45.716836,0.0 -91.217456,45.716107,0.0 -91.217899,45.715625,0.0 -91.218174,45.715465,0.0 -91.2184,45.715405,0.0 -91.218585,45.715233,0.0 -91.219343,45.714727,0.0 -91.219523,45.714395,0.0 -91.220026,45.713989,0.0 -91.22032,45.713815,0.0 -91.221024,45.712464,0.0 -91.221426,45.711842,0.0 -91.222624,45.710545,0.0 -91.222822,45.710253,0.0 -91.223102,45.709192,0.0 -91.22332,45.707436,0.0 -91.223062,45.706741,0.0 -91.222821,45.706425,0.0 -91.222321,45.706065,0.0 -91.221275,45.705544,0.0 -91.220759,45.705194,0.0 -91.220102,45.704596,0.0 -91.219363,45.703651,0.0 -91.219415,45.703366,0.0 -91.219386,45.703152,0.0 -91.219272,45.702951,0.0 -91.219017,45.702793,0.0 -91.218906,45.70273,0.0 -91.218638,45.702414,0.0 -91.218071,45.701999,0.0 -91.217808,45.701733,0.0 -91.217226,45.701724,0.0 -91.217072,45.701346,0.0 -91.217133,45.701135,0.0 -91.217256,45.700976,0.0 -91.217217,45.700763,0.0 -91.217275,45.700478,0.0 -91.217162,45.699608,0.0 -91.217176,45.698529,0.0 -91.217285,45.698105,0.0 -91.217582,45.697689,0.0 -91.21816,45.697337,0.0 -91.21868,45.697186,0.0 -91.219423,45.697052,0.0 -91.220747,45.696962,0.0 -91.221403,45.696758,0.0 -91.221701,45.696618,0.0 -91.222103,45.69634,0.0 -91.222369,45.696076,0.0 -91.222578,45.695748,0.0 -91.222764,45.695226,0.0 -91.222702,45.694727,0.0 -91.222287,45.694233,0.0 -91.221865,45.693871,0.0 -91.221067,45.693037,0.0 -91.220609,45.692897,0.0 -91.220085,45.692555,0.0 -91.219823,45.692522,0.0 -91.218328,45.692054,0.0 -91.217941,45.691676,0.0 -91.217422,45.691624,0.0 -91.216914,45.69167,0.0 -91.216583,45.691764,0.0 -91.216179,45.691722,0.0 -91.215946,45.69165,0.0 -91.215785,45.691426,0.0 -91.215611,45.690828,0.0 -91.215446,45.690526,0.0 -91.215202,45.69021,0.0 -91.214811,45.689926,0.0 -91.214659,45.689708,0.0 -91.214336,45.689533,0.0 -91.21391,45.689416,0.0 -91.213558,45.689448,0.0 -91.21267,45.68927,0.0 -91.211391,45.689318,0.0 -91.211107,45.689444,0.0 -91.210338,45.690161,0.0 -91.209835,45.69066,0.0 -91.209422,45.691198,0.0 -91.208956,45.691477,0.0 -91.208074,45.691764,0.0 -91.207285,45.69192,0.0 -91.20558,45.692163,0.0 -91.204659,45.692164,0.0 -91.204092,45.692004,0.0 -91.203273,45.691412,0.0 -91.202835,45.690969,0.0 -91.202458,45.690302,0.0 -91.202176,45.690047,0.0 -91.199943,45.688839,0.0 -91.198797,45.688366,0.0 -91.198127,45.687924,0.0 -91.197692,45.687827,0.0 -91.197483,45.687669,0.0 -91.197179,45.687535,0.0 -91.195527,45.685672,0.0 -91.194546,45.684844,0.0 -91.194378,45.684757,0.0 -91.194263,45.684443,0.0 -91.194184,45.683943,0.0 -91.194175,45.683008,0.0 -91.194281,45.682438,0.0 -91.194485,45.681993,0.0 -91.194789,45.681619,0.0 -91.195339,45.681193,0.0 -91.195844,45.680948,0.0 -91.19607,45.680628,0.0 -91.196403,45.679949,0.0 -91.196533,45.679055,0.0 -91.19645,45.678783,0.0 -91.195961,45.678589,0.0 -91.19568,45.678205,0.0 -91.195255,45.677894,0.0 -91.195409,45.677485,0.0 -91.195745,45.676967,0.0 -91.195485,45.676625,0.0 -91.195144,45.676358,0.0 -91.19493,45.67626,0.0 -91.194563,45.676004,0.0 -91.193707,45.675197,0.0 -91.193025,45.674817,0.0 -91.192644,45.674712,0.0 -91.1921,45.674649,0.0 -91.191658,45.674555,0.0 -91.191539,45.674489,0.0 -91.191156,45.67435,0.0 -91.190602,45.674422,0.0 -91.19032,45.674508,0.0 -91.189655,45.674897,0.0 -91.189489,45.675274,0.0 -91.189389,45.675699,0.0 -91.189368,45.676273,0.0 -91.189554,45.676567,0.0 -91.189523,45.676779,0.0 -91.189261,45.676996,0.0 -91.188924,45.67707,0.0 -91.188461,45.677256,0.0 -91.188062,45.677317,0.0 -91.187606,45.677288,0.0 -91.187276,45.67719,0.0 -91.186706,45.676887,0.0 -91.186452,45.676663,0.0 -91.186306,45.676433,0.0 -91.186065,45.676251,0.0 -91.185839,45.676167,0.0 -91.185489,45.676124,0.0 -91.185037,45.675888,0.0 -91.18442,45.675457,0.0 -91.184136,45.675159,0.0 -91.183865,45.674997,0.0 -91.183686,45.674822,0.0 -91.183474,45.67442,0.0 -91.18216,45.673482,0.0 -91.181974,45.673186,0.0 -91.181918,45.672876,0.0 -91.181785,45.672643,0.0 -91.181874,45.67226,0.0 -91.181858,45.671973,0.0 -91.181539,45.671081,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="10657">
+                <name>Belille Falls</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="10656">
+                    <coordinates>-91.208083,45.755541,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10659">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="10658">
+                    <coordinates>-91.181313,45.671162,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10661">
+                <name>Hydroplant</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10660">
+                    <coordinates>-91.203326,45.751775,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10663">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="10662">
+                    <coordinates>-91.204597,45.762402,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10665">
+                <name>Brunet River</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10664">
+                    <coordinates>-91.181743,45.67281,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10667">
+                <name>Drainage area: 852 Sq.Mi.</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10666">
+                    <coordinates>-91.204597,45.762402,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10669">
+                <name>Couderay River</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10668">
+                    <coordinates>-91.216633,45.738874,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="10670">
+            <name>B) Jim Falls (Pnp or up to 1.1 mile) (II-III)</name>
+            <Placemark id="10672">
+                <name>B) Jim Falls (Pnp or up to 1.1 mile) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4098/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="10671">
+                    <coordinates>-91.266599,45.060395,0.0 -91.266788,45.060224,0.0 -91.267002,45.06003,0.0 -91.268505,45.05844,0.0 -91.271286,45.056896,0.0 -91.273216,45.054946,0.0 -91.274135,45.053441,0.0 -91.274723,45.052325,0.0 -91.277181,45.049718,0.0 -91.27723,45.049653,0.0 -91.278569,45.047838,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="10674">
+                <name>Parking for Upper (Dam) Put-in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="10673">
+                    <coordinates>-91.268997,45.062,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10676">
+                <name>Alternate Put-In #2</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="10675">
+                    <coordinates>-91.274002,45.056,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10678">
+                <name>Ledge #1 + Ledge #2</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10677">
+                    <coordinates>-91.273201,45.054798,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10680">
+                <name>Take-out Parking</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10679">
+                    <coordinates>-91.279999,45.048,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10682">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="10681">
+                    <coordinates>-91.279198,45.048302,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10684">
+                <name>Final Drop</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10683">
+                    <coordinates>-91.276001,45.049999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10686">
+                <name>2nd Rapids</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10685">
+                    <coordinates>-91.274002,45.053001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10688">
+                <name>First rapids</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10687">
+                    <coordinates>-91.2724,45.055401,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10690">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10689">
+                    <coordinates>-91.275398,45.048901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10692">
+                <name>Sign in sheet location</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10691">
+                    <coordinates>-91.274002,45.055,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10694">
+                <name>Camping</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10693">
+                    <coordinates>-91.266998,45.063,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10696">
+                <name>Put-In Parking - &quot;Old Abe&quot; Wayside</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10695">
+                    <coordinates>-91.271004,45.058998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10698">
+                <name>Big Drop (3rd Rapids)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="10697">
+                    <coordinates>-91.275002,45.051998,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

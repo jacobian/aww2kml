@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="50443">
+        <name>Sandusky</name>
+        <Folder id="50444">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>2. Ballville Dam to golf course (II(III))</name>
+            <Placemark id="50446">
+                <name>2. Ballville Dam to golf course (II(III))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1478/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="50445">
+                    <coordinates>-83.134147,41.325916,0.0 -83.130358,41.326987,0.0 -83.12681,41.327322,0.0 -83.125007,41.328339,0.0 -83.123936,41.328609,0.0 -83.121022,41.328393,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="50448">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="50447">
+                    <coordinates>-83.121109,41.327221,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="50450">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="50449">
+                    <coordinates>-83.133888,41.325001,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="50451">
+            <name>1. Milldam in Tiffin to CR 38 (II-III)</name>
+            <Placemark id="50453">
+                <name>1. Milldam in Tiffin to CR 38 (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1477/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="50452">
+                    <coordinates>-83.171987,41.123369,0.0 -83.171637,41.123805,0.0 -83.170123,41.124661,0.0 -83.16889,41.124915,0.0 -83.167331,41.126019,0.0 -83.166401,41.128323,0.0 -83.165903,41.131049,0.0 -83.164795,41.13201,0.0 -83.164799,41.132452,0.0 -83.163672,41.133978,0.0 -83.162561,41.137273,0.0 -83.162043,41.137789,0.0 -83.161601,41.138817,0.0 -83.158778,41.142191,0.0 -83.158665,41.14281,0.0 -83.156569,41.144996,0.0 -83.156009,41.146201,0.0 -83.155737,41.147688,0.0 -83.156056,41.14873,0.0 -83.155928,41.150358,0.0 -83.156534,41.151681,0.0 -83.157974,41.153088,0.0 -83.158521,41.155668,0.0 -83.160014,41.157712,0.0 -83.160696,41.159547,0.0 -83.162356,41.161608,0.0 -83.163615,41.164055,0.0 -83.163608,41.165899,0.0 -83.163283,41.167679,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="50455">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="50454">
+                    <coordinates>-83.163239,41.167671,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="50457">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="50456">
+                    <coordinates>-83.172401,41.123703,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

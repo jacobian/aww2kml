@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="63548">
+        <name>Wolf Creek (LRC Tributary)</name>
+        <Folder id="63549">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Rt. 176 to Little River (V+)</name>
+            <Placemark id="63551">
+                <name>Rt. 176 to Little River (V+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3024/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="63550">
+                    <coordinates>-85.662522,34.370965,0.0 -85.662527,34.370728,0.0 -85.662514,34.370546,0.0 -85.662468,34.370414,0.0 -85.662362,34.370244,0.0 -85.662335,34.370129,0.0 -85.662315,34.36998,0.0 -85.662382,34.369711,0.0 -85.662475,34.369315,0.0 -85.662514,34.36904,0.0 -85.662588,34.368485,0.0 -85.662661,34.368155,0.0 -85.662641,34.367881,0.0 -85.662628,34.367738,0.0 -85.662581,34.367589,0.0 -85.662436,34.367336,0.0 -85.662402,34.367172,0.0 -85.662416,34.366979,0.0 -85.662409,34.366737,0.0 -85.662383,34.366528,0.0 -85.662383,34.366204,0.0 -85.662337,34.366039,0.0 -85.66231,34.365951,0.0 -85.662231,34.365819,0.0 -85.662032,34.365561,0.0 -85.661886,34.365412,0.0 -85.661767,34.365275,0.0 -85.6617,34.365165,0.0 -85.661654,34.365066,0.0 -85.661595,34.365022,0.0 -85.661548,34.364973,0.0 -85.661542,34.364786,0.0 -85.661522,34.364522,0.0 -85.661502,34.364379,0.0 -85.661469,34.364187,0.0 -85.661409,34.364016,0.0 -85.661369,34.363939,0.0 -85.661303,34.363829,0.0 -85.66129,34.363659,0.0 -85.66127,34.363488,0.0 -85.661277,34.363247,0.0 -85.661284,34.36306,0.0 -85.661363,34.362752,0.0 -85.661394,34.362629,0.0 -85.661874,34.362728,0.0 -85.662131,34.362774,0.0 -85.662305,34.362783,0.0 -85.662349,34.362782,0.0 -85.662523,34.362775,0.0 -85.662609,34.362766,0.0 -85.662695,34.362752,0.0 -85.66282,34.362722,0.0 -85.662899,34.362691,0.0 -85.66309,34.362605,0.0 -85.663169,34.362576,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="63553">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="63552">
+                    <coordinates>-85.664,34.364,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63555">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="63554">
+                    <coordinates>-85.664,34.371,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

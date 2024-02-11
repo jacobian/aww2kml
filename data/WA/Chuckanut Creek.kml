@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="10913">
+        <name>Chuckanut Creek</name>
+        <Folder id="10914">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Old Samish Road to Chuckanut Dr. (II-III)</name>
+            <Placemark id="10916">
+                <name>Old Samish Road to Chuckanut Dr. (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11574/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="10915">
+                    <coordinates>-122.46425,48.696878,0.0 -122.46446,48.696932,0.0 -122.466321,48.696932,0.0 -122.468289,48.697508,0.0 -122.470296,48.698766,0.0 -122.470952,48.699056,0.0 -122.472578,48.699354,0.0 -122.473059,48.699564,0.0 -122.473684,48.70006,0.0 -122.473753,48.700887,0.0 -122.474165,48.701067,0.0 -122.475508,48.700769,0.0 -122.476439,48.700865,0.0 -122.478239,48.701456,0.0 -122.479689,48.701662,0.0 -122.480414,48.701891,0.0 -122.483412,48.702181,0.0 -122.484862,48.702089,0.0 -122.486975,48.70175,0.0 -122.488005,48.701753,0.0 -122.488592,48.701845,0.0 -122.488813,48.701832,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="10918">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="10917">
+                    <coordinates>-122.46425,48.696878,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10920">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="10919">
+                    <coordinates>-122.488813,48.701832,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55212">
+        <name>St. Joseph (L.Michigan trib)</name>
+        <Folder id="55213">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>East Race Whitewater Course (0.35 mile) (II+)</name>
+            <Placemark id="55215">
+                <name>East Race Whitewater Course (0.35 mile) (II+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3109/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="55214">
+                    <coordinates>-86.244872,41.675748,0.0 -86.24499,41.676077,0.0 -86.245016,41.67628,0.0 -86.245122,41.676243,0.0 -86.244911,41.676255,0.0 -86.245066,41.67644,0.0 -86.24512,41.676942,0.0 -86.245094,41.677237,0.0 -86.245178,41.677401,0.0 -86.245173,41.677582,0.0 -86.245175,41.678061,0.0 -86.245326,41.67837,0.0 -86.245363,41.678643,0.0 -86.245384,41.678772,0.0 -86.245463,41.678789,0.0 -86.245455,41.678743,0.0 -86.24539,41.678811,0.0 -86.245465,41.67902,0.0 -86.245648,41.679393,0.0 -86.246048,41.679847,0.0 -86.24634,41.680332,0.0 -86.246711,41.680795,0.0 -86.246871,41.681012,0.0 -86.246925,41.681124,0.0 -86.246798,41.681182,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="55217">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="55216">
+                    <coordinates>-86.244885,41.675785,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55219">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="55218">
+                    <coordinates>-86.246798,41.681182,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55221">
+                <name>Drainage: ~3,587 sq.mi.</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="55220">
+                    <coordinates>-86.244811,41.67547,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55223">
+                <name>Trestle</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="55222">
+                    <coordinates>-86.245768,41.679529,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55225">
+                <name>Scissors Gates</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="55224">
+                    <coordinates>-86.245001,41.676166,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55227">
+                <name>Play Wave</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="55226">
+                    <coordinates>-86.245399,41.678837,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55229">
+                <name>Biggest Drop / V-Wave</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="55228">
+                    <coordinates>-86.245174,41.677394,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55231">
+                <name>Exit Wave</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="55230">
+                    <coordinates>-86.246792,41.680905,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

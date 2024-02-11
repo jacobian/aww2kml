@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="25139">
+        <name>Hyas Creek</name>
+        <Folder id="25140">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>FR 29 030 spur to SF Calawah confluence (II-III(IV))</name>
+            <Placemark id="25142">
+                <name>FR 29 030 spur to SF Calawah confluence (II-III(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2135/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="25141">
+                    <coordinates>-124.244042,47.96635,0.0 -124.244139,47.966335,0.0 -124.244265,47.966325,0.0 -124.244636,47.966226,0.0 -124.244736,47.966202,0.0 -124.245275,47.965954,0.0 -124.245379,47.965863,0.0 -124.245586,47.965725,0.0 -124.245793,47.965624,0.0 -124.24601,47.965532,0.0 -124.24621,47.965539,0.0 -124.246344,47.965663,0.0 -124.246676,47.965912,0.0 -124.246884,47.966026,0.0 -124.247067,47.966078,0.0 -124.2474,47.966218,0.0 -124.247489,47.966231,0.0 -124.247721,47.966269,0.0 -124.248338,47.96628,0.0 -124.248893,47.966292,0.0 -124.249042,47.966264,0.0 -124.249135,47.966218,0.0 -124.249181,47.966118,0.0 -124.249192,47.965875,0.0 -124.249158,47.965723,0.0 -124.249054,47.965472,0.0 -124.248986,47.965346,0.0 -124.248985,47.965212,0.0 -124.249032,47.96513,0.0 -124.24924,47.965092,0.0 -124.249594,47.965097,0.0 -124.249858,47.965058,0.0 -124.250099,47.964983,0.0 -124.250227,47.964928,0.0 -124.250352,47.964837,0.0 -124.250501,47.964691,0.0 -124.250478,47.964475,0.0 -124.250443,47.964413,0.0 -124.25034,47.964342,0.0 -124.250115,47.964214,0.0 -124.250064,47.963895,0.0 -124.250214,47.963813,0.0 -124.250452,47.963819,0.0 -124.250697,47.963807,0.0 -124.251007,47.963687,0.0 -124.251318,47.96363,0.0 -124.251833,47.963471,0.0 -124.251994,47.963424,0.0 -124.252672,47.963264,0.0 -124.253317,47.963104,0.0 -124.253694,47.962992,0.0 -124.254052,47.962907,0.0 -124.254673,47.962711,0.0 -124.255628,47.962377,0.0 -124.255857,47.96223,0.0 -124.25596,47.962085,0.0 -124.256087,47.961931,0.0 -124.256403,47.96137,0.0 -124.25649,47.961243,0.0 -124.256755,47.961069,0.0 -124.256936,47.960917,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="25144">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="25143">
+                    <coordinates>-124.257004,47.960999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="25146">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="25145">
+                    <coordinates>-124.244003,47.966099,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18233">
+        <name>Ellicott Creek</name>
+        <Folder id="18234">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Glen Falls - Williamsville (IV-V)</name>
+            <Placemark id="18236">
+                <name>Glen Falls - Williamsville (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10882/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="18235">
+                    <coordinates>-78.744934,42.962054,0.0 -78.744654,42.962228,0.0 -78.743565,42.962572,0.0 -78.74366,42.963167,0.0 -78.744379,42.964858,0.0 -78.744659,42.965018,0.0 -78.745068,42.965124,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="18238">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="18237">
+                    <coordinates>-78.7451,42.965,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18240">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="18239">
+                    <coordinates>-78.7449,42.962,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

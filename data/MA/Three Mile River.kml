@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="57957">
+        <name>Three Mile River</name>
+        <Folder id="57958">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Cohannet Bridge to Bird Sanctuary (I-II)</name>
+            <Placemark id="57960">
+                <name>Cohannet Bridge to Bird Sanctuary (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11292/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="57959">
+                    <coordinates>-71.134089,41.885954,0.0 -71.134125,41.885945,0.0 -71.134189,41.885945,0.0 -71.134425,41.885905,0.0 -71.134586,41.885849,0.0 -71.134801,41.885753,0.0 -71.134908,41.885649,0.0 -71.134908,41.885554,0.0 -71.134855,41.885482,0.0 -71.134704,41.885338,0.0 -71.134651,41.885162,0.0 -71.134661,41.885066,0.0 -71.134747,41.884915,0.0 -71.134747,41.884915,0.0 -71.134583,41.884427,0.0 -71.134583,41.884427,0.0 -71.134468,41.884084,0.0 -71.134382,41.883924,0.0 -71.134166,41.883634,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="57962">
+                <name>Wood Stock (I)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="57961">
+                    <coordinates>-71.134689,41.885016,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57964">
+                <name>Bridge Wave (I)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="57963">
+                    <coordinates>-71.13409,41.88587,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57966">
+                <name>Bird House &quot;Rapid&quot; (I)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="57965">
+                    <coordinates>-71.134664,41.885773,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57968">
+                <name>Sore Gap (II)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="57967">
+                    <coordinates>-71.134762,41.885345,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57970">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="57969">
+                    <coordinates>-71.134089,41.885954,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57972">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="57971">
+                    <coordinates>-71.134166,41.883634,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="35121">
+        <name>Mole Creek</name>
+        <Folder id="35122">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Heritage Court to Ozaukee Interurban Trail Bridge (1.07 mile) (I-II)</name>
+            <Placemark id="35124">
+                <name>Heritage Court to Ozaukee Interurban Trail Bridge (1.07 mile) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11422/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="35123">
+                    <coordinates>-87.960239,43.339481,0.0 -87.960333,43.339299,0.0 -87.960213,43.339071,0.0 -87.960174,43.338887,0.0 -87.95989,43.338724,0.0 -87.959819,43.338516,0.0 -87.959719,43.338286,0.0 -87.959422,43.338225,0.0 -87.959094,43.338103,0.0 -87.959006,43.337826,0.0 -87.958913,43.33771,0.0 -87.958985,43.33759,0.0 -87.958771,43.337416,0.0 -87.958549,43.337357,0.0 -87.958371,43.337223,0.0 -87.958112,43.337129,0.0 -87.957905,43.337038,0.0 -87.95787,43.336904,0.0 -87.957575,43.336829,0.0 -87.95745,43.33672,0.0 -87.957275,43.336721,0.0 -87.956997,43.33661,0.0 -87.956748,43.33666,0.0 -87.956403,43.336637,0.0 -87.956211,43.336626,0.0 -87.956048,43.336413,0.0 -87.955864,43.336318,0.0 -87.95582,43.336166,0.0 -87.95566,43.336032,0.0 -87.955172,43.336006,0.0 -87.954799,43.336053,0.0 -87.954558,43.336128,0.0 -87.954147,43.335999,0.0 -87.953691,43.335905,0.0 -87.953389,43.336065,0.0 -87.95332,43.336118,0.0 -87.953326,43.336182,0.0 -87.953324,43.336343,0.0 -87.953134,43.336454,0.0 -87.952728,43.33641,0.0 -87.952245,43.336248,0.0 -87.951874,43.336082,0.0 -87.951438,43.336023,0.0 -87.95089,43.336094,0.0 -87.95063,43.33608,0.0 -87.950222,43.336197,0.0 -87.950017,43.336235,0.0 -87.949832,43.336393,0.0 -87.949664,43.336458,0.0 -87.949659,43.33656,0.0 -87.949424,43.336799,0.0 -87.9494,43.3369,0.0 -87.949199,43.337018,0.0 -87.949023,43.337177,0.0 -87.94893,43.337234,0.0 -87.948822,43.337365,0.0 -87.948466,43.337178,0.0 -87.94824,43.336934,0.0 -87.94792,43.336237,0.0 -87.947785,43.335731,0.0 -87.947514,43.335344,0.0 -87.947266,43.3351,0.0 -87.947092,43.334795,0.0 -87.946928,43.33421,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="35126">
+                <name>Cedar Creek Road (Culvert)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35125">
+                    <coordinates>-87.959078,43.338053,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35128">
+                <name>9th Avenue (culvert)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35127">
+                    <coordinates>-87.955363,43.336016,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35130">
+                <name>Railroad</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35129">
+                    <coordinates>-87.951741,43.336064,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35132">
+                <name>N.Green Bay Road (CTH.O)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35131">
+                    <coordinates>-87.949579,43.336641,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35134">
+                <name>PRIVATE PROPERTY BEGINS HERE</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35133">
+                    <coordinates>-87.952795,43.33642,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35136">
+                <name>Take-out</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35135">
+                    <coordinates>-87.946928,43.33421,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35138">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="35137">
+                    <coordinates>-87.960239,43.339481,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35140">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35139">
+                    <coordinates>-87.946928,43.33421,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

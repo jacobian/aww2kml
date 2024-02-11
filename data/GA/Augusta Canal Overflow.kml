@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1538">
+        <name>Augusta Canal Overflow</name>
+        <Folder id="1539">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Augusta Canal Pump Station (III-V)</name>
+            <Placemark id="1541">
+                <name>Augusta Canal Pump Station (III-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4118/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="1540">
+                    <coordinates>-81.997082,33.498318,0.0 -81.997073,33.498264,0.0 -81.997006,33.497991,0.0 -81.996968,33.497855,0.0 -81.996962,33.497821,0.0 -81.996943,33.497753,0.0 -81.996933,33.497685,0.0 -81.996866,33.497412,0.0 -81.996854,33.497378,0.0 -81.996842,33.49731,0.0 -81.996795,33.497139,0.0 -81.996751,33.497005,0.0 -81.996749,33.496969,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="1543">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="1542">
+                    <coordinates>-81.9972,33.4983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1545">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="1544">
+                    <coordinates>-81.997,33.4969,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

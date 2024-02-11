@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="35461">
+        <name>Moodna Creek</name>
+        <Folder id="35462">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="11">
+                <IconStyle id="10">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="9">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Pleasant Hlll Road to 9W (II-IV)</name>
+            <Placemark id="35464">
+                <name>Pleasant Hlll Road to 9W (II-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1350/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="35463">
+                    <coordinates>-74.073188,41.40941,0.0 -74.072657,41.409261,0.0 -74.071927,41.409196,0.0 -74.071627,41.409293,0.0 -74.070897,41.410001,0.0 -74.06991,41.410677,0.0 -74.069052,41.411707,0.0 -74.068623,41.412801,0.0 -74.068065,41.413316,0.0 -74.067292,41.41425,0.0 -74.066391,41.414861,0.0 -74.065619,41.415183,0.0 -74.065146,41.415569,0.0 -74.064975,41.415794,0.0 -74.064674,41.415988,0.0 -74.064288,41.416084,0.0 -74.063215,41.416213,0.0 -74.062614,41.416181,0.0 -74.062185,41.416309,0.0 -74.060855,41.416824,0.0 -74.058924,41.417307,0.0 -74.058452,41.417532,0.0 -74.05755,41.418272,0.0 -74.057422,41.418787,0.0 -74.057422,41.419334,0.0 -74.057207,41.420847,0.0 -74.056907,41.421909,0.0 -74.056778,41.422874,0.0 -74.056778,41.423518,0.0 -74.056563,41.42458,0.0 -74.055748,41.426318,0.0 -74.055448,41.426832,0.0 -74.054589,41.427991,0.0 -74.054503,41.428216,0.0 -74.054418,41.429053,0.0 -74.054461,41.42931,0.0 -74.054589,41.429535,0.0 -74.05489,41.429696,0.0 -74.05519,41.429986,0.0 -74.055448,41.430501,0.0 -74.055576,41.430919,0.0 -74.055662,41.432174,0.0 -74.055576,41.432817,0.0 -74.055576,41.432817,0.0 -74.055276,41.433107,0.0 -74.055018,41.433203,0.0 -74.054675,41.433236,0.0 -74.053731,41.433139,0.0 -74.053516,41.433236,0.0 -74.053388,41.433396,0.0 -74.053345,41.433525,0.0 -74.053388,41.433718,0.0 -74.053473,41.433879,0.0 -74.053946,41.434329,0.0 -74.054117,41.434844,0.0 -74.053903,41.435649,0.0 -74.05386,41.435713,0.0 -74.053516,41.435809,0.0 -74.053473,41.435874,0.0 -74.053345,41.436646,0.0 -74.053388,41.436807,0.0 -74.053645,41.437064,0.0 -74.053516,41.437579,0.0 -74.053216,41.438383,0.0 -74.052958,41.438802,0.0 -74.052873,41.439059,0.0 -74.052916,41.439734,0.0 -74.052916,41.441504,0.0 -74.053001,41.441922,0.0 -74.05283,41.44234,0.0 -74.052486,41.442952,0.0 -74.052529,41.44308,0.0 -74.052401,41.443338,0.0 -74.052143,41.443724,0.0 -74.0518,41.443949,0.0 -74.051285,41.444238,0.0 -74.050984,41.444303,0.0 -74.049911,41.444367,0.0 -74.048967,41.444528,0.0 -74.048839,41.444592,0.0 -74.048753,41.445493,0.0 -74.048581,41.446008,0.0 -74.048409,41.446361,0.0 -74.04798,41.447616,0.0 -74.048152,41.448452,0.0 -74.04798,41.449192,0.0 -74.047337,41.450447,0.0 -74.046993,41.450961,0.0 -74.046564,41.451476,0.0 -74.045706,41.45228,0.0 -74.045362,41.452763,0.0 -74.045234,41.453277,0.0 -74.045234,41.453856,0.0 -74.04532,41.453888,0.0 -74.045577,41.453663,0.0 -74.045663,41.453502,0.0 -74.045663,41.453277,0.0 -74.045749,41.453342,0.0 -74.045749,41.453342,0.0 -74.045835,41.453535,0.0 -74.045792,41.453695,0.0 -74.044633,41.45466,0.0 -74.044161,41.454886,0.0 -74.043474,41.454982,0.0 -74.043131,41.45495,0.0 -74.042745,41.454821,0.0 -74.042401,41.454821,0.0 -74.0418,41.454982,0.0 -74.040642,41.455529,0.0 -74.040427,41.45569,0.0 -74.040127,41.456076,0.0 -74.039998,41.456172,0.0 -74.039955,41.456687,0.0 -74.03944,41.457298,0.0 -74.039097,41.457523,0.0 -74.038796,41.457587,0.0 -74.038153,41.457491,0.0 -74.03708,41.457684,0.0 -74.036479,41.457555,0.0 -74.035878,41.457298,0.0 -74.035234,41.456815,0.0 -74.035106,41.456815,0.0 -74.034548,41.45733,0.0 -74.033732,41.457587,0.0 -74.033518,41.457587,0.0 -74.033089,41.457362,0.0 -74.03223,41.457233,0.0 -74.031844,41.457362,0.0 -74.030986,41.457845,0.0 -74.0306,41.458134,0.0 -74.030256,41.458649,0.0 -74.029999,41.458777,0.0 -74.029098,41.459163,0.0 -74.028411,41.459356,0.0 -74.028196,41.459453,0.0 -74.028153,41.459646,0.0 -74.027982,41.459774,0.0 -74.027596,41.459903,0.0 -74.027166,41.459871,0.0 -74.026866,41.459903,0.0 -74.026136,41.46016,0.0 -74.026136,41.46016,0.0 -74.02545,41.460128,0.0 -74.024763,41.459967,0.0 -74.024034,41.459613,0.0 -74.024032,41.459612,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="35466">
+                <name>Route 32 bridge dam /gorge put in (II+)</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="35465">
+                    <coordinates>-74.054181,41.432857,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35468">
+                <name>Hell's Teeth (IV)</name>
+                <styleUrl>#11</styleUrl>
+                <Point id="35467">
+                    <coordinates>-74.053269,41.436024,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35470">
+                <name>New Windsor Building and Grounds Building Alternate pullout (II)</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35469">
+                    <coordinates>-74.023876,41.459487,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35472">
+                <name>Root Ball (III)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35471">
+                    <coordinates>-74.042981,41.454804,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35474">
+                <name>Putin</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="35473">
+                    <coordinates>-74.073338,41.408881,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35476">
+                <name>Hemlock (II+)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="35475">
+                    <coordinates>-74.048576,41.445727,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35478">
+                <name>Former Jaws (under the bridge)/normal pullout (II)</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35477">
+                    <coordinates>-74.039586,41.456823,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35480">
+                <name>Factory ending with undercut retaining wall (III)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="35479">
+                    <coordinates>-74.074501,41.444334,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35482">
+                <name>2nd Dam (II+)</name>
+                <styleUrl>#11</styleUrl>
+                <Point id="35481">
+                    <coordinates>-74.052565,41.441868,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35484">
+                <name>Lumber Yard  (III)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35483">
+                    <coordinates>-74.053552,41.43295,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35486">
+                <name>Mike's Peril (II+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="35485">
+                    <coordinates>-74.045791,41.452484,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35488">
+                <name>Irene (III)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="35487">
+                    <coordinates>-74.052764,41.442404,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35490">
+                <name>Low head dam with recirc below rapid below forge hill road bridge (III)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="35489">
+                    <coordinates>-74.036701,41.457241,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

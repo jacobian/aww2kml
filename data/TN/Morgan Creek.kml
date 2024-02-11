@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="35693">
+        <name>Morgan Creek</name>
+        <Folder id="35694">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Snow Falls to Laurel-Snow Parking Lot (V)</name>
+            <Placemark id="35696">
+                <name>Snow Falls to Laurel-Snow Parking Lot (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2966/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="35695">
+                    <coordinates>-85.038689,35.546554,0.0 -85.038778,35.546445,0.0 -85.038933,35.546171,0.0 -85.039087,35.54605,0.0 -85.039309,35.545786,0.0 -85.039484,35.545495,0.0 -85.039753,35.545237,0.0 -85.040049,35.544979,0.0 -85.040251,35.544682,0.0 -85.040291,35.544506,0.0 -85.040238,35.544226,0.0 -85.040123,35.543984,0.0 -85.039754,35.54338,0.0 -85.039371,35.543165,0.0 -85.039149,35.542901,0.0 -85.039021,35.54261,0.0 -85.038981,35.542292,0.0 -85.039169,35.541885,0.0 -85.039223,35.541396,0.0 -85.039385,35.540967,0.0 -85.039425,35.540764,0.0 -85.039392,35.540577,0.0 -85.039278,35.540412,0.0 -85.038962,35.540226,0.0 -85.038572,35.539775,0.0 -85.038216,35.539253,0.0 -85.037967,35.538973,0.0 -85.037826,35.538863,0.0 -85.037564,35.538714,0.0 -85.037114,35.538401,0.0 -85.03669,35.537983,0.0 -85.036334,35.537703,0.0 -85.036011,35.537511,0.0 -85.035608,35.537307,0.0 -85.035548,35.53723,0.0 -85.035077,35.53695,0.0 -85.034775,35.536697,0.0 -85.034291,35.536406,0.0 -85.033854,35.536224,0.0 -85.033511,35.535961,0.0 -85.033128,35.535598,0.0 -85.032813,35.535241,0.0 -85.032604,35.534785,0.0 -85.032497,35.534592,0.0 -85.032396,35.534466,0.0 -85.032168,35.534284,0.0 -85.03163,35.534136,0.0 -85.031395,35.534108,0.0 -85.031247,35.534114,0.0 -85.03089,35.534185,0.0 -85.030568,35.534147,0.0 -85.030077,35.533954,0.0 -85.029862,35.533905,0.0 -85.02964,35.533916,0.0 -85.029055,35.534031,0.0 -85.028518,35.534031,0.0 -85.028135,35.533948,0.0 -85.027839,35.533844,0.0 -85.027516,35.533811,0.0 -85.026985,35.533827,0.0 -85.026703,35.533898,0.0 -85.026441,35.534036,0.0 -85.026205,35.5342,0.0 -85.025869,35.534486,0.0 -85.025634,35.534563,0.0 -85.025289,35.534535,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="35698">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35697">
+                    <coordinates>-85.0253,35.5344,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35700">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="35699">
+                    <coordinates>-85.0385,35.5464,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

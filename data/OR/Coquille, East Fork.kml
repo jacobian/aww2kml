@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13397">
+        <name>Coquille, East Fork</name>
+        <Folder id="13398">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Brewster Canyon from Sitkum Bridge (V)</name>
+            <Placemark id="13400">
+                <name>Brewster Canyon from Sitkum Bridge (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10454/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="13399">
+                    <coordinates>-123.885011,43.147146,0.0 -123.88529,43.147205,0.0 -123.885724,43.147453,0.0 -123.88603,43.147798,0.0 -123.88629,43.147953,0.0 -123.887152,43.147978,0.0 -123.887581,43.14788,0.0 -123.888657,43.147903,0.0 -123.889047,43.148058,0.0 -123.889784,43.148462,0.0 -123.890303,43.148584,0.0 -123.890431,43.14852,0.0 -123.891033,43.148452,0.0 -123.891545,43.148196,0.0 -123.891844,43.147973,0.0 -123.8921,43.147877,0.0 -123.892933,43.147743,0.0 -123.893131,43.147711,0.0 -123.893774,43.147517,0.0 -123.894677,43.147478,0.0 -123.894806,43.147553,0.0 -123.895242,43.147821,0.0 -123.895678,43.148195,0.0 -123.896028,43.148634,0.0 -123.89629,43.148821,0.0 -123.896679,43.148944,0.0 -123.89698,43.148942,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="13402">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="13401">
+                    <coordinates>-123.897,43.1488,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="13404">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="13403">
+                    <coordinates>-123.885,43.1472,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="33978">
+        <name>Michigamme</name>
+        <Folder id="33979">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>C) Witbeck Rapids (3.78 miles) (I-II)</name>
+            <Placemark id="33981">
+                <name>C) Witbeck Rapids (3.78 miles) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4324/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="33980">
+                    <coordinates>-87.978744,46.293837,0.0 -87.978903,46.293588,0.0 -87.979166,46.293405,0.0 -87.979363,46.292948,0.0 -87.979428,46.292239,0.0 -87.979526,46.291942,0.0 -87.979393,46.291256,0.0 -87.979195,46.290959,0.0 -87.978732,46.290571,0.0 -87.978666,46.29048,0.0 -87.978303,46.290206,0.0 -87.97761,46.289841,0.0 -87.977576,46.289269,0.0 -87.977674,46.28904,0.0 -87.977707,46.288583,0.0 -87.977936,46.287989,0.0 -87.978825,46.287279,0.0 -87.979549,46.286456,0.0 -87.979713,46.285976,0.0 -87.979711,46.285153,0.0 -87.979546,46.284787,0.0 -87.979478,46.284033,0.0 -87.979577,46.283736,0.0 -87.979576,46.283324,0.0 -87.979276,46.281907,0.0 -87.979078,46.28145,0.0 -87.978615,46.281017,0.0 -87.978087,46.280697,0.0 -87.976932,46.280058,0.0 -87.976239,46.279624,0.0 -87.97604,46.279167,0.0 -87.976004,46.277133,0.0 -87.975739,46.276745,0.0 -87.974551,46.275946,0.0 -87.974485,46.275534,0.0 -87.974583,46.275329,0.0 -87.975077,46.274917,0.0 -87.975504,46.274322,0.0 -87.975635,46.273933,0.0 -87.975698,46.272402,0.0 -87.975499,46.271442,0.0 -87.975202,46.271236,0.0 -87.974872,46.271054,0.0 -87.973817,46.270849,0.0 -87.973256,46.270667,0.0 -87.972992,46.270416,0.0 -87.972991,46.269981,0.0 -87.973123,46.269821,0.0 -87.973287,46.269707,0.0 -87.973848,46.26966,0.0 -87.974309,46.269889,0.0 -87.974672,46.26998,0.0 -87.975134,46.269979,0.0 -87.975496,46.269705,0.0 -87.975495,46.269179,0.0 -87.975724,46.268607,0.0 -87.975723,46.267624,0.0 -87.975854,46.267236,0.0 -87.976215,46.266641,0.0 -87.976906,46.265795,0.0 -87.976971,46.265292,0.0 -87.976476,46.265018,0.0 -87.9743,46.264929,0.0 -87.972784,46.264701,0.0 -87.971598,46.264702,0.0 -87.971235,46.264885,0.0 -87.971006,46.265434,0.0 -87.970875,46.265914,0.0 -87.970644,46.266189,0.0 -87.970249,46.266212,0.0 -87.969985,46.266167,0.0 -87.969655,46.265984,0.0 -87.968929,46.265345,0.0 -87.96883,46.265322,0.0 -87.968797,46.265139,0.0 -87.968731,46.265025,0.0 -87.968664,46.264705,0.0 -87.968829,46.264476,0.0 -87.969125,46.264316,0.0 -87.970871,46.263949,0.0 -87.973275,46.263032,0.0 -87.974,46.262849,0.0 -87.97545,46.262779,0.0 -87.976933,46.262938,0.0 -87.977395,46.262891,0.0 -87.978218,46.262456,0.0 -87.979172,46.26177,0.0 -87.979896,46.260992,0.0 -87.979895,46.260649,0.0 -87.979235,46.260215,0.0 -87.978081,46.259874,0.0 -87.977586,46.259577,0.0 -87.977487,46.259463,0.0 -87.977487,46.259234,0.0 -87.977618,46.258891,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="33983">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="33982">
+                    <coordinates>-87.977203,46.258598,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33985">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="33984">
+                    <coordinates>-87.978996,46.293999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33987">
+                <name>Second Wind</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33986">
+                    <coordinates>-87.975502,46.273102,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33989">
+                <name>Rapids begin</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33988">
+                    <coordinates>-87.978104,46.290298,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33991">
+                <name>Take-out</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33990">
+                    <coordinates>-87.977089,46.25856,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="33992">
+            <name>B) Republic Dam to Poplar Street landing (2 miles) (I-II)</name>
+            <Placemark id="33994">
+                <name>B) Republic Dam to Poplar Street landing (2 miles) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10799/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="33993">
+                    <coordinates>-87.985885,46.388754,0.0 -87.984694,46.38562,0.0 -87.984546,46.385479,0.0 -87.984143,46.385186,0.0 -87.983254,46.385007,0.0 -87.982591,46.384461,0.0 -87.981325,46.384386,0.0 -87.979985,46.38342,0.0 -87.977076,46.383376,0.0 -87.976202,46.383071,0.0 -87.975209,46.382252,0.0 -87.975074,46.381864,0.0 -87.975301,46.381497,0.0 -87.974157,46.380416,0.0 -87.973299,46.379985,0.0 -87.972213,46.379921,0.0 -87.971444,46.380256,0.0 -87.970721,46.380214,0.0 -87.970058,46.379668,0.0 -87.969307,46.378356,0.0 -87.969517,46.376574,0.0 -87.969551,46.376477,0.0 -87.969748,46.375837,0.0 -87.969946,46.375723,0.0 -87.971068,46.375425,0.0 -87.972224,46.375309,0.0 -87.973016,46.375149,0.0 -87.97328,46.374943,0.0 -87.973246,46.374348,0.0 -87.973443,46.373937,0.0 -87.975157,46.37229,0.0 -87.975586,46.371946,0.0 -87.976411,46.371626,0.0 -87.976971,46.371168,0.0 -87.977102,46.370665,0.0 -87.977035,46.370139,0.0 -87.976274,46.369157,0.0 -87.976042,46.368769,0.0 -87.976009,46.368707,0.0 -87.975989,46.368679,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="33996">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="33995">
+                    <coordinates>-87.9761,46.3686,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33998">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="33997">
+                    <coordinates>-87.9855,46.3889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34000">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="33999">
+                    <coordinates>-87.980103,46.384102,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34002">
+                <name>First narrow rapids</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="34001">
+                    <coordinates>-87.969498,46.378899,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34004">
+                <name>Second Chute</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="34003">
+                    <coordinates>-87.974197,46.373299,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="34005">
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>A) Moose Rapids: Lake Michigamme to Moose River CG (2.5 miles) (I-II)</name>
+            <Placemark id="34007">
+                <name>A) Moose Rapids: Lake Michigamme to Moose River CG (2.5 miles) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4171/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="34006">
+                    <coordinates>-88.071568,46.483739,0.0 -88.071644,46.480157,0.0 -88.073486,46.47849,0.0 -88.074151,46.477514,0.0 -88.075328,46.476822,0.0 -88.076354,46.475354,0.0 -88.07654,46.475296,0.0 -88.076871,46.474907,0.0 -88.077501,46.473833,0.0 -88.077535,46.472988,0.0 -88.077336,46.472759,0.0 -88.076741,46.472119,0.0 -88.076477,46.47173,0.0 -88.076378,46.471341,0.0 -88.076412,46.469696,0.0 -88.076281,46.46917,0.0 -88.076115,46.468941,0.0 -88.076115,46.468873,0.0 -88.075884,46.468576,0.0 -88.075818,46.468438,0.0 -88.074893,46.467592,0.0 -88.074727,46.467295,0.0 -88.074761,46.466609,0.0 -88.074596,46.466107,0.0 -88.074431,46.465809,0.0 -88.074332,46.465512,0.0 -88.074134,46.465238,0.0 -88.073605,46.464826,0.0 -88.07344,46.464735,0.0 -88.07336,46.464731,0.0 -88.072057,46.464591,0.0 -88.071725,46.464319,0.0 -88.071394,46.464046,0.0 -88.0715,46.463165,0.0 -88.071077,46.462126,0.0 -88.071546,46.459745,0.0 -88.071214,46.459473,0.0 -88.07129,46.458843,0.0 -88.072105,46.45813,0.0 -88.072302,46.456494,0.0 -88.071689,46.455917,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="34009">
+                <name>apparent rapids</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="34008">
+                    <coordinates>-88.075798,46.469002,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34011">
+                <name>apparent rapids</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="34010">
+                    <coordinates>-88.076401,46.475101,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34013">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="34012">
+                    <coordinates>-88.0718,46.455799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34015">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="34014">
+                    <coordinates>-88.0746,46.466599,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34017">
+                <name>Put-in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="34016">
+                    <coordinates>-88.069702,46.4837,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34019">
+                <name>Campground Take-out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="34018">
+                    <coordinates>-88.072146,46.457793,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

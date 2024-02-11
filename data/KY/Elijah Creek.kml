@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17858">
+        <name>Elijah Creek</name>
+        <Folder id="17859">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Hwy 20 to River Rd (III+)</name>
+            <Placemark id="17861">
+                <name>Hwy 20 to River Rd (III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11600/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="17860">
+                    <coordinates>-84.685051,39.079588,0.0 -84.685296,39.07968,0.0 -84.68606,39.079794,0.0 -84.68606,39.079794,0.0 -84.68694,39.080137,0.0 -84.687469,39.080205,0.0 -84.688643,39.08009,0.0 -84.689083,39.079998,0.0 -84.689611,39.080044,0.0 -84.690052,39.080387,0.0 -84.690522,39.081187,0.0 -84.691022,39.081576,0.0 -84.691345,39.081667,0.0 -84.693017,39.081392,0.0 -84.693487,39.081414,0.0 -84.694368,39.081597,0.0 -84.695307,39.081939,0.0 -84.695895,39.08242,0.0 -84.69616,39.08338,0.0 -84.696425,39.083883,0.0 -84.696454,39.084272,0.0 -84.695956,39.084959,0.0 -84.696074,39.085394,0.0 -84.696456,39.085782,0.0 -84.697131,39.086262,0.0 -84.697278,39.086491,0.0 -84.697132,39.087086,0.0 -84.697162,39.087406,0.0 -84.697309,39.087475,0.0 -84.69816,39.087337,0.0 -84.698424,39.08736,0.0 -84.69863,39.087474,0.0 -84.698719,39.089098,0.0 -84.698426,39.089716,0.0 -84.698133,39.090105,0.0 -84.698163,39.09054,0.0 -84.69878,39.091386,0.0 -84.699368,39.09198,0.0 -84.69978,39.093238,0.0 -84.700221,39.093696,0.0 -84.700867,39.094061,0.0 -84.701132,39.094542,0.0 -84.701664,39.097996,0.0 -84.701606,39.098888,0.0 -84.701401,39.099277,0.0 -84.70014,39.10033,0.0 -84.699759,39.101177,0.0 -84.699583,39.101337,0.0 -84.698996,39.101475,0.0 -84.697997,39.101521,0.0 -84.69744,39.10175,0.0 -84.697273,39.101887,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="17863">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="17862">
+                    <coordinates>-84.685051,39.079588,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="17865">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="17864">
+                    <coordinates>-84.697273,39.101887,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

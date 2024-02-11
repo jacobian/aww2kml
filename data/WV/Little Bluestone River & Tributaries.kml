@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="30037">
+        <name>Little Bluestone River &amp; Tributaries</name>
+        <Folder id="30038">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Cr 27 bridge to Bluestone River (II-III+)</name>
+            <Placemark id="30040">
+                <name>Cr 27 bridge to Bluestone River (II-III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4164/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="30039">
+                    <coordinates>-80.986995,37.608034,0.0 -80.985321,37.608219,0.0 -80.984726,37.608381,0.0 -80.984023,37.608292,0.0 -80.982849,37.608226,0.0 -80.982382,37.608091,0.0 -80.981442,37.607731,0.0 -80.980705,37.607382,0.0 -80.980468,37.607203,0.0 -80.98015,37.606963,0.0 -80.979736,37.606745,0.0 -80.979727,37.606738,0.0 -80.978969,37.606192,0.0 -80.978691,37.606072,0.0 -80.978674,37.606068,0.0 -80.977997,37.605905,0.0 -80.97757,37.605705,0.0 -80.977316,37.605413,0.0 -80.977047,37.604665,0.0 -80.976899,37.604447,0.0 -80.976639,37.604245,0.0 -80.976005,37.603903,0.0 -80.975719,37.603682,0.0 -80.975472,37.603393,0.0 -80.975248,37.602934,0.0 -80.974942,37.602463,0.0 -80.974117,37.601668,0.0 -80.973904,37.601398,0.0 -80.97375,37.600923,0.0 -80.973821,37.600222,0.0 -80.973781,37.599801,0.0 -80.973467,37.599257,0.0 -80.973094,37.598925,0.0 -80.972651,37.598572,0.0 -80.972367,37.59817,0.0 -80.972087,37.597576,0.0 -80.971813,37.596646,0.0 -80.9717,37.595873,0.0 -80.97166,37.593878,0.0 -80.971792,37.592771,0.0 -80.972188,37.591357,0.0 -80.971794,37.590416,0.0 -80.97115,37.589778,0.0 -80.971015,37.589554,0.0 -80.970947,37.589242,0.0 -80.970989,37.588784,0.0 -80.971145,37.588197,0.0 -80.971246,37.58804,0.0 -80.971666,37.587675,0.0 -80.971702,37.58697,0.0 -80.972109,37.585749,0.0 -80.97213,37.585327,0.0 -80.971651,37.584714,0.0 -80.97123,37.584509,0.0 -80.970612,37.583898,0.0 -80.970294,37.583677,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="30042">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="30041">
+                    <coordinates>-80.970627,37.583199,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="30044">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="30043">
+                    <coordinates>-80.986984,37.607937,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

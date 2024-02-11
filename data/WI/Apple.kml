@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1085">
+        <name>Apple</name>
+        <Folder id="1086">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>A) Little Falls to Pike Hole (2.2 miles) (II)</name>
+            <Placemark id="1088">
+                <name>A) Little Falls to Pike Hole (2.2 miles) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4102/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="1087">
+                    <coordinates>-92.402701,45.263974,0.0 -92.402703,45.263921,0.0 -92.402841,45.263412,0.0 -92.403084,45.26287,0.0 -92.403499,45.262402,0.0 -92.403735,45.26216,0.0 -92.403926,45.261996,0.0 -92.404089,45.261888,0.0 -92.404548,45.261774,0.0 -92.404734,45.261742,0.0 -92.404892,45.261738,0.0 -92.405557,45.261836,0.0 -92.406344,45.262028,0.0 -92.406859,45.262303,0.0 -92.407295,45.262566,0.0 -92.40755,45.262776,0.0 -92.407645,45.262928,0.0 -92.407658,45.263213,0.0 -92.407648,45.263464,0.0 -92.407596,45.263626,0.0 -92.407542,45.263745,0.0 -92.407519,45.263906,0.0 -92.40773,45.264229,0.0 -92.407881,45.264525,0.0 -92.408123,45.264876,0.0 -92.408358,45.265073,0.0 -92.408501,45.265181,0.0 -92.408748,45.265204,0.0 -92.409201,45.26518,0.0 -92.40956,45.265257,0.0 -92.410235,45.265124,0.0 -92.410572,45.265165,0.0 -92.410772,45.265224,0.0 -92.411332,45.26563,0.0 -92.411487,45.265794,0.0 -92.411579,45.266099,0.0 -92.411655,45.266501,0.0 -92.411586,45.266977,0.0 -92.411467,45.267181,0.0 -92.411404,45.267329,0.0 -92.41149,45.267501,0.0 -92.411552,45.26757,0.0 -92.411762,45.267628,0.0 -92.41195,45.267645,0.0 -92.41229,45.267735,0.0 -92.413105,45.268122,0.0 -92.413202,45.268156,0.0 -92.413427,45.268194,0.0 -92.41383,45.268233,0.0 -92.413976,45.268262,0.0 -92.414059,45.268279,0.0 -92.414061,45.26828,0.0 -92.414145,45.268298,0.0 -92.414192,45.26831,0.0 -92.414304,45.268373,0.0 -92.41451,45.268648,0.0 -92.414681,45.268737,0.0 -92.415536,45.26936,0.0 -92.415763,45.269592,0.0 -92.415889,45.269771,0.0 -92.416561,45.270488,0.0 -92.416653,45.270786,0.0 -92.416689,45.270952,0.0 -92.416501,45.271402,0.0 -92.416459,45.27157,0.0 -92.416533,45.271673,0.0 -92.416756,45.271815,0.0 -92.416942,45.272013,0.0 -92.417659,45.272869,0.0 -92.417983,45.273287,0.0 -92.418165,45.273402,0.0 -92.418506,45.273513,0.0 -92.420603,45.274089,0.0 -92.421677,45.274282,0.0 -92.422087,45.274406,0.0 -92.422389,45.274553,0.0 -92.423041,45.27502,0.0 -92.423407,45.27527,0.0 -92.423679,45.275403,0.0 -92.423949,45.275488,0.0 -92.424137,45.275498,0.0 -92.424507,45.275393,0.0 -92.425122,45.274989,0.0 -92.425337,45.274713,0.0 -92.425677,45.273661,0.0 -92.425926,45.273481,0.0 -92.426261,45.273474,0.0 -92.426452,45.27354,0.0 -92.426616,45.273689,0.0 -92.426865,45.274451,0.0 -92.427034,45.274705,0.0 -92.427246,45.274812,0.0 -92.427415,45.274836,0.0 -92.427642,45.274831,0.0 -92.428428,45.27461,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="1090">
+                <name>Pike Hole (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="1089">
+                    <coordinates>-92.428001,45.275002,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1092">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="1091">
+                    <coordinates>-92.4282,45.2738,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1094">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="1093">
+                    <coordinates>-92.40308,45.26399,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1096">
+                <name>Little Falls</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="1095">
+                    <coordinates>-92.429001,45.275002,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="1097">
+            <name>C) Apple River Falls (0.55 mile) (II-III)</name>
+            <Placemark id="1099">
+                <name>C) Apple River Falls (0.55 mile) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10728/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="1098">
+                    <coordinates>-92.710025,45.156309,0.0 -92.710398,45.156414,0.0 -92.710592,45.156487,0.0 -92.710646,45.156518,0.0 -92.710832,45.156591,0.0 -92.711205,45.156776,0.0 -92.711973,45.157129,0.0 -92.712073,45.157183,0.0 -92.712159,45.157269,0.0 -92.712353,45.157531,0.0 -92.712415,45.157639,0.0 -92.712415,45.157747,0.0 -92.712283,45.157837,0.0 -92.712128,45.157917,0.0 -92.712035,45.157985,0.0 -92.711949,45.158065,0.0 -92.711919,45.158115,0.0 -92.711911,45.158155,0.0 -92.712004,45.158385,0.0 -92.712089,45.158502,0.0 -92.712315,45.158629,0.0 -92.712423,45.158679,0.0 -92.712756,45.158778,0.0 -92.713067,45.15882,0.0 -92.713796,45.158844,0.0 -92.714269,45.158827,0.0 -92.715091,45.158888,0.0 -92.715704,45.158988,0.0 -92.715937,45.159016,0.0 -92.715991,45.159012,0.0 -92.716123,45.158971,0.0 -92.7162,45.158922,0.0 -92.71627,45.158841,0.0 -92.71644,45.158702,0.0 -92.716534,45.158666,0.0 -92.71665,45.15864,0.0 -92.716914,45.158523,0.0 -92.717046,45.158398,0.0 -92.717069,45.158335,0.0 -92.717076,45.158123,0.0 -92.717047,45.157587,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="1101">
+                <name>Apple River Falls (II+)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="1100">
+                    <coordinates>-92.712311,45.158035,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1103">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="1102">
+                    <coordinates>-92.716797,45.1576,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1105">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="1104">
+                    <coordinates>-92.709999,45.156399,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1107">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="1106">
+                    <coordinates>-92.7164,45.157501,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="1108">
+            <name>B) Somerset (PnP) (I-II)</name>
+            <Placemark id="1110">
+                <name>B) Somerset (PnP) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4104/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="1109">
+                    <coordinates>-92.678842,45.12901,0.0 -92.67904,45.129006,0.0 -92.679334,45.129093,0.0 -92.679619,45.129236,0.0 -92.679791,45.129358,0.0 -92.680035,45.129573,0.0 -92.680346,45.12992,0.0 -92.680736,45.130407,0.0 -92.681054,45.13077,0.0 -92.681414,45.131226,0.0 -92.681526,45.131476,0.0 -92.681436,45.131927,0.0 -92.681404,45.13218,0.0 -92.681308,45.132631,0.0 -92.681082,45.133038,0.0 -92.681071,45.133274,0.0 -92.681201,45.133665,0.0 -92.681332,45.133969,0.0 -92.681578,45.134247,0.0 -92.681934,45.134467,0.0 -92.682747,45.134724,0.0 -92.683139,45.13477,0.0 -92.683365,45.134851,0.0 -92.683406,45.135016,0.0 -92.683407,45.135386,0.0 -92.683352,45.135647,0.0 -92.683432,45.135913,0.0 -92.683573,45.136083,0.0 -92.683883,45.13628,0.0 -92.684172,45.136318,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="1112">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="1111">
+                    <coordinates>-92.684189,45.136189,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1114">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="1113">
+                    <coordinates>-92.678833,45.128613,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

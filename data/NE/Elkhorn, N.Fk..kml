@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18217">
+        <name>Elkhorn, N.Fk.</name>
+        <Folder id="18218">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>North Fork Whitewater Park, Norfolk (II)</name>
+            <Placemark id="18220">
+                <name>North Fork Whitewater Park, Norfolk (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11606/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="18219">
+                    <coordinates>-97.406871,42.034693,0.0 -97.405568,42.034421,0.0 -97.404972,42.034164,0.0 -97.404433,42.033985,0.0 -97.404282,42.03378,0.0 -97.404314,42.032923,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="18222">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="18221">
+                    <coordinates>-97.406871,42.034693,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18224">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="18223">
+                    <coordinates>-97.404314,42.032923,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="18225">
+            <name>North Fork Whitewater Park, Norfolk (II)</name>
+            <Placemark id="18227">
+                <name>North Fork Whitewater Park, Norfolk (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11606/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="18226">
+                    <coordinates>-97.406871,42.034693,0.0 -97.405568,42.034421,0.0 -97.404972,42.034164,0.0 -97.404433,42.033985,0.0 -97.404282,42.03378,0.0 -97.404314,42.032923,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="18229">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="18228">
+                    <coordinates>-97.406871,42.034693,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18231">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="18230">
+                    <coordinates>-97.404314,42.032923,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

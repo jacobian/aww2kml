@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16801">
+        <name>Downey Creek</name>
+        <Folder id="16802">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Downey Creek trail to Suiattle River (III-IV)</name>
+            <Placemark id="16804">
+                <name>Downey Creek trail to Suiattle River (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3687/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="16803">
+                    <coordinates>-121.216674,48.271132,0.0 -121.216731,48.271088,0.0 -121.216821,48.271035,0.0 -121.216976,48.270871,0.0 -121.217217,48.270672,0.0 -121.217429,48.270541,0.0 -121.217674,48.27036,0.0 -121.218009,48.270185,0.0 -121.218693,48.269854,0.0 -121.219086,48.269631,0.0 -121.219326,48.269418,0.0 -121.219586,48.269071,0.0 -121.219659,48.269001,0.0 -121.219786,48.268814,0.0 -121.219956,48.268596,0.0 -121.220119,48.268441,0.0 -121.220254,48.26833,0.0 -121.220443,48.26823,0.0 -121.220958,48.268008,0.0 -121.22108,48.26792,0.0 -121.221203,48.267819,0.0 -121.221395,48.267664,0.0 -121.221688,48.267363,0.0 -121.221785,48.267225,0.0 -121.221895,48.267033,0.0 -121.222049,48.266802,0.0 -121.222476,48.266295,0.0 -121.222615,48.266122,0.0 -121.222847,48.265883,0.0 -121.222968,48.265727,0.0 -121.223092,48.265653,0.0 -121.223304,48.265498,0.0 -121.223504,48.265357,0.0 -121.223847,48.265183,0.0 -121.22433,48.264965,0.0 -121.224826,48.264726,0.0 -121.225251,48.264498,0.0 -121.225692,48.264212,0.0 -121.225949,48.264005,0.0 -121.226087,48.263836,0.0 -121.226258,48.263672,0.0 -121.226384,48.263481,0.0 -121.226481,48.26328,0.0 -121.22657,48.26311,0.0 -121.226671,48.262833,0.0 -121.226694,48.262739,0.0 -121.226742,48.262551,0.0 -121.22676,48.26224,0.0 -121.226776,48.262088,0.0 -121.226782,48.261836,0.0 -121.22676,48.261624,0.0 -121.226708,48.261335,0.0 -121.226579,48.261068,0.0 -121.226495,48.260828,0.0 -121.226395,48.260647,0.0 -121.226291,48.260555,0.0 -121.226103,48.260462,0.0 -121.225879,48.260324,0.0 -121.225476,48.260088,0.0 -121.225117,48.259871,0.0 -121.224877,48.259706,0.0 -121.224721,48.259564,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="16806">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="16805">
+                    <coordinates>-121.22493,48.259335,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="16808">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="16807">
+                    <coordinates>-121.216713,48.271183,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

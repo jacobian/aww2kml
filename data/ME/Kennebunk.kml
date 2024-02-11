@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="26876">
+        <name>Kennebunk</name>
+        <Folder id="26877">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Route 1 Ledge (III+)</name>
+            <Placemark id="26879">
+                <name>Route 1 Ledge (III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10735/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="26878">
+                    <coordinates>-70.529958,43.404806,0.0 -70.528843,43.404469,0.0 -70.527996,43.404054,0.0 -70.527134,43.403712,0.0 -70.527001,43.403606,0.0 -70.526572,43.402927,0.0 -70.526551,43.402913,0.0 -70.526354,43.402784,0.0 -70.525933,43.402605,0.0 -70.52579,43.402465,0.0 -70.525913,43.402121,0.0 -70.52636,43.401529,0.0 -70.526984,43.400688,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="26881">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="26880">
+                    <coordinates>-70.527,43.4007,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26883">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="26882">
+                    <coordinates>-70.5299,43.405,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

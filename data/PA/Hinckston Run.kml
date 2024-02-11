@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="23960">
+        <name>Hinckston Run</name>
+        <Folder id="23961">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Hinckston Falls Area (V+)</name>
+            <Placemark id="23963">
+                <name>Hinckston Falls Area (V+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3790/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="23962">
+                    <coordinates>-78.887177,40.372381,0.0 -78.887531,40.371953,0.0 -78.887812,40.371497,0.0 -78.888027,40.371195,0.0 -78.888171,40.371058,0.0 -78.888322,40.37097,0.0 -78.888451,40.37096,0.0 -78.88891,40.370993,0.0 -78.889728,40.371097,0.0 -78.890245,40.371125,0.0 -78.89069,40.37118,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="23965">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="23964">
+                    <coordinates>-78.8907,40.3712,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="23967">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="23966">
+                    <coordinates>-78.8872,40.3724,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

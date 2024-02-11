@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="35802">
+        <name>Mousam</name>
+        <Folder id="35803">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Rte. 1 to Water St. (II-III)</name>
+            <Placemark id="35805">
+                <name>Rte. 1 to Water St. (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10733/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="35804">
+                    <coordinates>-70.542415,43.384967,0.0 -70.542073,43.384673,0.0 -70.541924,43.384226,0.0 -70.541575,43.383636,0.0 -70.541098,43.383013,0.0 -70.540974,43.38274,0.0 -70.540975,43.382312,0.0 -70.541293,43.382018,0.0 -70.541473,43.38177,0.0 -70.541546,43.380911,0.0 -70.541781,43.3804,0.0 -70.541633,43.37995,0.0 -70.541526,43.379875,0.0 -70.541519,43.379517,0.0 -70.541382,43.379286,0.0 -70.540498,43.378577,0.0 -70.540156,43.378434,0.0 -70.539819,43.378382,0.0 -70.539102,43.378414,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="35807">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="35806">
+                    <coordinates>-70.5392,43.3806,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35809">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="35808">
+                    <coordinates>-70.5423,43.3851,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

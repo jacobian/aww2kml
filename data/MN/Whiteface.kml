@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="62331">
+        <name>Whiteface</name>
+        <Folder id="62332">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>near Kelsey, MN (4.4 miles) (I-II)</name>
+            <Placemark id="62334">
+                <name>near Kelsey, MN (4.4 miles) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10214/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="62333">
+                    <coordinates>-92.603067,47.147953,0.0 -92.607845,47.148573,0.0 -92.60873,47.149228,0.0 -92.608711,47.149607,0.0 -92.609766,47.15052,0.0 -92.61227,47.151848,0.0 -92.614079,47.152399,0.0 -92.614958,47.153181,0.0 -92.615312,47.153443,0.0 -92.617147,47.153488,0.0 -92.618583,47.154156,0.0 -92.619868,47.154188,0.0 -92.621198,47.153334,0.0 -92.621749,47.153347,0.0 -92.62228,47.15374,0.0 -92.622254,47.154246,0.0 -92.622785,47.154639,0.0 -92.624797,47.154815,0.0 -92.625055,47.154912,0.0 -92.625879,47.155222,0.0 -92.626163,47.155217,0.0 -92.629005,47.155172,0.0 -92.629404,47.15522,0.0 -92.629556,47.155322,0.0 -92.631478,47.157132,0.0 -92.631812,47.157773,0.0 -92.63176,47.158785,0.0 -92.632114,47.159047,0.0 -92.633032,47.15907,0.0 -92.634166,47.158464,0.0 -92.634769,47.157466,0.0 -92.63486,47.155695,0.0 -92.634374,47.154416,0.0 -92.634439,47.153151,0.0 -92.634832,47.152654,0.0 -92.635782,47.152044,0.0 -92.638928,47.151614,0.0 -92.639498,47.151248,0.0 -92.639531,47.150616,0.0 -92.639911,47.150372,0.0 -92.640829,47.150394,0.0 -92.642448,47.151067,0.0 -92.644087,47.15136,0.0 -92.646747,47.149651,0.0 -92.646406,47.149137,0.0 -92.644964,47.148595,0.0 -92.643901,47.147809,0.0 -92.643927,47.147303,0.0 -92.644497,47.146937,0.0 -92.644517,47.146557,0.0 -92.644041,47.146134,0.0 -92.643484,47.14581,0.0 -92.644772,47.14517,0.0 -92.644791,47.144791,0.0 -92.64426,47.144398,0.0 -92.64442,47.144195,0.0 -92.644471,47.144131,0.0 -92.644653,47.143901,0.0 -92.645203,47.143914,0.0 -92.646102,47.144316,0.0 -92.647203,47.144343,0.0 -92.64795,47.144108,0.0 -92.648716,47.143493,0.0 -92.648565,47.142856,0.0 -92.646795,47.141547,0.0 -92.646322,47.140015,0.0 -92.646285,47.138914,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="62336">
+                <name> (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62335">
+                    <coordinates>-92.621826,47.15353,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62338">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="62337">
+                    <coordinates>-92.6467,47.1389,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62340">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="62339">
+                    <coordinates>-92.6031,47.1477,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

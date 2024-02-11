@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="55705">
+        <name>Stetattle Creek</name>
+        <Folder id="55706">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Camp Dayo Creek to Gorge Lake (IV-V(V+))</name>
+            <Placemark id="55708">
+                <name>Camp Dayo Creek to Gorge Lake (IV-V(V+))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3539/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="55707">
+                    <coordinates>-121.170533,48.733884,0.0 -121.169246,48.7337,0.0 -121.168075,48.732976,0.0 -121.1672,48.732541,0.0 -121.164175,48.731489,0.0 -121.163489,48.731568,0.0 -121.162599,48.731091,0.0 -121.162293,48.730814,0.0 -121.160797,48.730443,0.0 -121.160161,48.730532,0.0 -121.158449,48.729916,0.0 -121.158449,48.729408,0.0 -121.157776,48.728563,0.0 -121.156231,48.727765,0.0 -121.155453,48.727669,0.0 -121.154995,48.727409,0.0 -121.154927,48.727037,0.0 -121.154415,48.726499,0.0 -121.153654,48.725319,0.0 -121.1527,48.724622,0.0 -121.151939,48.723352,0.0 -121.150933,48.722085,0.0 -121.149744,48.720984,0.0 -121.148839,48.719953,0.0 -121.148751,48.719102,0.0 -121.148934,48.718589,0.0 -121.149705,48.717924,0.0 -121.149813,48.717724,0.0 -121.149962,48.717494,0.0 -121.149982,48.717353,0.0 -121.149962,48.717289,0.0 -121.149939,48.717173,0.0 -121.149876,48.717079,0.0 -121.149868,48.717073,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="55710">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="55709">
+                    <coordinates>-121.150261,48.716812,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55712">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="55711">
+                    <coordinates>-121.190598,48.747929,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

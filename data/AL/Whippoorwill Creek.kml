@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="61807">
+        <name>Whippoorwill Creek</name>
+        <Folder id="61808">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>CR 532 to Double Bridges (II)</name>
+            <Placemark id="61810">
+                <name>CR 532 to Double Bridges (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2616/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="61809">
+                    <coordinates>-86.148632,34.325692,0.0 -86.148822,34.326043,0.0 -86.14904,34.326301,0.0 -86.149557,34.326758,0.0 -86.149795,34.326901,0.0 -86.150047,34.326983,0.0 -86.150564,34.327038,0.0 -86.150995,34.327093,0.0 -86.151664,34.327286,0.0 -86.152015,34.327473,0.0 -86.152499,34.327803,0.0 -86.15279,34.327973,0.0 -86.153393,34.328221,0.0 -86.154042,34.328513,0.0 -86.15434,34.32865,0.0 -86.154897,34.32898,0.0 -86.155036,34.329074,0.0 -86.155215,34.329041,0.0 -86.155374,34.329074,0.0 -86.155798,34.329255,0.0 -86.156116,34.329453,0.0 -86.156606,34.329904,0.0 -86.156772,34.330014,0.0 -86.156798,34.330053,0.0 -86.156964,34.330152,0.0 -86.157103,34.330195,0.0 -86.157394,34.330218,0.0 -86.157706,34.330196,0.0 -86.158315,34.330069,0.0 -86.158581,34.329949,0.0 -86.158647,34.329927,0.0 -86.158991,34.329712,0.0 -86.159356,34.329426,0.0 -86.159608,34.329119,0.0 -86.159853,34.328855,0.0 -86.160304,34.328283,0.0 -86.160708,34.327877,0.0 -86.161199,34.32736,0.0 -86.161258,34.327321,0.0 -86.16129,34.32729,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="61812">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="61811">
+                    <coordinates>-86.161102,34.327099,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="61814">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="61813">
+                    <coordinates>-86.148804,34.3256,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

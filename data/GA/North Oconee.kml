@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="37679">
+        <name>North Oconee</name>
+        <Folder id="37680">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Hurricane Shoals County Park (III)</name>
+            <Placemark id="37682">
+                <name>Hurricane Shoals County Park (III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4115/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="37681">
+                    <coordinates>-83.54193,34.21331,0.0 -83.54196,34.213226,0.0 -83.54196,34.213226,0.0 -83.54196,34.213226,0.0 -83.541981,34.213168,0.0 -83.54211,34.21292,0.0 -83.54241,34.212468,0.0 -83.54241,34.212468,0.0 -83.542432,34.212414,0.0 -83.542453,34.212237,0.0 -83.542432,34.212059,0.0 -83.542389,34.211917,0.0 -83.542312,34.21177,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="37684">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="37683">
+                    <coordinates>-83.542,34.212799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="37686">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="37685">
+                    <coordinates>-83.542,34.212799,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

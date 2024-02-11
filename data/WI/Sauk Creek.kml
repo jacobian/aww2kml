@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="51031">
+        <name>Sauk Creek</name>
+        <Folder id="51032">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>* Blockage Update: 2022.07.28 * Conservancy Boundary to Grand Avenue (0.97 mile or 0.3 mile PnH) (II-III(IV))</name>
+            <Placemark id="51034">
+                <name>* Blockage Update: 2022.07.28 * Conservancy Boundary to Grand Avenue (0.97 mile or 0.3 mile PnH) (II-III(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2890/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="51033">
+                    <coordinates>-87.88462,43.397904,0.0 -87.884601,43.397635,0.0 -87.88477,43.396971,0.0 -87.884747,43.396467,0.0 -87.884547,43.396175,0.0 -87.884076,43.395903,0.0 -87.882961,43.395362,0.0 -87.882267,43.395099,0.0 -87.881515,43.394328,0.0 -87.881183,43.39395,0.0 -87.880821,43.393187,0.0 -87.880848,43.39226,0.0 -87.880597,43.391492,0.0 -87.880304,43.390721,0.0 -87.880149,43.39025,0.0 -87.880119,43.389636,0.0 -87.880115,43.389272,0.0 -87.879552,43.388563,0.0 -87.879066,43.388268,0.0 -87.87829,43.388209,0.0 -87.877318,43.388456,0.0 -87.876886,43.388521,0.0 -87.876599,43.388444,0.0 -87.876213,43.387908,0.0 -87.875522,43.387244,0.0 -87.874759,43.386585,0.0 -87.874415,43.386381,0.0 -87.873675,43.386378,0.0 -87.87288,43.38649,0.0 -87.872387,43.386504,0.0 -87.871492,43.386594,0.0 -87.870905,43.386549,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="51036">
+                <name>Pre-Footbridge Ledges (III)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="51035">
+                    <coordinates>-87.88221,43.395042,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51038">
+                <name>Post-Footbridge Slides (II+)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="51037">
+                    <coordinates>-87.881989,43.39489,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51040">
+                <name>Alternate Take-out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="51039">
+                    <coordinates>-87.880569,43.391544,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51042">
+                <name>Defunct Bridge Pier</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="51041">
+                    <coordinates>-87.873734,43.386402,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51044">
+                <name>Sauk Creek Conservancy Footbridge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="51043">
+                    <coordinates>-87.882276,43.394598,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51046">
+                <name>Krueger Falls (III)</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="51045">
+                    <coordinates>-87.883003,43.395,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51048">
+                <name>Warm-up Waves (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="51047">
+                    <coordinates>-87.884468,43.396645,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51050">
+                <name>Three  Bar Bridge</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="51049">
+                    <coordinates>-87.883254,43.395511,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51052">
+                <name>Grand Avenue Bridge (USGS site: drainage area 32.6 sq.mi.)</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="51051">
+                    <coordinates>-87.875908,43.387547,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51054">
+                <name>Athletic Fields Bridge (AFB)</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="51053">
+                    <coordinates>-87.879979,43.389192,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51056">
+                <name>A Left And A Right</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="51055">
+                    <coordinates>-87.876034,43.387946,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51058">
+                <name>Mineral Springs Creek Confluence</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="51057">
+                    <coordinates>-87.869944,43.386356,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51060">
+                <name>Weir</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="51059">
+                    <coordinates>-87.869186,43.386383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51062">
+                <name>Put-in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="51061">
+                    <coordinates>-87.881644,43.400622,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51064">
+                <name>Rotary Park (Alternative Take-out)</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="51063">
+                    <coordinates>-87.870905,43.386549,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51066">
+                <name>Wisconsin Street Bridge / Take-out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="51065">
+                    <coordinates>-87.871024,43.386558,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

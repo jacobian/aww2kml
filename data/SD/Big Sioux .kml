@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="4173">
+        <name>Big Sioux </name>
+        <Folder id="4174">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Dells of the Sioux  (I-II)</name>
+            <Placemark id="4176">
+                <name>Dells of the Sioux  (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11590/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="4175">
+                    <coordinates>-96.711152,43.818146,0.0 -96.711837,43.818046,0.0 -96.712657,43.817703,0.0 -96.713067,43.817314,0.0 -96.713066,43.816742,0.0 -96.712465,43.815851,0.0 -96.712243,43.815006,0.0 -96.71221,43.814251,0.0 -96.712273,43.813748,0.0 -96.71243,43.813291,0.0 -96.712492,43.812491,0.0 -96.712144,43.811759,0.0 -96.712143,43.811096,0.0 -96.7123,43.810662,0.0 -96.712741,43.809793,0.0 -96.713087,43.809359,0.0 -96.714348,43.807643,0.0 -96.715009,43.806797,0.0 -96.715924,43.806064,0.0 -96.716144,43.805653,0.0 -96.716175,43.80547,0.0 -96.716333,43.805173,0.0 -96.716711,43.804875,0.0 -96.717342,43.804532,0.0 -96.717657,43.804257,0.0 -96.718098,43.803662,0.0 -96.718381,43.802999,0.0 -96.719262,43.801375,0.0 -96.719924,43.800392,0.0 -96.72005,43.80014,0.0 -96.720459,43.799751,0.0 -96.721122,43.799408,0.0 -96.72232,43.79895,0.0 -96.724339,43.798445,0.0 -96.725948,43.797689,0.0 -96.727399,43.797277,0.0 -96.729134,43.796612,0.0 -96.729228,43.796574,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="4178">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="4177">
+                    <coordinates>-96.711152,43.818146,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="4180">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="4179">
+                    <coordinates>-96.729228,43.796574,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

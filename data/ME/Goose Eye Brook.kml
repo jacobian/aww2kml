@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="21816">
+        <name>Goose Eye Brook</name>
+        <Folder id="21817">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Bull Branch Rd - Hike up (IV-V(V+))</name>
+            <Placemark id="21819">
+                <name>Bull Branch Rd - Hike up (IV-V(V+))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10647/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="21818">
+                    <coordinates>-70.944023,44.516336,0.0 -70.943907,44.516268,0.0 -70.941766,44.515766,0.0 -70.940744,44.515858,0.0 -70.939977,44.516133,0.0 -70.938924,44.51698,0.0 -70.937806,44.517598,0.0 -70.936497,44.518078,0.0 -70.935826,44.518033,0.0 -70.931514,44.517154,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="21821">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="21820">
+                    <coordinates>-69.2283,45.3966,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="21823">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="21822">
+                    <coordinates>-70.9318,44.5172,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

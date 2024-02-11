@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="29701">
+        <name>Link River</name>
+        <Folder id="29702">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Below Link Dam to Veterans Park (III)</name>
+            <Placemark id="29704">
+                <name>Below Link Dam to Veterans Park (III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11613/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="29703">
+                    <coordinates>-121.800626,42.231955,0.0 -121.800388,42.231687,0.0 -121.800281,42.231377,0.0 -121.799755,42.231004,0.0 -121.799433,42.23075,0.0 -121.799101,42.230424,0.0 -121.79879,42.229963,0.0 -121.798521,42.229463,0.0 -121.79835,42.229026,0.0 -121.798285,42.228517,0.0 -121.798264,42.228382,0.0 -121.798275,42.228343,0.0 -121.797867,42.228001,0.0 -121.797287,42.227246,0.0 -121.797287,42.227246,0.0 -121.79715,42.227035,0.0 -121.796794,42.226285,0.0 -121.796386,42.225745,0.0 -121.796097,42.225181,0.0 -121.796064,42.224736,0.0 -121.795936,42.224609,0.0 -121.795936,42.224609,0.0 -121.795941,42.224435,0.0 -121.795941,42.224435,0.0 -121.795946,42.224291,0.0 -121.795803,42.223788,0.0 -121.795803,42.223788,0.0 -121.795785,42.223727,0.0 -121.795645,42.223501,0.0 -121.795645,42.223501,0.0 -121.795292,42.222932,0.0 -121.794959,42.222646,0.0 -121.794627,42.222233,0.0 -121.794037,42.221844,0.0 -121.793286,42.221494,0.0 -121.792567,42.220978,0.0 -121.792341,42.220874,0.0 -121.792341,42.220874,0.0 -121.791859,42.22066,0.0 -121.791312,42.220302,0.0 -121.790432,42.219635,0.0 -121.790228,42.219349,0.0 -121.789981,42.219158,0.0 -121.789434,42.218896,0.0 -121.788844,42.218451,0.0 -121.788844,42.218451,0.0 -121.788556,42.218233,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="29706">
+                <name>Geese Rapids (III-)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="29705">
+                    <coordinates>-121.799825,42.231053,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29708">
+                <name>Mellow Mallard Rapid (II)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="29707">
+                    <coordinates>-121.79594,42.224473,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29710">
+                <name>Goldeneye Rapids (II+)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="29709">
+                    <coordinates>-121.79674,42.226214,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29712">
+                <name>Veterans Park</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="29711">
+                    <coordinates>-121.788836,42.218445,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29714">
+                <name>Link River Wave</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="29713">
+                    <coordinates>-121.797616,42.227678,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29716">
+                <name>Access Below Link Dam</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="29715">
+                    <coordinates>-121.800802,42.231865,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29718">
+                <name>Link River Trail Parking</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="29717">
+                    <coordinates>-121.806731,42.238123,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="29719">
+            <name>Below Link Dam to Veterans Park (III)</name>
+            <Placemark id="29721">
+                <name>Below Link Dam to Veterans Park (III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11613/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="29720">
+                    <coordinates>-121.800626,42.231955,0.0 -121.800388,42.231687,0.0 -121.800281,42.231377,0.0 -121.799755,42.231004,0.0 -121.799433,42.23075,0.0 -121.799101,42.230424,0.0 -121.79879,42.229963,0.0 -121.798521,42.229463,0.0 -121.79835,42.229026,0.0 -121.798285,42.228517,0.0 -121.798264,42.228382,0.0 -121.798275,42.228343,0.0 -121.797867,42.228001,0.0 -121.797287,42.227246,0.0 -121.797287,42.227246,0.0 -121.79715,42.227035,0.0 -121.796794,42.226285,0.0 -121.796386,42.225745,0.0 -121.796097,42.225181,0.0 -121.796064,42.224736,0.0 -121.795936,42.224609,0.0 -121.795936,42.224609,0.0 -121.795941,42.224435,0.0 -121.795941,42.224435,0.0 -121.795946,42.224291,0.0 -121.795803,42.223788,0.0 -121.795803,42.223788,0.0 -121.795785,42.223727,0.0 -121.795645,42.223501,0.0 -121.795645,42.223501,0.0 -121.795292,42.222932,0.0 -121.794959,42.222646,0.0 -121.794627,42.222233,0.0 -121.794037,42.221844,0.0 -121.793286,42.221494,0.0 -121.792567,42.220978,0.0 -121.792341,42.220874,0.0 -121.792341,42.220874,0.0 -121.791859,42.22066,0.0 -121.791312,42.220302,0.0 -121.790432,42.219635,0.0 -121.790228,42.219349,0.0 -121.789981,42.219158,0.0 -121.789434,42.218896,0.0 -121.788844,42.218451,0.0 -121.788844,42.218451,0.0 -121.788556,42.218233,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="29723">
+                <name>Geese Rapids (III-)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="29722">
+                    <coordinates>-121.799825,42.231053,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29725">
+                <name>Mellow Mallard Rapid (II)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="29724">
+                    <coordinates>-121.79594,42.224473,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29727">
+                <name>Goldeneye Rapids (II+)</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="29726">
+                    <coordinates>-121.79674,42.226214,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29729">
+                <name>Veterans Park</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="29728">
+                    <coordinates>-121.788836,42.218445,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29731">
+                <name>Link River Wave</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="29730">
+                    <coordinates>-121.797616,42.227678,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29733">
+                <name>Access Below Link Dam</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="29732">
+                    <coordinates>-121.800802,42.231865,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29735">
+                <name>Link River Trail Parking</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="29734">
+                    <coordinates>-121.806731,42.238123,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

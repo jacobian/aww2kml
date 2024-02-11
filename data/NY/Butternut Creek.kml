@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7472">
+        <name>Butternut Creek</name>
+        <Folder id="7473">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Jamesville Reservoir to Route 481 (I-III+(IV))</name>
+            <Placemark id="7475">
+                <name>Jamesville Reservoir to Route 481 (I-III+(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10621/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="7474">
+                    <coordinates>-76.070251,42.982978,0.0 -76.070542,42.983214,0.0 -76.070572,42.984861,0.0 -76.070447,42.985181,0.0 -76.070414,42.98756,0.0 -76.069788,42.990853,0.0 -76.069881,42.991768,0.0 -76.069724,42.993117,0.0 -76.069474,42.993963,0.0 -76.069536,42.994855,0.0 -76.070034,42.995656,0.0 -76.07047,42.995999,0.0 -76.070719,42.996068,0.0 -76.07184,42.996068,0.0 -76.072183,42.996228,0.0 -76.072276,42.996366,0.0 -76.072025,42.99863,0.0 -76.072741,43.000081,0.0 -76.07402,43.010817,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="7477">
+                <name>Dunop Falls (IV+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="7476">
+                    <coordinates>-76.072296,42.999218,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7479">
+                <name>Dam Drop (II+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="7478">
+                    <coordinates>-76.075302,43.0056,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7481">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="7480">
+                    <coordinates>-76.074997,43.0107,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="7483">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="7482">
+                    <coordinates>-76.070801,42.9823,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

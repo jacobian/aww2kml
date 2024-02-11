@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="39695">
+        <name>Park Creek</name>
+        <Folder id="39696">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="11">
+                <IconStyle id="10">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="9">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>01. CR 80 to Park Creek Res. (III-IV)</name>
+            <Placemark id="39698">
+                <name>01. CR 80 to Park Creek Res. (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/5274/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="39697">
+                    <coordinates>-105.187287,40.833354,0.0 -105.183942,40.836566,0.0 -105.183717,40.836558,0.0 -105.183588,40.836598,0.0 -105.183363,40.836947,0.0 -105.183234,40.837077,0.0 -105.183073,40.837207,0.0 -105.182741,40.837385,0.0 -105.182666,40.837442,0.0 -105.182333,40.837564,0.0 -105.181432,40.838002,0.0 -105.181056,40.838327,0.0 -105.180831,40.838424,0.0 -105.180638,40.838457,0.0 -105.180402,40.838595,0.0 -105.180284,40.838644,0.0 -105.180037,40.838644,0.0 -105.179918,40.838686,0.0 -105.179913,40.838679,0.0 -105.179871,40.838693,0.0 -105.179795,40.838765,0.0 -105.179742,40.838878,0.0 -105.179688,40.839017,0.0 -105.179559,40.839094,0.0 -105.179215,40.839149,0.0 -105.178956,40.839167,0.0 -105.178681,40.839199,0.0 -105.178307,40.839276,0.0 -105.177789,40.839363,0.0 -105.177499,40.839363,0.0 -105.177343,40.839354,0.0 -105.177343,40.839359,0.0 -105.17728,40.839358,0.0 -105.17699,40.839244,0.0 -105.176797,40.839131,0.0 -105.176539,40.839025,0.0 -105.176175,40.838985,0.0 -105.175745,40.839147,0.0 -105.175595,40.83922,0.0 -105.175145,40.839691,0.0 -105.174887,40.839764,0.0 -105.174565,40.83991,0.0 -105.174329,40.840113,0.0 -105.174222,40.840226,0.0 -105.174115,40.840259,0.0 -105.173975,40.840275,0.0 -105.173321,40.840316,0.0 -105.173085,40.840348,0.0 -105.173031,40.840405,0.0 -105.173031,40.840405,0.0 -105.172967,40.840478,0.0 -105.172935,40.84047,0.0 -105.172795,40.840494,0.0 -105.172387,40.8406,0.0 -105.172387,40.8406,0.0 -105.17213,40.840713,0.0 -105.171947,40.840754,0.0 -105.171422,40.840754,0.0 -105.171282,40.840778,0.0 -105.171196,40.840778,0.0 -105.170971,40.840843,0.0 -105.170971,40.840843,0.0 -105.170714,40.840981,0.0 -105.169909,40.841493,0.0 -105.169464,40.841722,0.0 -105.169464,40.841722,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="39700">
+                <name>Ground Beef (III+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="39699">
+                    <coordinates>-105.185,40.834,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="39702">
+                <name>Roadside Ledge (III+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="39701">
+                    <coordinates>-105.185,40.834,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="39704">
+                <name>Mystery Meat (III)</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="39703">
+                    <coordinates>-105.185,40.834,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="39706">
+                <name>The pin ledge (III)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="39705">
+                    <coordinates>-105.185,40.834,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="39708">
+                <name>Final Dam</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="39707">
+                    <coordinates>-105.185,40.834,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="39710">
+                <name>Dam #1</name>
+                <styleUrl>#11</styleUrl>
+                <Point id="39709">
+                    <coordinates>-105.185,40.834,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="39712">
+                <name>Dead Cow Chute (IV)</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="39711">
+                    <coordinates>-105.185,40.834,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

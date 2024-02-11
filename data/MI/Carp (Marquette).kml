@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8592">
+        <name>Carp (Marquette)</name>
+        <Folder id="8593">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>C) 'Lower': CR553 (Marquette Mtn.) to Hwy.41 (2.0 miles) (II-III)</name>
+            <Placemark id="8595">
+                <name>C) 'Lower': CR553 (Marquette Mtn.) to Hwy.41 (2.0 miles) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2626/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="8594">
+                    <coordinates>-87.419096,46.509309,0.0 -87.41811,46.508829,0.0 -87.416256,46.508852,0.0 -87.414832,46.50867,0.0 -87.413111,46.508762,0.0 -87.412217,46.508922,0.0 -87.411389,46.508877,0.0 -87.410793,46.508808,0.0 -87.410429,46.508626,0.0 -87.409734,46.508649,0.0 -87.408741,46.508786,0.0 -87.40841,46.508763,0.0 -87.407946,46.508558,0.0 -87.407052,46.508604,0.0 -87.406423,46.508627,0.0 -87.405562,46.508239,0.0 -87.404966,46.508033,0.0 -87.403576,46.507942,0.0 -87.402318,46.508011,0.0 -87.400166,46.508628,0.0 -87.398842,46.50872,0.0 -87.397982,46.50904,0.0 -87.397319,46.509132,0.0 -87.394969,46.509201,0.0 -87.393711,46.50959,0.0 -87.392586,46.510093,0.0 -87.391361,46.510207,0.0 -87.389606,46.510253,0.0 -87.388613,46.51055,0.0 -87.388116,46.510802,0.0 -87.387785,46.511076,0.0 -87.387587,46.511396,0.0 -87.38709,46.511625,0.0 -87.385665,46.511908,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="8597">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="8596">
+                    <coordinates>-87.385902,46.5131,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8599">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="8598">
+                    <coordinates>-87.419197,46.509102,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="8600">
+            <Style id="11">
+                <IconStyle id="10">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="9">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>B) 'Upper': Carp Lake dam to CR553 (Marquette Mtn.) (2.88 miles) (III-V(V+))</name>
+            <Placemark id="8602">
+                <name>B) 'Upper': Carp Lake dam to CR553 (Marquette Mtn.) (2.88 miles) (III-V(V+))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2625/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="8601">
+                    <coordinates>-87.461099,46.495098,0.0 -87.461063,46.495301,0.0 -87.460831,46.495439,0.0 -87.4605,46.495485,0.0 -87.459971,46.495508,0.0 -87.458879,46.495897,0.0 -87.457688,46.496218,0.0 -87.457026,46.49647,0.0 -87.456629,46.49679,0.0 -87.456463,46.49695,0.0 -87.456365,46.497271,0.0 -87.456265,46.497385,0.0 -87.455802,46.497682,0.0 -87.45524,46.497911,0.0 -87.454843,46.498232,0.0 -87.454579,46.49862,0.0 -87.454613,46.499055,0.0 -87.454646,46.499329,0.0 -87.454713,46.499695,0.0 -87.454581,46.499718,0.0 -87.454647,46.499948,0.0 -87.454052,46.500444,0.0 -87.453854,46.500718,0.0 -87.453291,46.500901,0.0 -87.451868,46.500971,0.0 -87.450908,46.5012,0.0 -87.450379,46.501498,0.0 -87.449685,46.502207,0.0 -87.447765,46.502962,0.0 -87.447071,46.503351,0.0 -87.446542,46.503809,0.0 -87.445681,46.504221,0.0 -87.44492,46.504427,0.0 -87.444357,46.504519,0.0 -87.443331,46.504474,0.0 -87.442305,46.504543,0.0 -87.441742,46.504635,0.0 -87.44108,46.504635,0.0 -87.440782,46.504544,0.0 -87.44012,46.504407,0.0 -87.439557,46.504522,0.0 -87.439094,46.504705,0.0 -87.438432,46.505208,0.0 -87.438399,46.505277,0.0 -87.436579,46.505415,0.0 -87.434891,46.505667,0.0 -87.433732,46.505782,0.0 -87.432309,46.506263,0.0 -87.431747,46.506674,0.0 -87.431516,46.507177,0.0 -87.431384,46.507909,0.0 -87.431285,46.508,0.0 -87.430954,46.508115,0.0 -87.430523,46.508092,0.0 -87.429861,46.507864,0.0 -87.428934,46.507476,0.0 -87.428139,46.507476,0.0 -87.426981,46.507751,0.0 -87.425933,46.508105,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="8604">
+                <name>Falls Sequence (V)</name>
+                <styleUrl>#11</styleUrl>
+                <Point id="8603">
+                    <coordinates>-87.448608,46.502491,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8606">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="8605">
+                    <coordinates>-87.425797,46.507702,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8608">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="8607">
+                    <coordinates>-87.461098,46.495098,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8610">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8609">
+                    <coordinates>-87.471001,46.494099,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8612">
+                <name>Split Ledge (IV)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8611">
+                    <coordinates>-87.440392,46.504219,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8614">
+                <name>Morgan Falls</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8613">
+                    <coordinates>-87.437897,46.505402,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8616">
+                <name>Braided Channel</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8615">
+                    <coordinates>-87.424896,46.508202,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="8617">
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>A) River View Drive to Michigan Iron Industry Museum (1.67-2.0 miles) (II-IV)</name>
+            <Placemark id="8619">
+                <name>A) River View Drive to Michigan Iron Industry Museum (1.67-2.0 miles) (II-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10801/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="8618">
+                    <coordinates>-87.5823,46.526774,0.0 -87.581817,46.526774,0.0 -87.581188,46.526568,0.0 -87.580063,46.526134,0.0 -87.57907,46.525425,0.0 -87.578242,46.525059,0.0 -87.577249,46.524715,0.0 -87.576057,46.524486,0.0 -87.575627,46.524555,0.0 -87.575328,46.524714,0.0 -87.575361,46.525195,0.0 -87.575195,46.525309,0.0 -87.574632,46.525423,0.0 -87.574467,46.5254,0.0 -87.574301,46.525308,0.0 -87.573341,46.524851,0.0 -87.573309,46.524348,0.0 -87.573408,46.524028,0.0 -87.574005,46.523525,0.0 -87.574767,46.523183,0.0 -87.57586,46.523046,0.0 -87.576456,46.522841,0.0 -87.57692,46.522544,0.0 -87.57692,46.521881,0.0 -87.576821,46.521835,0.0 -87.576854,46.521698,0.0 -87.576226,46.521378,0.0 -87.575398,46.521286,0.0 -87.574636,46.521286,0.0 -87.573113,46.521468,0.0 -87.570066,46.521443,0.0 -87.569338,46.521557,0.0 -87.56788,46.5219,0.0 -87.567218,46.521945,0.0 -87.566854,46.521876,0.0 -87.566391,46.521647,0.0 -87.566191,46.521434,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="8621">
+                <name>Upper Carp River Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="8620">
+                    <coordinates>-87.577499,46.521999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8623">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="8622">
+                    <coordinates>-87.5658,46.5218,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8625">
+                <name>Hwy.28/41 (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8624">
+                    <coordinates>-87.573402,46.5247,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8627">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="8626">
+                    <coordinates>-87.5823,46.5264,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8629">
+                <name>Alternate take-out</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8628">
+                    <coordinates>-87.560799,46.518902,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8631">
+                <name>More low-grade rapids (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8630">
+                    <coordinates>-87.575073,46.52285,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8633">
+                <name>Warm-up</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="8632">
+                    <coordinates>-87.5774,46.524799,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

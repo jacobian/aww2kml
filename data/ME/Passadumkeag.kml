@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="39733">
+        <name>Passadumkeag</name>
+        <Folder id="39734">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Saponac to Upper Lord Brook  (V)</name>
+            <Placemark id="39736">
+                <name>Saponac to Upper Lord Brook  (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/857/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="39735">
+                    <coordinates>-68.288087,45.173365,0.0 -68.28819,45.173355,0.0 -68.288842,45.173416,0.0 -68.289282,45.173346,0.0 -68.289345,45.173138,0.0 -68.289571,45.172906,0.0 -68.289612,45.172378,0.0 -68.289542,45.172062,0.0 -68.289306,45.171706,0.0 -68.289287,45.171314,0.0 -68.289426,45.171048,0.0 -68.289801,45.170867,0.0 -68.289893,45.17074,0.0 -68.289893,45.170598,0.0 -68.289747,45.170314,0.0 -68.289814,45.169995,0.0 -68.289956,45.169689,0.0 -68.290438,45.169148,0.0 -68.290717,45.168612,0.0 -68.290919,45.168169,0.0 -68.290961,45.167675,0.0 -68.291126,45.167413,0.0 -68.292326,45.166596,0.0 -68.292754,45.166111,0.0 -68.292996,45.165983,0.0 -68.293183,45.165815,0.0 -68.293211,45.165676,0.0 -68.293136,45.165545,0.0 -68.293126,45.165224,0.0 -68.292984,45.164883,0.0 -68.29303,45.164637,0.0 -68.29321,45.164346,0.0 -68.293505,45.164065,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="39738">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="39737">
+                    <coordinates>-68.2937,45.1642,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="39740">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="39739">
+                    <coordinates>-68.2881,45.1735,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

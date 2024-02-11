@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="18573">
+        <name>Erie Canal</name>
+        <Folder id="18574">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Lock 32 Whitewater Course (II+)</name>
+            <Placemark id="18576">
+                <name>Lock 32 Whitewater Course (II+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4034/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="18575">
+                    <coordinates>-77.545619,43.090597,0.0 -77.544961,43.090406,0.0 -77.544397,43.090413,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="18578">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="18577">
+                    <coordinates>-77.544403,43.0909,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18580">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="18579">
+                    <coordinates>-77.545502,43.091,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

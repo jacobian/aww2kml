@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="32618">
+        <name>Mantra Falls</name>
+        <Folder id="32619">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Fallview Ave to Taywood Road (PnH) (IV)</name>
+            <Placemark id="32621">
+                <name>Fallview Ave to Taywood Road (PnH) (IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11007/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="32620">
+                    <coordinates>-84.293827,39.86507,0.0 -84.293623,39.865062,0.0 -84.293395,39.865024,0.0 -84.293239,39.864936,0.0 -84.292171,39.86431,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="32623">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="32622">
+                    <coordinates>-84.292,39.863998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32625">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="32624">
+                    <coordinates>-84.29383,39.864993,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

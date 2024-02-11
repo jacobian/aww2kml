@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="60917">
+        <name>Warrior Creek</name>
+        <Folder id="60918">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>SC 49 to Enoree River (II(IV))</name>
+            <Placemark id="60920">
+                <name>SC 49 to Enoree River (II(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4241/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="60919">
+                    <coordinates>-81.91531,34.603408,0.0 -81.915144,34.603375,0.0 -81.914938,34.603348,0.0 -81.914805,34.603309,0.0 -81.914493,34.60321,0.0 -81.914307,34.603166,0.0 -81.914047,34.603117,0.0 -81.913722,34.603073,0.0 -81.913502,34.603045,0.0 -81.913157,34.603034,0.0 -81.91305,34.603056,0.0 -81.912944,34.603084,0.0 -81.912844,34.603117,0.0 -81.912778,34.603139,0.0 -81.912419,34.603138,0.0 -81.912273,34.60315,0.0 -81.912126,34.603199,0.0 -81.911953,34.603248,0.0 -81.911814,34.603303,0.0 -81.911681,34.603336,0.0 -81.911634,34.603353,0.0 -81.911503,34.603344,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="60922">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="60921">
+                    <coordinates>-81.911499,34.603401,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60924">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="60923">
+                    <coordinates>-81.915298,34.6035,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="60925">
+            <name>SC 49 to Enoree River (II(IV))</name>
+            <Placemark id="60927">
+                <name>SC 49 to Enoree River (II(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4241/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="60926">
+                    <coordinates>-81.91531,34.603408,0.0 -81.915144,34.603375,0.0 -81.914938,34.603348,0.0 -81.914805,34.603309,0.0 -81.914493,34.60321,0.0 -81.914307,34.603166,0.0 -81.914047,34.603117,0.0 -81.913722,34.603073,0.0 -81.913502,34.603045,0.0 -81.913157,34.603034,0.0 -81.91305,34.603056,0.0 -81.912944,34.603084,0.0 -81.912844,34.603117,0.0 -81.912778,34.603139,0.0 -81.912419,34.603138,0.0 -81.912273,34.60315,0.0 -81.912126,34.603199,0.0 -81.911953,34.603248,0.0 -81.911814,34.603303,0.0 -81.911681,34.603336,0.0 -81.911634,34.603353,0.0 -81.911503,34.603344,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="60929">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="60928">
+                    <coordinates>-81.911499,34.603401,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60931">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="60930">
+                    <coordinates>-81.915298,34.6035,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="19228">
+        <name>Farmington</name>
+        <Folder id="19229">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>3. Tariffville Park (Simsbury) to Highway 187 (Tariffville Gorge) (II-III)</name>
+            <Placemark id="19231">
+                <name>3. Tariffville Park (Simsbury) to Highway 187 (Tariffville Gorge) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/443/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="19230">
+                    <coordinates>-72.765004,41.91392,0.0 -72.765023,41.913802,0.0 -72.765089,41.913302,0.0 -72.764557,41.912835,0.0 -72.763764,41.91236,0.0 -72.762856,41.911919,0.0 -72.761994,41.911563,0.0 -72.761209,41.91133,0.0 -72.760514,41.911292,0.0 -72.760424,41.911085,0.0 -72.760188,41.910887,0.0 -72.76035,41.910418,0.0 -72.760441,41.910074,0.0 -72.760481,41.909925,0.0 -72.760437,41.909331,0.0 -72.760269,41.909038,0.0 -72.759863,41.90873,0.0 -72.759843,41.908715,0.0 -72.75914,41.90823,0.0 -72.758832,41.907764,0.0 -72.758849,41.907281,0.0 -72.759195,41.906658,0.0 -72.759931,41.905983,0.0 -72.760575,41.905149,0.0 -72.760722,41.904644,0.0 -72.760781,41.903665,0.0 -72.760156,41.903012,0.0 -72.759037,41.902144,0.0 -72.758293,41.901658,0.0 -72.756765,41.901389,0.0 -72.756668,41.901372,0.0 -72.756251,41.901243,0.0 -72.755581,41.900976,0.0 -72.754866,41.9008,0.0 -72.754345,41.900593,0.0 -72.753806,41.900268,0.0 -72.753262,41.899922,0.0 -72.752472,41.899133,0.0 -72.752496,41.898928,0.0 -72.751837,41.898467,0.0 -72.750917,41.898086,0.0 -72.750003,41.897314,0.0 -72.749129,41.896861,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="19233">
+                <name>Bridge Abutments (III)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="19232">
+                    <coordinates>-72.7603,41.905499,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19235">
+                <name>Main Hole (III)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="19234">
+                    <coordinates>-72.760132,41.903191,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19237">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="19236">
+                    <coordinates>-72.748901,41.897301,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19239">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="19238">
+                    <coordinates>-72.765503,41.914001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19241">
+                <name>Former Location of Spoonville Dam (III+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="19240">
+                    <coordinates>-72.756882,41.901196,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19243">
+                <name>Typewriter / The Vortex (III)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="19242">
+                    <coordinates>-72.765503,41.914001,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="19244">
+            <name>2. Collinsville to Unionville (II)</name>
+            <Placemark id="19246">
+                <name>2. Collinsville to Unionville (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/446/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="19245">
+                    <coordinates>-72.92195,41.783058,0.0 -72.921564,41.782725,0.0 -72.921334,41.782373,0.0 -72.921155,41.781606,0.0 -72.920592,41.780665,0.0 -72.920159,41.779699,0.0 -72.919662,41.778996,0.0 -72.918097,41.778051,0.0 -72.916091,41.777542,0.0 -72.914647,41.777447,0.0 -72.913267,41.777088,0.0 -72.909883,41.776471,0.0 -72.906459,41.776201,0.0 -72.904655,41.776334,0.0 -72.9038,41.776146,0.0 -72.902719,41.775599,0.0 -72.902013,41.774996,0.0 -72.901583,41.774181,0.0 -72.901449,41.773216,0.0 -72.901184,41.77242,0.0 -72.901041,41.771719,0.0 -72.90108,41.77054,0.0 -72.901131,41.768973,0.0 -72.900959,41.76852,0.0 -72.900513,41.768201,0.0 -72.899682,41.767627,0.0 -72.898955,41.767024,0.0 -72.897725,41.766272,0.0 -72.896597,41.765273,0.0 -72.896206,41.764537,0.0 -72.896353,41.763841,0.0 -72.89666,41.763334,0.0 -72.896858,41.762996,0.0 -72.896892,41.762593,0.0 -72.896884,41.76219,0.0 -72.896544,41.761826,0.0 -72.896079,41.761461,0.0 -72.895903,41.76104,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="19248">
+                <name>Put-in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="19247">
+                    <coordinates>-72.925003,41.793999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19250">
+                <name>Take-out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="19249">
+                    <coordinates>-72.896004,41.761002,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19252">
+                <name>Alternate Take-out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="19251">
+                    <coordinates>-72.861,41.742001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19254">
+                <name>Crystal Rapids (Punch Brook) (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="19253">
+                    <coordinates>-72.920998,41.783001,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19256">
+                <name>Apricots Ledges (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="19255">
+                    <coordinates>-72.871002,41.75,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19258">
+                <name>Bernackie Rapid (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="19257">
+                    <coordinates>-72.901001,41.768002,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19260">
+                <name>Route 4 Bridge Rapids (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="19259">
+                    <coordinates>-72.897003,41.765999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19262">
+                <name>Boateater (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="19261">
+                    <coordinates>-72.867996,41.745998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19264">
+                <name>Boulder Gardens (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="19263">
+                    <coordinates>-72.917,41.778,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="19265">
+            <name>1. Satan's Kingdom Parking Area to Canton (I-II+(III))</name>
+            <Placemark id="19267">
+                <name>1. Satan's Kingdom Parking Area to Canton (I-II+(III))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10848/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="19266">
+                    <coordinates>-72.958122,41.857888,0.0 -72.957934,41.85751,0.0 -72.957488,41.85698,0.0 -72.956943,41.856466,0.0 -72.956579,41.855956,0.0 -72.95658,41.855695,0.0 -72.956606,41.855127,0.0 -72.956932,41.854617,0.0 -72.956948,41.854096,0.0 -72.956942,41.853806,0.0 -72.956839,41.85363,0.0 -72.95683,41.853422,0.0 -72.95681,41.853074,0.0 -72.956688,41.852538,0.0 -72.956287,41.851511,0.0 -72.955994,41.850949,0.0 -72.955598,41.849772,0.0 -72.955401,41.84913,0.0 -72.954956,41.848995,0.0 -72.954622,41.848769,0.0 -72.954058,41.848469,0.0 -72.953743,41.848139,0.0 -72.953388,41.847588,0.0 -72.953223,41.846936,0.0 -72.953182,41.846529,0.0 -72.953138,41.845972,0.0 -72.95264,41.844572,0.0 -72.952411,41.843965,0.0 -72.952237,41.843105,0.0 -72.952028,41.842846,0.0 -72.951732,41.842667,0.0 -72.951007,41.842549,0.0 -72.949736,41.842793,0.0 -72.948794,41.842916,0.0 -72.947794,41.84317,0.0 -72.946363,41.843544,0.0 -72.9458,41.843476,0.0 -72.943911,41.84353,0.0 -72.942969,41.843408,0.0 -72.941338,41.843014,0.0 -72.939656,41.8423,0.0 -72.938887,41.842118,0.0 -72.938296,41.84169,0.0 -72.937891,41.841266,0.0 -72.936248,41.840297,0.0 -72.935083,41.839668,0.0 -72.933576,41.838806,0.0 -72.931932,41.837159,0.0 -72.930231,41.835807,0.0 -72.929322,41.834442,0.0 -72.929261,41.834353,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="19269">
+                <name>putin</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="19268">
+                    <coordinates>-72.958,41.858002,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19271">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="19270">
+                    <coordinates>-72.9289,41.8346,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="19273">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="19272">
+                    <coordinates>-72.9583,41.8578,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

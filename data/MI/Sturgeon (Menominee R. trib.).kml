@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56572">
+        <name>Sturgeon (Menominee R. trib.)</name>
+        <Folder id="56573">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Sturgeon Dam (0.3 - 2.0 miles) (III-IV)</name>
+            <Placemark id="56575">
+                <name>Sturgeon Dam (0.3 - 2.0 miles) (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4059/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="56574">
+                    <coordinates>-87.762357,45.801242,0.0 -87.763604,45.801392,0.0 -87.76514,45.802118,0.0 -87.766543,45.802456,0.0 -87.768515,45.802576,0.0 -87.769489,45.802003,0.0 -87.770385,45.802057,0.0 -87.771702,45.801631,0.0 -87.773456,45.800599,0.0 -87.773892,45.799993,0.0 -87.774063,45.798611,0.0 -87.773424,45.79794,0.0 -87.773502,45.797312,0.0 -87.773922,45.796831,0.0 -87.777896,45.793909,0.0 -87.779368,45.792227,0.0 -87.783263,45.789858,0.0 -87.783465,45.789837,0.0 -87.783791,45.789746,0.0 -87.784085,45.789495,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="56577">
+                <name>Rapids?</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="56576">
+                    <coordinates>-87.751342,45.804428,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56579">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="56578">
+                    <coordinates>-87.78376,45.789114,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56581">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="56580">
+                    <coordinates>-87.762665,45.798675,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56583">
+                <name>Sturgeon Rapids</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56582">
+                    <coordinates>-87.783514,45.789964,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56585">
+                <name>Possible alternate put-in</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56584">
+                    <coordinates>-87.773008,45.797478,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56587">
+                <name>Head of gradient</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="56586">
+                    <coordinates>-87.776709,45.794793,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

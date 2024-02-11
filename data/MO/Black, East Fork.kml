@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="4960">
+        <name>Black, East Fork</name>
+        <Folder id="4961">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Johnson's Shut Ins (2 miles) (II-III)</name>
+            <Placemark id="4963">
+                <name>Johnson's Shut Ins (2 miles) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3843/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="4962">
+                    <coordinates>-90.840917,37.539735,0.0 -90.840892,37.539747,0.0 -90.840609,37.539751,0.0 -90.840348,37.539764,0.0 -90.83965,37.539625,0.0 -90.839355,37.539647,0.0 -90.839083,37.539669,0.0 -90.838844,37.539719,0.0 -90.838571,37.539768,0.0 -90.838081,37.539713,0.0 -90.83791,37.539548,0.0 -90.837971,37.539396,0.0 -90.83802,37.539253,0.0 -90.838024,37.539109,0.0 -90.838004,37.539018,0.0 -90.837991,37.5389,0.0 -90.837766,37.538627,0.0 -90.837656,37.538534,0.0 -90.83757,37.538389,0.0 -90.837517,37.538252,0.0 -90.837474,37.538162,0.0 -90.837509,37.537945,0.0 -90.837377,37.536636,0.0 -90.837789,37.536103,0.0 -90.838216,37.535029,0.0 -90.838451,37.534718,0.0 -90.838524,37.534179,0.0 -90.839218,37.533651,0.0 -90.840133,37.533307,0.0 -90.840364,37.533131,0.0 -90.841106,37.532919,0.0 -90.841453,37.532655,0.0 -90.841516,37.532431,0.0 -90.841922,37.532078,0.0 -90.841934,37.531673,0.0 -90.841334,37.530896,0.0 -90.840837,37.530481,0.0 -90.839385,37.529824,0.0 -90.836553,37.527969,0.0 -90.836167,37.527602,0.0 -90.836006,37.527329,0.0 -90.836015,37.527013,0.0 -90.83619,37.526836,0.0 -90.837625,37.526097,0.0 -90.839127,37.525043,0.0 -90.839843,37.524718,0.0 -90.840509,37.524212,0.0 -90.840523,37.523716,0.0 -90.840704,37.523314,0.0 -90.840748,37.521789,0.0 -90.840757,37.521468,0.0 -90.840873,37.52138,0.0 -90.840894,37.520659,0.0 -90.840728,37.520521,0.0 -90.840736,37.520251,0.0 -90.840625,37.520159,0.0 -90.840629,37.520023,0.0 -90.840388,37.519802,0.0 -90.840078,37.519518,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="4965">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="4964">
+                    <coordinates>-90.838799,37.520401,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="4967">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="4966">
+                    <coordinates>-90.840919,37.539742,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

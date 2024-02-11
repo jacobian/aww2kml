@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="36713">
+        <name>Net</name>
+        <Folder id="36714">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Fishing Site #1 Road to unnamed road/campground (6.85 miles) (I-II)</name>
+            <Placemark id="36716">
+                <name>Fishing Site #1 Road to unnamed road/campground (6.85 miles) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10800/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="36715">
+                    <coordinates>-88.532759,46.329877,0.0 -88.532664,46.32615,0.0 -88.533743,46.323044,0.0 -88.53437,46.322318,0.0 -88.534889,46.320953,0.0 -88.536704,46.319641,0.0 -88.536828,46.31956,0.0 -88.537026,46.319514,0.0 -88.537818,46.319104,0.0 -88.53786,46.318994,0.0 -88.538984,46.318518,0.0 -88.539888,46.318568,0.0 -88.541501,46.318783,0.0 -88.542167,46.319326,0.0 -88.543418,46.319521,0.0 -88.543932,46.319802,0.0 -88.547548,46.32,0.0 -88.548523,46.31942,0.0 -88.549165,46.318569,0.0 -88.549321,46.317185,0.0 -88.549016,46.316661,0.0 -88.549158,46.315403,0.0 -88.548906,46.314968,0.0 -88.548841,46.314929,0.0 -88.548842,46.314198,0.0 -88.548645,46.313717,0.0 -88.548579,46.31342,0.0 -88.548744,46.313238,0.0 -88.549206,46.313146,0.0 -88.549404,46.313238,0.0 -88.549353,46.313141,0.0 -88.549536,46.313046,0.0 -88.549804,46.312905,0.0 -88.549831,46.311979,0.0 -88.549834,46.311913,0.0 -88.549835,46.311798,0.0 -88.550231,46.31125,0.0 -88.550364,46.310793,0.0 -88.550232,46.310656,0.0 -88.549507,46.310015,0.0 -88.549277,46.309513,0.0 -88.549113,46.30933,0.0 -88.549014,46.309124,0.0 -88.548882,46.309001,0.0 -88.547646,46.307849,0.0 -88.54737,46.307074,0.0 -88.547512,46.305815,0.0 -88.548391,46.30447,0.0 -88.54861,46.303376,0.0 -88.548692,46.303273,0.0 -88.548791,46.303113,0.0 -88.548824,46.302793,0.0 -88.549056,46.302107,0.0 -88.548991,46.301582,0.0 -88.548963,46.301473,0.0 -88.54915,46.300966,0.0 -88.550127,46.300052,0.0 -88.550345,46.300028,0.0 -88.55051,46.300006,0.0 -88.551137,46.299549,0.0 -88.551599,46.299252,0.0 -88.552655,46.298956,0.0 -88.554601,46.298591,0.0 -88.554563,46.298531,0.0 -88.554601,46.298509,0.0 -88.555873,46.297788,0.0 -88.556362,46.296969,0.0 -88.556449,46.296855,0.0 -88.556615,46.296307,0.0 -88.556596,46.296218,0.0 -88.5566,46.296215,0.0 -88.557365,46.295844,0.0 -88.557798,46.295234,0.0 -88.560137,46.293842,0.0 -88.561458,46.293408,0.0 -88.562592,46.292735,0.0 -88.562752,46.292676,0.0 -88.563082,46.292494,0.0 -88.563412,46.292082,0.0 -88.563445,46.291831,0.0 -88.56361,46.29142,0.0 -88.563808,46.291214,0.0 -88.564798,46.29062,0.0 -88.564811,46.290496,0.0 -88.56508,46.290313,0.0 -88.565489,46.289176,0.0 -88.565558,46.289135,0.0 -88.56569,46.289112,0.0 -88.56602,46.288656,0.0 -88.566119,46.28861,0.0 -88.566647,46.287605,0.0 -88.567176,46.286828,0.0 -88.567736,46.286371,0.0 -88.568496,46.285297,0.0 -88.568858,46.285137,0.0 -88.569023,46.284977,0.0 -88.569,46.284829,0.0 -88.569193,46.28446,0.0 -88.570181,46.283754,0.0 -88.572062,46.281578,0.0 -88.572647,46.28123,0.0 -88.573759,46.281037,0.0 -88.574538,46.280573,0.0 -88.574623,46.279818,0.0 -88.574138,46.279285,0.0 -88.57435,46.277397,0.0 -88.574754,46.27704,0.0 -88.574853,46.276159,0.0 -88.574466,46.274745,0.0 -88.574133,46.274473,0.0 -88.574356,46.274106,0.0 -88.57668,46.272839,0.0 -88.580505,46.271149,0.0 -88.581812,46.27084,0.0 -88.584703,46.270998,0.0 -88.585093,46.270766,0.0 -88.587069,46.269354,0.0 -88.588754,46.267293,0.0 -88.588771,46.265521,0.0 -88.589203,46.264912,0.0 -88.589457,46.262647,0.0 -88.589903,46.261911,0.0 -88.590072,46.260401,0.0 -88.589796,46.259626,0.0 -88.587826,46.257747,0.0 -88.587939,46.254227,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="36718">
+                <name>Net River Road</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36717">
+                    <coordinates>-88.574387,46.274342,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36720">
+                <name>USGS sampling site, W.Br.</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36719">
+                    <coordinates>-88.504303,46.386299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36722">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36721">
+                    <coordinates>-88.490997,46.3727,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36724">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="36723">
+                    <coordinates>-88.587097,46.2542,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36726">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="36725">
+                    <coordinates>-88.531898,46.329899,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36728">
+                <name>Fourth Narrows (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36727">
+                    <coordinates>-88.551498,46.2994,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36730">
+                <name>NOT Chipmunk Falls</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36729">
+                    <coordinates>-88.563263,46.29163,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36732">
+                <name>First Narrows (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36731">
+                    <coordinates>-88.537697,46.3195,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36734">
+                <name>Second Narrows (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36733">
+                    <coordinates>-88.550003,46.311901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36736">
+                <name>Third Narrows (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36735">
+                    <coordinates>-88.548698,46.3032,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36738">
+                <name>Net River Road (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36737">
+                    <coordinates>-88.573898,46.281101,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36740">
+                <name>Fifth Narrows / Chipmunk Falls (II+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36739">
+                    <coordinates>-88.556503,46.2967,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36742">
+                <name>&quot;Snake Rapids&quot; (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36741">
+                    <coordinates>-88.588501,46.265701,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36744">
+                <name>Snake Rapids (really) (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="36743">
+                    <coordinates>-88.588829,46.258869,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="36745">
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Holyoke (PnH) (II-III)</name>
+            <Placemark id="36747">
+                <name>Holyoke (PnH) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10208/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="36746">
+                    <coordinates>-92.394593,46.465876,0.0 -92.395636,46.466652,0.0 -92.395801,46.466949,0.0 -92.395901,46.467246,0.0 -92.396033,46.467475,0.0 -92.396166,46.468481,0.0 -92.396263,46.468622,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="36749">
+                <name>Little Net</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="36748">
+                    <coordinates>-92.361,46.483002,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36751">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="36750">
+                    <coordinates>-92.396004,46.4688,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36753">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="36752">
+                    <coordinates>-92.394501,46.466,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

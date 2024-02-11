@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2257">
+        <name>Barren River</name>
+        <Folder id="2258">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Downtown Bowling Green Riverfront (PnP) (III+)</name>
+            <Placemark id="2260">
+                <name>Downtown Bowling Green Riverfront (PnP) (III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10358/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="2259">
+                    <coordinates>-86.427327,36.99982,0.0 -86.427428,36.999854,0.0 -86.427469,36.999868,0.0 -86.427552,36.999896,0.0 -86.427629,36.999934,0.0 -86.427706,36.999971,0.0 -86.427769,37.0,0.0 -86.427784,37.000007,0.0 -86.427824,37.000024,0.0 -86.427906,37.000054,0.0 -86.427988,37.000084,0.0 -86.428111,37.00013,0.0 -86.428194,37.000159,0.0 -86.428236,37.000173,0.0 -86.428319,37.000201,0.0 -86.428398,37.000236,0.0 -86.428477,37.000271,0.0 -86.428517,37.000288,0.0 -86.428557,37.000304,0.0 -86.428676,37.000356,0.0 -86.428714,37.000375,0.0 -86.428833,37.000427,0.0 -86.428873,37.000444,0.0 -86.428912,37.000461,0.0 -86.428991,37.000497,0.0 -86.429109,37.00055,0.0 -86.429227,37.000602,0.0 -86.429306,37.000638,0.0 -86.429346,37.000655,0.0 -86.429385,37.000672,0.0 -86.429424,37.00069,0.0 -86.429463,37.000709,0.0 -86.429536,37.000751,0.0 -86.429608,37.000794,0.0 -86.429717,37.000858,0.0 -86.429826,37.000922,0.0 -86.429935,37.000986,0.0 -86.429972,37.001007,0.0 -86.430081,37.001071,0.0 -86.430152,37.001114,0.0 -86.430188,37.001136,0.0 -86.430198,37.001143,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="2262">
+                <name>College St Bridge Putin</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="2261">
+                    <coordinates>-86.429901,37.0014,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2264">
+                <name>Rocks (III+)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="2263">
+                    <coordinates>-86.4282,36.999901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2266">
+                <name>Seal Launch</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="2265">
+                    <coordinates>-86.427101,37,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2268">
+                <name>Old Louisville Rd Bridge Eddy Line (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="2267">
+                    <coordinates>-86.428802,37.000401,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2270">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="2269">
+                    <coordinates>-86.4301,37.0013,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

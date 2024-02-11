@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="4993">
+        <name>Blackberry Creek</name>
+        <Folder id="4994">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Jaycee Pond Park (PnP) (II)</name>
+            <Placemark id="4996">
+                <name>Jaycee Pond Park (PnP) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10906/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="4995">
+                    <coordinates>-88.452817,41.647753,0.0 -88.452994,41.647618,0.0 -88.45306,41.647453,0.0 -88.453146,41.647226,0.0 -88.453314,41.646846,0.0 -88.453355,41.646816,0.0 -88.453443,41.646817,0.0 -88.453667,41.646648,0.0 -88.453667,41.646631,0.0 -88.45369,41.646601,0.0 -88.453702,41.646585,0.0 -88.453703,41.646585,0.0 -88.453728,41.646552,0.0 -88.453156,41.646438,0.0 -88.452508,41.646415,0.0 -88.451803,41.646392,0.0 -88.451371,41.646421,0.0 -88.451142,41.646421,0.0 -88.450875,41.646364,0.0 -88.450602,41.646164,0.0 -88.450404,41.645931,0.0 -88.450245,41.645731,0.0 -88.450169,41.645607,0.0 -88.450149,41.645436,0.0 -88.450257,41.64525,0.0 -88.450295,41.645189,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="4998">
+                <name>Put In (I)</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="4997">
+                    <coordinates>-88.453003,41.647999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="5000">
+                <name>Rock Arch #3</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="4999">
+                    <coordinates>-88.450996,41.646,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="5002">
+                <name>Rock Arch #2</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="5001">
+                    <coordinates>-88.452003,41.646,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="5004">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="5003">
+                    <coordinates>-88.449997,41.645,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="5006">
+                <name>Bridge Waves</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="5005">
+                    <coordinates>-88.449997,41.645,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="5008">
+                <name>Rock Arch #1</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="5007">
+                    <coordinates>-88.454002,41.646999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="5010">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="5009">
+                    <coordinates>-88.453003,41.647999,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

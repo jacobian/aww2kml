@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="62268">
+        <name>White, East Fork</name>
+        <Folder id="62269">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Hindostan Falls (PnP) (I-II(IV))</name>
+            <Placemark id="62271">
+                <name>Hindostan Falls (PnP) (I-II(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3807/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="62270">
+                    <coordinates>-86.851519,38.623388,0.0 -86.851142,38.623366,0.0 -86.850681,38.623288,0.0 -86.850468,38.623252,0.0 -86.850361,38.623233,0.0 -86.849577,38.623019,0.0 -86.848911,38.622642,0.0 -86.84847,38.622107,0.0 -86.847871,38.621788,0.0 -86.846426,38.621642,0.0 -86.846391,38.621637,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="62273">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="62272">
+                    <coordinates>-86.846298,38.6222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62275">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="62274">
+                    <coordinates>-86.851501,38.623699,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

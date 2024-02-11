@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="34739">
+        <name>Mineral</name>
+        <Folder id="34740">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Hwy.64 to Main Street (White Pine) (2.5 miles) (II-III+)</name>
+            <Placemark id="34742">
+                <name>Hwy.64 to Main Street (White Pine) (2.5 miles) (II-III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/5437/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="34741">
+                    <coordinates>-89.562892,46.733334,0.0 -89.563429,46.733414,0.0 -89.56406,46.733711,0.0 -89.565986,46.735312,0.0 -89.566451,46.735449,0.0 -89.567115,46.735449,0.0 -89.567348,46.735541,0.0 -89.567348,46.735746,0.0 -89.566716,46.736363,0.0 -89.566583,46.73666,0.0 -89.566749,46.736911,0.0 -89.567712,46.737529,0.0 -89.568542,46.738466,0.0 -89.568675,46.738489,0.0 -89.569007,46.73842,0.0 -89.569971,46.738124,0.0 -89.570536,46.738124,0.0 -89.570536,46.738329,0.0 -89.570336,46.738581,0.0 -89.570369,46.738786,0.0 -89.570469,46.738878,0.0 -89.570535,46.739175,0.0 -89.570734,46.739358,0.0 -89.571299,46.739563,0.0 -89.571565,46.739838,0.0 -89.571731,46.740135,0.0 -89.571864,46.740226,0.0 -89.572362,46.740318,0.0 -89.573459,46.740227,0.0 -89.574722,46.740319,0.0 -89.575187,46.740502,0.0 -89.575685,46.74089,0.0 -89.575785,46.741004,0.0 -89.575851,46.741461,0.0 -89.575917,46.741736,0.0 -89.576083,46.741896,0.0 -89.576382,46.741987,0.0 -89.57698,46.741896,0.0 -89.577479,46.741942,0.0 -89.577745,46.742125,0.0 -89.57801,46.742513,0.0 -89.578475,46.742765,0.0 -89.57904,46.74297,0.0 -89.58007,46.743108,0.0 -89.580137,46.743222,0.0 -89.580137,46.74345,0.0 -89.580037,46.743496,0.0 -89.579837,46.743884,0.0 -89.579571,46.744044,0.0 -89.57904,46.744067,0.0 -89.579006,46.744318,0.0 -89.579239,46.744684,0.0 -89.579637,46.744935,0.0 -89.579836,46.745278,0.0 -89.580235,46.745392,0.0 -89.580501,46.745324,0.0 -89.581,46.745004,0.0 -89.581299,46.745027,0.0 -89.581498,46.745164,0.0 -89.58183,46.745804,0.0 -89.582063,46.745964,0.0 -89.582395,46.746079,0.0 -89.582362,46.746421,0.0 -89.582229,46.746718,0.0 -89.582062,46.746855,0.0 -89.581431,46.747015,0.0 -89.581264,46.747198,0.0 -89.581497,46.747403,0.0 -89.581862,46.747564,0.0 -89.581862,46.747723,0.0 -89.580832,46.748203,0.0 -89.580399,46.748477,0.0 -89.579768,46.748545,0.0 -89.579568,46.748454,0.0 -89.579436,46.748065,0.0 -89.579203,46.747905,0.0 -89.578738,46.747997,0.0 -89.578571,46.748179,0.0 -89.578438,46.748431,0.0 -89.578438,46.749139,0.0 -89.578803,46.749939,0.0 -89.578811,46.750402,0.0 -89.578578,46.750836,0.0 -89.578378,46.751019,0.0 -89.577081,46.751772,0.0 -89.576815,46.752161,0.0 -89.576828,46.752286,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="34744">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="34743">
+                    <coordinates>-89.576698,46.7523,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34746">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="34745">
+                    <coordinates>-89.562897,46.733299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34748">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="34747">
+                    <coordinates>-89.562897,46.733299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34750">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="34749">
+                    <coordinates>-89.573799,46.7621,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

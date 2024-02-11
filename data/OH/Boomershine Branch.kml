@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5692">
+        <name>Boomershine Branch</name>
+        <Folder id="5693">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Germantown Nature Center to Twin Creek (III-IV)</name>
+            <Placemark id="5695">
+                <name>Germantown Nature Center to Twin Creek (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10569/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="5694">
+                    <coordinates>-84.425944,39.640297,0.0 -84.42596,39.64034,0.0 -84.426052,39.640472,0.0 -84.426173,39.64062,0.0 -84.426201,39.640807,0.0 -84.426201,39.641027,0.0 -84.426194,39.641213,0.0 -84.426166,39.641356,0.0 -84.426102,39.641477,0.0 -84.426031,39.641543,0.0 -84.425903,39.64163,0.0 -84.425669,39.641729,0.0 -84.42547,39.641784,0.0 -84.425278,39.641844,0.0 -84.425058,39.64191,0.0 -84.424973,39.641921,0.0 -84.42493,39.641938,0.0 -84.424895,39.641965,0.0 -84.424831,39.64208,0.0 -84.424738,39.642212,0.0 -84.424618,39.642333,0.0 -84.424469,39.642432,0.0 -84.424334,39.642503,0.0 -84.424185,39.642542,0.0 -84.423915,39.642541,0.0 -84.423737,39.642547,0.0 -84.423553,39.642552,0.0 -84.423396,39.642585,0.0 -84.423247,39.642646,0.0 -84.423141,39.642706,0.0 -84.423063,39.642761,0.0 -84.422963,39.642865,0.0 -84.422914,39.64297,0.0 -84.422885,39.64309,0.0 -84.422871,39.643228,0.0 -84.422857,39.643304,0.0 -84.422828,39.643381,0.0 -84.422786,39.643447,0.0 -84.422707,39.643546,0.0 -84.422608,39.643661,0.0 -84.422345,39.643903,0.0 -84.422182,39.644051,0.0 -84.421955,39.644298,0.0 -84.421855,39.644397,0.0 -84.42172,39.644528,0.0 -84.421607,39.644627,0.0 -84.421575,39.644675,0.0 -84.421377,39.64456,0.0 -84.421271,39.644493,0.0 -84.421209,39.644441,0.0 -84.421077,39.644344,0.0 -84.42105,39.644315,0.0 -84.420954,39.644241,0.0 -84.420886,39.644195,0.0 -84.420861,39.644167,0.0 -84.420826,39.644144,0.0 -84.420752,39.644104,0.0 -84.42071,39.644089,0.0 -84.420466,39.643981,0.0 -84.420257,39.643906,0.0 -84.420011,39.643806,0.0 -84.419841,39.643727,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="5697">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="5696">
+                    <coordinates>-84.4199,39.6436,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="5699">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="5698">
+                    <coordinates>-84.4262,39.6402,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

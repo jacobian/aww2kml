@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6835">
+        <name>Brushkana Creek</name>
+        <Folder id="6836">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Denali Hwy to Nenana River (II+)</name>
+            <Placemark id="6838">
+                <name>Denali Hwy to Nenana River (II+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3251/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="6837">
+                    <coordinates>-148.066991,63.288352,0.0 -148.066185,63.288817,0.0 -148.062041,63.290111,0.0 -148.06066,63.292388,0.0 -148.056861,63.293215,0.0 -148.056112,63.295156,0.0 -148.058415,63.296604,0.0 -148.061279,63.296674,0.0 -148.063754,63.297166,0.0 -148.062704,63.301893,0.0 -148.066335,63.303486,0.0 -148.065153,63.304738,0.0 -148.060846,63.304624,0.0 -148.059833,63.304966,0.0 -148.059749,63.306939,0.0 -148.062282,63.308039,0.0 -148.067517,63.309708,0.0 -148.071824,63.31259,0.0 -148.07357,63.314927,0.0 -148.076272,63.315192,0.0 -148.081255,63.316671,0.0 -148.085815,63.316368,0.0 -148.089277,63.317771,0.0 -148.093077,63.318188,0.0 -148.096708,63.31815,0.0 -148.099579,63.317771,0.0 -148.10397,63.31815,0.0 -148.105744,63.318188,0.0 -148.111232,63.320046,0.0 -148.121366,63.322017,0.0 -148.124152,63.32179,0.0 -148.126686,63.322359,0.0 -148.129979,63.322434,0.0 -148.133019,63.324747,0.0 -148.13361,63.324444,0.0 -148.134032,63.323685,0.0 -148.138761,63.324368,0.0 -148.139859,63.324785,0.0 -148.140645,63.32596,0.0 -148.142756,63.325012,0.0 -148.144613,63.325657,0.0 -148.146978,63.327021,0.0 -148.14968,63.326604,0.0 -148.149427,63.325429,0.0 -148.146725,63.324595,0.0 -148.146809,63.324216,0.0 -148.148582,63.324027,0.0 -148.150356,63.324823,0.0 -148.152129,63.325998,0.0 -148.153227,63.326529,0.0 -148.155929,63.32687,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="6840">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="6839">
+                    <coordinates>-148.196304,63.330002,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6842">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="6841">
+                    <coordinates>-148.063705,63.287998,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

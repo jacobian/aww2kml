@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="39305">
+        <name>Owens River</name>
+        <Folder id="39306">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Pleasant Valley Reservoir to Pleasant Valley Campground Footbridge (II-III)</name>
+            <Placemark id="39308">
+                <name>Pleasant Valley Reservoir to Pleasant Valley Campground Footbridge (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10701/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="39307">
+                    <coordinates>-118.513908,37.411782,0.0 -118.513776,37.411715,0.0 -118.513499,37.411645,0.0 -118.5133,37.4116,0.0 -118.51305,37.411555,0.0 -118.512853,37.411469,0.0 -118.512694,37.411343,0.0 -118.512563,37.411219,0.0 -118.512445,37.411138,0.0 -118.512287,37.41111,0.0 -118.512075,37.411044,0.0 -118.511943,37.410967,0.0 -118.511797,37.410874,0.0 -118.511564,37.410703,0.0 -118.511365,37.410551,0.0 -118.511129,37.410357,0.0 -118.510993,37.410297,0.0 -118.510877,37.410271,0.0 -118.510664,37.410253,0.0 -118.510403,37.410229,0.0 -118.510187,37.410176,0.0 -118.51,37.410082,0.0 -118.509776,37.409961,0.0 -118.509508,37.409824,0.0 -118.509314,37.40972,0.0 -118.509087,37.409603,0.0 -118.508838,37.4095,0.0 -118.508639,37.409455,0.0 -118.508372,37.409417,0.0 -118.508204,37.40939,0.0 -118.507998,37.409345,0.0 -118.50789,37.409275,0.0 -118.50768,37.409137,0.0 -118.507467,37.408982,0.0 -118.507139,37.408886,0.0 -118.506807,37.40882,0.0 -118.506682,37.408729,0.0 -118.506499,37.408608,0.0 -118.506382,37.408494,0.0 -118.506231,37.408362,0.0 -118.506085,37.408263,0.0 -118.505838,37.408207,0.0 -118.505536,37.408196,0.0 -118.505305,37.408173,0.0 -118.505196,37.408135,0.0 -118.505108,37.408079,0.0 -118.505058,37.408018,0.0 -118.505044,37.407919,0.0 -118.504985,37.407805,0.0 -118.504866,37.407729,0.0 -118.50475,37.40768,0.0 -118.504638,37.407634,0.0 -118.504578,37.407551,0.0 -118.504544,37.407405,0.0 -118.504495,37.407305,0.0 -118.504404,37.407224,0.0 -118.504241,37.407163,0.0 -118.504104,37.407125,0.0 -118.503992,37.407066,0.0 -118.503895,37.406968,0.0 -118.503704,37.40675,0.0 -118.503484,37.406634,0.0 -118.503228,37.406534,0.0 -118.502876,37.40642,0.0 -118.502576,37.406325,0.0 -118.502471,37.406265,0.0 -118.502219,37.406165,0.0 -118.502128,37.406105,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="39310">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="39309">
+                    <coordinates>-118.502,37.4063,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="39312">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="39311">
+                    <coordinates>-118.514,37.4116,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

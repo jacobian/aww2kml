@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="14381">
+        <name>Crow, S.Fk.</name>
+        <Folder id="14382">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Girl Scout Park to Veterans Memorial Park (0.3 mile) (II)</name>
+            <Placemark id="14384">
+                <name>Girl Scout Park to Veterans Memorial Park (0.3 mile) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/11020/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="14383">
+                    <coordinates>-94.370265,44.895492,0.0 -94.369875,44.895557,0.0 -94.369505,44.895596,0.0 -94.369198,44.895599,0.0 -94.368907,44.895569,0.0 -94.368754,44.895521,0.0 -94.36855,44.895458,0.0 -94.368273,44.895358,0.0 -94.36777,44.895227,0.0 -94.36733,44.895037,0.0 -94.367134,44.894902,0.0 -94.366582,44.894737,0.0 -94.366275,44.89474,0.0 -94.365936,44.894733,0.0 -94.36561,44.894588,0.0 -94.365202,44.894375,0.0 -94.36499,44.894251,0.0 -94.364944,44.89422,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="14386">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="14385">
+                    <coordinates>-94.364928,44.894243,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="14388">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="14387">
+                    <coordinates>-94.370324,44.895848,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

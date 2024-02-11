@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="54535">
+        <name>Spirit</name>
+        <Folder id="54536">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Spirit Falls (0.2 mile) (II)</name>
+            <Placemark id="54538">
+                <name>Spirit Falls (0.2 mile) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10912/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="54537">
+                    <coordinates>-89.977987,45.451923,0.0 -89.977093,45.452073,0.0 -89.976766,45.452171,0.0 -89.976537,45.452311,0.0 -89.97599,45.452915,0.0 -89.975569,45.453172,0.0 -89.974936,45.453725,0.0 -89.974936,45.453829,0.0 -89.975195,45.454174,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="54540">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="54539">
+                    <coordinates>-89.976,45.454,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54542">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="54541">
+                    <coordinates>-89.978,45.452,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

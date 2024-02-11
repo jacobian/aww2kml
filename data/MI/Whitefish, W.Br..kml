@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="62342">
+        <name>Whitefish, W.Br.</name>
+        <Folder id="62343">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Unnamed road to Niemi Road/Co.Hwy.102 (8.86 miles) (I-II(III))</name>
+            <Placemark id="62345">
+                <name>Unnamed road to Niemi Road/Co.Hwy.102 (8.86 miles) (I-II(III))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10262/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="62344">
+                    <coordinates>-87.083715,46.242597,0.0 -87.0837,46.241919,0.0 -87.083832,46.241713,0.0 -87.083832,46.240753,0.0 -87.083404,46.24041,0.0 -87.083009,46.240227,0.0 -87.082811,46.240067,0.0 -87.082614,46.239792,0.0 -87.082581,46.239541,0.0 -87.082351,46.239038,0.0 -87.081824,46.238489,0.0 -87.080376,46.237551,0.0 -87.080343,46.237483,0.0 -87.080112,46.237346,0.0 -87.07975,46.236888,0.0 -87.079717,46.236682,0.0 -87.079125,46.236294,0.0 -87.077742,46.235744,0.0 -87.076161,46.234784,0.0 -87.075568,46.234578,0.0 -87.074811,46.234029,0.0 -87.074581,46.233754,0.0 -87.074582,46.232886,0.0 -87.074747,46.232383,0.0 -87.074748,46.231331,0.0 -87.074649,46.231057,0.0 -87.074419,46.230303,0.0 -87.074257,46.227514,0.0 -87.074093,46.226874,0.0 -87.073567,46.226096,0.0 -87.073271,46.225799,0.0 -87.071888,46.224861,0.0 -87.07044,46.224106,0.0 -87.069485,46.223717,0.0 -87.068925,46.223442,0.0 -87.068761,46.223465,0.0 -87.068629,46.223465,0.0 -87.06853,46.223442,0.0 -87.067938,46.223282,0.0 -87.066752,46.223076,0.0 -87.06425,46.22248,0.0 -87.061386,46.221701,0.0 -87.060035,46.221563,0.0 -87.058817,46.221334,0.0 -87.056875,46.220533,0.0 -87.056645,46.22035,0.0 -87.056019,46.220167,0.0 -87.05434,46.220074,0.0 -87.05355,46.219937,0.0 -87.052892,46.219548,0.0 -87.051575,46.219113,0.0 -87.050226,46.218106,0.0 -87.048614,46.217213,0.0 -87.047692,46.216847,0.0 -87.045783,46.21632,0.0 -87.043808,46.215633,0.0 -87.040747,46.214373,0.0 -87.03749,46.212999,0.0 -87.035976,46.212495,0.0 -87.031861,46.211555,0.0 -87.03015,46.211302,0.0 -87.029228,46.211278,0.0 -87.028865,46.21137,0.0 -87.028141,46.211483,0.0 -87.025737,46.211275,0.0 -87.02475,46.211252,0.0 -87.024223,46.21116,0.0 -87.023269,46.210633,0.0 -87.022677,46.210221,0.0 -87.022118,46.210038,0.0 -87.021394,46.209877,0.0 -87.020011,46.209808,0.0 -87.01797,46.2096,0.0 -87.016949,46.209416,0.0 -87.016226,46.209004,0.0 -87.015832,46.208661,0.0 -87.015504,46.207883,0.0 -87.015473,46.206832,0.0 -87.015244,46.206237,0.0 -87.014488,46.205459,0.0 -87.014225,46.20507,0.0 -87.014094,46.204933,0.0 -87.014028,46.204682,0.0 -87.013733,46.204293,0.0 -87.013174,46.204041,0.0 -87.012746,46.204017,0.0 -87.011527,46.204588,0.0 -87.011,46.204679,0.0 -87.010407,46.204655,0.0 -87.008893,46.204311,0.0 -87.007445,46.203989,0.0 -87.004714,46.203323,0.0 -87.003234,46.202888,0.0 -87.002478,46.202338,0.0 -87.001526,46.200989,0.0 -87.001264,46.200531,0.0 -87.000903,46.199959,0.0 -87.000443,46.199547,0.0 -87.000145,46.199501,0.0 -86.999683,46.199502,0.0 -86.99853,46.199091,0.0 -86.998101,46.198772,0.0 -86.997738,46.198384,0.0 -86.997672,46.198178,0.0 -86.99754,46.197972,0.0 -86.996683,46.197402,0.0 -86.995431,46.1969,0.0 -86.994278,46.196582,0.0 -86.99138,46.19615,0.0 -86.987954,46.194873,0.0 -86.987328,46.194554,0.0 -86.986042,46.193572,0.0 -86.985217,46.192636,0.0 -86.984986,46.192339,0.0 -86.984327,46.191562,0.0 -86.984063,46.191357,0.0 -86.983601,46.190695,0.0 -86.983337,46.190421,0.0 -86.983073,46.190009,0.0 -86.98238,46.189301,0.0 -86.982281,46.189027,0.0 -86.981258,46.187542,0.0 -86.981126,46.187405,0.0 -86.980794,46.186171,0.0 -86.980464,46.18576,0.0 -86.980431,46.1856,0.0 -86.979443,46.185052,0.0 -86.97862,46.18487,0.0 -86.977962,46.184916,0.0 -86.97658,46.185398,0.0 -86.975823,46.18549,0.0 -86.975396,46.185467,0.0 -86.974967,46.185285,0.0 -86.973715,46.184577,0.0 -86.972991,46.184349,0.0 -86.971148,46.184191,0.0 -86.970358,46.1841,0.0 -86.969535,46.183918,0.0 -86.968942,46.183553,0.0 -86.968743,46.183004,0.0 -86.968806,46.181404,0.0 -86.96874,46.181015,0.0 -86.968509,46.180581,0.0 -86.968506,46.178753,0.0 -86.968636,46.178204,0.0 -86.968767,46.177701,0.0 -86.96893,46.176512,0.0 -86.969223,46.175163,0.0 -86.97011,46.173882,0.0 -86.970536,46.172968,0.0 -86.970601,46.17267,0.0 -86.970631,46.171207,0.0 -86.970531,46.170407,0.0 -86.970373,46.170057,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="62347">
+                <name>Dam</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="62346">
+                    <coordinates>-86.968864,46.178185,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62349">
+                <name>Whitefish Falls (II+)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="62348">
+                    <coordinates>-87.050102,46.217766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62351">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="62350">
+                    <coordinates>-86.9705,46.17,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62353">
+                <name>Second small ledge (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62352">
+                    <coordinates>-87.074226,46.229713,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62355">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="62354">
+                    <coordinates>-87.0836,46.2426,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62357">
+                <name>Johnson Road</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62356">
+                    <coordinates>-87.074684,46.231461,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62359">
+                <name>USGS sampling site</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62358">
+                    <coordinates>-86.8965,46.096298,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62361">
+                <name>Confluence, Werners Creek (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62360">
+                    <coordinates>-86.978889,46.184822,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62363">
+                <name>Confluence, Scott Creek</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62362">
+                    <coordinates>-86.970299,46.183842,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62365">
+                <name>Island</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62364">
+                    <coordinates>-87.048401,46.2169,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62367">
+                <name>Whitefish Falls, Upper ledge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62366">
+                    <coordinates>-87.050575,46.218037,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62369">
+                <name>Diffin Road</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62368">
+                    <coordinates>-87.042503,46.214947,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62371">
+                <name>Power lines</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62370">
+                    <coordinates>-87.002579,46.202301,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62373">
+                <name>Saari Road</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62372">
+                    <coordinates>-86.990799,46.196251,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62375">
+                <name>Small ledge (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62374">
+                    <coordinates>-87.074501,46.233898,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62377">
+                <name>Wave/Chute (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62376">
+                    <coordinates>-87.067459,46.223213,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62379">
+                <name>Third and Fourth small ledges (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62378">
+                    <coordinates>-87.073303,46.2258,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62381">
+                <name>Head of better gradient (I)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="62380">
+                    <coordinates>-87.055351,46.220058,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

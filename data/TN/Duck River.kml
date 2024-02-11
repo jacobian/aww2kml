@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="16993">
+        <name>Duck River</name>
+        <Folder id="16994">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Old Stone Fort (IV-V)</name>
+            <Placemark id="16996">
+                <name>Old Stone Fort (IV-V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10491/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="16995">
+                    <coordinates>-86.102339,35.486944,0.0 -86.102352,35.48691,0.0 -86.102371,35.486876,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="16998">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="16997">
+                    <coordinates>-86.1017,35.4865,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="17000">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="16999">
+                    <coordinates>-86.1017,35.4867,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

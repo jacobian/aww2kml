@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56967">
+        <name>Susquehanna River</name>
+        <Folder id="56968">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Holtwood (III+)</name>
+            <Placemark id="56970">
+                <name>Holtwood (III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3566/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="56969">
+                    <coordinates>-76.342832,39.829723,0.0 -76.341342,39.829744,0.0 -76.337645,39.828927,0.0 -76.33669,39.82762,0.0 -76.336376,39.826945,0.0 -76.337152,39.824259,0.0 -76.336638,39.822853,0.0 -76.334572,39.820877,0.0 -76.333176,39.819482,0.0 -76.332613,39.818225,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="56972">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="56971">
+                    <coordinates>-76.333397,39.8172,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56974">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="56973">
+                    <coordinates>-76.342796,39.827202,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="56975">
+            <name>Marietta to Columbia (II(IV))</name>
+            <Placemark id="56977">
+                <name>Marietta to Columbia (II(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/1669/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="56976">
+                    <coordinates>-76.528275,40.054496,0.0 -76.528954,40.053417,0.0 -76.528641,40.051688,0.0 -76.528064,40.047064,0.0 -76.527757,40.045515,0.0 -76.529888,40.042023,0.0 -76.531396,40.040239,0.0 -76.531561,40.039234,0.0 -76.529827,40.035357,0.0 -76.525541,40.03372,0.0 -76.523564,40.031078,0.0 -76.523171,40.03082,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="56979">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="56978">
+                    <coordinates>-76.5266,40.0256,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56981">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="56980">
+                    <coordinates>-76.5286,40.0547,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

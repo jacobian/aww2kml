@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="15803">
+        <name>Denton Creek</name>
+        <Folder id="15804">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Just below Grapevine Dam (PnP) (II+)</name>
+            <Placemark id="15806">
+                <name>Just below Grapevine Dam (PnP) (II+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2676/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="15805">
+                    <coordinates>-97.053822,32.973129,0.0 -97.053687,32.973092,0.0 -97.053491,32.973105,0.0 -97.053092,32.973175,0.0 -97.052848,32.973211,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="15808">
+                <name>Grapevine Wave (II)</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="15807">
+                    <coordinates>-97.053673,32.973101,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="15810">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="15809">
+                    <coordinates>-97.052848,32.973211,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

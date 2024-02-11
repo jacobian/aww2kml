@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="20920">
+        <name>Fox (Illinois R. trib.)</name>
+        <Folder id="20921">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>C) Batavia Dam (PnP) (I-II(IV))</name>
+            <Placemark id="20923">
+                <name>C) Batavia Dam (PnP) (I-II(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4297/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="20922">
+                    <coordinates>-88.30809,41.855702,0.0 -88.307557,41.853544,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="20925">
+                <name>The Wall</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="20924">
+                    <coordinates>-88.307938,41.855362,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20927">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="20926">
+                    <coordinates>-88.308098,41.853401,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20929">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="20928">
+                    <coordinates>-88.309402,41.853401,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20931">
+                <name>The Slide (III)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="20930">
+                    <coordinates>-88.308113,41.855484,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20933">
+                <name>The Corner (III+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="20932">
+                    <coordinates>-88.307999,41.855614,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20935">
+                <name>Exit Ramp (Right Side Slide) (II+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="20934">
+                    <coordinates>-88.308899,41.8549,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="20936">
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>B) Waterford/Rochester/Burlington (PnP) (I(II))</name>
+            <Placemark id="20938">
+                <name>B) Waterford/Rochester/Burlington (PnP) (I(II))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/6531/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="20937">
+                    <coordinates>-88.221961,42.737653,0.0 -88.223132,42.737165,0.0 -88.224071,42.737165,0.0 -88.224458,42.737064,0.0 -88.224725,42.736346,0.0 -88.224504,42.73615,0.0 -88.22484,42.735645,0.0 -88.225087,42.735552,0.0 -88.225269,42.735439,0.0 -88.225455,42.735528,0.0 -88.225729,42.735354,0.0 -88.225904,42.735368,0.0 -88.226253,42.735397,0.0 -88.226173,42.735579,0.0 -88.226121,42.735564,0.0 -88.226154,42.735439,0.0 -88.226034,42.735433,0.0 -88.226021,42.735564,0.0 -88.226073,42.735557,0.0 -88.226093,42.735341,0.0 -88.225844,42.735327,0.0 -88.225468,42.73526,0.0 -88.22481,42.735637,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="20940">
+                <name>Calumet Street Channels/Burlington Shoals (I)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="20939">
+                    <coordinates>-88.265396,42.668843,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20942">
+                <name>Waterford Rock Dam (Left Channel)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="20941">
+                    <coordinates>-88.210602,42.766701,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20944">
+                <name>Rochester Dam (Case Eagle Park)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="20943">
+                    <coordinates>-88.22603,42.735724,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20946">
+                <name>Waterford Dam (Main, Right Channel)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="20945">
+                    <coordinates>-88.212892,42.76503,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20948">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="20947">
+                    <coordinates>-88.225869,42.73536,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20950">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="20949">
+                    <coordinates>-88.224826,42.735693,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="20951">
+            <name>D) Yorkville: Marge Cline Whitewater Course (PnP) (I-II)</name>
+            <Placemark id="20953">
+                <name>D) Yorkville: Marge Cline Whitewater Course (PnP) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4680/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="20952">
+                    <coordinates>-88.441163,41.642502,0.0 -88.441183,41.642716,0.0 -88.441582,41.642661,0.0 -88.441777,41.642813,0.0 -88.442445,41.642625,0.0 -88.443581,41.642694,0.0 -88.443953,41.642704,0.0 -88.444278,41.642771,0.0 -88.444641,41.642921,0.0 -88.445111,41.64286,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="20955">
+                <name>Entrance Wave (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="20954">
+                    <coordinates>-88.442001,41.643002,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20957">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="20956">
+                    <coordinates>-88.443001,41.641998,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20959">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="20958">
+                    <coordinates>-88.445,41.643002,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="20960">
+            <Style id="23">
+                <IconStyle id="22">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="21">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>A) Downtown Waukesha (0.5 mile) (I)</name>
+            <Placemark id="20962">
+                <name>A) Downtown Waukesha (0.5 mile) (I)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4576/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="20961">
+                    <coordinates>-88.229217,43.013348,0.0 -88.229411,43.013206,0.0 -88.230163,43.012927,0.0 -88.230767,43.012774,0.0 -88.231212,43.012738,0.0 -88.231796,43.012598,0.0 -88.232705,43.012243,0.0 -88.233439,43.011893,0.0 -88.23401,43.011547,0.0 -88.234711,43.011193,0.0 -88.235678,43.010797,0.0 -88.236336,43.010431,0.0 -88.236736,43.010182,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="20964">
+                <name>USGS Gauge</name>
+                <styleUrl>#23</styleUrl>
+                <Point id="20963">
+                    <coordinates>-88.243927,43.004948,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20966">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="20965">
+                    <coordinates>-88.236786,43.010262,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20968">
+                <name>Dam</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="20967">
+                    <coordinates>-88.229401,43.013599,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20970">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="20969">
+                    <coordinates>-88.229401,43.013599,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20972">
+                <name>Bank Tunnel</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="20971">
+                    <coordinates>-88.232866,43.01219,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20974">
+                <name>Love Bridge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="20973">
+                    <coordinates>-88.23202,43.012535,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

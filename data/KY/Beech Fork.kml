@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3197">
+        <name>Beech Fork</name>
+        <Folder id="3198">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Rubble Dam at 31E Bridge (PnP) (III+)</name>
+            <Placemark id="3200">
+                <name>Rubble Dam at 31E Bridge (PnP) (III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4485/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="3199">
+                    <coordinates>-85.479129,37.795946,0.0 -85.47919,37.796093,0.0 -85.47955,37.796483,0.0 -85.480041,37.796526,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="3202">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="3201">
+                    <coordinates>-85.479,37.796,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3204">
+                <name>Take out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="3203">
+                    <coordinates>-85.48,37.797,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

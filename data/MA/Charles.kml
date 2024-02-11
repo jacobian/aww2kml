@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9769">
+        <name>Charles</name>
+        <Folder id="9770">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>1. Needham Rapids (I)</name>
+            <Placemark id="9772">
+                <name>1. Needham Rapids (I)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2853/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="9771">
+                    <coordinates>-71.263544,42.259506,0.0 -71.263533,42.2595,0.0 -71.263458,42.259454,0.0 -71.263277,42.259334,0.0 -71.263245,42.259307,0.0 -71.263102,42.259163,0.0 -71.263078,42.259132,0.0 -71.263016,42.259035,0.0 -71.262998,42.259002,0.0 -71.26298,42.25886,0.0 -71.262977,42.258824,0.0 -71.262985,42.258682,0.0 -71.262983,42.25861,0.0 -71.262959,42.258505,0.0 -71.262904,42.258406,0.0 -71.262882,42.258374,0.0 -71.262813,42.258279,0.0 -71.262757,42.258221,0.0 -71.262722,42.258154,0.0 -71.26264,42.258024,0.0 -71.262623,42.257991,0.0 -71.262474,42.257918,0.0 -71.262441,42.257892,0.0 -71.262352,42.257807,0.0 -71.262252,42.257728,0.0 -71.262216,42.257704,0.0 -71.26209,42.257651,0.0 -71.262002,42.25762,0.0 -71.261957,42.257607,0.0 -71.261789,42.257536,0.0 -71.261751,42.257514,0.0 -71.261546,42.257378,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="9774">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="9773">
+                    <coordinates>-71.261597,42.257301,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="9776">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="9775">
+                    <coordinates>-71.263496,42.259602,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

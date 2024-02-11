@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8905">
+        <name>Cascade Brook</name>
+        <Folder id="8906">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Lincoln (V)</name>
+            <Placemark id="8908">
+                <name>Lincoln (V)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2982/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="8907">
+                    <coordinates>-71.698571,44.126397,0.0 -71.698288,44.126353,0.0 -71.697268,44.126247,0.0 -71.697024,44.126158,0.0 -71.696445,44.125762,0.0 -71.696331,44.125715,0.0 -71.69614,44.125679,0.0 -71.695889,44.125707,0.0 -71.695432,44.12584,0.0 -71.694473,44.125984,0.0 -71.694046,44.126129,0.0 -71.69381,44.126184,0.0 -71.693559,44.126217,0.0 -71.693201,44.126167,0.0 -71.692767,44.126011,0.0 -71.6926,44.125916,0.0 -71.692478,44.125797,0.0 -71.692363,44.125584,0.0 -71.692302,44.125378,0.0 -71.69228,44.125068,0.0 -71.692225,44.124727,0.0 -71.692164,44.124539,0.0 -71.691912,44.124001,0.0 -71.691821,44.123872,0.0 -71.691448,44.123521,0.0 -71.691356,44.123343,0.0 -71.691326,44.123258,0.0 -71.691258,44.123134,0.0 -71.690937,44.122795,0.0 -71.690214,44.122236,0.0 -71.690153,44.122206,0.0 -71.689574,44.121864,0.0 -71.689148,44.12173,0.0 -71.68799,44.121698,0.0 -71.687838,44.121643,0.0 -71.68748,44.121463,0.0 -71.68716,44.121326,0.0 -71.686376,44.121097,0.0 -71.686239,44.121037,0.0 -71.685516,44.1206,0.0 -71.684762,44.120271,0.0 -71.684655,44.120192,0.0 -71.684518,44.120038,0.0 -71.684412,44.119802,0.0 -71.684312,44.119426,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="8910">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="8909">
+                    <coordinates>-71.681441,44.120178,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8912">
+                <name>Put in</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="8911">
+                    <coordinates>-71.698601,44.126202,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

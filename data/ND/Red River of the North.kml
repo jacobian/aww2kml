@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="45081">
+        <name>Red River of the North</name>
+        <Folder id="45082">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>old Mid-town Dam site in Fargo (PnP) (II)</name>
+            <Placemark id="45084">
+                <name>old Mid-town Dam site in Fargo (PnP) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4561/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="45083">
+                    <coordinates>-96.782007,46.870914,0.0 -96.78199,46.871015,0.0 -96.781949,46.871157,0.0 -96.781949,46.871158,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="45086">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="45085">
+                    <coordinates>-96.782303,46.8713,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="45088">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="45087">
+                    <coordinates>-96.782501,46.870998,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

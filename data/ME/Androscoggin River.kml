@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="833">
+        <name>Androscoggin River</name>
+        <Folder id="834">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Lisbon (The Brothel) (I(II))</name>
+            <Placemark id="836">
+                <name>Lisbon (The Brothel) (I(II))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10288/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="835">
+                    <coordinates>-70.095796,44.007553,0.0 -70.094309,44.008795,0.0 -70.094013,44.008914,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="838">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="837">
+                    <coordinates>-70.094753,44.008329,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="840">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="839">
+                    <coordinates>-70.096704,44.006705,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

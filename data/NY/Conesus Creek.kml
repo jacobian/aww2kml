@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13085">
+        <name>Conesus Creek</name>
+        <Folder id="13086">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Pole Bridge Road to Papermill Falls Park (III-IV)</name>
+            <Placemark id="13088">
+                <name>Pole Bridge Road to Papermill Falls Park (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/5203/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="13087">
+                    <coordinates>-77.738328,42.859483,0.0 -77.738755,42.859342,0.0 -77.739532,42.859112,0.0 -77.741551,42.859019,0.0 -77.742826,42.859246,0.0 -77.743914,42.859611,0.0 -77.74466,42.859633,0.0 -77.745529,42.859312,0.0 -77.745808,42.859128,0.0 -77.745869,42.858511,0.0 -77.746117,42.858214,0.0 -77.746676,42.857916,0.0 -77.748074,42.85764,0.0 -77.748756,42.857251,0.0 -77.749718,42.856564,0.0 -77.750351,42.85587,0.0 -77.750445,42.855344,0.0 -77.750663,42.854979,0.0 -77.751161,42.854636,0.0 -77.751627,42.854614,0.0 -77.752217,42.854729,0.0 -77.752279,42.854797,0.0 -77.754112,42.855096,0.0 -77.756504,42.855099,0.0 -77.756877,42.855236,0.0 -77.757745,42.855854,0.0 -77.758397,42.856129,0.0 -77.759454,42.856267,0.0 -77.760293,42.856154,0.0 -77.76079,42.856223,0.0 -77.761504,42.856567,0.0 -77.762995,42.856362,0.0 -77.763399,42.856454,0.0 -77.763896,42.85682,0.0 -77.764112,42.857643,0.0 -77.764018,42.857872,0.0 -77.764048,42.858352,0.0 -77.764793,42.859107,0.0 -77.764948,42.859496,0.0 -77.764823,42.859633,0.0 -77.763642,42.860066,0.0 -77.762117,42.861482,0.0 -77.762178,42.861893,0.0 -77.762643,42.862374,0.0 -77.76286,42.862991,0.0 -77.763232,42.863266,0.0 -77.763356,42.863838,0.0 -77.763292,42.864798,0.0 -77.763478,42.865095,0.0 -77.76326,42.865552,0.0 -77.763258,42.866398,0.0 -77.762605,42.866991,0.0 -77.762449,42.867266,0.0 -77.762572,42.868066,0.0 -77.761824,42.869185,0.0 -77.761667,42.869962,0.0 -77.761262,42.870808,0.0 -77.760999,42.870967,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="13090">
+                <name>Papermill Falls (IV)</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="13089">
+                    <coordinates>-77.760986,42.871113,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="13092">
+                <name>Triphammer Falls (IV)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="13091">
+                    <coordinates>-77.76384,42.860302,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="13094">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="13093">
+                    <coordinates>-77.7384,42.8597,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

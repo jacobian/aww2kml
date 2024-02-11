@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="53723">
+        <name>Snoqualmie</name>
+        <Folder id="53724">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="8">
+                <IconStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="6">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Snoqualmie Falls to Fall City (II+)</name>
+            <Placemark id="53726">
+                <name>Snoqualmie Falls to Fall City (II+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2216/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="53725">
+                    <coordinates>-121.838937,47.542096,0.0 -121.839023,47.542034,0.0 -121.839023,47.542034,0.0 -121.839967,47.542208,0.0 -121.839967,47.542208,0.0 -121.840482,47.542324,0.0 -121.841512,47.542671,0.0 -121.841512,47.542671,0.0 -121.841769,47.542758,0.0 -121.841984,47.544004,0.0 -121.841984,47.544004,0.0 -121.842198,47.544583,0.0 -121.842247,47.544945,0.0 -121.842247,47.544945,0.0 -121.842247,47.544945,0.0 -121.842247,47.544945,0.0 -121.842327,47.545539,0.0 -121.842713,47.546089,0.0 -121.842971,47.546785,0.0 -121.843228,47.547828,0.0 -121.8434,47.548117,0.0 -121.8434,47.548117,0.0 -121.843786,47.548812,0.0 -121.843786,47.548812,0.0 -121.843958,47.549131,0.0 -121.843958,47.549131,0.0 -121.844387,47.549884,0.0 -121.844645,47.55,0.0 -121.844645,47.55,0.0 -121.84576,47.550579,0.0 -121.84576,47.550579,0.0 -121.846576,47.550319,0.0 -121.84752,47.549913,0.0 -121.848936,47.550087,0.0 -121.850052,47.550377,0.0 -121.850953,47.551014,0.0 -121.851554,47.551535,0.0 -121.85267,47.552259,0.0 -121.85267,47.552259,0.0 -121.852927,47.552433,0.0 -121.854472,47.55391,0.0 -121.856017,47.554808,0.0 -121.856017,47.554808,0.0 -121.856403,47.555011,0.0 -121.858163,47.554779,0.0 -121.861253,47.554229,0.0 -121.862583,47.553621,0.0 -121.862583,47.553621,0.0 -121.863141,47.553447,0.0 -121.863141,47.553447,0.0 -121.864128,47.553244,0.0 -121.864772,47.553215,0.0 -121.864772,47.553215,0.0 -121.865072,47.553215,0.0 -121.866875,47.553592,0.0 -121.868591,47.553794,0.0 -121.869836,47.554113,0.0 -121.869836,47.554113,0.0 -121.87108,47.554345,0.0 -121.872454,47.554403,0.0 -121.873612,47.554258,0.0 -121.873612,47.554258,0.0 -121.875844,47.554229,0.0 -121.876187,47.554287,0.0 -121.876187,47.554287,0.0 -121.878891,47.554982,0.0 -121.880479,47.55588,0.0 -121.880651,47.55672,0.0 -121.880651,47.55672,0.0 -121.880779,47.557386,0.0 -121.880651,47.55976,0.0 -121.878977,47.561875,0.0 -121.876702,47.563178,0.0 -121.875629,47.563873,0.0 -121.873999,47.564539,0.0 -121.873183,47.56506,0.0 -121.872668,47.565755,0.0 -121.872497,47.566392,0.0 -121.872497,47.566392,0.0 -121.873226,47.566942,0.0 -121.874213,47.567261,0.0 -121.881906,47.568253,0.0 -121.881908,47.56824,0.0 -121.882067,47.568252,0.0 -121.882067,47.568252,0.0 -121.883966,47.56839,0.0 -121.887839,47.568303,0.0 -121.889148,47.568216,0.0 -121.8894,47.568275,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="53728">
+                <name>PSE Powerhouse Access</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="53727">
+                    <coordinates>-121.841625,47.544736,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="53730">
+                <name>Plum's Landing</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="53729">
+                    <coordinates>-121.850987,47.551575,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="53732">
+                <name>Zurfleuh, Raging River Confluence Access</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="53731">
+                    <coordinates>-121.882147,47.567914,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="53734">
+                <name>Fall City Access</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="53733">
+                    <coordinates>-121.888223,47.569627,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="53736">
+                <name>Neal Road Access</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="53735">
+                    <coordinates>-121.913905,47.596192,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="53738">
+                <name>Tolt River Confluence Access</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="53737">
+                    <coordinates>-121.927482,47.638702,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="53740">
+                <name>Taylor's Landing</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="53739">
+                    <coordinates>-121.986845,47.745098,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="53742">
+                <name>High Bridge Access</name>
+                <styleUrl>#8</styleUrl>
+                <Point id="53741">
+                    <coordinates>-122.002782,47.804508,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

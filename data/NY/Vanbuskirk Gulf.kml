@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="60275">
+        <name>Vanbuskirk Gulf</name>
+        <Folder id="60276">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Vanbuskirk Rd. to Route 34/96 (IV-V(V+))</name>
+            <Placemark id="60278">
+                <name>Vanbuskirk Rd. to Route 34/96 (IV-V(V+))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4670/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="60277">
+                    <coordinates>-76.556169,42.328209,0.0 -76.555775,42.32881,0.0 -76.555682,42.329954,0.0 -76.555466,42.330251,0.0 -76.553738,42.331439,0.0 -76.552504,42.33217,0.0 -76.552288,42.332467,0.0 -76.552041,42.333153,0.0 -76.551578,42.333405,0.0 -76.550869,42.333679,0.0 -76.549852,42.333815,0.0 -76.549296,42.334089,0.0 -76.548865,42.334386,0.0 -76.548463,42.334844,0.0 -76.547876,42.336101,0.0 -76.546426,42.337061,0.0 -76.546303,42.337244,0.0 -76.546333,42.337816,0.0 -76.54661,42.338227,0.0 -76.546361,42.339599,0.0 -76.545835,42.341086,0.0 -76.545588,42.341406,0.0 -76.545619,42.341795,0.0 -76.545958,42.342024,0.0 -76.545926,42.342298,0.0 -76.544754,42.343304,0.0 -76.543982,42.34376,0.0 -76.543612,42.344149,0.0 -76.543456,42.345704,0.0 -76.543085,42.346161,0.0 -76.542499,42.346435,0.0 -76.540833,42.347075,0.0 -76.540729,42.347089,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="60280">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="60279">
+                    <coordinates>-76.540703,42.346901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60282">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="60281">
+                    <coordinates>-76.556,42.328098,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

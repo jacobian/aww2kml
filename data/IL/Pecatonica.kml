@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="40306">
+        <name>Pecatonica</name>
+        <Folder id="40307">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Sumner Park / Zen Wave (PnP) (I-II)</name>
+            <Placemark id="40309">
+                <name>Sumner Park / Zen Wave (PnP) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/6335/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="40308">
+                    <coordinates>-89.366815,42.31736,0.0 -89.367036,42.318009,0.0 -89.365801,42.318211,0.0 -89.36491,42.317761,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="40311">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="40310">
+                    <coordinates>-89.365997,42.317699,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40313">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="40312">
+                    <coordinates>-89.366302,42.3176,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40315">
+                <name>Gauge Location</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="40314">
+                    <coordinates>-89.619492,42.302975,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40317">
+                <name>Brown's Mill Dam</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="40316">
+                    <coordinates>-89.518875,42.285183,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

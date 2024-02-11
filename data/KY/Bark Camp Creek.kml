@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2248">
+        <name>Bark Camp Creek</name>
+        <Folder id="2249">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Ledges (0.37 mile) (III-IV)</name>
+            <Placemark id="2251">
+                <name>Ledges (0.37 mile) (III-IV)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/4212/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="2250">
+                    <coordinates>-84.302695,36.907372,0.0 -84.30314,36.907352,0.0 -84.303352,36.907313,0.0 -84.30366,36.907302,0.0 -84.303694,36.907292,0.0 -84.304173,36.907286,0.0 -84.304275,36.907297,0.0 -84.304515,36.907357,0.0 -84.304583,36.907357,0.0 -84.304788,36.907401,0.0 -84.304864,36.907401,0.0 -84.305,36.907429,0.0 -84.305246,36.907544,0.0 -84.305554,36.907786,0.0 -84.30578,36.907984,0.0 -84.305862,36.908044,0.0 -84.305889,36.908148,0.0 -84.305841,36.908308,0.0 -84.30593,36.908456,0.0 -84.306053,36.908522,0.0 -84.306238,36.90856,0.0 -84.306491,36.908566,0.0 -84.306648,36.908555,0.0 -84.306778,36.90856,0.0 -84.307482,36.908675,0.0 -84.307652,36.908847,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="2253">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="2252">
+                    <coordinates>-84.307701,36.908798,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2255">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="2254">
+                    <coordinates>-84.302696,36.907398,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

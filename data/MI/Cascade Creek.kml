@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="8914">
+        <name>Cascade Creek</name>
+        <Folder id="8915">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>Cascade Falls (PnH) (III+)</name>
+            <Placemark id="8917">
+                <name>Cascade Falls (PnH) (III+)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10805/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="8916">
+                    <coordinates>-89.446393,46.651835,0.0 -89.44637,46.651723,0.0 -89.44631,46.651559,0.0 -89.446096,46.651477,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="8919">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="8918">
+                    <coordinates>-89.4455,46.6514,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8921">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="8920">
+                    <coordinates>-89.4462,46.652,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

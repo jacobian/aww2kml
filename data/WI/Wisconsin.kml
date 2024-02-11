@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="63217">
+        <name>Wisconsin</name>
+        <Folder id="63218">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="25">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="20">
+                <IconStyle id="19">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>D) Wausau Slalom Course (0.35 mile modified natural channel) (II-III)</name>
+            <Placemark id="63220">
+                <name>D) Wausau Slalom Course (0.35 mile modified natural channel) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/3811/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="63219">
+                    <coordinates>-89.631667,44.961218,0.0 -89.632332,44.96005,0.0 -89.632176,44.959344,0.0 -89.632682,44.958645,0.0 -89.633033,44.958164,0.0 -89.633195,44.957663,0.0 -89.633316,44.957128,0.0 -89.633623,44.956616,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="63222">
+                <name>Dam Drop (III)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="63221">
+                    <coordinates>-89.631765,44.960827,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63224">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="63223">
+                    <coordinates>-89.633488,44.955889,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63226">
+                <name>South Footbridge to Barker's Island</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63225">
+                    <coordinates>-89.633489,44.961627,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63228">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="63227">
+                    <coordinates>-89.631548,44.961219,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63230">
+                <name>(Unnamed?) (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="63229">
+                    <coordinates>-89.632732,44.958578,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63232">
+                <name>Diagonal Ledge</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="63231">
+                    <coordinates>-89.632535,44.958825,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63234">
+                <name>North Footbridge to Barker's Island</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63233">
+                    <coordinates>-89.631601,44.963776,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63236">
+                <name>Footbridge to Isle of Ferns</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63235">
+                    <coordinates>-89.629332,44.952791,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63238">
+                <name>Big Drop (III)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="63237">
+                    <coordinates>-89.632899,44.958275,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63240">
+                <name>#4 (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="63239">
+                    <coordinates>-89.633275,44.957329,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63242">
+                <name>Railroad Drop (II+)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="63241">
+                    <coordinates>-89.632301,44.960032,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63244">
+                <name>Washington Street Wave (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="63243">
+                    <coordinates>-89.63224,44.959485,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63246">
+                <name>First Wave/Hole (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="63245">
+                    <coordinates>-89.632052,44.960454,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63248">
+                <name>Little Drop (II+)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63247">
+                    <coordinates>-89.632985,44.958014,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63250">
+                <name>#2 (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="63249">
+                    <coordinates>-89.633516,44.95691,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63252">
+                <name>#1</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63251">
+                    <coordinates>-89.633607,44.956736,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63254">
+                <name>#3 (II)</name>
+                <styleUrl>#20</styleUrl>
+                <Point id="63253">
+                    <coordinates>-89.633409,44.957124,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="63255">
+            <name>G) Prairie du Sac (PnP) (II)</name>
+            <Placemark id="63257">
+                <name>G) Prairie du Sac (PnP) (II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2934/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="63256">
+                    <coordinates>-89.728405,43.308938,0.0 -89.728153,43.309361,0.0 -89.727747,43.309327,0.0 -89.727661,43.308358,0.0 -89.726828,43.308386,0.0 -89.726867,43.309218,0.0 -89.727189,43.309232,0.0 -89.728479,43.308336,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="63259">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="63258">
+                    <coordinates>-89.728104,43.308899,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63261">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="63260">
+                    <coordinates>-89.728104,43.309299,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="63262">
+            <name>E) Stevens Point: Whiting Dam, Al Tech County Park (PnP, 0.6mi.) (I-II)</name>
+            <Placemark id="63264">
+                <name>E) Stevens Point: Whiting Dam, Al Tech County Park (PnP, 0.6mi.) (I-II)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10515/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="63263">
+                    <coordinates>-89.578523,44.487872,0.0 -89.578189,44.487243,0.0 -89.578158,44.486665,0.0 -89.577591,44.486274,0.0 -89.57521,44.485956,0.0 -89.574329,44.485053,0.0 -89.573832,44.484395,0.0 -89.573873,44.483549,0.0 -89.574335,44.482753,0.0 -89.574568,44.481785,0.0 -89.574638,44.481329,0.0 -89.57475,44.480975,0.0 -89.573889,44.480397,0.0 -89.573808,44.479247,0.0 -89.573443,44.478532,0.0 -89.572572,44.477635,0.0 -89.571751,44.477361,0.0 -89.570708,44.477411,0.0 -89.569917,44.478055,0.0 -89.569927,44.480043,0.0 -89.570545,44.480303,0.0 -89.571386,44.480411,0.0 -89.571467,44.479724,0.0 -89.571234,44.479204,0.0 -89.570525,44.478929,0.0 -89.568843,44.479826,0.0 -89.567618,44.480064,0.0 -89.566615,44.479876,0.0 -89.565662,44.480418,0.0 -89.564264,44.480621,0.0 -89.56241,44.480852,0.0 -89.560283,44.481192,0.0 -89.557831,44.480903,0.0 -89.556489,44.480398,0.0 -89.555253,44.47909,0.0 -89.554655,44.478215,0.0 -89.554219,44.476928,0.0 -89.554432,44.475894,0.0 -89.554736,44.475193,0.0 -89.556468,44.473552,0.0 -89.55544,44.471543,0.0 -89.554384,44.46993,0.0 -89.553404,44.468596,0.0 -89.553227,44.467573,0.0 -89.553592,44.465859,0.0 -89.554272,44.46459,0.0 -89.55567,44.463115,0.0 -89.557568,44.462261,0.0 -89.559888,44.461755,0.0 -89.563166,44.461866,0.0 -89.565466,44.46282,0.0 -89.567934,44.463834,0.0 -89.570193,44.466278,0.0 -89.571103,44.467159,0.0 -89.572025,44.467318,0.0 -89.57247,44.470239,0.0 -89.573289,44.475256,0.0 -89.574069,44.475704,0.0 -89.575366,44.478523,0.0 -89.57491,44.480995,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="63266">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="63265">
+                    <coordinates>-89.5785,44.4879,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63268">
+                <name>Dam Bypass</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63267">
+                    <coordinates>-89.574684,44.481487,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63270">
+                <name>Island Waves</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63269">
+                    <coordinates>-89.574838,44.485565,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63272">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="63271">
+                    <coordinates>-89.574913,44.480986,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63274">
+                <name>Low Head Dam</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63273">
+                    <coordinates>-89.574017,44.48151,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63276">
+                <name>BLM managed island: 1.6 ac</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63275">
+                    <coordinates>-89.55538,44.470626,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63278">
+                <name>BLM managed island: 6.4 ac</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63277">
+                    <coordinates>-89.568041,44.465405,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="63279">
+            <name>C) Grandfather Falls (1 mile) (II-III+(IV))</name>
+            <Placemark id="63281">
+                <name>C) Grandfather Falls (1 mile) (II-III+(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2867/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="63280">
+                    <coordinates>-89.784973,45.312662,0.0 -89.785368,45.312536,0.0 -89.785446,45.312207,0.0 -89.785652,45.311635,0.0 -89.785855,45.311154,0.0 -89.785993,45.310687,0.0 -89.787033,45.309667,0.0 -89.787306,45.308641,0.0 -89.787598,45.307927,0.0 -89.78878,45.306854,0.0 -89.78894,45.306019,0.0 -89.789314,45.305448,0.0 -89.789531,45.305081,0.0 -89.789905,45.304245,0.0 -89.790983,45.303279,0.0 -89.791876,45.302486,0.0 -89.79232,45.301881,0.0 -89.792063,45.30135,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="63283">
+                <name>Granddad Ledge - Center (Right) Line (III+)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="63282">
+                    <coordinates>-89.789001,45.305,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63285">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="63284">
+                    <coordinates>-89.792,45.299999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63287">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="63286">
+                    <coordinates>-89.782997,45.313999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63289">
+                <name>III: Below Ledge to Powerhouse</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63288">
+                    <coordinates>-89.789001,45.305,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63291">
+                <name>II: Pool to Ledge</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63290">
+                    <coordinates>-89.787003,45.307999,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63293">
+                <name>I: Dam to Pool</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63292">
+                    <coordinates>-89.785004,45.313,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="63294">
+            <name>A) Rhinelander (0.3 mile modified natural channel) (II-III)</name>
+            <Placemark id="63296">
+                <name>A) Rhinelander (0.3 mile modified natural channel) (II-III)</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2933/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="63295">
+                    <coordinates>-89.420358,45.641332,0.0 -89.420212,45.641128,0.0 -89.42015,45.640996,0.0 -89.42015,45.640974,0.0 -89.420119,45.64093,0.0 -89.420119,45.640908,0.0 -89.419962,45.640688,0.0 -89.419916,45.640644,0.0 -89.419728,45.64038,0.0 -89.41968,45.640337,0.0 -89.419618,45.640248,0.0 -89.419391,45.640028,0.0 -89.419235,45.639897,0.0 -89.419024,45.639743,0.0 -89.418976,45.639699,0.0 -89.418876,45.639567,0.0 -89.418585,45.639347,0.0 -89.41839,45.639171,0.0 -89.418327,45.639128,0.0 -89.41814,45.639039,0.0 -89.417828,45.638974,0.0 -89.417717,45.638963,0.0 -89.417608,45.638952,0.0 -89.417239,45.639011,0.0 -89.416939,45.639028,0.0 -89.416707,45.638955,0.0 -89.416769,45.63869,0.0 -89.416512,45.638382,0.0 -89.416272,45.638331,0.0 -89.415936,45.638415,0.0 -89.415803,45.638307,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="63298">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="63297">
+                    <coordinates>-89.415611,45.638523,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63300">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="63299">
+                    <coordinates>-89.420349,45.641338,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="63301">
+            <name>F) Wisconsin Dells - Narrows (Blackhawk Island) (PnP) (I(III))</name>
+            <Placemark id="63303">
+                <name>F) Wisconsin Dells - Narrows (Blackhawk Island) (PnP) (I(III))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/10407/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="63302">
+                    <coordinates>-89.785369,43.65178,0.0 -89.785366,43.651768,0.0 -89.785173,43.651019,0.0 -89.785126,43.650688,0.0 -89.785191,43.6505,0.0 -89.785419,43.650323,0.0 -89.785745,43.650147,0.0 -89.786136,43.649971,0.0 -89.786981,43.649724,0.0 -89.787323,43.649489,0.0 -89.78765,43.649059,0.0 -89.787846,43.648776,0.0 -89.7879,43.648655,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="63305">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="63304">
+                    <coordinates>-89.788,43.6487,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63307">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="63306">
+                    <coordinates>-89.7853,43.6518,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="63308">
+            <name>B) Camp 10 to Menard Isle (4 miles) (I-II(III))</name>
+            <Placemark id="63310">
+                <name>B) Camp 10 to Menard Isle (4 miles) (I-II(III))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2935/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="63309">
+                    <coordinates>-89.497081,45.550032,0.0 -89.498241,45.550798,0.0 -89.499325,45.551557,0.0 -89.500504,45.55206,0.0 -89.50098,45.552189,0.0 -89.501884,45.552301,0.0 -89.502459,45.55215,0.0 -89.50289,45.551957,0.0 -89.503295,45.551919,0.0 -89.50385,45.551976,0.0 -89.504982,45.552192,0.0 -89.506328,45.552844,0.0 -89.50792,45.553492,0.0 -89.508415,45.554076,0.0 -89.509272,45.554465,0.0 -89.509637,45.554714,0.0 -89.510738,45.555165,0.0 -89.512286,45.555385,0.0 -89.512715,45.555189,0.0 -89.513152,45.555087,0.0 -89.513549,45.55515,0.0 -89.514102,45.555091,0.0 -89.514705,45.555119,0.0 -89.51528,45.554984,0.0 -89.516457,45.554995,0.0 -89.516948,45.555086,0.0 -89.518378,45.555035,0.0 -89.519481,45.554884,0.0 -89.520195,45.554835,0.0 -89.521449,45.554995,0.0 -89.521807,45.55499,0.0 -89.522264,45.554905,0.0 -89.522927,45.554925,0.0 -89.523678,45.555035,0.0 -89.524392,45.554999,0.0 -89.525072,45.554843,0.0 -89.526016,45.554484,0.0 -89.526498,45.554364,0.0 -89.52773,45.553852,0.0 -89.528792,45.553497,0.0 -89.529594,45.553391,0.0 -89.530028,45.553286,0.0 -89.530835,45.553196,0.0 -89.531458,45.55295,0.0 -89.532,45.552855,0.0 -89.533458,45.553029,0.0 -89.534275,45.553047,0.0 -89.53528,45.553169,0.0 -89.535834,45.553348,0.0 -89.53615,45.553577,0.0 -89.536228,45.554077,0.0 -89.536438,45.554743,0.0 -89.536718,45.555166,0.0 -89.537065,45.555377,0.0 -89.537465,45.555509,0.0 -89.537893,45.555912,0.0 -89.538385,45.5562,0.0 -89.539959,45.556619,0.0 -89.540264,45.556636,0.0 -89.541221,45.556537,0.0 -89.541367,45.556567,0.0 -89.541555,45.556684,0.0 -89.541997,45.556766,0.0 -89.542201,45.556753,0.0 -89.542676,45.556486,0.0 -89.544031,45.55633,0.0 -89.54462,45.556545,0.0 -89.544967,45.556605,0.0 -89.545569,45.556529,0.0 -89.545961,45.556377,0.0 -89.545969,45.556291,0.0 -89.54637,45.556014,0.0 -89.546973,45.555743,0.0 -89.54743,45.555405,0.0 -89.547932,45.555186,0.0 -89.547597,45.55451,0.0 -89.547222,45.554215,0.0 -89.546831,45.553985,0.0 -89.546695,45.553833,0.0 -89.546478,45.55343,0.0 -89.546499,45.553253,0.0 -89.546774,45.552751,0.0 -89.546911,45.552599,0.0 -89.547204,45.552454,0.0 -89.547875,45.551487,0.0 -89.548272,45.55103,0.0 -89.548389,45.550792,0.0 -89.548667,45.550448,0.0 -89.548877,45.549931,0.0 -89.549568,45.548778,0.0 -89.550303,45.548136,0.0 -89.550828,45.54785,0.0 -89.551976,45.54755,0.0 -89.552625,45.54764,0.0 -89.552819,45.547596,0.0 -89.553185,45.547212,0.0 -89.553764,45.54622,0.0 -89.553762,45.545648,0.0 -89.553915,45.545083,0.0 -89.553891,45.544869,0.0 -89.554065,45.544053,0.0 -89.553973,45.543447,0.0 -89.553842,45.543269,0.0 -89.553779,45.542732,0.0 -89.55368,45.542492,0.0 -89.553705,45.541781,0.0 -89.554075,45.541397,0.0 -89.555022,45.540851,0.0 -89.555753,45.540521,0.0 -89.55653,45.540346,0.0 -89.557217,45.540108,0.0 -89.557787,45.539851,0.0 -89.558067,45.53994,0.0 -89.558431,45.539926,0.0 -89.558851,45.540056,0.0 -89.559354,45.539927,0.0 -89.559938,45.540056,0.0 -89.560192,45.540019,0.0 -89.560725,45.540011,0.0 -89.560919,45.540056,0.0 -89.561326,45.540035,0.0 -89.561537,45.539936,0.0 -89.56167,45.539799,0.0 -89.562187,45.53957,0.0 -89.562485,45.53937,0.0 -89.562728,45.539314,0.0 -89.563147,45.539129,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="63312">
+                <name>Whirlpool Rapids (II)</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63311">
+                    <coordinates>-89.510201,45.555,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63314">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="63313">
+                    <coordinates>-89.561981,45.536495,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63316">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="63315">
+                    <coordinates>-89.497292,45.549713,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63318">
+                <name>Apparent minor rapids</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63317">
+                    <coordinates>-89.535294,45.553089,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63320">
+                <name>Apparent minor rapids</name>
+                <styleUrl>#26</styleUrl>
+                <Point id="63319">
+                    <coordinates>-89.541924,45.556641,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

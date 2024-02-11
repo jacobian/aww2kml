@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1936">
+        <name>Bailey Creek</name>
+        <Folder id="1937">
+            <Style id="28">
+                <LineStyle id="27">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                </LineStyle>
+            </Style>
+            <Style id="5">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="3">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/grn-square.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="17">
+                <IconStyle id="16">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="15">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/water.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="11">
+                <IconStyle id="10">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="9">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/pause.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="14">
+                <IconStyle id="13">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>http://maps.google.com/mapfiles/kml/shapes/caution.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="2">
+                <IconStyle id="1">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="0">
+                        <href>http://maps.google.com/mapfiles/kml/paddle/go.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>N2300 Rd to Vermilion River (0.5-1.5 miles) (I-II(IV))</name>
+            <Placemark id="1939">
+                <name>N2300 Rd to Vermilion River (0.5-1.5 miles) (I-II(IV))</name>
+                <description>https://www.americanwhitewater.org/content/River/view/river-detail/2630/main</description>
+                <styleUrl>#28</styleUrl>
+                <LineString id="1938">
+                    <coordinates>-89.052073,41.265696,0.0 -89.052064,41.266034,0.0 -89.052043,41.266106,0.0 -89.052011,41.266138,0.0 -89.051903,41.266163,0.0 -89.051764,41.266171,0.0 -89.051635,41.266138,0.0 -89.051496,41.266074,0.0 -89.051378,41.266042,0.0 -89.051206,41.266025,0.0 -89.050766,41.266074,0.0 -89.050713,41.266098,0.0 -89.050498,41.266267,0.0 -89.050487,41.266356,0.0 -89.05053,41.266421,0.0 -89.050616,41.266501,0.0 -89.050648,41.266574,0.0 -89.050627,41.266775,0.0 -89.050552,41.266929,0.0 -89.050369,41.267154,0.0 -89.050262,41.267356,0.0 -89.049886,41.2678,0.0 -89.049758,41.268098,0.0 -89.049693,41.268195,0.0 -89.049479,41.268453,0.0 -89.049157,41.268783,0.0 -89.048063,41.269775,0.0 -89.047848,41.269945,0.0 -89.04759,41.270074,0.0 -89.04729,41.27017,0.0 -89.047183,41.270195,0.0 -89.046979,41.270203,0.0 -89.046743,41.270146,0.0 -89.046561,41.270162,0.0 -89.04641,41.270138,0.0 -89.046335,41.27009,0.0 -89.046174,41.269945,0.0 -89.046131,41.26992,0.0 -89.045917,41.269856,0.0 -89.045649,41.269832,0.0 -89.045413,41.26984,0.0 -89.045316,41.269864,0.0 -89.044962,41.270009,0.0 -89.044619,41.270106,0.0 -89.044286,41.270219,0.0 -89.043331,41.270485,0.0 -89.042795,41.270695,0.0 -89.042398,41.270888,0.0 -89.042258,41.270936,0.0 -89.041904,41.271098,0.0 -89.041679,41.271178,0.0 -89.041615,41.271186,0.0 -89.041443,41.271251,0.0 -89.041164,41.271332,0.0 -89.041046,41.27138,0.0 -89.041014,41.27138,0.0 -89.04067,41.271501,0.0 -89.040509,41.271574,0.0 -89.040434,41.271646,0.0 -89.040424,41.271719,0.0 -89.040488,41.27188,0.0 -89.040735,41.272235,0.0 -89.040778,41.272356,0.0 -89.040778,41.272622,0.0 -89.040735,41.272743,0.0 -89.04066,41.27288,0.0 -89.040542,41.272993,0.0 -89.040434,41.273073,0.0 -89.040198,41.273218,0.0 -89.040177,41.273218,0.0 -89.039962,41.273364,0.0 -89.039573,41.27367,0.0 -89.039574,41.27367,0.0 -89.039522,41.27371,0.0 -89.039404,41.273839,0.0 -89.03934,41.273976,0.0 -89.03934,41.273976,0.0 -89.039331,41.274004,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="1941">
+                <name>Take Out</name>
+                <styleUrl>#5</styleUrl>
+                <Point id="1940">
+                    <coordinates>-89.039333,41.273997,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1943">
+                <name>Bailey Falls (IV+)</name>
+                <styleUrl>#17</styleUrl>
+                <Point id="1942">
+                    <coordinates>-89.045753,41.269718,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1945">
+                <name>Culvert (IV)</name>
+                <styleUrl>#11</styleUrl>
+                <Point id="1944">
+                    <coordinates>-89.040779,41.271458,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1947">
+                <name>Pickup Truck (III)</name>
+                <styleUrl>#14</styleUrl>
+                <Point id="1946">
+                    <coordinates>-89.042137,41.274734,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1949">
+                <name>Put In</name>
+                <styleUrl>#2</styleUrl>
+                <Point id="1948">
+                    <coordinates>-89.0522,41.265701,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
